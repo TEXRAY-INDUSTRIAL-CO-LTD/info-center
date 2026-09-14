@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-14T23:16:05+08:00",
+ "fetched_at": "2026-09-15T00:36:39+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -168,18 +168,8 @@
    "region": "americas"
   },
   {
-   "title": "Adidas shares outlook: Should you own this popular stock?",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmhJZlFleV9henVsQVNfbWVIN2hXbDhZQTBkbmhXRWM4NFkwa2h6SDBfOWFNUl9GdmJVN2NmX1lKaFFqak55UTlycEthNk54TGhUZzdiS3drMWdnYUJhdkJmYTJtZjExTVF5dWkzYkNscDF4X1B1MTRITlZsTHMyVzBLd2FhcmZQODBLM2d3aWdoU3pncHpIOF9jai1sUFM5N1NMWHFnc25QSjFEa1hiSjRpbmw2M1ps?oc=5",
-   "date": "2026-09-14 21:01",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
    "title": "China approves Anta’s 29% stake acquisition in Puma",
-   "source": "Sporting Goods Intelligence Europe",
+   "source": "sgieurope.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZi1BbDFLOTJzckpwNVpObVZiTXRkMU5xMVA1VVFCdldRYUtES1Bvb3JQdm9xSXlMMEhLcDNEZEFTNEhwSkpkSHV6bEpDUkVrM29BaWx3MmNWS2xmX1JSOWlORVdESTdSMWNQY2t2QmFCRzk2MzFFQ1pqbXJKQ3BLc2RVLXVodXljUEV3cU9jOW80WUxtLWQ3YlVPdWtVTGllWTEyTWRDdkFNQl9Ba2lxRHRDQm9hQQ?oc=5",
    "date": "2026-09-14 17:07",
    "lang": "en",
@@ -279,7 +269,7 @@
   },
   {
    "title": "Online holdout Primark launches delivery service to arrest sales slump",
-   "source": "Financial Times",
+   "source": "ft.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlk3MkxXQUx1VnJZeURjbVdvMGdaLTJMMy1oMWRWdjNEX1YzZDdYVmw2WFdpTUVLVFdHZ2dJbzhWSnhOdUJjeG5iYkJJNWFFNGdBbkREU3hJT0ZnU0RVaWVpM2VKSmxSR2pFU21SNnlPS1JpaG5KcGUtMEpCOV9veWtxSG0?oc=5",
    "date": "2026-09-10 16:00",
    "lang": "en",
@@ -319,7 +309,7 @@
   },
   {
    "title": "Zara owner Inditex reports profit miss despite strong August sales",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
    "date": "2026-09-09 20:17",
    "lang": "en",
@@ -339,7 +329,7 @@
   },
   {
    "title": "Zara母公司Inditex不畏歐洲熱浪，8月銷售逆勢成長9%",
-   "source": "finance.biggo.com.tw",
+   "source": "BigGo 財經",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nemozdjliVnp6c2VpaWR3T3dRQTU1RlhfZkF2MnZ2VUpmZUp1YTZqaTRwZ0VTX0xKZlhPQlJXSGx1aUs0Vk9VWWt2SE9LZFB4MUF4N3VXSVBEQnc4TFFhM2w4UmNZZ2FUN1NXNXZNRVVsaHFWdjBHWGln?oc=5",
    "date": "2026-09-09 16:55",
    "lang": "zh",
@@ -359,7 +349,7 @@
   },
   {
    "title": "Lululemon’s incoming CEO has a mountain of problems to fix | CNN Business",
-   "source": "cnn.com",
+   "source": "CNN",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTM5M2E2ZjJ2M1JLSnJqMkF0Zkc1UmpJT3ZTU1lQbkJrQUdWOGl4Ulc2TTNGZUt1cHdZb1dRMFNXMzQwQ3l6cU9xc0lUc3dVb2hiY0N4eGF6RnRTcnkwd1gzMC1EX29qVTBGZ1VsRDVhMVFoQndJRWpoSjNFZTJjRA?oc=5",
    "date": "2026-09-08 19:00",
    "lang": "en",

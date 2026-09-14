@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-14T23:16:03+08:00",
+ "fetched_at": "2026-09-15T00:36:36+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -33,7 +33,7 @@
  "items": [
   {
    "title": "紡織應用界面活性劑混合物市場展望2035：快時尚與技術紡織品帶動成長 - 新聞與統計",
-   "source": "indexbox.io",
+   "source": "IndexBox",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMjlPd25kcV9IVlRpa3FvWHd6dVEwcnFpLUxacnlkN3RzZkZOblZ5R09JWURIcm02TVBaQmVyMXE3TjZobnVGejBxYmVFZU14TElTSXlmMTBjUGowbk15MkRFR2lqbzFkbUhUVGJHVTBTLUYyUUVZcF9wYmhtdHZqcEJpR0kwTk8xdW8xYU9MNWhQWjBRMkJfNWlGeG0zQ3NNMXJXbWNSMEVaYldQcXhUN0FKLU0yOTJkWThreW11V1Q3RC12d0tDTDFTQTUzVEtTMWtMYnowRWJJdmlYdjBxVDNvd01UUUhtR2g2Uw?oc=5",
    "date": "2026-09-13 20:21",
    "cats": [
@@ -81,7 +81,7 @@
   },
   {
    "title": "棉花市場報告：國內價格上漲，國際價格下跌 | Conab數據 - 新聞與統計",
-   "source": "indexbox.io",
+   "source": "IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHdRSDNLcnBlUGJDYmRoZUotRzV5MEsxRzNFazlqenQ3M0Q5VWFTY1V2X2hKdHZjNHE2eGdQQm81dVFGOC0wdTh6THg0WnlQZ3ZfOHk4TExwNjlyOF9VeGNCUW9DR0tvNkxoVVA0UzQ1cGtyd0RpOHB2NGdTdmppTy1TMS1sVTB2V3FycUJQTHdHRFl2?oc=5",
    "date": "2026-09-09 12:23",
    "cats": [
@@ -96,6 +96,15 @@
    "cats": [
     "market",
     "stock"
+   ]
+  },
+  {
+   "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
+   "date": "2026-09-09 10:09",
+   "cats": [
+    "green"
    ]
   },
   {
@@ -193,7 +202,7 @@
   },
   {
    "title": "《商情》美元跌及天氣擔憂影響 08/19美棉漲逾三個月高點",
-   "source": "富聯網",
+   "source": "ww2.money-link.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzcxblJhUWlVeDl4aVhVU3NMLWlXTktPdE5Xb0tQTmota3pkeVBObEMtOFF6MXAtX3FhMFhGeVI2d0oyNWFWMktKTkYxOF9JU21wbS1rV2FwN3FOdXJoNGZ2MVlXWkVzXzN0SXFrOV9TX25hTUdwSDhSamY0bUZ2SjctbWozWmJB?oc=5",
    "date": "2026-08-20 15:00",
    "cats": [
