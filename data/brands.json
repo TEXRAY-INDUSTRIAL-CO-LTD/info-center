@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-11T18:54:56+08:00",
+ "fetched_at": "2026-09-14T09:31:29+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,96 @@
  ],
  "items": [
   {
+   "title": "Mizuno Usa Braselton Ga - Mizuno USA opens new high tech distribution and manufacturing",
+   "source": "defensorianna.gob.ar",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aXzRkUU94MzlpUzh5bUVZMUVwdlBNZGRNQjl1cTFxQ0pvUENwMjBtYWR3am0zZnlmWWNiMUlpUUx0dzJwYndlVmw5cmNZZVMxRUVKWlF1LW4?oc=5",
+   "date": "2026-09-14 09:27",
+   "lang": "en",
+   "brand": "mizuno",
+   "brand_name": "Mizuno",
+   "region": "apac"
+  },
+  {
+   "title": "Tee Higgins Gives Under Armour Another NFL Face as North America Sales Fall 9%",
+   "source": "TechStock²",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjlWV09SdG1PblczU3pOYlpJMEt5NFplb3Q5N0Y0bndrN0NPbUVRMlZ3OElWb19abG5TWXV0LWM1TmVFMHM4ZmJZVXlXcUNIYTRIN2x2R2JUMWR3TXBtS195bWk1aGJrb3RuMVFjV242dWVRZnlFTHZoM0V6Z3BaM05ualNaa1NMMFBMZWZTWmJ6NERlc09feVh6WmRtdEU?oc=5",
+   "date": "2026-09-14 07:16",
+   "lang": "en",
+   "brand": "underarmour",
+   "brand_name": "Under Armour",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon (NASDAQ: LULU) Slashes Full-Year Guidance Again As Brand Struggles Deepen In North America And China",
+   "source": "foreignpolicyjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdVBnTUY2YkRsZ3lxeVh4blBnVzN5Q2VrUFlseTdNMVBZdzFpUTZlNkdyenNGMGZtbHRPVGhVTWhHQmRrLW45YUJMVmZZelA0OUloN0xwYkJvdFd0QUFVTEgzdU1lVWN5NlA2NmZld3loZDEzN19wb1BhN2dXTHpBV2hTaS1vc01EaWhOWF9YeWQ3RXR1RzVNb043NEFkazdVelJ0aG5pSUdXeGJDbWwyVk9xQnpfRDQwNkkySXlabExMNzFtTjZNTGhjR3o1TVhoUTJwWDZ6TFc2a051RnpfWmtpN0dQS01pbGRfYg?oc=5",
+   "date": "2026-09-14 07:15",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Adidas (XTRA:ADS) Stock Looks Overvalued Given Its Richer Earnings Rating",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXNRUEcyQUR5VUZRUExSSEdBUkFISHBzcUxlUXZZTE9LdEdqRmN6VFpwWE9JY0dlWTFYRlNhb005WGZ5RHdPU092UHRrZFk3TVkzMHFVT0pDSkxSQV8zNFphcmJwLURieFE5YUdDdnJFRWllSV9KNzJLUHREUVp4Nks1OVhBYm90eERXY2lQN2Jjd01BRkgzV0cycUd0Q0NxMkMtdFdMc1lOS1pBNGFqT3JWc2JQNDF6Mk5GSzZ6a0lLX25nZGl2ajdoU1JsNmR4YnQ40gHYAUFVX3lxTE9JSG1HWGo4bVJEVnVma0M1ZVVHa3JDeHpMVHNZa183STRQLWJaeVgxa2xNMjJzclQ4VTVNOU5QblBiNjI1TC1ULWNPb2JZUklQWGhzbklKZEtvQklPZ1dSelliR3gwMGJRdTY0REstY0NVRVg3MUVyRkNpelFMVTFOWXhXeGxpUzV1Rng0RHhPcHV4WG9qNXZRRkQzMUlfQUNJNzJ6cENrclFHZTBKbko5aFo3NUNCaWZEZXJFUlZGWDlBZG5ZSS1ETGd3dEx5N0kzaHVyQ2lKMw?oc=5",
+   "date": "2026-09-13 14:40",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "Nike Price Forecast: Can NKE Recover After Becoming the Dow’s Worst Stock?",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUt4TG5wREsyWi00T3VyVTZsektsMm5mYzBqejBNTUpKVUNKLTNqOF9IaWgwdmZOOTQydHRlSGVZZ0lFSkVvbThCb0lWTWozSWRPQXlqM2RzNDgzcWxHdFFSUjZ4aUFFV3JJSXlwZkhsd2pkNDRNemZjVW5iN2VqdFBES1dtc2Y5TEdsNS1vN2RKR19MS0E0UlFkdW0?oc=5",
+   "date": "2026-09-13 07:53",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEl3cEJFdjZFR3FjS0JhZldPYW4teGJWU2EwQXBGbkJBb2p1THQ3MGpQSktTMGNINVBVTTdoUWR2SFd1cFhuYXhNd2tPc3dpUkxuTTdydnBjZU5IaVR2NDA0Ty1sMTlMYjZtX25zcWllVWdHcUpTenpFM0prY3VScDVPMERBUkVYQmFQQW9ZWDV3Sk5qYTI1QnlSWjBxQXlaN1E?oc=5",
+   "date": "2026-09-13 00:16",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon’s new CEO inherits a mess that looks like the one she left at Nike",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREp4SEpUaUZnMlV6ZC1TMFFIU3ZGaDV1SlF1dkV0TTRBOFhWQktiRWtieTJDWGgzS1ptNzc4MUYzTWlSQjdFRUwwTkkxcU5PbldSTDBCaGh4QnZnMkdDY1dVMmJaaDZ5NVdQM0J3c21MVmdZR3JUUHdDVUowaU5rN0FocElIRVFlem1tWnZ3R3I2STNNSzFheWJHSQ?oc=5",
+   "date": "2026-09-12 15:00",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ1LUpaRkxBMnFsZzJiek5ueDJ1VUlUTG9qVEJDZnpiaGNmSHZDU1hOVzNyR3ZPWFRjUWVJOFJDQnB3YThLcV8ya1h2Y2hNOGVpOGdMTWZ2dHNfN0pyUTlhWlBOOFlmbzB4UG5ZTnd6MEhwQTNlUjk1WXVuTmdRckh5bmtkMTlzNjZ2TDJB?oc=5",
+   "date": "2026-09-12 04:37",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "涉及安踏收購彪馬股權案等 壹批無條件批準經營者集中案件公布",
+   "source": "flamingwheels.online",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcGI4WlV0T2pUOVR3T3VVclhQRDhrMHNlYU0yYW84RHJ3TU83aTcwX21keHJQVzdtcVF6V0k0ejFzTEFwRjN5VWxsSkxJQlhhNGhBajNnLS1kRnBoenlid1FvaF9jWTlMOTVjSkRGeU9NNnMw?oc=5",
+   "date": "2026-09-11 21:30",
+   "lang": "zh",
+   "brand": "puma",
+   "brand_name": "Puma",
+   "region": "europe"
+  },
+  {
    "title": "【即時新聞】Zara母公司Inditex(IDEXY)啟動美國擴張，2027年前完成20項計畫搶商機！",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlZmelB1VzNKWnBCN1lYTGZwLTR6eTZOWjN2Y0sxLS1HU2hLUWwzY0dGRlVZVm9ZMzBKVWhhU0k0cFRDcHZwYmNnU1E0TjlSWFk4MHg4YnRETGhiQTQ5UDlJZ0FUMWNFTFRNMWFpcTNmdUxocUFwWnBhRVhhd0JwN21MOEZDMmxjQ3Q1NEpXSUM?oc=5",
@@ -168,40 +258,10 @@
    "region": "europe"
   },
   {
-   "title": "New Lululemon boss sets tone in welcome note; Spellbook CEO mandates human writing in AI policy",
-   "source": "Ragan Communications",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqX1RENVpBbjAyMWJmNFhZcnIzVjA5b3NpLXNScjhBREpDREpJbWxVLWwwai1sdC1WRDlrNUZlT0xOeDYySmJoT0FvTnY2UjJRN2xOanlRMWRuQXlIT3FlZE4xQTltUUdtb1ZPUTN1M2ZCcHc?oc=5",
-   "date": "2026-09-11 18:00",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "中國市監總局批准安踏收購彪馬29%股權",
-   "source": "Hkcna.Hk",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xbGxQcThxOU8wQy1jUGJkelZJSUZaQjliU1Q2WVNPQjFYTS0ySm9rVGx1ZE15SXZkMTRXMWlrbzlvOXRYSFZyVHc2ZlZYU3B6WjFJR0RTbW9uNVNGMHBVeXk1M3Q4QQ?oc=5",
-   "date": "2026-09-11 17:23",
-   "lang": "zh",
-   "brand": "puma",
-   "brand_name": "Puma",
-   "region": "europe"
-  },
-  {
-   "title": "Inditex posts first-half sales growth",
-   "source": "World Footwear",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlVmTjFveDNEREdxVDhvbG1xVHBXSjU1NlR3dFN6STROZ1hJdDY0ZENrcmVxUXFuVjVIY3JiUUJtcHh4T0JUaFotTm10NEJiOHRjSWNoSVFkQTh6WlI4T1BWRjVLV3VLMm5ReWExekF1MEtxRnBCQzVCZ3VQSzU0M2RCYXlta3lWcUE?oc=5",
-   "date": "2026-09-11 17:10",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案",
-   "source": "翻爆",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbmRLUEdacjBvM0diWkY1R2xqSHU5SFdzejd6aTlWMXBjbjlwUVVRQURXSHNKRktsZEx2aVk2ZTJCQURsa2Q5OGtaRjdETHRZSFp6eW1ONEJDTDEtajdtNUZhNmhuSWpQQWFfXzAySQ?oc=5",
-   "date": "2026-09-11 13:11",
+   "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案- 兩岸",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBscGFhTHhaVzg4Z0lhOTVQdUp0OHV3aWVjdEZfcmg5NnpxcExJdnNuNzRfTEcwWENmRjdNNmkwOGFKQTI1NFZZcHZJc0RFYUNxNzZ1RF9NN3dPN0tWTWg4?oc=5",
+   "date": "2026-09-11 11:46",
    "lang": "zh",
    "brand": "anta",
    "brand_name": "Anta",
@@ -209,23 +269,13 @@
   },
   {
    "title": "安踏收購Puma獲市監總局「綠燈」 無條件批准涉資15億歐元交易",
-   "source": "hk01.com",
+   "source": "香港01",
    "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNYk9yckJTMnRDcGI5VV9BcXRObVRFYVdTVTZDNGljNEx4bjRXNDRaNzh6Q3cyR21yUFcxV2xNLXFDekQtck9hSXBtRUQtb1lDcnVFQ0R4NEk0ZWxSTUp3cWxIVDZLM0MtMVpYZy05TktzMk5JUmZhRWkxN2hMSmNEY3RTWk9CTldCR1hPbTR5d0pzM3J4V2ZfaWFXYmxqMFdGeENialo4WTNKallNYXRnTnROU2lTN1U5UWczZlh3ZlpGdmE2VTY1UHBxZi1zR09GQ1V6bFliVjVIVlBzZHJ0eEhvMmV5Q2xDdkZHZVVjU3B5cExCcXQxLXRiQnFTbWEtUFdBQ3hZNnRWX0FoNFhIZXpYLUt5cnZfS25jRldWSkR5NXNSOXAxb21xQ016UVdqZXpnbHhzQ3hfVjRaRm1haHpKQ3MxN2pqTWtQVVhEazJHTmFCcndkeldrcWNVZFZvUUUtbGg5d0hQdk45elFDUzBLSk1OYzJpMnNaZFptb3kyZ3MyeHpYcUxxZEFVd2RCTGd5SA?oc=5",
    "date": "2026-09-11 11:33",
    "lang": "zh",
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
-  },
-  {
-   "title": "市監總局無條件批准安踏收購彪馬股權等案",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MSmlsLXpDdktrTWx0NDRDSmhCaDNodmhLTm9iZVRVazMxWW8ycWpJcEEySERBaVlONEF5bERuakVBQUpja0lVNnFuWEszX2R4OU1wRWVfc0FrMHVUNk1fXzdqVQ?oc=5",
-   "date": "2026-09-11 10:08",
-   "lang": "zh",
-   "brand": "puma",
-   "brand_name": "Puma",
-   "region": "europe"
   },
   {
    "title": "【即時新聞】Lululemon(LULU)股價狂瀉逾80%，財測跳水後專家警告別搶短！",
@@ -238,13 +288,13 @@
    "region": "americas"
   },
   {
-   "title": "Primark to Start Home Delivery as Sales Fall Ahead of Split",
-   "source": "The Business of Fashion",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENoaHdDTHIxQlA4LUNFVThGUG5GRTBfM0FjcjhJMW5feXIzSGV1VFF1V29QWW9vaXVHNUtzMnFhWExTT3JEYVVLLS1TRnNmSktZbjhCT2JhaW54bGhhLUpwVy13NFJiU2FZcTRjTlVQTHpNemZUeHVyNl9MbjIza3RBZ19DdlhFclVULWtkTjRTYVhodFgzbFdaajlHWlY4cjdRSjlkdzY3dw?oc=5",
-   "date": "2026-09-10 17:51",
+   "title": "Zara owner Inditex reports nearly 7% H1 profit growth",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ZhM05BTzFBdVVpRnhsLXZud2xUOW90RTlnUE1LY3BqMzliQlRMTGtkZVg4dWFOT29RUDRCWTVGMmRkRmx0VzY2bTNnVm5oWDFwZGg2OXU5NDVCaFppZXRVSi10VmhIbl9RWFQ2SjI1S1N3UFA0TE9qMWYzeGJBdzFST1hQZVhmd3JUMXIzZjZkOEJZTnpBOGR0VHZoaXM?oc=5",
+   "date": "2026-09-10 19:07",
    "lang": "en",
-   "brand": "primark",
-   "brand_name": "Primark",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
    "region": "europe"
   },
   {
@@ -255,16 +305,6 @@
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "沃爾瑪、Nike等「解放日」損失龐大…退企業關稅 救不了股價",
-   "source": "世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEeDB5dndRQTNDSno2RUpLLS1fb0NMbUdDUnNrM1MzSzRpWEYxaTc1ejV4elZ3YWtJVlJJOEtUNmlzQy11V1FCQjJ6TjhJc1BLamtUWExUdGRTUFcyM3VSbzV30gFnQVVfeXFMT2h4MExiXzVIU0kzZ2JGcXYtYXZhTlB1YUxSclZTNWtmZk10MXN6VXBwa05CckNlZUQ3VWdEb3dDWmlZU2ktM1ptQTlzcTk2aGZSbjhFSWNjLXFNV3FXd25wWmpKaWNsTQ?oc=5",
-   "date": "2026-09-10 14:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -279,13 +319,23 @@
   },
   {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
    "date": "2026-09-10 11:30",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
+  },
+  {
+   "title": "Zara owner Inditex reports profit miss despite strong August sales",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
+   "date": "2026-09-09 20:17",
+   "lang": "en",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
   },
   {
    "title": "【即時新聞】Zara母公司印地紡(IDEXY)上半年營收增逾7%，看好下半年銷售動能持續發酵",
@@ -299,33 +349,13 @@
   },
   {
    "title": "Zara母公司Inditex不畏歐洲熱浪，8月銷售逆勢成長9%",
-   "source": "BigGo",
+   "source": "finance.biggo.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nemozdjliVnp6c2VpaWR3T3dRQTU1RlhfZkF2MnZ2VUpmZUp1YTZqaTRwZ0VTX0xKZlhPQlJXSGx1aUs0Vk9VWWt2SE9LZFB4MUF4N3VXSVBEQnc4TFFhM2w4UmNZZ2FUN1NXNXZNRVVsaHFWdjBHWGln?oc=5",
    "date": "2026-09-09 16:55",
    "lang": "zh",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
-  },
-  {
-   "title": "Zara Owner’s Sales Grow, But Profit Disappoints As Expenses Mount",
-   "source": "The Business of Fashion",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3FSZDJFOTdVZUVkYnJ4d1Z3alBDMXZuZTVkdjdNaklXTGg2ZVpGcUNZcVBLUzFWNGZEWVJmVkxqcjBnVzM3c1FuejBCVXo0WW9VRUZfTFI5SUlBVnp3YTJTNUpOQTZJU3ZZSjNxVzR5MEhDbTU0b00zNXRBMTAtcURURkg4ZTdGUlNDVzNQWWR0bVdnU3VlTVh6TC1hN0VxZVRaQW02MzhfeXhVTFdV?oc=5",
-   "date": "2026-09-09 16:55",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "Nike CEO expresses ‘growing confidence’ in turnaround effort as stock continues to falter",
-   "source": "OregonLive.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmxudnJVVG1CdEwwR0NWZ0NFSnJoTGFNeEVzT1ZYLVNwOGl0NUJzLVFQN3BDYXA4eUlsZWl5MDM2MlFRWVYyZ2ZzZUE0djhnMmJPdG84ak5QN09QbXJMWmdndms3MlFZSmZrVzJtMWV3TUxyajBEZVZic3lxQTFoS09rVGVGS2wwRE9Sc0NfNFR3enVkdVl1Z3hJbDhLT1RpbFRIRnpWdFl4Y3l4bk9TUXJZN0Vzbkl2b2kyRlBNTmRIR3pXa2lGeVVramFLYm5EZXfSAeYBQVVfeXFMUG5jMmFrUWRldVRwOTk2VXQ5RUJTM2xMMzdkQUR6WTIxaGJKTXlvVWNXeDdpbDBiLU9vbVlYTHJheWJXelZkTGdJdDYtS2ZBRkJxeXhpSVAydkd4YzRKbjRhVGdyQzVKUnhrTnUtdVlmYzBiWHhnZWFNdzRFZnNKMTNTMlgwczc4cVFfems4U0JKdFJfbEtRT0xodW9rSUNPY0tSNHVDbkltZ2JRNWg3Y3pqbXhJOGp2RGtib3RQUlVqdldTdlphNmFneDczcWdfWm9MclVLVm5UZkxkNVJ0X2t4cFNZWlE?oc=5",
-   "date": "2026-09-09 16:50",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "KAWS x UNIQLO 宇宙再度擴張！全新角色登場，服裝、玩偶商品完整公開",
@@ -338,7 +368,7 @@
    "region": "apac"
   },
   {
-   "title": "Lululemon’s incoming CEO has a mountain of problems to fix",
+   "title": "Lululemon’s incoming CEO has a mountain of problems to fix | CNN Business",
    "source": "CNN",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTM5M2E2ZjJ2M1JLSnJqMkF0Zkc1UmpJT3ZTU1lQbkJrQUdWOGl4Ulc2TTNGZUt1cHdZb1dRMFNXMzQwQ3l6cU9xc0lUc3dVb2hiY0N4eGF6RnRTcnkwd1gzMC1EX29qVTBGZ1VsRDVhMVFoQndJRWpoSjNFZTJjRA?oc=5",
    "date": "2026-09-08 19:00",
@@ -358,39 +388,19 @@
    "region": "americas"
   },
   {
-   "title": "非凡領越(00933.HK)進一步收購1923.1萬股李寧公司股份",
+   "title": "鉅亨速報- Factset 最新調查：露露檸檬(LULU-US)EPS預估下修至9.66元，預估目標價為102.50元",
    "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUkp6aG0wbEhSZkV2UWtfSjhaTm5MRkFOaklJUmZQRzkzNEo1VmhDLXRobU5xbnpIbEVvZV9LTkc4ZXUtR1hKMGxJY0M5NmhDRDNzUTRLeGpWWFlzTlc0YW1jVXphUUVTd2c?oc=5",
-   "date": "2026-09-07 20:13",
-   "lang": "zh",
-   "brand": "lining",
-   "brand_name": "Li-Ning",
-   "region": "apac"
-  },
-  {
-   "title": "Lululemon財報利空重挫，股價創8年新低…Michael Burry攤平損失持續擴大",
-   "source": "BigGo",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wOW1oUTVJU0I0aDJUSUNlVzJROENqZmtVUV9VX2ZzM2lPOUg4dzVWMGo5NnczakZ3cUlvSmItcWl5TlpmTkg0UTZHbkVvNGxUNmZ4eWxuWUZZU1lESHN6UWppWVVIS3pIdmdnaEYyZUNCMnFVRTM2M0dB?oc=5",
-   "date": "2026-09-06 17:25",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odnZhOVhlcjlwT2tmdlBpZXl0c2hsUVVGUFRhOXE3Nkd2bkdsdDFGdWhqZkwxeHdBQXBwSDlVeDhyS2tIeE9IR3JjYk93Sl8yeEVFd1IwRHo0cEVvVTNOTG1hMWs?oc=5",
+   "date": "2026-09-04 22:15",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
   },
   {
-   "title": "【0904法人焦點】市場最新個股動態：Lululemon（LULU US）財報、鈞興-KY (4571 TT)、Broadcom (AVGO US)",
-   "source": "sinotrade.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNMm5MdmlOQm1lWkpTUk11WUxnVUZLbk9sbFZobzVzUDA0d0dXc01veVZ0SFk0eVlwNWdJWmo4dDBOMUMxRWk4R05GQ19SbEI5NkFQVXlMVE9PSW9RbnB0OWphQmU4emluU3pvVDBKUmIwN0otcWhic05DNGNmSTMyNVBuc0VTUFYzZGIyODY0dTBzc3lwWTBvTmVPZTQyWlpwZFVCZGlQWEFPV2Z4NGtrejV3eERJYXVReUNMV2o5QlBROUdrVWdUWnJmdVA3Q19lcjd3ak9vcjQ4ZFBrUmV2TlpwSXZfbE5IT19rVEdybjBQamZCWDAwNjdjQUFuZG1qY2NmT2RTYXZqSWhXNlM4aUU0azBQekdLQmN6Zlh5N1AybDlZcFFQQkdPSHJfUXJSMlhQOTNhSV9BeFdHeWxEMl9BelJRbG9abDEyNGswSDhtcWhzZmc0TWZ1S18wM0hORVNrN3dxb2FUaFVJRTNmRlVjQ1d4UlE0X0d6YUI5cVFOR2xnR2p4U1E5ckpWdlZZbkE?oc=5",
-   "date": "2026-09-04 20:37",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "美股法說 LULU｜Lululemon 財報盈餘大贏預期，盤後卻崩跌 18%，儒鴻、聚陽等台灣供應鏈影響(LULU US)",
-   "source": "sinotrade.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdUpldFJfbjd3Rk9Va2psNGVCdjM3LVV0bDB2OE1nX2pzVVlTaEJFZTFCQW04c3VQbGZJWnZ1eUFsd0tVTkJ1Q3RrMlQzYl9kdk8ycGxBQ0VBaUVJMVBHaGU2RXVCcnFJR2J1MXh1SnhfaTVwMlcwM09JZlFxOVJRbUhuQ3NrM0Q4Qm5GQTFDTWRPV3JpOTZtX1RLLUM4MmV5MjBXTjVvTEZuTi13Q3VkSTBXSmFxZnNkcm9TQXFfZmV5VUVDSHVwZmZsUm1YSlRDbG9yZ1hMaFZmTDFwWjVNcjBGUnEzZ0JESVR2Q3VEbUo3MEs4MElnbWphNFZZY1dSNlhyR09qaXVaZXN3VFNQdHNxTlRaTXJMTTBfSVZRdmFheklCbXVqcTdQTldaWTV3VG1CNGt3VkJScVlFMzlfQjRTbklLUS1mNWRqX19UUzhPSjJsREl1bk9Pc3NyRjdhV045X0EzRzZLV3ZjbVZKczgzaXZfeWNnSnJiazZ4UEFxV1R6Y19mdDZXQlBLeVRObXNHaHR5cmhnMUNXeDJPUjJ2cU5YQjdscDFDV2gyNkpmYzFkZkw4M29zSHd1RHdnWVM5eFJVdng3V1B1QWtoYWFIdzVqeXl3V0E4N2tkcG5xR3N2cl9HeW5QcDM0TXhPYnJjWWY5WHdOVzlES005WlBfcw?oc=5",
+   "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
@@ -399,9 +409,9 @@
   },
   {
    "title": "Lululemon 緊身褲賣不動、再砍財測 盤後股價崩18% 新 CEO 將接燙手山芋",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWEswN2phWEQ2Q1BTa2JJZDZoaGZ4WmxQV2NPTklCd0VaOTgzQW9keTc1WkVFNncycXBSX1labzVkMkJFSk5rYTBUX0Y5SWJEYTlJdkJ4Q05GR0g00gFiQVVfeXFMTTdBLUpUbE5tNEpUeVVQNlZDTjJlVHpBcjY2eXZrcU0zZmFtODdLM1l3eUZNVl9VclJTU05zTkNHOEd6MlZWVmI1aEwxaEdhSXdFLWxySWtaUHQ1RU5VaGZ0akE?oc=5",
-   "date": "2026-09-04 08:57",
+   "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -411,6 +421,16 @@
    "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Results",
    "source": "Lululemon",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlpBQUhya1dobkVqWDl3cFZlbFZFRFpJWHRkM2tKbTEzdXBLM2ZCUGNyZDZnWGFtN2U0Yld0YkNxeVJrQ01wX1liVkdIbmRPM21vNUlhWC10OFdLZFVYWDVqYjBRdFIxRVFIN0JSVVhWTXRQZlIxTlhIeGJRbHIwampxbGRia3BF?oc=5",
+   "date": "2026-09-03 15:00",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon Cuts Outlook Again After Another Tough Quarter for Sales",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXM1QnNKRnhIZUZWUUVLeDhTWE1hOTRTaVZWbnJTM3ZJUXV3eV95WHhvWW1BUGdYMWhCUExzclc4ajdaMVl6d3F3a1RQZkw4TlZNdnBsWTZqeVR4RnVQbkRFX29nNGtQaHNzVEphOHEtLWdnRzVrQVVPMExmM1lCOERrVGtmYnpNRFRGSnlDSGs2WE5xODBmSDNNY1p5N2RYbVhR?oc=5",
    "date": "2026-09-03 15:00",
    "lang": "en",
    "brand": "lululemon",
@@ -429,22 +449,32 @@
   },
   {
    "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPQUJmTHdzMzFXUTZ1eTk1ZVkzd0ktTEV5TTJDT05MN3hJeFlHNDI3ZVNEeWExaVI5RjFsMjhmbkw5WGJlaG00M1c5Tk84S3B6S01XWmdTLTF0WnFnaGhLQ3ZhZDdacWZHb2hWOGR1NkJBQWtkMjdYVURrbGxqODdGcnN2NDBBMlRMLTRha2ZvOTJFb2VJTW91V2U0SlNSMDA0cmZmQnh6eTdWd0VEUE5pQzg0cmNmaEhiREJTd1pKUlM2UTVaT1FrdmpMZlA4LTgwTXRJMkZQNXdvdEYxdWNSNVNfZEtzNVoydVFhZWdESGM2V3FpWFQ2bmVqOHJKbHUtSEdYa2VQZXZwS0llMjcwNVBNa0FiM3hHQmtIRTFJdnNZMnB1dkE4OVVFaWd5MnA3V2RqeDdlOU5LNDBPYUdGVTg1WEJ3dHl6a001b3JQYWhtZnYxZHVSWnBNSk1WWWxEbEkw?oc=5",
-   "date": "2026-08-24 15:00",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
+   "date": "2026-08-25 15:00",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
-   "source": "天下雜誌",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWS1HRGh6U3RwSVZPbWhranEtV0g0aUc1ZVcwYVpOeThlRWxHTHZkUG1Sano1eG5BeVhHRVZZVDRuZ3h1cjA2bkhoRDh3UQ?oc=5",
-   "date": "2026-08-14 15:00",
+   "title": "希音收購服裝零售商 Everlane 一事據悉正接受美國國家安全審查 | 國際焦點 | 國際",
+   "source": "money.udn.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92clVtLVAwdEVpZ1pJNjNtVkZjbGNSOUo0cUN1Z0hPLTFkZlNkaXVlcy1KTEdsNnhEWk9BMDdYUlZQUHZhbDhRdzJqZEphMGhvaEtSanBnYjdJUQ?oc=5",
+   "date": "2026-08-24 15:00",
    "lang": "zh",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "運動休閒風潮助攻 亞瑟士大幅上調全年財測股價創高",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZTFsYkpGd2V6cGxlOWlzQTBxVHJUemxrb1gzVjBCdHNsbWJPdWhkY3ZtVlFWWWJYaXlNQzZ2SzhiNzFkNkVUNjVoMFB1bmdpSllLM2E3RXlqMUg1T2Izb2czQUpOMVBlUE83R1RFbl9hbkdtaUczTUsyRmRLMlFOelhUMXFwRjQzYlFXUlpLM1Y4bWxaQjFKSUFsNEZwUTVVcFdNakRtQ0VRSk5EMkNvNzM5Vl9Sa1JZV29NWU9CR3ctbU9vLTY1LUoxR3pZamdOcHBhNVhLX1ZhYndWZ21IclcwUXd4RE81WVN4ZW1Ic0ZReS0yYWxhMEFxMVdtZnFLeU5LcWtRakU3b2h1QVVUcVhlQ01kZU00U29zV2VPNmxCVWJNSHNyRnRWcjNtWUR2UHd1Vm1ReEJYUkh5N1JIMzQ1cjlLaWFsOC16WkZQcDlxd0padmFHUVlCYk5XSndyMkV4a2RmMUFaXy1wb0ZqMQ?oc=5",
+   "date": "2026-08-16 15:00",
+   "lang": "zh",
+   "brand": "asics",
+   "brand_name": "Asics",
    "region": "apac"
   }
  ]
