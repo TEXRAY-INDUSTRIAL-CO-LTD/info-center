@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-15T14:13:27+08:00",
+ "fetched_at": "2026-09-15T21:53:18+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,46 @@
  ],
  "items": [
   {
+   "title": "NextPlat Secures E-Commerce Agreement with Decathlon, a Leading Global Sporting-Goods Retailer, Opening New Consumer Sales Channel for Satellite Connectivity Products",
+   "source": "PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWC0yc090bU9ZV3owNDY3bHNFeVpUbjkwQ1JNQ1ZyeWxxcHJKeEE5emtQU0l5UGNyaS1jdkVpTEJTZldVaGpIWThoSGxKTTdFekpfQW05SWFzeWtUVFBLN1VYZXd3U2ozc2JlOWlkYThOLU8xY3BFNEpiQUFSTGdCTExnbFlMcnNPd0FUTFNjRm10VEkwQlhXSEJTUmEyTFVSRkZta1NIV2FjRmJmN0xxb0sxbGNhUlJvX1UwNVRwWlJpanQ4ekFQSEhmZDd3ZVlwN1I2NTdveUg4U25aeWdRNktqZlk2WWhXeXJQY0xZRnNKYWp6RmZENFM0ZzhCVkdPYlVzTnM4UXV6aG50dWtZWEl0LTBfZmxBREl1NlNOWlpFanBRQ19zbEVTYWY5V0FsZVV5V1hUcl94R2V4UEh1RFJ3?oc=5",
+   "date": "2026-09-15 20:01",
+   "lang": "en",
+   "brand": "decathlon",
+   "brand_name": "Decathlon",
+   "region": "europe"
+  },
+  {
+   "title": "Does Soft Earnings Reset Change The Bull Case For Lululemon (LULU)?",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSTVhc1plVERyaVJRMmE5NUVaUEJSSnA3dGxULUZucXBsanZadW5tYXdNSkNXZFlBTlVqTVpzV29hNk5JYV96elUzUTh4R1BjVXJPQi1kMnRnQWVadFl4d2ZDV2Y5a2ZzUnZrbG9ZTGdKMjktb0d3Ny1RQVV3aG5Qb0g5LVBsQWxBYS1fdUtLOS1aVl9Sc0tHT29zSDlQaE5tbUVJWWZvX0hYY1lXcXBQUkxDSG50RDJiZzdLRmI0cU9KcFI5U0UtMXJPVFB2c3M4N3FxNC1oZ3YxeHBhNUdV0gHkAUFVX3lxTE5oNFhCcVgwM2RQYV9mX1pENldHNXlKZE1hUHNGaGpLSEdaMS1lYzhPa3RuLTJMd2lTcWZtNkpaNTljNDNicFBVdllHTk4zZ2laUEhiSnBVUVRmNzkyQTBLRTRIODlUam5IWFladVpTc0VSQnhXVnp4VkxaY3B0MTA4bFN2ZzVOYW9KYlFyOHVLcW90TE9vOFlIS3NQYTV4SUxfMU1VRjdaRGYzNVZwbmNLRE5WdmE3MVpnb1FpZVNmRHN5RHFUSG9IcGFIZEJYeWZVZlFIMlAtTzNDNmptWWlrOWVqNg?oc=5",
+   "date": "2026-09-15 19:39",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXNaM0hycTZ4b0o2VnpKZW82T3p3R2NvdzN6OTlhUC1TVktOZHNFTmg4d0xOY3ExVllPQjB1NE9iVlRsZzlaZ085QmN1Ml80SXhvZ2ZMd3ljOFIzUE1ZbFR6b3pNZHI3U0JJVWU4a09NVFdKei1UcndQX3RIc3RNYi1pUUFSbFJ3bi1NeFQ0cV9sMUVhZC1wZzZSQQ?oc=5",
+   "date": "2026-09-15 17:37",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "GAP Stock Heads For Monthly Loss Despite CEO Optimism On Old Navy — Cardi B Campaign Fails To Lift Retail Mood",
+   "source": "Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeXF4WEhnZEV5OHprakk5dk5lbUF0MDE3WmVrQk9Xanp6MnhiTDZ5Y05yRW5RQVlDYmxweVVvT3BvdTl1NzBURGRDNzhZT2NyRDVsY2tVUEMxV2lqaXFYQ002d211ckh1ZkhSVnM5bzZSVTN5MEgxUl9qeHpwMF9rVEhYdlAyd2pLTldHenBkZU9LY3BwZlRvbTl4d3ktVHFpZkNnODRnZ3kwQzh6dDYzMV9QMm91NmVMeHNkRUdpMDQya3dXU0lqZm1iRVIyR2c2V0NUVEc5dDBiN2xIMTZpWHJiSTBMNjF4QUx2WERPWkh4cXZYaFlpaG94TVB1c29pQ0E?oc=5",
+   "date": "2026-09-15 15:03",
+   "lang": "en",
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
+  },
+  {
    "title": "China approves Anta’s 29% stake acquisition in Puma",
    "source": "Sporting Goods Intelligence Europe",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZi1BbDFLOTJzckpwNVpObVZiTXRkMU5xMVA1VVFCdldRYUtES1Bvb3JQdm9xSXlMMEhLcDNEZEFTNEhwSkpkSHV6bEpDUkVrM29BaWx3MmNWS2xmX1JSOWlORVdESTdSMWNQY2t2QmFCRzk2MzFFQ1pqbXJKQ3BLc2RVLXVodXljUEV3cU9jOW80WUxtLWQ3YlVPdWtVTGllWTEyTWRDdkFNQl9Ba2lxRHRDQm9hQQ?oc=5",
@@ -179,7 +219,7 @@
   },
   {
    "title": "Lululemon’s new CEO inherits a mess that looks like the one she left at Nike",
-   "source": "fortune.com",
+   "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREp4SEpUaUZnMlV6ZC1TMFFIU3ZGaDV1SlF1dkV0TTRBOFhWQktiRWtieTJDWGgzS1ptNzc4MUYzTWlSQjdFRUwwTkkxcU5PbldSTDBCaGh4QnZnMkdDY1dVMmJaaDZ5NVdQM0J3c21MVmdZR3JUUHdDVUowaU5rN0FocElIRVFlem1tWnZ3R3I2STNNSzFheWJHSQ?oc=5",
    "date": "2026-09-12 15:00",
    "lang": "en",
@@ -208,16 +248,6 @@
    "region": "europe"
   },
   {
-   "title": "【即時新聞】Zara母公司Inditex(IDEXY)啟動美國擴張，2027年前完成20項計畫搶商機！",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlZmelB1VzNKWnBCN1lYTGZwLTR6eTZOWjN2Y0sxLS1HU2hLUWwzY0dGRlVZVm9ZMzBKVWhhU0k0cFRDcHZwYmNnU1E0TjlSWFk4MHg4YnRETGhiQTQ5UDlJZ0FUMWNFTFRNMWFpcTNmdUxocUFwWnBhRVhhd0JwN21MOEZDMmxjQ3Q1NEpXSUM?oc=5",
-   "date": "2026-09-11 18:20",
-   "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
    "title": "中國市監總局批准安踏收購彪馬29%股權",
    "source": "Hkcna.Hk",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44eVJIWi1LNmZMWFdoajdVSXVKYjE0QzIwUkRtNDZyMEJnV2VKTlpFcW5XYnNrMkthM3ZURWpRM1dXWEpuVGt4Q0ZfRE5yUjVtdFQ0SGNXN2RRaDI0YlVWdXhmZDJYUQ?oc=5",
@@ -229,7 +259,7 @@
   },
   {
    "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案",
-   "source": "翻爆",
+   "source": "turnnewsapp.com",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbmRLUEdacjBvM0diWkY1R2xqSHU5SFdzejd6aTlWMXBjbjlwUVVRQURXSHNKRktsZEx2aVk2ZTJCQURsa2Q5OGtaRjdETHRZSFp6eW1ONEJDTDEtajdtNUZhNmhuSWpQQWFfXzAySQ?oc=5",
    "date": "2026-09-11 13:11",
    "lang": "zh",
@@ -289,8 +319,18 @@
   },
   {
    "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
+   "date": "2026-09-10 12:27",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響- 國際",
+   "source": "ctee.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TeHYtSktBRjlDNjhBM2s2d0ZueDExUW50RU5obVZ0MUxXcm1JQnQwc0NxakYyazlGY0hfOXlHVVZ0ZkJ0RWtBT1JUYXFaU0lIZ0FzS1V4b0ZhOUR5d29B?oc=5",
    "date": "2026-09-10 12:27",
    "lang": "zh",
    "brand": "inditex",
@@ -349,7 +389,7 @@
   },
   {
    "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
@@ -379,7 +419,7 @@
   },
   {
    "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
    "date": "2026-09-03 08:58",
    "lang": "zh",
@@ -389,23 +429,13 @@
   },
   {
    "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
    "date": "2026-08-25 15:00",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "希音收購服裝零售商 Everlane 一事據悉正接受美國國家安全審查 | 國際焦點 | 國際",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92clVtLVAwdEVpZ1pJNjNtVkZjbGNSOUo0cUN1Z0hPLTFkZlNkaXVlcy1KTEdsNnhEWk9BMDdYUlZQUHZhbDhRdzJqZEphMGhvaEtSanBnYjdJUQ?oc=5",
-   "date": "2026-08-24 15:00",
-   "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   }
  ]
 }

@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-15T14:13:25+08:00",
+ "fetched_at": "2026-09-15T21:53:15+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "2026 USJ萬聖節SNOOPY太可愛！化身「詛咒娃娃」破洞露棉花，限定玩偶、T恤⋯價格＆購買方式一次看- 文章",
+   "source": "Dream & Hunter",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hQ0RMWEUtc2MtNjdsUlZyY3AxdU52dldWV3ZsTnAxQmN5SUpNT0NmWmdqOVJhTFdWQlplVlZuZk5jVEYxRDIzdlVicjJWZWxQU0htN0RIRVU1cGVkVjR6amhvSWhWc2FqcHdyOFp5Mm9XQQ?oc=5",
+   "date": "2026-09-15 12:23",
+   "cats": [
+    "material"
+   ]
+  },
   {
    "title": "紡織應用界面活性劑混合物市場展望2035：快時尚與技術紡織品帶動成長 - 新聞與統計",
    "source": "IndexBox",
@@ -154,8 +163,8 @@
   },
   {
    "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "PChome Online 股市",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9fWWZoRHhMdXd2eGVGZEs5UTVNdjQ0YzBqejVKMGdmeGViTFV3cU5hWXp1aFl4WmFKS2pRQWtPOFlyaG54MWVQTlpVN05EZTFvZmtJeEhJNk1fZTdqWUltTkdPYTN1VXpEWm12VlJtLVh0Yld0TE81OTI5MjJqMw?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
    "date": "2026-08-31 15:00",
    "cats": [
     "trade"
@@ -220,7 +229,7 @@
   },
   {
    "title": "轉型見效紡織業Q3前景可期",
-   "source": "工商時報",
+   "source": "ctee.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 15:00",
    "cats": [
@@ -229,9 +238,9 @@
   },
   {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
-   "date": "2026-08-16 15:00",
+   "source": "樂聯網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ycmNjTHpMOHJ0cFloVmR3OUNkalJKSmxfYWRFUmMxVlIxdXRESllfWnhWOUQ0Slc5ZEI1VzJ2V09sU0dyN1dSaVp5SQ?oc=5",
+   "date": "2026-08-17 15:00",
    "cats": [
     "trade"
    ]
