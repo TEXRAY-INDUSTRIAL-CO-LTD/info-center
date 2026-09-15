@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-15T21:53:18+08:00",
+ "fetched_at": "2026-09-15T23:17:43+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -219,7 +219,7 @@
   },
   {
    "title": "Lululemon’s new CEO inherits a mess that looks like the one she left at Nike",
-   "source": "Fortune",
+   "source": "fortune.com",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREp4SEpUaUZnMlV6ZC1TMFFIU3ZGaDV1SlF1dkV0TTRBOFhWQktiRWtieTJDWGgzS1ptNzc4MUYzTWlSQjdFRUwwTkkxcU5PbldSTDBCaGh4QnZnMkdDY1dVMmJaaDZ5NVdQM0J3c21MVmdZR3JUUHdDVUowaU5rN0FocElIRVFlem1tWnZ3R3I2STNNSzFheWJHSQ?oc=5",
    "date": "2026-09-12 15:00",
    "lang": "en",
@@ -259,7 +259,7 @@
   },
   {
    "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案",
-   "source": "turnnewsapp.com",
+   "source": "翻爆",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbmRLUEdacjBvM0diWkY1R2xqSHU5SFdzejd6aTlWMXBjbjlwUVVRQURXSHNKRktsZEx2aVk2ZTJCQURsa2Q5OGtaRjdETHRZSFp6eW1ONEJDTDEtajdtNUZhNmhuSWpQQWFfXzAySQ?oc=5",
    "date": "2026-09-11 13:11",
    "lang": "zh",
@@ -308,16 +308,6 @@
    "region": "europe"
   },
   {
-   "title": "沃爾瑪、Nike等「解放日」損失龐大…退企業關稅 救不了股價",
-   "source": "世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEeDB5dndRQTNDSno2RUpLLS1fb0NMbUdDUnNrM1MzSzRpWEYxaTc1ejV4elZ3YWtJVlJJOEtUNmlzQy11V1FCQjJ6TjhJc1BLamtUWExUdGRTUFcyM3VSbzV30gFnQVVfeXFMT2h4MExiXzVIU0kzZ2JGcXYtYXZhTlB1YUxSclZTNWtmZk10MXN6VXBwa05CckNlZUQ3VWdEb3dDWmlZU2ktM1ptQTlzcTk2aGZSbjhFSWNjLXFNV3FXd25wWmpKaWNsTQ?oc=5",
-   "date": "2026-09-10 14:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
@@ -329,7 +319,7 @@
   },
   {
    "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響- 國際",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TeHYtSktBRjlDNjhBM2s2d0ZueDExUW50RU5obVZ0MUxXcm1JQnQwc0NxakYyazlGY0hfOXlHVVZ0ZkJ0RWtBT1JUYXFaU0lIZ0FzS1V4b0ZhOUR5d29B?oc=5",
    "date": "2026-09-10 12:27",
    "lang": "zh",
@@ -403,16 +393,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWEswN2phWEQ2Q1BTa2JJZDZoaGZ4WmxQV2NPTklCd0VaOTgzQW9keTc1WkVFNncycXBSX1labzVkMkJFSk5rYTBUX0Y5SWJEYTlJdkJ4Q05GR0g00gFiQVVfeXFMTTdBLUpUbE5tNEpUeVVQNlZDTjJlVHpBcjY2eXZrcU0zZmFtODdLM1l3eUZNVl9VclJTU05zTkNHOEd6MlZWVmI1aEwxaEdhSXdFLWxySWtaUHQ1RU5VaGZ0akE?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Results",
-   "source": "Lululemon",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlpBQUhya1dobkVqWDl3cFZlbFZFRFpJWHRkM2tKbTEzdXBLM2ZCUGNyZDZnWGFtN2U0Yld0YkNxeVJrQ01wX1liVkdIbmRPM21vNUlhWC10OFdLZFVYWDVqYjBRdFIxRVFIN0JSVVhWTXRQZlIxTlhIeGJRbHIwampxbGRia3BF?oc=5",
-   "date": "2026-09-03 15:00",
-   "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"

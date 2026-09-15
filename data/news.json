@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-15T21:53:15+08:00",
+ "fetched_at": "2026-09-15T23:17:41+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -108,8 +108,8 @@
   },
   {
    "title": "歐洲經濟成長趨緩 全球紡織業訂單受挫台廠加速轉型",
-   "source": "PChome Online 股市",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUndZOVZJQ291RFVkWThEZENXUjdFZjQwQ2Q1RmQzbnl4Z1BXWW1LeF9ZbGI1NVV0em9oNk1nd1k0U0M0UHA1Zy1Ha0RUVFkzcFNiTHd0WWc1b2o3eVZrOEhGamkxcV9zSzlVdEVoSVV1Tkw4WWVPUS0yTjhmTE5PVQ?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTmxCd2pyaXlOWWNkUnoxSmozRGRVejhoeVVpd1JOdVNReU1Wd3dhWG9Ma0hiZTd0akJ4a2NOaExPRzhnRHRRc0ZIZFdSV0YzZjVfczFiY0VTR29GRll6VlQ4eE9IMHRqYW9YWXlRN2RCZXE1WE1oR2FDQ1ctWjhpYUpoSjN0bFBqZnMyeWpVTTlNdGRQc1pMRUJUc2VTanlYUFYyV2p3Tmx2QUxCMzZfU18zZ1Boalk2UnhaYVdITXZIb0pwSG1PV3UwakR0Z3dId09BbkQ0cGl4X2RmZTZjeGR5dER5ZERHY184Q2lpYTdKcllWVE85OTNiVGh0Y21OZTVWcExCUHNQX2hVWGdoV0NwdGUxVkJmcHFWSzEwV2dwUWVUSWQ2SVRtc3p3X1BBZ29OR3BlaGp5c21tX0FTd1ZJbElkZ0lKVTEzemVvM24xUUp3Tjk3elJyZWQzMlVFbHVOUVRIek1uY1ExQkpjWQ?oc=5",
    "date": "2026-09-08 17:28",
    "cats": [
     "market"
@@ -180,18 +180,8 @@
    ]
   },
   {
-   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZ25RUnhnTlhKaE5ta3ZnbjFDYW5ndjVESkN2M1ZDTEdIUEREcU5mQTUySHhEejRNQ1pWQmRZRGhRc3dMMVVmSEZHaWtKYzhTR3lLRUZlOGlwV0w0Q012OWRzdTJIMGJKUHQtT2RTU01PZnBaSmVFWTZYdTg5R19MRmNrS1lDTnRMU19QLWJ5RU1JUS1WWTJiWUZ6bWdKVzNUbmEyd2RhUHdiWm5sUzdtazgyR1JubmZxZEhnZjN1MVh6aS1sYkZvVGQyNndrQVBaSmpOX25qcHRRd3hVX0RYTUZIUWlyODhaZFFwYVljUTZBSC1XZFNlc0NlTVIzbXRiZTV2SkdONG93RzVZa0J4N1V2SzRhUDVwOFpkU0NnOGt2UnRKcVNYclZsY1FSczJWay1vTGpxN2w4UVRLNjNIYThxOG00bkp3MUlUd1J5VHNCVmdVdm1idHZBTDRJUGFRaXpnazlCbEQ2cnFMcG1za1pBV1FZQVFpbHN4bWRuRzdFYmZzcXBhWVB1b29Sc3lEaE9VLU1qaGtsS1Y3TGJzX042QlA?oc=5",
-   "date": "2026-08-23 15:00",
-   "cats": [
-    "market",
-    "stock"
-   ]
-  },
-  {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元 | Newtalk",
-   "source": "LINE TODAY",
+   "source": "today.line.me",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TUxuVG1tbU51cW85NDRVVkhXYnFuYmI4eXZsX3JYeTIzUE41SUd2WW9lblhHMVhaSVgwdUIxNEJaVHFNT3BRQlRtbWFzRDFKeFU4eWln?oc=5",
    "date": "2026-08-23 15:00",
    "cats": [
@@ -229,7 +219,7 @@
   },
   {
    "title": "轉型見效紡織業Q3前景可期",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 15:00",
    "cats": [
