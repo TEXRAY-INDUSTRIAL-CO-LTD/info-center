@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-15T00:36:36+08:00",
+ "fetched_at": "2026-09-15T14:13:25+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -67,16 +67,6 @@
    "date": "2026-09-10 18:11",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
-   "date": "2026-09-10 17:37",
-   "cats": [
-    "market",
-    "stock"
    ]
   },
   {
@@ -145,19 +135,19 @@
    ]
   },
   {
-   "title": "世界關稅變化牽動成衣版圖 (圖)",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
-   "date": "2026-09-05 20:19",
+   "title": "關稅牽動成衣版圖台灣牡蠣殼將穿越馬達加斯加進歐洲| 產經",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TERNUWIwNEgtQlhYTDM3akJUSkhNb2lMdWxRdk5aa2pYVUJTTXk0YkRLYXpIRWtVT1BFcUt1UEU1RWViV2E2a3J6Ul84VlFfQnRLdDhIcjl2NkdyaGc?oc=5",
+   "date": "2026-09-05 15:00",
    "cats": [
     "trade"
    ]
   },
   {
-   "title": "關稅牽動成衣版圖台灣牡蠣殼將穿越馬達加斯加進歐洲| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TERNUWIwNEgtQlhYTDM3akJUSkhNb2lMdWxRdk5aa2pYVUJTTXk0YkRLYXpIRWtVT1BFcUt1UEU1RWViV2E2a3J6Ul84VlFfQnRLdDhIcjl2NkdyaGc?oc=5",
-   "date": "2026-09-05 20:18",
+   "title": "世界關稅變化牽動成衣版圖 (圖)",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
+   "date": "2026-09-05 15:00",
    "cats": [
     "trade"
    ]
@@ -202,7 +192,7 @@
   },
   {
    "title": "《商情》美元跌及天氣擔憂影響 08/19美棉漲逾三個月高點",
-   "source": "ww2.money-link.com.tw",
+   "source": "富聯網",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzcxblJhUWlVeDl4aVhVU3NMLWlXTktPdE5Xb0tQTmota3pkeVBObEMtOFF6MXAtX3FhMFhGeVI2d0oyNWFWMktKTkYxOF9JU21wbS1rV2FwN3FOdXJoNGZ2MVlXWkVzXzN0SXFrOV9TX25hTUdwSDhSamY0bUZ2SjctbWozWmJB?oc=5",
    "date": "2026-08-20 15:00",
    "cats": [
@@ -216,15 +206,6 @@
    "date": "2026-08-19 15:00",
    "cats": [
     "market",
-    "stock"
-   ]
-  },
-  {
-   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
-   "date": "2026-08-18 15:00",
-   "cats": [
     "stock"
    ]
   },
