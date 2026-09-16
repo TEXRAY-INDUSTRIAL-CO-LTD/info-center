@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-16T14:08:51+08:00",
+ "fetched_at": "2026-09-16T21:45:10+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,34 @@
  ],
  "items": [
   {
+   "title": "施政報告2026｜紡織及製衣界：五年規劃與施政報告有遠見、有實招 打下升級轉型強心針",
+   "source": "香港商报",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYzZVUl8xSmhnZHd2dUZHOU9lZFNlNW5fTWVNaVFDZFVyVVV5LUVCeUVNblhXcDZSbUFNSHRvMmE4ci11aDB6aXBYUTJZNmN6SnhMakU0MTV0MnpoaVpNZkp1NzdOSjFqUWI1ZklaUnRSR3h6OTdNZ2RPTQ?oc=5",
+   "date": "2026-09-16 17:14",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "TIFE 2026登場 八國專家共探智慧紡織與永續未來",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40enI3MVBiMmZqRFV5ZXhvS0JKbUY1eGU2d1dqend5NjRxYUR4aThoU3BDTVZWVUNtVEFhOUhpR21sTXBnOHE3OXZra0tLLWhFdUY0Q0EzcVdOQQ?oc=5",
+   "date": "2026-09-16 16:01",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
+   "source": "三立新聞",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
+   "date": "2026-09-15 15:09",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "2026 USJ萬聖節SNOOPY太可愛！化身「詛咒娃娃」破洞露棉花，限定玩偶、T恤⋯價格＆購買方式一次看- 文章",
    "source": "Dream & Hunter",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hQ0RMWEUtc2MtNjdsUlZyY3AxdU52dldWV3ZsTnAxQmN5SUpNT0NmWmdqOVJhTFdWQlplVlZuZk5jVEYxRDIzdlVicjJWZWxQU0htN0RIRVU1cGVkVjR6amhvSWhWc2FqcHdyOFp5Mm9XQQ?oc=5",
@@ -41,17 +69,8 @@
    ]
   },
   {
-   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-09-13 01:27",
-   "cats": [
-    "green"
-   ]
-  },
-  {
    "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
-   "source": "cmnews.com.tw",
+   "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
    "date": "2026-09-10 18:33",
    "cats": [
@@ -80,8 +99,8 @@
   },
   {
    "title": "「老牌紡織廠」出大招！ 跨界低空經濟 股價直飛漲停板",
-   "source": "東森新聞",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZbF9YTFY2U2FZWVhXRjdTWml3eGhpNHpWVndKb2R6M0xVY05DanRDTUNxTzRwbGlfLUFwemEtOWFta2ZtMlR6THhMUEtmeDE5Njdnd21Gcw?oc=5",
+   "source": "東森電視",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00VWtoOXZ4OHlQcHVGT1VOMThZeGF2MnVPaXdfRXctYk1QdlYtX3J3MVUtbGQ0b29mR0h6UElDRmkyTG9GR2R4YXdDbk5rc2NLdDdHOS1R?oc=5",
    "date": "2026-09-09 11:43",
    "cats": [
     "market",
@@ -98,15 +117,6 @@
    ]
   },
   {
-   "title": "歐洲經濟成長趨緩 全球紡織業訂單受挫台廠加速轉型",
-   "source": "PChome Online 股市",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUndZOVZJQ291RFVkWThEZENXUjdFZjQwQ2Q1RmQzbnl4Z1BXWW1LeF9ZbGI1NVV0em9oNk1nd1k0U0M0UHA1Zy1Ha0RUVFkzcFNiTHd0WWc1b2o3eVZrOEhGamkxcV9zSzlVdEVoSVV1Tkw4WWVPUS0yTjhmTE5PVQ?oc=5",
-   "date": "2026-09-08 17:28",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
@@ -116,10 +126,19 @@
    ]
   },
   {
+   "title": "歐洲經濟成長趨緩 全球紡織業訂單受挫台廠加速轉型",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTmxCd2pyaXlOWWNkUnoxSmozRGRVejhoeVVpd1JOdVNReU1Wd3dhWG9Ma0hiZTd0akJ4a2NOaExPRzhnRHRRc0ZIZFdSV0YzZjVfczFiY0VTR29GRll6VlQ4eE9IMHRqYW9YWXlRN2RCZXE1WE1oR2FDQ1ctWjhpYUpoSjN0bFBqZnMyeWpVTTlNdGRQc1pMRUJUc2VTanlYUFYyV2p3Tmx2QUxCMzZfU18zZ1Boalk2UnhaYVdITXZIb0pwSG1PV3UwakR0Z3dId09BbkQ0cGl4X2RmZTZjeGR5dER5ZERHY184Q2lpYTdKcllWVE85OTNiVGh0Y21OZTVWcExCUHNQX2hVWGdoV0NwdGUxVkJmcHFWSzEwV2dwUWVUSWQ2SVRtc3p3X1BBZ29OR3BlaGp5c21tX0FTd1ZJbElkZ0lKVTEzemVvM24xUUp3Tjk3elJyZWQzMlVFbHVOUVRIek1uY1ExQkpjWQ?oc=5",
+   "date": "2026-09-08 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
    "source": "news.cnyes.com",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
-   "date": "2026-09-07 19:34",
+   "date": "2026-09-07 15:00",
    "cats": [
     "stock",
     "tech"
@@ -200,31 +219,12 @@
    ]
   },
   {
-   "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
-   "source": "FTNN 新聞",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aExvczJfWi1mT2FFTlBzWWJtUTA0NTQzYlVVdVFuTThkaFpETEgwM2k3OGhUUmdYNVNpcnp0U1hXcGtyVVVYbEtZOA?oc=5",
-   "date": "2026-08-19 15:00",
-   "cats": [
-    "market",
-    "stock"
-   ]
-  },
-  {
    "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
    "date": "2026-08-18 15:00",
    "cats": [
     "stock"
-   ]
-  },
-  {
-   "title": "轉型見效紡織業Q3前景可期",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
-   "date": "2026-08-17 15:00",
-   "cats": [
-    "market"
    ]
   }
  ]
