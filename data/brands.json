@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-16T21:45:13+08:00",
+ "fetched_at": "2026-09-16T23:11:20+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -169,7 +169,7 @@
   },
   {
    "title": "Frasers CEO to become new chairman of Hugo Boss",
-   "source": "RetailDetail EU",
+   "source": "retaildetail.eu",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFJDYWVMTm9wX3FXR1pnQ0JfZ1BxbkR1cWhvemp0TDBxakRKUXdpNlgyR1d3bXRuOExIRmhubWJrbmhzUFZFSmhqM2NScXhGTURPRlR6WHpLU2VyMmxlcUpFN1BIMWhZY3RSUXdVWGt1MkEtZzd5TDdFZWdOQUh0Rng0cjZVSzRsTlhacWpUMWROLU0?oc=5",
    "date": "2026-09-16 21:01",
    "lang": "en",
@@ -265,16 +265,6 @@
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
-   "source": "finance.yahoo.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEl3cEJFdjZFR3FjS0JhZldPYW4teGJWU2EwQXBGbkJBb2p1THQ3MGpQSktTMGNINVBVTTdoUWR2SFd1cFhuYXhNd2tPc3dpUkxuTTdydnBjZU5IaVR2NDA0Ty1sMTlMYjZtX25zcWllVWdHcUpTenpFM0prY3VScDVPMERBUkVYQmFQQW9ZWDV3Sk5qYTI1QnlSWjBxQXlaN1E?oc=5",
-   "date": "2026-09-13 00:16",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
    "region": "americas"
   },
   {
@@ -389,7 +379,7 @@
   },
   {
    "title": "Zara母公司Inditex不畏歐洲熱浪，8月銷售逆勢成長9%",
-   "source": "BigGo 財經",
+   "source": "finance.biggo.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nemozdjliVnp6c2VpaWR3T3dRQTU1RlhfZkF2MnZ2VUpmZUp1YTZqaTRwZ0VTX0xKZlhPQlJXSGx1aUs0Vk9VWWt2SE9LZFB4MUF4N3VXSVBEQnc4TFFhM2w4UmNZZ2FUN1NXNXZNRVVsaHFWdjBHWGln?oc=5",
    "date": "2026-09-09 16:55",
    "lang": "zh",
