@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-17T14:12:19+08:00",
+ "fetched_at": "2026-09-17T21:48:12+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,36 @@
  ],
  "items": [
   {
+   "title": "UBS cuts Nike stock price target on weakening sales trends",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUFwVlRJSlRVMHZZZF9DRDhXSVVuRnZKY1JUMzhtWERKeTBQRG04amFCc2FobENGSHR6UUxLR0VreWNjY0dJbGZmdm5aNUpxQ2dyckE3bVR2aEF1dUw2aVNtVXVLWUdKSExJcWhPUHdGR3BiREo0RnRSTWxMV3VZSEZqSUJLR0liYUloaXUzMHBzWlEzbUZkRzRyQWdPbWRaYnFpSHV4QnU3cXJ3NjVwSWI3U2Q3WXU3SXc?oc=5",
+   "date": "2026-09-17 21:29",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Hugo Boss Names Frasers CEO as Newest Board Chair",
+   "source": "Business Chief",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnhmNnpqN3hNZUhSUzMzZEljQk9wdm9DTmpiLS00R1VoR2lKZHpGblVVcGlYTW4yWmRYVWtrbDhrVUVhalFiWmlDdlNHTDBiR0pWUE1LOWtKTlp3Ym0wMkJXbHdUM1EzYm91MjAtZWhaeXVDc3dxRUx3M3doMkpMU2xJQXVUMUU?oc=5",
+   "date": "2026-09-17 18:21",
+   "lang": "en",
+   "brand": "hugoboss",
+   "brand_name": "Hugo Boss",
+   "region": "europe"
+  },
+  {
+   "title": "Adidas India layoff: Why German sportswear giant has fired engineers and data scientists",
+   "source": "Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVhLX1VaWER3V3RaYXRHSTd6LWozQjF0ZWdMdWRzMDRkQXNqZy1GUktjZEVhUDNpYjJUSW1PLUFOY2k1Sm5pdlhoZVI5YUFTSW5hUWpqRTZKUUpRV3dtZkFiMzd3UExkZmQ4U0h1Rnl3dzRJQm5SNXlHdFdVc1dOZ1FIalJfOFA2MnlwdTBOb0Jpakd6WXZFSlQzdWZKN21qSEVhWHk0bjd4WkdDNnlUalN1ZlRyZWNNZXl3cjBIOXR6UTM0Vk5tZEFwY1V6R0MxSGxwX9IB2gFBVV95cUxNcGVBZTdRendtVGx2WElyenhxS3lKNWtuZlp2RlNCQ3ljT1QzQ3dsUWdiYUhhbWpOc01GN3RYMzhyU3VDY0F3Z2doclVmSUhTaVN1ampTZ2ZRVTkyeHNnQTZqbUtIMG5oNDNyb3hSWmdGZk5aWHhpX1R2eTRtRVAzU0xvX1dfM3RETTRlZXExdlJjdkR5RTVUZlZfTXlFelBLckZ2aVZTZnZKSm9pMEVHb1pfdVNtMFI3ckxCWEVHUnlGSmVScVpldXljc2d4d3M3eW1FUnBBRngydw?oc=5",
+   "date": "2026-09-17 17:43",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "How Raised Revenue Guidance At Amer Sports Stock Has Changed Its Investment Story",
    "source": "simplywall.st",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHY4SG4yeHRJVnRjWlFJbGFUa3VJV2l1UDI1RGx2ODVvOVFxcktSNGgwcmM3TFQ0WDBNMmNIVGNhVTVIQlRrQTZWcndOMEhwbWpYQ3BIZ2xmVnQ0a3dCQnk5SG1GODN6a3lyWG50SVFqdExwa2hrZXZ1SEo1NVA0T0EyM2xWMFJMZ29BWG9FV3F6UG04MDljWU9idWZfSHBVbF93dlYxdXlTQnFlOUdDa1k2cGNKbDhfYTdzNGhLWlk5SjlmaWYyVnNSUGxKZVlO0gHWAUFVX3lxTFBBYTlBSkdVNFU5QWFfcEQyaHpEWHZsaFpucDEyOTRMRUNRN1dqRHZRMHk5WHIyOFlYS1hFWEVJNTRjVjE0RnROVE5wQWVxVFBZYWl0dnd2ZjVUYVRQYTRaZm9sWnl0SmtpY043dll1X1d3cFhtSmZyMC1NZm9IRGFzcEpOZTZOVXFsTG1zVHk1QTlSZUJ2LVpkejZqVlhRVjF4MGpzVmJqdmFpa0VkSnZlUWl3SHBZQkRwY0dsYzR1NDJqRWljRl9WWG9DZnNzclhsN19DM2c?oc=5",
@@ -165,6 +195,16 @@
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Adidas Gurgaon tech hub layoffs: Company confirms India technology job cuts after September 15 town hall;",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPal9UWDhtVXJ1Ni16dC1hWUl6X0lJTEZEb1RFczhRVW04eFE3bUZTZ1BaOUN3WEVoc2M4d1duMG0wckZsYk5yeTB3Zl9SaW1hY0hrUzJtRDlwRWtrM05Wd3MxekZuLXh2T0p4NXlONmFpTkktUEpNX2xUbTFoNGVQZU1Qb0kzSUZWdWU5eURWX2NzQUh0STh3VUQ1dEZwYmV3ZUh0ZDVoR0xsOUFlYXRTUGpBTXltVHFqb01QYUk2RUxnSEpyVWY1YVhXdTM2blFLSzA3QnEwRmI1YUdnWGFPczZLWWdVYUIzamNGQVdDdWZTd3lOMWpndGJVaTdiNFpyTGppcnAzSGxXSDBHZUd2Sm5uUFNvQ2RNOU5kQzZ1UDVXUkEwSllGeFVQT2xoYlZxZDBDdG54ZHRLd3A4aTRONUhIVlJRcS1tTzNVWkNkbVhFQW0zZ2ZneG0yOUtERVJyUU9jQ01fMGRsc2Y1blFtOEV6c1ItZTM5QldpRU9iM285b3hDaEZ4bnFxdENWaUpUNEFMdEFCVUY5QjktcE5DWDVTbWdqblpackpqb0x2N1JNQl9NZXVkQjJDbXTSAcIDQVVfeXFMUDRtOF9nbXVhZlY3eDVVOEVOZExjLXhuNGFQdnRPQlU1ZXhwVWdiS2NGZkV5UTAxNVladGs5TF9FbHhTaFV4dnB3dS1BdmUwbHhZcWtobHdycFhJWW1Vd2Rqa01LSmZERGNfcDFpM3NBSnVycVNUTTVUSWFsZmNIVzlOWGJOcnp0a1psVHpOSjRUR2NVUFJNdVRHc21OUlVXN0ZseXF5TTdfMTdEZUFHcDNnVXVqVUYxMmJtMlY3U1ZaVzBPSjEyenE5bS1VUEM0UG5GbmQzaFBuLXQ0Rm9Pc2VRSnhtNndLSncxQVQ3eUpta2w0SUNCNXpzR2c2RUN5NE92OS1yX3VheU4yaXNjY1ZWYUtMUDhWcmpqNEE2T2pTbklaWlBJVXRQVV9ldk95Y3YzSUp3bVp2ZnY2TkRZWmdQZjJKdDlsalRqVUNmOFJicmQ2RDJ3YXJRS1l2eVlnaTdvTnRUbFpCbHFMZU02R1VlSkVrb3ZWOFU0MGtzVjZVRVgzX09jMlVjRUFMNzFZVTNTaFJwM2ZUQjQ1cTU5VThGWlcyMTZIQTlWOWVDTHVCYkJLRmlPUHRzSWg4VnVZQzlB?oc=5",
+   "date": "2026-09-17 13:56",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
    "region": "europe"
   },
   {
@@ -208,18 +248,8 @@
    "region": "americas"
   },
   {
-   "title": "Nike stock outlook: trading at 12-year lows with turnaround unlikely before 2027",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3Bxck9nUHlDQlRfOHlMYnJEQjhzanM4YUd2U3N0WU1IbnctOFlQdWZNRmhHQzJRXzZHRlNRSUNDSFRzclVjWWlzRmpyc1YxUGY3dkhJMFI2YWZmLVZ1N0gtUHpoRjlSZUJ6aWZ5Vmc5WjJZQ0JjLWxDNUZoUHR1WkRPZFNFS2hJR1JyQUdfUHFHUU9Vb2xEY2xwZVRzRjdNUG1KY2FReWRSUjZ2ejNjMXlMYWdtSG9NcUg0MDZ2SUdkWXdFVDdmeHFRTGl2WFk2X0RLZ25NRQ?oc=5",
-   "date": "2026-09-17 03:38",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Frasers Group CEO Michael Murray Named Chairman of Hugo Boss Supervisory Board",
-   "source": "WWD",
+   "source": "wwd.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFMzbHBPX2lmc2VTNzVaLVp6YW8wOHcxODEzVl8xU2lkVDFiUUFhQ2xBOXh3TEdMSFhMb2liWlVSX2E3ZFdQNGZmMWhnaUIza2Zrcy1wcE9IMHdKbDFxZ3c5Q18zbmx5MWFEUVlRWW1FckhwVml2cFZYaFV0WDVYSGM1czFwcGJUVkMyVEItZGVybVZLMGp4dTVEN1JmUzJQQnlPdURmX3RXVUM0Vm5Pem5HNGRlNV94?oc=5",
    "date": "2026-09-16 19:00",
    "lang": "en",
@@ -228,41 +258,11 @@
    "region": "europe"
   },
   {
-   "title": "Frasers Tightens Grip on Hugo Boss as CEO Murray Named Chairman",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1lLSFA2SDg5a1A4V2FkRTQxZlhLMFJjQTFYaXdEZkQ2LXZYREV3WDFicld0S0o1SGdMcmpmV3FvR1N3cXNmaFViNzNBaS1qaDNFQ1VPLVJGV0hGLVhmSkdQbGZXbTNVcFJxdS1TbW81QTJVX3NTMVpBSVRmVC1OU2RYa0lYbE5CS1JsQUgtMWhtS0t5aVhleTdfaUJGMkw4UVQ2eGJZNkZTQjhWYklGbmxpSWlpWERNOVlXN2YtaDBFcmFUV21INQ?oc=5",
-   "date": "2026-09-16 16:50",
-   "lang": "en",
-   "brand": "hugoboss",
-   "brand_name": "Hugo Boss",
-   "region": "europe"
-  },
-  {
-   "title": "Hugo Boss names Frasers CEO Murray board chairman",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjNwb1lfTjdtZFItWGU3bFBvV1RzSWVONFFmeFRoRENkWTdTcWdFMXdCd1JyaFNJTFJ5OHVTdlRQc2x0NTlZYWNXNUkyelBBam9LZlJHWHRPMnJRS01HSHpPWGVoR3NzXzdRRDk1NjVVek1wQjBZMjZqV0hBZnpYZWkxcE1rWVJlOXh1QjFQb3l5SFJldGlhS29sVVNNYS1xSkxWeTg2QjFjcXhBNDI4?oc=5",
-   "date": "2026-09-16 15:55",
-   "lang": "en",
-   "brand": "hugoboss",
-   "brand_name": "Hugo Boss",
-   "region": "europe"
-  },
-  {
    "title": "塑化慘業裡毛利率飆破3成！50年老廠把人工皮做到比真皮還貴　Nike也得埋單",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Ny1wRzh2ckZIRC0xd280cFdJMVdHcF9oLXVxdFptTlYwRnlKak1yZVQwQUNpYktXdnp4ZHY4TXN5anVxM0JYMjV3VG11WFEyeG9iMmN6YzBfQdIBX0FVX3lxTE1aN2M3MkxRUVl3RW9pUmhncmVfUE9wajFoV3FfR2piNzNqbU9pR1FzOXNFdWNvenVESVZMZFkwdWM1cEhUdTFvdGctQmVCdnFvbDhhTFAtV2RJZFFTMmFJ?oc=5",
    "date": "2026-09-15 18:14",
    "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Price Forecast: Can NKE Recover After Becoming the Dow’s Worst Stock?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUt4TG5wREsyWi00T3VyVTZsektsMm5mYzBqejBNTUpKVUNKLTNqOF9IaWgwdmZOOTQydHRlSGVZZ0lFSkVvbThCb0lWTWozSWRPQXlqM2RzNDgzcWxHdFFSUjZ4aUFFV3JJSXlwZkhsd2pkNDRNemZjVW5iN2VqdFBES1dtc2Y5TEdsNS1vN2RKR19MS0E0UlFkdW0?oc=5",
-   "date": "2026-09-13 07:53",
-   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -298,10 +298,10 @@
    "region": "americas"
   },
   {
-   "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案- 兩岸",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBscGFhTHhaVzg4Z0lhOTVQdUp0OHV3aWVjdEZfcmg5NnpxcExJdnNuNzRfTEcwWENmRjdNNmkwOGFKQTI1NFZZcHZJc0RFYUNxNzZ1RF9NN3dPN0tWTWg4?oc=5",
-   "date": "2026-09-11 11:46",
+   "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案",
+   "source": "翻爆",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbmRLUEdacjBvM0diWkY1R2xqSHU5SFdzejd6aTlWMXBjbjlwUVVRQURXSHNKRktsZEx2aVk2ZTJCQURsa2Q5OGtaRjdETHRZSFp6eW1ONEJDTDEtajdtNUZhNmhuSWpQQWFfXzAySQ?oc=5",
+   "date": "2026-09-11 13:11",
    "lang": "zh",
    "brand": "anta",
    "brand_name": "Anta",
@@ -329,7 +329,7 @@
   },
   {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
    "date": "2026-09-10 11:30",
    "lang": "zh",
@@ -341,41 +341,11 @@
    "title": "Zara owner Inditex reports profit miss despite strong August sales",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
-   "date": "2026-09-09 20:17",
+   "date": "2026-09-09 15:00",
    "lang": "en",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
-  },
-  {
-   "title": "【即時新聞】Zara母公司印地紡(IDEXY)上半年營收增逾7%，看好下半年銷售動能持續發酵",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamx3WjZzOGM2Z1B3aHBSQk1CYUJIdVNvZXl2SHZxMHI3T3RtaTBrb1RSNlJzYVU5RFlhSFA4U1hTRjFkVm5iTm5fcWRpaUw1by1pdnBieEp6VFJQUDQxamhzYkNDdEZadXNUanl5UjBNcmJlY25ubkhNLXk3QVZVVnlnRWUyVmZiLUJ4Xy04ZGo?oc=5",
-   "date": "2026-09-09 17:23",
-   "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "Zara母公司Inditex不畏歐洲熱浪，8月銷售逆勢成長9%",
-   "source": "BigGo 財經",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nemozdjliVnp6c2VpaWR3T3dRQTU1RlhfZkF2MnZ2VUpmZUp1YTZqaTRwZ0VTX0xKZlhPQlJXSGx1aUs0Vk9VWWt2SE9LZFB4MUF4N3VXSVBEQnc4TFFhM2w4UmNZZ2FUN1NXNXZNRVVsaHFWdjBHWGln?oc=5",
-   "date": "2026-09-09 16:55",
-   "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "KAWS x UNIQLO 宇宙再度擴張！全新角色登場，服裝、玩偶商品完整公開",
-   "source": "JUKSY 街星",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fdV9XOFE4SHdFdGJ0eEpELUxycFlCRktKVEx4MmlLc0dpYkNLN1NKMkVBc2E1WEZMUUp5QVFGdUZoT3doeW9DSE5nMU8?oc=5",
-   "date": "2026-09-09 11:57",
-   "lang": "zh",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
   },
   {
    "title": "【即時新聞】Lululemon(LULU)創辦人傳離婚牽動股權，財測下修致單週重挫17%！",
@@ -408,20 +378,30 @@
    "region": "americas"
   },
   {
-   "title": "【即時新聞】Lululemon(LULU)四度下修財測股價創歷史新低，華爾街警告復甦恐耗時4年！",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkpYU0QxTXJ1WlM0MHpCV0JhMUNkUUZzdEFHakZLTnRkbzJSZ0luclRSSUdqVEhmbU1HeDRnR3g1QzUzcFNVUWRIQ2RtMUZzQUphc1BybHVsOEdTZ3hFaG52VHlHU3ZUMkZZZWxWOGtrVDQtUjdudnhlZEtscC1sakQzS3JVRG5LamtsRzBYRGg?oc=5",
-   "date": "2026-09-05 15:00",
+   "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
+   "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
   },
   {
-   "title": "鉅亨速報- Factset 最新調查：露露檸檬(LULU-US)EPS預估下修至9.66元，預估目標價為102.50元",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odnZhOVhlcjlwT2tmdlBpZXl0c2hsUVVGUFRhOXE3Nkd2bkdsdDFGdWhqZkwxeHdBQXBwSDlVeDhyS2tIeE9IR3JjYk93Sl8yeEVFd1IwRHo0cEVvVTNOTG1hMWs?oc=5",
-   "date": "2026-09-04 22:15",
+   "title": "Lululemon 緊身褲賣不動、再砍財測 盤後股價崩18% 新 CEO 將接燙手山芋",
+   "source": "money.udn.com",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWEswN2phWEQ2Q1BTa2JJZDZoaGZ4WmxQV2NPTklCd0VaOTgzQW9keTc1WkVFNncycXBSX1labzVkMkJFSk5rYTBUX0Y5SWJEYTlJdkJ4Q05GR0g00gFiQVVfeXFMTTdBLUpUbE5tNEpUeVVQNlZDTjJlVHpBcjY2eXZrcU0zZmFtODdLM1l3eUZNVl9VclJTU05zTkNHOEd6MlZWVmI1aEwxaEdhSXdFLWxySWtaUHQ1RU5VaGZ0akE?oc=5",
+   "date": "2026-09-04 15:00",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "瑜伽褲神話破滅？Lululemon營收急踩煞車，全球運動休閒風潮進入冷卻期",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0pHbE9xMndfZV9iMGJheFl6UmVvOURuVW8tbm1NdUVJVDlVSWpVeGg0bVdSQWRZOE1uMDN0NVRyTVBKX3MtOXliSVRmX0F1aE9UaGx6WTNDSjBzUVk2cS04aUdYbDVJVENSRVBsbmpVRm8yUnQwa1dhM1diVS1oWWt3M29kUGctVEkzMjJn?oc=5",
+   "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -429,19 +409,9 @@
   },
   {
    "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
-   "source": "news.cnyes.com",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSEJFTURTSC0zbFZuRFJfMi1YWkEtRWU5a2JIY2NEUEdWRHI2eWItQmNBYkxhaGJZbnN1d2JBWGNETHpOckpBcHdXQ04taU0?oc=5",
-   "date": "2026-09-04 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
-   "date": "2026-09-04 15:00",
+   "source": "Yahoo 財經",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUg0NVBxbEpieGx0QU9scnN2WW9TdmRXYzJacHRnbjFVQ3doSk1YcFFmelVHdDNoVEJWdmRJNFlwbDVIZkxEUllfNUxBUWR6cXo5akJkamphWmN4UXZPZkFRMFJGUWNQek84SlQzQ2F1QTV3ZmZtU29JTnZhN2pmLW1fcWc2THdsQlpDYzhXekxtNzVtS3JyLVY3RVVGYlBuYWJac2djY1pjU1ZxSGh1MHRQNS1wY29XVXJwbm5jekRtRUIzZlhFa1VEUXF2akk4am1HOGdTcW11cjJ3VlpqWGlUQ3lsc1UyWjNReTFsc3BQMGo1UVFFVUthdExDZUFScnN3d2NuVGNSMzYyeXprb0E1eEJBdWRIQ2Nqekxnb1ZBdmNEb2J4YzZtSWJBelJxT2NOelhJZW52d2V3ZkMwUDBaOGdhYkQ0WGYtOGMwajlpQ0cycVJoY1A1cEhJTXg2?oc=5",
+   "date": "2026-09-03 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -458,9 +428,19 @@
    "region": "apac"
   },
   {
-   "title": "Shein CEO’s Wealth Slumps $15 Billion After Whittled-Down IPO",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21tYzhkMkpmd2R5Y3p2dUM5cEZSUEFiemNvSWVBM0V0cjV5UjRidUZtN014VkZkb0p1MGlRb19PNWdfTzdpdzBSUUpPUzZRRlpjTzdoT3Q1c2ZxRFBVbmFHRzl3VFVyR1RJUzh6bURnMzNBZVBuWUhWU2JSZ09jSGNjeUwxVHpBdDJVTkUtV1pOZkZyWnc?oc=5",
+   "title": "華爾街「地雷股」警報拉響：從Yum、Nike到亞馬遜 獲利品質低恐引爆新一輪暴跌潮",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXJkLUtwRkZyeTZmWFpxa3VRbjJCNjY5ampjc1FWaEVTX3RQdHFoTU5YV0poT29WWmcwWXhZREJzZ2ppcVVHckRoQUgtM1RSWDlKc3o1UmtBYmJERW0yZk5SMlQ2elF5RnJiSDY4UHA3aGpvTUdXYzJ6czFUVF9Tel9rWXVVRFBFRzNnZmZn?oc=5",
+   "date": "2026-09-01 15:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
    "date": "2026-08-30 15:00",
    "lang": "en",
    "brand": "shein",
