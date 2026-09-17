@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-16T23:11:17+08:00",
+ "fetched_at": "2026-09-17T14:12:16+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,10 +32,29 @@
  ],
  "items": [
   {
-   "title": "施政報告2026｜紡織及製衣界：五年規劃與施政報告有遠見、有實招 打下升級轉型強心針",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYzZVUl8xSmhnZHd2dUZHOU9lZFNlNW5fTWVNaVFDZFVyVVV5LUVCeUVNblhXcDZSbUFNSHRvMmE4ci11aDB6aXBYUTJZNmN6SnhMakU0MTV0MnpoaVpNZkp1NzdOSjFqUWI1ZklaUnRSR3h6OTdNZ2RPTQ?oc=5",
-   "date": "2026-09-16 17:14",
+   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
+   "source": "setn.com",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
+   "date": "2026-09-17 05:32",
+   "cats": [
+    "green"
+   ]
+  },
+  {
+   "title": "紡織所三項技術榮獲創新界奧斯卡- 投資理財- 工商時報",
+   "source": "中時新聞網",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNTBNcmJmM19wZHpON293bHFiQk82T3hvTFdXbGhpM2N1ck5yTFcybGdYWDU3UV9hUnFkRTYzUW5Ya29yNGFydk5fZUhWcF9jTThNS2w3V3JQWjNWeWl3WmhfekY3V3RPaldz?oc=5",
+   "date": "2026-09-17 04:10",
+   "cats": [
+    "market",
+    "tech"
+   ]
+  },
+  {
+   "title": "紡織及製衣界：《五年規劃》與《施政報告》有遠見、有實招 陳祖恒支持設紡織時裝發展專組：打下升級轉型強心",
+   "source": "Capital 資本平台",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNUYtUlJNZWYwVHhtb2lYWGU5Y2dycVNMTnNGa1ZSYlliTVRfaW1hWkdadlM2Y2x5U0JkUFBqQXRIdUR6MGhJUTJGRXJMUFdqR3ZZWmtOb2thNmlkZVpQQUhB?oc=5",
+   "date": "2026-09-16 16:54",
    "cats": [
     "market"
    ]
@@ -43,7 +62,7 @@
   {
    "title": "TIFE 2026登場 八國專家共探智慧紡織與永續未來",
    "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWVQQnhENVpOUFl4QU9yeDhDZ0p1ZzJRSXc3N2gtVUdUX3JqVFdXWDdQaDNuUEctWERUM1lWVkdnbTZoWVZzQnNEendic3lSamJiekE1WFk4cXNRMlBtd0szVlEwZXZNaUpXY2NTRmpQTGw5UEdDRnhjU3lPOG8wVQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40enI3MVBiMmZqRFV5ZXhvS0JKbUY1eGU2d1dqend5NjRxYUR4aThoU3BDTVZWVUNtVEFhOUhpR21sTXBnOHE3OXZra0tLLWhFdUY0Q0EzcVdOQQ?oc=5",
    "date": "2026-09-16 16:01",
    "cats": [
     "tech",
@@ -51,17 +70,8 @@
    ]
   },
   {
-   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-09-15 15:09",
-   "cats": [
-    "green"
-   ]
-  },
-  {
    "title": "2026 USJ萬聖節SNOOPY太可愛！化身「詛咒娃娃」破洞露棉花，限定玩偶、T恤⋯價格＆購買方式一次看- 文章",
-   "source": "dream.bhuntr.com",
+   "source": "Dream & Hunter",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hQ0RMWEUtc2MtNjdsUlZyY3AxdU52dldWV3ZsTnAxQmN5SUpNT0NmWmdqOVJhTFdWQlplVlZuZk5jVEYxRDIzdlVicjJWZWxQU0htN0RIRVU1cGVkVjR6amhvSWhWc2FqcHdyOFp5Mm9XQQ?oc=5",
    "date": "2026-09-15 12:23",
    "cats": [
@@ -89,6 +99,16 @@
    ]
   },
   {
+   "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
+   "date": "2026-09-10 17:37",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
+  {
    "title": "棉花市場報告：國內價格上漲，國際價格下跌 | Conab數據 - 新聞與統計",
    "source": "IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHdRSDNLcnBlUGJDYmRoZUotRzV5MEsxRzNFazlqenQ3M0Q5VWFTY1V2X2hKdHZjNHE2eGdQQm81dVFGOC0wdTh6THg0WnlQZ3ZfOHk4TExwNjlyOF9VeGNCUW9DR0tvNkxoVVA0UzQ1cGtyd0RpOHB2NGdTdmppTy1TMS1sVTB2V3FycUJQTHdHRFl2?oc=5",
@@ -111,18 +131,9 @@
    "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
-   "date": "2026-09-09 10:09",
+   "date": "2026-09-09 10:01",
    "cats": [
     "green"
-   ]
-  },
-  {
-   "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
-   "date": "2026-09-08 16:35",
-   "cats": [
-    "market"
    ]
   },
   {
@@ -138,7 +149,7 @@
    "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
    "source": "news.cnyes.com",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
-   "date": "2026-09-07 15:00",
+   "date": "2026-09-07 19:34",
    "cats": [
     "stock",
     "tech"
@@ -182,7 +193,7 @@
   },
   {
    "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
-   "source": "女人我最大",
+   "source": "woman.tvbs.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
    "date": "2026-08-28 15:00",
    "cats": [
@@ -219,9 +230,9 @@
    ]
   },
   {
-   "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
+   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
    "date": "2026-08-18 15:00",
    "cats": [
     "stock"
