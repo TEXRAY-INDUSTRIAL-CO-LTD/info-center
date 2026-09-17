@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-17T21:48:09+08:00",
+ "fetched_at": "2026-09-17T23:19:57+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -70,7 +70,7 @@
   },
   {
    "title": "TIFE 2026登場 八國專家共探智慧紡織與永續未來",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40enI3MVBiMmZqRFV5ZXhvS0JKbUY1eGU2d1dqend5NjRxYUR4aThoU3BDTVZWVUNtVEFhOUhpR21sTXBnOHE3OXZra0tLLWhFdUY0Q0EzcVdOQQ?oc=5",
    "date": "2026-09-16 16:01",
    "cats": [
@@ -88,6 +88,15 @@
    ]
   },
   {
+   "title": "紡織應用界面活性劑混合物市場展望2035：快時尚與技術紡織品帶動成長 - 新聞與統計",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMjlPd25kcV9IVlRpa3FvWHd6dVEwcnFpLUxacnlkN3RzZkZOblZ5R09JWURIcm02TVBaQmVyMXE3TjZobnVGejBxYmVFZU14TElTSXlmMTBjUGowbk15MkRFR2lqbzFkbUhUVGJHVTBTLUYyUUVZcF9wYmhtdHZqcEJpR0kwTk8xdW8xYU9MNWhQWjBRMkJfNWlGeG0zQ3NNMXJXbWNSMEVaYldQcXhUN0FKLU0yOTJkWThreW11V1Q3RC12d0tDTDFTQTUzVEtTMWtMYnowRWJJdmlYdjBxVDNvd01UUUhtR2g2Uw?oc=5",
+   "date": "2026-09-13 20:21",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
@@ -100,7 +109,7 @@
   },
   {
    "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcU9meVM5RDhwSnk1TUdtN3l5aEJycEVEcTV5UmhmNUNnR3BnaFQxRUI3R1RxRGtTT0huYWg4UjhpS1o5NnVmZllQVDc5M1FGTzZuRmw1Mk0tZ9IBX0FVX3lxTFB1OG1TSzFwZlY1U290RnNpLXd2X2FZNnVTUW1wTThkRGM1Q3dNeE00bmhrd2hITHhLbXZSWnBvYnlydG1VWWZaRTV4elRnQWdhM3dnVENLNFFJRzlLLXRZ?oc=5",
    "date": "2026-09-10 18:11",
    "cats": [
@@ -109,7 +118,7 @@
   },
   {
    "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
    "date": "2026-09-10 17:37",
    "cats": [
@@ -138,11 +147,20 @@
   },
   {
    "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
    "date": "2026-09-09 10:01",
    "cats": [
     "green"
+   ]
+  },
+  {
+   "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
+   "date": "2026-09-08 16:35",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -174,6 +192,15 @@
    ]
   },
   {
+   "title": "台灣之光！成衣業者登巴黎舞台　業者回應了",
+   "source": "三立新聞",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hbFdYb0hnVVlpWnNzSklTZ2hQazVGamlFd2xaQllqckd0M0txS2YyaDd5MkhqTzZDTTRnUGlsdXR5WU8xSUtHadIBTEFVX3lxTE9GSW1RYko4ZnNTZ0d1WUpEU0E2TFpaR0lkVWJTakNIMWJVRWsxdUpnTVlvdzAxOEZJR0hWZ2FqVFA5NDYtUWx1aV9MWm8?oc=5",
+   "date": "2026-09-06 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "關稅牽動成衣版圖台灣牡蠣殼將穿越馬達加斯加進歐洲| 產經",
    "source": "中央社 CNA",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TERNUWIwNEgtQlhYTDM3akJUSkhNb2lMdWxRdk5aa2pYVUJTTXk0YkRLYXpIRWtVT1BFcUt1UEU1RWViV2E2a3J6Ul84VlFfQnRLdDhIcjl2NkdyaGc?oc=5",
@@ -187,15 +214,6 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
    "date": "2026-09-05 15:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
-   "date": "2026-08-31 15:00",
    "cats": [
     "trade"
    ]
@@ -220,9 +238,9 @@
    ]
   },
   {
-   "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元 | Newtalk",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TUxuVG1tbU51cW85NDRVVkhXYnFuYmI4eXZsX3JYeTIzUE41SUd2WW9lblhHMVhaSVgwdUIxNEJaVHFNT3BRQlRtbWFzRDFKeFU4eWln?oc=5",
+   "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNkJUTzNzVlZYSndXMk9SLTdrb3hKcGpjVWo5VU5heTlRNzFxWXROOHV0WUQzZjBtMHM3dzRmWTRtVl9rWGlMc0FoeUdXSmJ4UXFyYXpPSmhHWXRHUUh1MWRzblJmNTBnejQwQy1IMHNfeXg1ZjBoXzI1VjdfOTRERkd5WFlzTDhDemo0Rzd4TnFKQXlJWm9Fa0Z5dkE0TGdUQ0hnOVNiWUxFSkpVc1pDZkJ6UTVRbVB2TUl3Z3MtaTJBU09aQkZmRlA0X1diOE5UbG5lV2YtMzREXzhJaEREcjZKUEZRMExILXY0WUtlYzZLQTlDOEt4d0VCZVpQemtDazlaTzhQYldEUndhWjI5OGdGOThyNU9rSGZub3pWeVgzSHA2U1ZCdWYweVJzS2U4djBfV1pVZ0o2Ml92U1h6ZHVCR2VwYjR4Y2FuMHdVTUNxd203SGF3dE1Dbmd1Rm81S3gtZUFodw?oc=5",
    "date": "2026-08-23 15:00",
    "cats": [
     "market",

@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-17T21:48:12+08:00",
+ "fetched_at": "2026-09-17T23:20:00+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -238,18 +238,8 @@
    "region": "europe"
   },
   {
-   "title": "Reflecting On Consumer Discretionary - Footwear Stocks’ Q2 Earnings: Nike (NYSE:NKE)",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmp1aUV5S0xmUXhIaXp3aHRvTDVuWjVfZjNDLU52SDJGR2JFWF9PUmxHU1VueFJBeURWbVIya3B3eHZxZW5mSGotbWVFVUZuSXdlU3lVTmRMZVNpLWFoSW9RZ3h3dnVJcFRFazFqV2tiSTNCQlN5ZkhPeEhCd2RXQ1ZDREhtZE12MkNQMWhyTUJqdk5ITDJaOHc2VjZqVlZHWlFSLVB4c0ZpS3VfLVhEOWZWYVY?oc=5",
-   "date": "2026-09-17 04:12",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Frasers Group CEO Michael Murray Named Chairman of Hugo Boss Supervisory Board",
-   "source": "wwd.com",
+   "source": "WWD",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFMzbHBPX2lmc2VTNzVaLVp6YW8wOHcxODEzVl8xU2lkVDFiUUFhQ2xBOXh3TEdMSFhMb2liWlVSX2E3ZFdQNGZmMWhnaUIza2Zrcy1wcE9IMHdKbDFxZ3c5Q18zbmx5MWFEUVlRWW1FckhwVml2cFZYaFV0WDVYSGM1czFwcGJUVkMyVEItZGVybVZLMGp4dTVEN1JmUzJQQnlPdURmX3RXVUM0Vm5Pem5HNGRlNV94?oc=5",
    "date": "2026-09-16 19:00",
    "lang": "en",
@@ -259,7 +249,7 @@
   },
   {
    "title": "塑化慘業裡毛利率飆破3成！50年老廠把人工皮做到比真皮還貴　Nike也得埋單",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Ny1wRzh2ckZIRC0xd280cFdJMVdHcF9oLXVxdFptTlYwRnlKak1yZVQwQUNpYktXdnp4ZHY4TXN5anVxM0JYMjV3VG11WFEyeG9iMmN6YzBfQdIBX0FVX3lxTE1aN2M3MkxRUVl3RW9pUmhncmVfUE9wajFoV3FfR2piNzNqbU9pR1FzOXNFdWNvenVESVZMZFkwdWM1cEhUdTFvdGctQmVCdnFvbDhhTFAtV2RJZFFTMmFJ?oc=5",
    "date": "2026-09-15 18:14",
    "lang": "zh",
@@ -269,7 +259,7 @@
   },
   {
    "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
-   "source": "Yahoo Finance",
+   "source": "finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEl3cEJFdjZFR3FjS0JhZldPYW4teGJWU2EwQXBGbkJBb2p1THQ3MGpQSktTMGNINVBVTTdoUWR2SFd1cFhuYXhNd2tPc3dpUkxuTTdydnBjZU5IaVR2NDA0Ty1sMTlMYjZtX25zcWllVWdHcUpTenpFM0prY3VScDVPMERBUkVYQmFQQW9ZWDV3Sk5qYTI1QnlSWjBxQXlaN1E?oc=5",
    "date": "2026-09-13 00:16",
    "lang": "en",
@@ -329,7 +319,7 @@
   },
   {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
    "date": "2026-09-10 11:30",
    "lang": "zh",
@@ -346,16 +336,6 @@
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
-  },
-  {
-   "title": "【即時新聞】Lululemon(LULU)創辦人傳離婚牽動股權，財測下修致單週重挫17%！",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dQVi1ub0tobjhBcXR6RlQyZWhOWlZ0TVVxUHVJLVJ5MmFLeHYyX0xzaWlwdHRIOW5qd0ZDdUQwTHVacjdoNnFtUTlNVE1FVmxoYkVYNVN5bVVEbVF6THZlR081aUdrelNUSWtmdjBiblVVdUhKNVBPR3ItOFY5V1RvYlBDdElvdHVNbEFiQzI?oc=5",
-   "date": "2026-09-06 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "lululemon股價暴跌17%！全年展望再度下調，投資者憂心未來",
@@ -389,7 +369,7 @@
   },
   {
    "title": "Lululemon 緊身褲賣不動、再砍財測 盤後股價崩18% 新 CEO 將接燙手山芋",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWEswN2phWEQ2Q1BTa2JJZDZoaGZ4WmxQV2NPTklCd0VaOTgzQW9keTc1WkVFNncycXBSX1labzVkMkJFSk5rYTBUX0Y5SWJEYTlJdkJ4Q05GR0g00gFiQVVfeXFMTTdBLUpUbE5tNEpUeVVQNlZDTjJlVHpBcjY2eXZrcU0zZmFtODdLM1l3eUZNVl9VclJTU05zTkNHOEd6MlZWVmI1aEwxaEdhSXdFLWxySWtaUHQ1RU5VaGZ0akE?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
@@ -449,7 +429,7 @@
   },
   {
    "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
-   "source": "Bloomberg.com",
+   "source": "bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdTb19xcWFnamk5QzREampnYnhscU9jMWNDcnk0bG5idnJLQWcwTFcxcThiQ0NMNG9WNjR1QVdFRGNfNUhSUUlzdzFnM1NuYUY3TUVYYmw2aGgtODZ5YzJqeEpZeGIxMUUyZzJ5UWpkVENEYmRIZGpHTlh2NmN1VnE2c2V2QnZSY2NNSFYwZkxLV1YzWF95dEZfbm8xa1JwdTV4TFFkbzhyRlpoWm1KQjd2dEY5YV9XcGdZamRLSEtUSFN5SXc?oc=5",
    "date": "2026-08-27 15:00",
    "lang": "en",
