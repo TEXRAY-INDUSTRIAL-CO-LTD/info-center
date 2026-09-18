@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-18T14:01:40+08:00",
+ "fetched_at": "2026-09-18T21:10:34+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,8 +158,28 @@
  ],
  "items": [
   {
+   "title": "Salomon targets $3bn revenue",
+   "source": "Snow Industry News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzlUbnVFd2JWd3JUQk95TngwaXEySHlfQzFwUU5pU3FiaUp5MWtYOVNiNmI0elY5ZHNubWVDR0dibTJyQVpaVDdJSEtUS2RaQ2ktZUptZEZrZjBpN2wyUWFZUlF5d0RIVzkweS1GakpFdl9ab1NQMXNaeExYZHVJcUtyQTAzNlFDSFVPZWF6a1BxLWZXUVE?oc=5",
+   "date": "2026-09-18 20:36",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "鬼塚虎 3 年營收翻 3 倍、獲利率稱霸集團 5 大事業！亞瑟士為何忍痛分家？",
+   "source": "經理人",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDOVBmWUtJUFN4NTEzZEJqS29ERkJneG1DREdXVEtwVUNxQVduMUx6UHdXRDVMakFjNVRRQTA0RWhkOEV0R2EtMWtxRlVhalBNNWl1WnRvU3JLbUZzSTZWcg?oc=5",
+   "date": "2026-09-18 16:09",
+   "lang": "zh",
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
+  },
+  {
    "title": "Spending 12.3 Billion Yuan on a \"Non-Controlling\" Stake: The Three Key Ledgers of Anta's Acquisition of Puma",
-   "source": "36 Kr",
+   "source": "36Kr",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwemN3QVNNYkdycWtybnRnQ3l0QUJ3QmNJUXpJVW04MWF4WWRnLUYyanU0YTdZRDF2WE0wTlV6MUNuNm5nbjZldmRucnA0TFBVa1Zn?oc=5",
    "date": "2026-09-18 11:44",
    "lang": "en",
@@ -171,21 +191,11 @@
    "title": "Amer Sports' 2026 Outlook: Margin Expansion Drives Growth as Direct-to-Consumer Model Scales",
    "source": "The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnA2YUVpVTluSDFla2Rpbm80M2ZJV3g5c0w2X2djMDYzR09iclpqUHRZVVVMdXQ4cnpuZ3FueThTVTcyWG9FR1cwRmFldWltWXRsTGtsYW8wOGMyNlgtUHhTZU5GUjdRbjRYa1Y5V29rNUhFd01mbUZyd2VSYXlFejNILU40cDJ1eFJZMTRvbkF4VmRTazQtRTNKUUo2bFJqVWYteE1aSC03ZFNmendoOXM1NC1rNGFrWU9LM2pmUXd0RzFaXzB1bEtOU0xwUzNMY2xtVGJCSHBHUQ?oc=5",
-   "date": "2026-09-18 10:34",
+   "date": "2026-09-18 11:00",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "Lululemon (NASDAQ: LULU) Shares Crater 18% In A Month As Guidance Cut And Brand Pressure Raise Serious Questions",
-   "source": "foreignpolicyjournal.com",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hUMkhtd3hmdXFfam9TdWdybmttNUd0eEJJVEE0MGdGRDFta255c2d5U0tWeVVWUF9PMHZMT2t6dlFBZEQyRmtuaFVzY2VhakVlMlpma3hRU1JfS2d2Mm14MGx5dkdjdHV6bHEzSnNzMWV5S0dMV25DeHJudmpSSHJaakZVeTJobmNrSGthcGszenU3dzJLdmRTUWU2NEJnWTBhcjFZclBIUjZsOTZfYnlhZHRxV0lZcmJMZGRJTW10WFNqbk42eFJrZVlCTURCaTNiOGFHMk9oS0hvOG4teUZBUjU4MlBqQlBCb3NR?oc=5",
-   "date": "2026-09-18 07:22",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "Salomon Aims for $3 Billion in Revenue by 2028",
@@ -218,16 +228,6 @@
    "region": "americas"
   },
   {
-   "title": "Adidas India layoff: Why German sportswear giant has fired engineers and data scientists",
-   "source": "Firstpost",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVhLX1VaWER3V3RaYXRHSTd6LWozQjF0ZWdMdWRzMDRkQXNqZy1GUktjZEVhUDNpYjJUSW1PLUFOY2k1Sm5pdlhoZVI5YUFTSW5hUWpqRTZKUUpRV3dtZkFiMzd3UExkZmQ4U0h1Rnl3dzRJQm5SNXlHdFdVc1dOZ1FIalJfOFA2MnlwdTBOb0Jpakd6WXZFSlQzdWZKN21qSEVhWHk0bjd4WkdDNnlUalN1ZlRyZWNNZXl3cjBIOXR6UTM0Vk5tZEFwY1V6R0MxSGxwX9IB2gFBVV95cUxNcGVBZTdRendtVGx2WElyenhxS3lKNWtuZlp2RlNCQ3ljT1QzQ3dsUWdiYUhhbWpOc01GN3RYMzhyU3VDY0F3Z2doclVmSUhTaVN1ampTZ2ZRVTkyeHNnQTZqbUtIMG5oNDNyb3hSWmdGZk5aWHhpX1R2eTRtRVAzU0xvX1dfM3RETTRlZXExdlJjdkR5RTVUZlZfTXlFelBLckZ2aVZTZnZKSm9pMEVHb1pfdVNtMFI3ckxCWEVHUnlGSmVScVpldXljc2d4d3M3eW1FUnBBRngydw?oc=5",
-   "date": "2026-09-17 17:43",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
    "title": "塑化慘業裡毛利率飆破3成！50年老廠把人工皮做到比真皮還貴　Nike也得埋單",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Ny1wRzh2ckZIRC0xd280cFdJMVdHcF9oLXVxdFptTlYwRnlKak1yZVQwQUNpYktXdnp4ZHY4TXN5anVxM0JYMjV3VG11WFEyeG9iMmN6YzBfQdIBX0FVX3lxTE1aN2M3MkxRUVl3RW9pUmhncmVfUE9wajFoV3FfR2piNzNqbU9pR1FzOXNFdWNvenVESVZMZFkwdWM1cEhUdTFvdGctQmVCdnFvbDhhTFAtV2RJZFFTMmFJ?oc=5",
@@ -248,20 +248,10 @@
    "region": "americas"
   },
   {
-   "title": "陸市場監管總局無條件批准安踏收購PUMA 29％股權案",
-   "source": "翻爆",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbmRLUEdacjBvM0diWkY1R2xqSHU5SFdzejd6aTlWMXBjbjlwUVVRQURXSHNKRktsZEx2aVk2ZTJCQURsa2Q5OGtaRjdETHRZSFp6eW1ONEJDTDEtajdtNUZhNmhuSWpQQWFfXzAySQ?oc=5",
-   "date": "2026-09-11 13:11",
-   "lang": "zh",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
    "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
    "source": "財訊",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
-   "date": "2026-09-10 16:57",
+   "date": "2026-09-10 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -271,7 +261,7 @@
    "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
-   "date": "2026-09-10 12:27",
+   "date": "2026-09-10 15:00",
    "lang": "zh",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
@@ -288,20 +278,10 @@
    "region": "americas"
   },
   {
-   "title": "lululemon股價暴跌17%！全年展望再度下調，投資者憂心未來",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXN3M1EtdHhPbFIyY0tsbWdsT29QNkJKc3gtNG9DNnViTjd1NnRBU3pnRElGeWUxMldHZzVCS1VNdEdrLVRXbWdCM1hwT1JKZXVPV0hjaHBMQV9mVVVYd1phTkNQSWE3VHNOWEJjWnNzQkhKU0RtMk5DbHRGUV9NVHE5UDRHZ2NqR0tkclRB?oc=5",
-   "date": "2026-09-05 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "lululemon athletica (LULU) 股價暴跌16.7%，2026年展望下修，投資者信心受挫！",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzExOXZQQ2dwNHA4T2lmNVFxWEhiMHh1OHdLOWVQTGZrZ1dRVkpfaXhWMWhUNk5kYVUyWkhqelJJTVVqdHZOLThRaUp3UEJzVmo1QjBmek52bWFkd2Nfbzl6OF8wTEQ0anZRdGh5YmVsZDUzcU9kQXU1bm9Pdm1ua2Jsazk3QzZlWmlZMzZ3?oc=5",
-   "date": "2026-09-05 15:00",
+   "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
+   "source": "news.cnyes.com",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSEJFTURTSC0zbFZuRFJfMi1YWkEtRWU5a2JIY2NEUEdWRHI2eWItQmNBYkxhaGJZbnN1d2JBWGNETHpOckpBcHdXQ04taU0?oc=5",
+   "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -322,26 +302,6 @@
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWEswN2phWEQ2Q1BTa2JJZDZoaGZ4WmxQV2NPTklCd0VaOTgzQW9keTc1WkVFNncycXBSX1labzVkMkJFSk5rYTBUX0Y5SWJEYTlJdkJ4Q05GR0g00gFiQVVfeXFMTTdBLUpUbE5tNEpUeVVQNlZDTjJlVHpBcjY2eXZrcU0zZmFtODdLM1l3eUZNVl9VclJTU05zTkNHOEd6MlZWVmI1aEwxaEdhSXdFLWxySWtaUHQ1RU5VaGZ0akE?oc=5",
    "date": "2026-09-04 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "【即時新聞】Lululemon(LULU)財報爆雷股價跳水15％，下修全年展望還能追嗎",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pWDRMOTFMWnB2X2JXdU1mc1JDU1c1NjZIdzN4MzJrVHM1WG1rN2RYSzFpN3RITHpEckFvQUlVTUhfcXpDcXNXbzl4UEtGUUpSbEVpU3VKalJSZW1iNzdsazNuYjlDYlk?oc=5",
-   "date": "2026-09-04 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
-   "source": "Yahoo 財經",
-   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUg0NVBxbEpieGx0QU9scnN2WW9TdmRXYzJacHRnbjFVQ3doSk1YcFFmelVHdDNoVEJWdmRJNFlwbDVIZkxEUllfNUxBUWR6cXo5akJkamphWmN4UXZPZkFRMFJGUWNQek84SlQzQ2F1QTV3ZmZtU29JTnZhN2pmLW1fcWc2THdsQlpDYzhXekxtNzVtS3JyLVY3RVVGYlBuYWJac2djY1pjU1ZxSGh1MHRQNS1wY29XVXJwbm5jekRtRUIzZlhFa1VEUXF2akk4am1HOGdTcW11cjJ3VlpqWGlUQ3lsc1UyWjNReTFsc3BQMGo1UVFFVUthdExDZUFScnN3d2NuVGNSMzYyeXprb0E1eEJBdWRIQ2Nqekxnb1ZBdmNEb2J4YzZtSWJBelJxT2NOelhJZW52d2V3ZkMwUDBaOGdhYkQ0WGYtOGMwajlpQ0cycVJoY1A1cEhJTXg2?oc=5",
-   "date": "2026-09-03 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -369,7 +329,7 @@
   },
   {
    "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
-   "source": "bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdTb19xcWFnamk5QzREampnYnhscU9jMWNDcnk0bG5idnJLQWcwTFcxcThiQ0NMNG9WNjR1QVdFRGNfNUhSUUlzdzFnM1NuYUY3TUVYYmw2aGgtODZ5YzJqeEpZeGIxMUUyZzJ5UWpkVENEYmRIZGpHTlh2NmN1VnE2c2V2QnZSY2NNSFYwZkxLV1YzWF95dEZfbm8xa1JwdTV4TFFkbzhyRlpoWm1KQjd2dEY5YV9XcGdZamRLSEtUSFN5SXc?oc=5",
    "date": "2026-08-27 15:00",
    "lang": "en",
