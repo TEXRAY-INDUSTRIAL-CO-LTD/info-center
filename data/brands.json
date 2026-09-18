@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-18T21:10:34+08:00",
+ "fetched_at": "2026-09-18T22:40:03+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Raised 2026 Outlook Could Be A Game Changer For Levi Strauss (LEVI)",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWVYZGk0cC1RbUc2TkJ2dngzdktlMUlEcWd6ZEFhSTNaa29FaG9RLTVXOGV0YktMS2QwN3h2UjU4MTRlV0U4amlHSUVCOE9OS005VEhLT1dyYTFwVzBvU2pQdWQ3aExra0U4ckl5V3VoSUZTemZhckF4V01zWTN6b2pmdkNfcm5UTDFyNkpOXzBIejdtVzg4YTEweXNndXRnNUtyS2ZIUkx3bU1TNXk1Q0NCVnRRSW5BT0pNZHNqVDFrLWtvWV9Rd2loRkk1WkhLTldiYtIB2gFBVV95cUxNakF2SXFJMUhnMm8xUHhXd3haRFVmSURXTlBaRUlDNV91NldLZnJzT0VNUGZSX0drRmFGRHpRbTNHTFNjYWdRaXROUmxlSm5VSlFDazJCNjZqYmJWTXo5azM0WGN5WF9IY2lqMldaZGhNeWhNb1YxN3dFS3NyVm1RM1VvUmNfTUk5XzA0ZHVLdWJ5aFk1TmNmZkFHempIWjhUcUloZ2JnTXhzOUxBSGhLbW5mcWlTVEVDSWtlRjlpRFByWE1rYkRMeUstdDdfa254MVpWNVVvcHVxQQ?oc=5",
+   "date": "2026-09-18 22:31",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "Amer Sports lifts Q3 revenue growth guidance to 22%",
+   "source": "Sporting Goods Intelligence Europe",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEFUOW4yNnVKZVM4YU9Eb2pYV25DR2Y4eW0tQ3NFT0ZYYzN3aVpXTndSR1pqT0VIaFhmVHNYSEFTN25Fb3Y1WS1faGJlbXUxWmpkc3J4c2ZNWVhJcklscDFLTWlwX25Iay1DYTRydkdZZi1rcW9UTzVIOVJZaE9zT0t5ellXLUlwQVRyZW5fYUllamViQ285LUVMZ2l2dkV5QU0w?oc=5",
+   "date": "2026-09-18 21:53",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
    "title": "Salomon targets $3bn revenue",
    "source": "Snow Industry News",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTzlUbnVFd2JWd3JUQk95TngwaXEySHlfQzFwUU5pU3FiaUp5MWtYOVNiNmI0elY5ZHNubWVDR0dibTJyQVpaVDdJSEtUS2RaQ2ktZUptZEZrZjBpN2wyUWFZUlF5d0RIVzkweS1GakpFdl9ab1NQMXNaeExYZHVJcUtyQTAzNlFDSFVPZWF6a1BxLWZXUVE?oc=5",
@@ -192,16 +212,6 @@
    "source": "The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnA2YUVpVTluSDFla2Rpbm80M2ZJV3g5c0w2X2djMDYzR09iclpqUHRZVVVMdXQ4cnpuZ3FueThTVTcyWG9FR1cwRmFldWltWXRsTGtsYW8wOGMyNlgtUHhTZU5GUjdRbjRYa1Y5V29rNUhFd01mbUZyd2VSYXlFejNILU40cDJ1eFJZMTRvbkF4VmRTazQtRTNKUUo2bFJqVWYteE1aSC03ZFNmendoOXM1NC1rNGFrWU9LM2pmUXd0RzFaXzB1bEtOU0xwUzNMY2xtVGJCSHBHUQ?oc=5",
    "date": "2026-09-18 11:00",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Salomon Aims for $3 Billion in Revenue by 2028",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXVhallQd0FhaXlNV01MRVNKNFZqa2QzN1VGVktOTXlJRGtqV2NnNWluSFdKQk5UUENQT3pSRGRQUUQ3bDlaY01nWXBRaEtNUGJQY0lnWUdRTi03MVlqeXJib19jaDJNcXQyOXV3RXF1YlJIb2NkN2xMM2duNlBYV3YxaTViWi1EVV80eVRKQk4xU0xwcXMxRllUVUlVM2I0OFdramRYUWJQR09jdDlEWnNWWkY0MEZXQmxR?oc=5",
-   "date": "2026-09-18 03:13",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
@@ -278,6 +288,16 @@
    "region": "americas"
   },
   {
+   "title": "【即時新聞】Zara母公司印地紡(IDEXY)上半年營收增逾7%，看好下半年銷售動能持續發酵",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamx3WjZzOGM2Z1B3aHBSQk1CYUJIdVNvZXl2SHZxMHI3T3RtaTBrb1RSNlJzYVU5RFlhSFA4U1hTRjFkVm5iTm5fcWRpaUw1by1pdnBieEp6VFJQUDQxamhzYkNDdEZadXNUanl5UjBNcmJlY25ubkhNLXk3QVZVVnlnRWUyVmZiLUJ4Xy04ZGo?oc=5",
+   "date": "2026-09-09 17:23",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
    "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
    "source": "news.cnyes.com",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSEJFTURTSC0zbFZuRFJfMi1YWkEtRWU5a2JIY2NEUEdWRHI2eWItQmNBYkxhaGJZbnN1d2JBWGNETHpOckpBcHdXQ04taU0?oc=5",
@@ -308,23 +328,13 @@
    "region": "americas"
   },
   {
-   "title": "天候不佳、UNIQLO日本同店銷售陷萎縮 迅銷大跌-新聞內容-基金",
+   "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
    "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenkxZ2U4cUtsSk9feXowczF3U0E3UkxoMmxPR2FRdDN6Ui04Uk5IRjJ5X3gwZUNNdDR2RWFOVHJId0NqamwxemxmaU9yd0toODhrdXNIVk54bFd1eUl6VkxOUnNpbGRuQU1nN1Y1TVVpN0tCQUFqdkdObTNGSTIxZ3UyYnJyU3gtLWs4bGwzbUs?oc=5",
-   "date": "2026-09-03 15:00",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
+   "date": "2026-09-03 08:58",
    "lang": "zh",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
-   "date": "2026-08-30 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
    "region": "apac"
   },
   {
