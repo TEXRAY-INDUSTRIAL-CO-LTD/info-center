@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-17T23:20:00+08:00",
+ "fetched_at": "2026-09-18T14:01:40+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,24 +158,64 @@
  ],
  "items": [
   {
-   "title": "UBS cuts Nike stock price target on weakening sales trends",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUFwVlRJSlRVMHZZZF9DRDhXSVVuRnZKY1JUMzhtWERKeTBQRG04amFCc2FobENGSHR6UUxLR0VreWNjY0dJbGZmdm5aNUpxQ2dyckE3bVR2aEF1dUw2aVNtVXVLWUdKSExJcWhPUHdGR3BiREo0RnRSTWxMV3VZSEZqSUJLR0liYUloaXUzMHBzWlEzbUZkRzRyQWdPbWRaYnFpSHV4QnU3cXJ3NjVwSWI3U2Q3WXU3SXc?oc=5",
-   "date": "2026-09-17 21:29",
+   "title": "Spending 12.3 Billion Yuan on a \"Non-Controlling\" Stake: The Three Key Ledgers of Anta's Acquisition of Puma",
+   "source": "36 Kr",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwemN3QVNNYkdycWtybnRnQ3l0QUJ3QmNJUXpJVW04MWF4WWRnLUYyanU0YTdZRDF2WE0wTlV6MUNuNm5nbjZldmRucnA0TFBVa1Zn?oc=5",
+   "date": "2026-09-18 11:44",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "Amer Sports' 2026 Outlook: Margin Expansion Drives Growth as Direct-to-Consumer Model Scales",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnA2YUVpVTluSDFla2Rpbm80M2ZJV3g5c0w2X2djMDYzR09iclpqUHRZVVVMdXQ4cnpuZ3FueThTVTcyWG9FR1cwRmFldWltWXRsTGtsYW8wOGMyNlgtUHhTZU5GUjdRbjRYa1Y5V29rNUhFd01mbUZyd2VSYXlFejNILU40cDJ1eFJZMTRvbkF4VmRTazQtRTNKUUo2bFJqVWYteE1aSC03ZFNmendoOXM1NC1rNGFrWU9LM2pmUXd0RzFaXzB1bEtOU0xwUzNMY2xtVGJCSHBHUQ?oc=5",
+   "date": "2026-09-18 10:34",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Lululemon (NASDAQ: LULU) Shares Crater 18% In A Month As Guidance Cut And Brand Pressure Raise Serious Questions",
+   "source": "foreignpolicyjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hUMkhtd3hmdXFfam9TdWdybmttNUd0eEJJVEE0MGdGRDFta255c2d5U0tWeVVWUF9PMHZMT2t6dlFBZEQyRmtuaFVzY2VhakVlMlpma3hRU1JfS2d2Mm14MGx5dkdjdHV6bHEzSnNzMWV5S0dMV25DeHJudmpSSHJaakZVeTJobmNrSGthcGszenU3dzJLdmRTUWU2NEJnWTBhcjFZclBIUjZsOTZfYnlhZHRxV0lZcmJMZGRJTW10WFNqbk42eFJrZVlCTURCaTNiOGFHMk9oS0hvOG4teUZBUjU4MlBqQlBCb3NR?oc=5",
+   "date": "2026-09-18 07:22",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Salomon Aims for $3 Billion in Revenue by 2028",
+   "source": "WWD",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXVhallQd0FhaXlNV01MRVNKNFZqa2QzN1VGVktOTXlJRGtqV2NnNWluSFdKQk5UUENQT3pSRGRQUUQ3bDlaY01nWXBRaEtNUGJQY0lnWUdRTi03MVlqeXJib19jaDJNcXQyOXV3RXF1YlJIb2NkN2xMM2duNlBYV3YxaTViWi1EVV80eVRKQk4xU0xwcXMxRllUVUlVM2I0OFdramRYUWJQR09jdDlEWnNWWkY0MEZXQmxR?oc=5",
+   "date": "2026-09-18 03:13",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Nike First-Quarter Earnings Likely to Miss Street Views Amid Sales Slowdown, UBS Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWNPWU11el9oLVp1TFdjMmU1U0dxMjdYc2g0SFRQRDJteXI0bUJaNWtQSXVxd0xFcmRjdzRMWEZ5a3NOXzFwbk1oalNzeEtHUXZNdGpMc0g0R3BpeVBDbXEwU3Q5Q3Z4aDctUmtzVm13WW51aGhFenVjSkZ2bFpXcmZ2SHNVR3E0cUhTTGZ2THd5RjZoZGFTekhoSEJkekRp?oc=5",
+   "date": "2026-09-18 01:01",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "Hugo Boss Names Frasers CEO as Newest Board Chair",
-   "source": "Business Chief",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnhmNnpqN3hNZUhSUzMzZEljQk9wdm9DTmpiLS00R1VoR2lKZHpGblVVcGlYTW4yWmRYVWtrbDhrVUVhalFiWmlDdlNHTDBiR0pWUE1LOWtKTlp3Ym0wMkJXbHdUM1EzYm91MjAtZWhaeXVDc3dxRUx3M3doMkpMU2xJQXVUMUU?oc=5",
-   "date": "2026-09-17 18:21",
+   "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF9IOFZUMVFDZHZTMllSbWdvTU5OYjZFSFZsUFNyMWNaSjFPMlZZdWlJYjl6VW50d1k?oc=5",
+   "date": "2026-09-18 00:42",
    "lang": "en",
-   "brand": "hugoboss",
-   "brand_name": "Hugo Boss",
-   "region": "europe"
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
   },
   {
    "title": "Adidas India layoff: Why German sportswear giant has fired engineers and data scientists",
@@ -188,91 +228,11 @@
    "region": "europe"
   },
   {
-   "title": "How Raised Revenue Guidance At Amer Sports Stock Has Changed Its Investment Story",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHY4SG4yeHRJVnRjWlFJbGFUa3VJV2l1UDI1RGx2ODVvOVFxcktSNGgwcmM3TFQ0WDBNMmNIVGNhVTVIQlRrQTZWcndOMEhwbWpYQ3BIZ2xmVnQ0a3dCQnk5SG1GODN6a3lyWG50SVFqdExwa2hrZXZ1SEo1NVA0T0EyM2xWMFJMZ29BWG9FV3F6UG04MDljWU9idWZfSHBVbF93dlYxdXlTQnFlOUdDa1k2cGNKbDhfYTdzNGhLWlk5SjlmaWYyVnNSUGxKZVlO0gHWAUFVX3lxTFBBYTlBSkdVNFU5QWFfcEQyaHpEWHZsaFpucDEyOTRMRUNRN1dqRHZRMHk5WHIyOFlYS1hFWEVJNTRjVjE0RnROVE5wQWVxVFBZYWl0dnd2ZjVUYVRQYTRaZm9sWnl0SmtpY043dll1X1d3cFhtSmZyMC1NZm9IRGFzcEpOZTZOVXFsTG1zVHk1QTlSZUJ2LVpkejZqVlhRVjF4MGpzVmJqdmFpa0VkSnZlUWl3SHBZQkRwY0dsYzR1NDJqRWljRl9WWG9DZnNzclhsN19DM2c?oc=5",
-   "date": "2026-09-17 14:00",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Adidas Gurgaon tech hub layoffs: Company confirms India technology job cuts after September 15 town hall;",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPal9UWDhtVXJ1Ni16dC1hWUl6X0lJTEZEb1RFczhRVW04eFE3bUZTZ1BaOUN3WEVoc2M4d1duMG0wckZsYk5yeTB3Zl9SaW1hY0hrUzJtRDlwRWtrM05Wd3MxekZuLXh2T0p4NXlONmFpTkktUEpNX2xUbTFoNGVQZU1Qb0kzSUZWdWU5eURWX2NzQUh0STh3VUQ1dEZwYmV3ZUh0ZDVoR0xsOUFlYXRTUGpBTXltVHFqb01QYUk2RUxnSEpyVWY1YVhXdTM2blFLSzA3QnEwRmI1YUdnWGFPczZLWWdVYUIzamNGQVdDdWZTd3lOMWpndGJVaTdiNFpyTGppcnAzSGxXSDBHZUd2Sm5uUFNvQ2RNOU5kQzZ1UDVXUkEwSllGeFVQT2xoYlZxZDBDdG54ZHRLd3A4aTRONUhIVlJRcS1tTzNVWkNkbVhFQW0zZ2ZneG0yOUtERVJyUU9jQ01fMGRsc2Y1blFtOEV6c1ItZTM5QldpRU9iM285b3hDaEZ4bnFxdENWaUpUNEFMdEFCVUY5QjktcE5DWDVTbWdqblpackpqb0x2N1JNQl9NZXVkQjJDbXTSAcIDQVVfeXFMUDRtOF9nbXVhZlY3eDVVOEVOZExjLXhuNGFQdnRPQlU1ZXhwVWdiS2NGZkV5UTAxNVladGs5TF9FbHhTaFV4dnB3dS1BdmUwbHhZcWtobHdycFhJWW1Vd2Rqa01LSmZERGNfcDFpM3NBSnVycVNUTTVUSWFsZmNIVzlOWGJOcnp0a1psVHpOSjRUR2NVUFJNdVRHc21OUlVXN0ZseXF5TTdfMTdEZUFHcDNnVXVqVUYxMmJtMlY3U1ZaVzBPSjEyenE5bS1VUEM0UG5GbmQzaFBuLXQ0Rm9Pc2VRSnhtNndLSncxQVQ3eUpta2w0SUNCNXpzR2c2RUN5NE92OS1yX3VheU4yaXNjY1ZWYUtMUDhWcmpqNEE2T2pTbklaWlBJVXRQVV9ldk95Y3YzSUp3bVp2ZnY2TkRZWmdQZjJKdDlsalRqVUNmOFJicmQ2RDJ3YXJRS1l2eVlnaTdvTnRUbFpCbHFMZU02R1VlSkVrb3ZWOFU0MGtzVjZVRVgzX09jMlVjRUFMNzFZVTNTaFJwM2ZUQjQ1cTU5VThGWlcyMTZIQTlWOWVDTHVCYkJLRmlPUHRzSWg4VnVZQzlB?oc=5",
-   "date": "2026-09-17 13:56",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
-   "title": "Hennes & Mauritz (HNNMY) Projected to Release Earnings on Thursday",
-   "source": "MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTERVV3NRNXpCZGNuMzd2enNDUVZtU2VIY1Q1ejJrc3pyVk9Ec2hVRjdaY0FseDIwT1lpZElRaV9sTDU2ek1UVmV1UzhTYndBQmJ1T0NIUFZPZERybnFPeG5jV3JYcjBpMGRmN3BBaW1QUGZyRG1mNlJrcUFoLXJBc3dManZ1Q1lNQmJiTkxINVFNZktVZzBPZjRINGZxM1N3SUJGcFVWTGhXVXBDbU5VZHh5dU91RGxucVA3NXZSZm44N28?oc=5",
-   "date": "2026-09-17 13:16",
-   "lang": "en",
-   "brand": "hm",
-   "brand_name": "H&M",
-   "region": "europe"
-  },
-  {
-   "title": "EXEC: Amer Sports Raises Q3 Guidance Ahead of Investor Day",
-   "source": "SGB Media Online",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDg2allibGkwSFd0SEtPRDVoaURnSmsyQUtfOERLNUk5d2hhYnN1amZxMC1uZjhfNkpDM0Zfc0t0UlZ3UDRCS3lSdGhuVVVTVzBZTG5GRGhfMjdBcVlidnVCck9tXzgwcHFJbTBQQkhuQjZRSzc0ZWduNllXS2d2enZBSUhnWXc?oc=5",
-   "date": "2026-09-17 10:17",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Amer Sports raises Q3 guidance, long-term financial algorithms (AS:NYSE)",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdEs4SU1fZDFwaFdzeDdIdUkzenFGQmRJMkd2b01ZUHpvbU9wUXZ4VDhFUG5sLVFPTVhkZnNWalIwT1prQWdjZXpwbDBRWmNIaS1tSG1HcEZxUDFDbjJvUGtBTHVTRWFEQjVhT2F0Snl4TGFtU3J6Ti1adUUtUG82NDJjNk1fSVJpZWE4d2dLM2NCbncydlRnM3Ezem1PLXNz?oc=5",
-   "date": "2026-09-17 05:03",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Frasers Group CEO Michael Murray Named Chairman of Hugo Boss Supervisory Board",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFMzbHBPX2lmc2VTNzVaLVp6YW8wOHcxODEzVl8xU2lkVDFiUUFhQ2xBOXh3TEdMSFhMb2liWlVSX2E3ZFdQNGZmMWhnaUIza2Zrcy1wcE9IMHdKbDFxZ3c5Q18zbmx5MWFEUVlRWW1FckhwVml2cFZYaFV0WDVYSGM1czFwcGJUVkMyVEItZGVybVZLMGp4dTVEN1JmUzJQQnlPdURmX3RXVUM0Vm5Pem5HNGRlNV94?oc=5",
-   "date": "2026-09-16 19:00",
-   "lang": "en",
-   "brand": "hugoboss",
-   "brand_name": "Hugo Boss",
-   "region": "europe"
-  },
-  {
    "title": "塑化慘業裡毛利率飆破3成！50年老廠把人工皮做到比真皮還貴　Nike也得埋單",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Ny1wRzh2ckZIRC0xd280cFdJMVdHcF9oLXVxdFptTlYwRnlKak1yZVQwQUNpYktXdnp4ZHY4TXN5anVxM0JYMjV3VG11WFEyeG9iMmN6YzBfQdIBX0FVX3lxTE1aN2M3MkxRUVl3RW9pUmhncmVfUE9wajFoV3FfR2piNzNqbU9pR1FzOXNFdWNvenVESVZMZFkwdWM1cEhUdTFvdGctQmVCdnFvbDhhTFAtV2RJZFFTMmFJ?oc=5",
    "date": "2026-09-15 18:14",
    "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon’s (LULU) Brand Problems Force Another Steep Guidance Downgrade",
-   "source": "finance.yahoo.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEl3cEJFdjZFR3FjS0JhZldPYW4teGJWU2EwQXBGbkJBb2p1THQ3MGpQSktTMGNINVBVTTdoUWR2SFd1cFhuYXhNd2tPc3dpUkxuTTdydnBjZU5IaVR2NDA0Ty1sMTlMYjZtX25zcWllVWdHcUpTenpFM0prY3VScDVPMERBUkVYQmFQQW9ZWDV3Sk5qYTI1QnlSWjBxQXlaN1E?oc=5",
-   "date": "2026-09-13 00:16",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon’s new CEO inherits a mess that looks like the one she left at Nike",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREp4SEpUaUZnMlV6ZC1TMFFIU3ZGaDV1SlF1dkV0TTRBOFhWQktiRWtieTJDWGgzS1ptNzc4MUYzTWlSQjdFRUwwTkkxcU5PbldSTDBCaGh4QnZnMkdDY1dVMmJaaDZ5NVdQM0J3c21MVmdZR3JUUHdDVUowaU5rN0FocElIRVFlem1tWnZ3R3I2STNNSzFheWJHSQ?oc=5",
-   "date": "2026-09-12 15:00",
-   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -328,16 +288,6 @@
    "region": "americas"
   },
   {
-   "title": "Zara owner Inditex reports profit miss despite strong August sales",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
-   "date": "2026-09-09 15:00",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
    "title": "lululemon股價暴跌17%！全年展望再度下調，投資者憂心未來",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXN3M1EtdHhPbFIyY0tsbWdsT29QNkJKc3gtNG9DNnViTjd1NnRBU3pnRElGeWUxMldHZzVCS1VNdEdrLVRXbWdCM1hwT1JKZXVPV0hjaHBMQV9mVVVYd1phTkNQSWE3VHNOWEJjWnNzQkhKU0RtMk5DbHRGUV9NVHE5UDRHZ2NqR0tkclRB?oc=5",
@@ -378,9 +328,9 @@
    "region": "americas"
   },
   {
-   "title": "瑜伽褲神話破滅？Lululemon營收急踩煞車，全球運動休閒風潮進入冷卻期",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0pHbE9xMndfZV9iMGJheFl6UmVvOURuVW8tbm1NdUVJVDlVSWpVeGg0bVdSQWRZOE1uMDN0NVRyTVBKX3MtOXliSVRmX0F1aE9UaGx6WTNDSjBzUVk2cS04aUdYbDVJVENSRVBsbmpVRm8yUnQwa1dhM1diVS1oWWt3M29kUGctVEkzMjJn?oc=5",
+   "title": "【即時新聞】Lululemon(LULU)財報爆雷股價跳水15％，下修全年展望還能追嗎",
+   "source": "CMoney",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pWDRMOTFMWnB2X2JXdU1mc1JDU1c1NjZIdzN4MzJrVHM1WG1rN2RYSzFpN3RITHpEckFvQUlVTUhfcXpDcXNXbzl4UEtGUUpSbEVpU3VKalJSZW1iNzdsazNuYjlDYlk?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
@@ -406,16 +356,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "華爾街「地雷股」警報拉響：從Yum、Nike到亞馬遜 獲利品質低恐引爆新一輪暴跌潮",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXJkLUtwRkZyeTZmWFpxa3VRbjJCNjY5ampjc1FWaEVTX3RQdHFoTU5YV0poT29WWmcwWXhZREJzZ2ppcVVHckRoQUgtM1RSWDlKc3o1UmtBYmJERW0yZk5SMlQ2elF5RnJiSDY4UHA3aGpvTUdXYzJ6czFUVF9Tel9rWXVVRFBFRzNnZmZn?oc=5",
-   "date": "2026-09-01 15:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",

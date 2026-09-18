@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-17T23:19:57+08:00",
+ "fetched_at": "2026-09-18T14:01:37+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -35,7 +35,7 @@
    "title": "2026針織科技創新發展大會在汕頭召開助力紡織服裝產業邁向發展新征程- 各地動態",
    "source": "大公文匯網",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUDBnYzBkeElVZXRQNWdYQTFYelJ2NDlGZUl6eWdXNWpWYlFoRjJRSG9qaFhDQUNfdkZKRlN0SnVTUTR1ZmRHQ1Bqbng3Q2NNMHZ6Z1ZLV1F6YUJYbDZwbVNzQXgxNXVXTGpmaUZ5aWQ?oc=5",
-   "date": "2026-09-17 17:56",
+   "date": "2026-09-17 18:02",
    "cats": [
     "market"
    ]
@@ -61,7 +61,7 @@
   },
   {
    "title": "紡織及製衣界：《五年規劃》與《施政報告》有遠見、有實招 陳祖恒支持設紡織時裝發展專組：打下升級轉型強心",
-   "source": "Capital 資本平台",
+   "source": "capital-hk.com",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNUYtUlJNZWYwVHhtb2lYWGU5Y2dycVNMTnNGa1ZSYlliTVRfaW1hWkdadlM2Y2x5U0JkUFBqQXRIdUR6MGhJUTJGRXJMUFdqR3ZZWmtOb2thNmlkZVpQQUhB?oc=5",
    "date": "2026-09-16 16:54",
    "cats": [
@@ -85,6 +85,15 @@
    "date": "2026-09-15 12:23",
    "cats": [
     "material"
+   ]
+  },
+  {
+   "title": "全球能源成本飆升 衝擊歐亞化工、紡織產業",
+   "source": "公視新聞網PNN",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcXE2RjlHNUhuZFctYWNsUHZRVUQ5dmlnbEV6YUtSTHJBV2F3QUR4SVgxdmpBOUNOWUQyX3hFbXJFVlY2U0ZPajRBem5YUzg?oc=5",
+   "date": "2026-09-14 15:00",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -155,15 +164,6 @@
    ]
   },
   {
-   "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
-   "date": "2026-09-08 16:35",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "歐洲經濟成長趨緩 全球紡織業訂單受挫台廠加速轉型",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQTmxCd2pyaXlOWWNkUnoxSmozRGRVejhoeVVpd1JOdVNReU1Wd3dhWG9Ma0hiZTd0akJ4a2NOaExPRzhnRHRRc0ZIZFdSV0YzZjVfczFiY0VTR29GRll6VlQ4eE9IMHRqYW9YWXlRN2RCZXE1WE1oR2FDQ1ctWjhpYUpoSjN0bFBqZnMyeWpVTTlNdGRQc1pMRUJUc2VTanlYUFYyV2p3Tmx2QUxCMzZfU18zZ1Boalk2UnhaYVdITXZIb0pwSG1PV3UwakR0Z3dId09BbkQ0cGl4X2RmZTZjeGR5dER5ZERHY184Q2lpYTdKcllWVE85OTNiVGh0Y21OZTVWcExCUHNQX2hVWGdoV0NwdGUxVkJmcHFWSzEwV2dwUWVUSWQ2SVRtc3p3X1BBZ29OR3BlaGp5c21tX0FTd1ZJbElkZ0lKVTEzemVvM24xUUp3Tjk3elJyZWQzMlVFbHVOUVRIek1uY1ExQkpjWQ?oc=5",
@@ -176,7 +176,7 @@
    "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
    "source": "news.cnyes.com",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
-   "date": "2026-09-07 19:34",
+   "date": "2026-09-07 15:00",
    "cats": [
     "stock",
     "tech"
@@ -214,6 +214,15 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
    "date": "2026-09-05 15:00",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
+   "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
+   "date": "2026-08-31 15:00",
    "cats": [
     "trade"
    ]
