@@ -1,42 +1,42 @@
 {
- "updated_at": "2026-09-04T18:53:23+08:00",
+ "updated_at": "2026-09-19T23:04:30+08:00",
  "dhl": {
-  "percent": 43.25,
-  "label": "8月 31-9月 6, 2026",
-  "start": "2026-08-31",
-  "end": "2026-09-06",
-  "source": "https://mydhl.express.dhl/tw/zh/ship/surcharges.html",
+  "percent": 43.75,
+  "label": "2026 年 9 月 14 日至 20 日",
+  "start": "2026-09-14",
+  "end": "2026-09-20",
+  "source": "https://www.dhl.com/tw-zh/home/express/products-and-solutions/products-and-services-overview/surcharges.html",
   "auto": true,
   "history": [
    {
-    "label": "9月 7-13, 2026",
+    "label": "2026 年 9 月 28 日至 10 月 4 日",
+    "start": "2026-09-28",
+    "end": "2026-10-04",
+    "percent": 46.25
+   },
+   {
+    "label": "2026 年 9 月 21 日至 27 日",
+    "start": "2026-09-21",
+    "end": "2026-09-27",
+    "percent": 45.0
+   },
+   {
+    "label": "2026 年 9 月 14 日至 20 日",
+    "start": "2026-09-14",
+    "end": "2026-09-20",
+    "percent": 43.75
+   },
+   {
+    "label": "2026 年 9 月 7 日至 13 日",
     "start": "2026-09-07",
     "end": "2026-09-13",
     "percent": 43.5
    },
    {
-    "label": "8月 31-9月 6, 2026",
+    "label": "2026 年 8 月 31 日至 9 月 6 日",
     "start": "2026-08-31",
     "end": "2026-09-06",
     "percent": 43.25
-   },
-   {
-    "label": "8月 24-30, 2026",
-    "start": "2026-08-24",
-    "end": "2026-08-30",
-    "percent": 42.5
-   },
-   {
-    "label": "8月 17-23, 2026",
-    "start": "2026-08-17",
-    "end": "2026-08-23",
-    "percent": 42.0
-   },
-   {
-    "label": "8月 10-16, 2026",
-    "start": "2026-08-10",
-    "end": "2026-08-16",
-    "percent": 40.25
    }
   ]
  },
