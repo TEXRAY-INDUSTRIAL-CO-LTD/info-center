@@ -21,7 +21,7 @@ from pathlib import Path
 
 API = "https://api.finmindtrade.com/api/v4/data"
 DATASET = "TaiwanExchangeRate"
-UA = {"User-Agent": "texray-info-center/1.0 (+https://github.com/TEXRAY-GROUP)"}
+UA = {"User-Agent": "texray-info-center/1.0 (+https://github.com/TEXRAY-INDUSTRIAL-CO-LTD)"}
 
 # 顯示順序即此順序
 CURRENCIES = [

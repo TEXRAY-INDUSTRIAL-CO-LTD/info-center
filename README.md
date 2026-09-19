@@ -2,7 +2,7 @@
 
 南緯實業內部用的綜合資訊平台。以「積木」方式一塊一塊擴充:匯率、紡織產業新聞、原物料價格、運費參考。
 
-網址:https://texray-group.github.io/info-center/
+網址:https://texray-industrial-co-ltd.github.io/info-center/
 
 ---
 
