@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-21T14:29:49+08:00",
+ "fetched_at": "2026-09-21T23:20:21+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,15 @@
  ],
  "items": [
   {
+   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
+   "source": "三立新聞",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
+   "date": "2026-09-21 15:44",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "孟加拉成衣廠投資降溫設備 研究：四年內即可回本",
    "source": "民視新聞網",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZW5SVDRFWDkyaWtDWnlLLW5wYTh2MHRmUWpmV1JodlMzZlFYRGN0Zmp4ZUxqV3hsNjZzLUxtYVcxeVhLOFhCZV9NSGZxM3pHMGpYXzBaMExUV243T1BRdA?oc=5",
@@ -59,15 +68,6 @@
    "cats": [
     "market",
     "trade"
-   ]
-  },
-  {
-   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-09-18 17:45",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -100,11 +100,21 @@
   },
   {
    "title": "全球能源成本飆升 衝擊歐亞化工、紡織產業",
-   "source": "news.pts.org.tw",
+   "source": "公視新聞網PNN",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcXE2RjlHNUhuZFctYWNsUHZRVUQ5dmlnbEV6YUtSTHJBV2F3QUR4SVgxdmpBOUNOWUQyX3hFbXJFVlY2U0ZPajRBem5YUzg?oc=5",
    "date": "2026-09-14 15:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
+   "date": "2026-09-10 18:25",
+   "cats": [
+    "market",
+    "stock"
    ]
   },
   {
@@ -128,16 +138,6 @@
    ]
   },
   {
-   "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
-   "date": "2026-09-10 15:00",
-   "cats": [
-    "market",
-    "stock"
-   ]
-  },
-  {
    "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
@@ -148,7 +148,7 @@
   },
   {
    "title": "棉花市場報告：國內價格上漲，國際價格下跌 | Conab數據 - 新聞與統計",
-   "source": "indexbox.io",
+   "source": "IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHdRSDNLcnBlUGJDYmRoZUotRzV5MEsxRzNFazlqenQ3M0Q5VWFTY1V2X2hKdHZjNHE2eGdQQm81dVFGOC0wdTh6THg0WnlQZ3ZfOHk4TExwNjlyOF9VeGNCUW9DR0tvNkxoVVA0UzQ1cGtyd0RpOHB2NGdTdmppTy1TMS1sVTB2V3FycUJQTHdHRFl2?oc=5",
    "date": "2026-09-09 12:23",
    "cats": [
@@ -227,6 +227,16 @@
    "date": "2026-08-28 15:00",
    "cats": [
     "material"
+   ]
+  },
+  {
+   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZ25RUnhnTlhKaE5ta3ZnbjFDYW5ndjVESkN2M1ZDTEdIUEREcU5mQTUySHhEejRNQ1pWQmRZRGhRc3dMMVVmSEZHaWtKYzhTR3lLRUZlOGlwV0w0Q012OWRzdTJIMGJKUHQtT2RTU01PZnBaSmVFWTZYdTg5R19MRmNrS1lDTnRMU19QLWJ5RU1JUS1WWTJiWUZ6bWdKVzNUbmEyd2RhUHdiWm5sUzdtazgyR1JubmZxZEhnZjN1MVh6aS1sYkZvVGQyNndrQVBaSmpOX25qcHRRd3hVX0RYTUZIUWlyODhaZFFwYVljUTZBSC1XZFNlc0NlTVIzbXRiZTV2SkdONG93RzVZa0J4N1V2SzRhUDVwOFpkU0NnOGt2UnRKcVNYclZsY1FSczJWay1vTGpxN2w4UVRLNjNIYThxOG00bkp3MUlUd1J5VHNCVmdVdm1idHZBTDRJUGFRaXpnazlCbEQ2cnFMcG1za1pBV1FZQVFpbHN4bWRuRzdFYmZzcXBhWVB1b29Sc3lEaE9VLU1qaGtsS1Y3TGJzX042QlA?oc=5",
+   "date": "2026-08-23 15:00",
+   "cats": [
+    "market",
+    "stock"
    ]
   },
   {

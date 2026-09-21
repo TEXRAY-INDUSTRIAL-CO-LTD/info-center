@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-21T14:29:52+08:00",
+ "fetched_at": "2026-09-21T23:20:24+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,23 +158,43 @@
  ],
  "items": [
   {
-   "title": "Amer Sports raises Q3 revenue outlook, reaffirms long-term targets",
-   "source": "FashionNetwork India",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDBDRW1CUVgwNVE4RkQ0aXlGN1Y2TGxUTkV4MVpTc2MwVmhVRWlTMUF1M2RsR1JKN21tSFZ6Ymk0cEdicDRhX2VqdTFYajhQV0dHckdLcFBDbU4tT1F2WU1qOEg5QUFEd3E0TkVFZW9GelhwSUR3R0Ffdkt3MHpsZGRmTTU1YXBmMEs5TE1NalRYNHRlTTRiS0xKaXhCTVktUzh0YnpaWGZ1c3BaMGNjekFJOA?oc=5",
-   "date": "2026-09-21 07:28",
+   "title": "The best sales to shop this week: L.L.Bean, Old Navy, The Home Depot and more",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamZzdmVaT0d4UldZVDItQVpQNmoxakRNbVZsUTIzN0lRR0NhWVRYaG9MZThoZUVvb25HZ3cxa1ZVOXVtOUJLTlc4WmxrRXE4TEhxWTMzTGxpYlJ4VFVGU0pibWZ1d01EYjYyNVlQR2xDcllHVUJpVDhuTjF2X2dEWHlBMU5WRzQ?oc=5",
+   "date": "2026-09-21 23:06",
    "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
   },
   {
-   "title": "This Week in Retail: NIKE Adds Alexandre Arnault, Steven Kolb Resigns from CFDA, ALO Opens 9 Stores, M&S Makes Its London Fashion Week Debut, FAO Schwarz Goes to Amazon, CHANEL Renews Villa Medici",
-   "source": "RETAILBOSS | Substack",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3bFF2MzNIN3dxMmRBdjU3VmxqZlg5aDJIVjAzeHpINTA3clVsX3dDa2FVbGhDSklacDV5U0xBQ0hJZXh6dEdMWFAzM1NRTFoxRUcwaXhQaDBiWEVTSHkxVFdWNURhU3AzQkhzcWFLa1FubkpOV1ludDNxNUZ0Zw?oc=5",
-   "date": "2026-09-21 03:27",
+   "title": "Nike earnings expectations get brutally cut down by Stifel analysts",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT25XcUZrSnNIWHJjTm9rb2dTVkNyLUJpTEJ5cUhaaWFzU0VlSm9ZUFljWkNhWEZEbHRMSHNSblFpd2lXVFk4QzV0SFdoN1hNR0JDRmdZcm5XajJGQ2E5a1FCcUh6LW43Rzh6a0Z5LUJMQ2JvRkpFN2pmUFdfSmZiU1R3VjRSa2RCLXZzNkFKZw?oc=5",
+   "date": "2026-09-21 21:55",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Mesa West Funds $27M Loan for Timberland Partners’ Acquisition of Metro Seattle Asset",
+   "source": "Multifamily & Affordable Housing Business",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODdNRWU3RnBuMVFVNkw2Y2lXb1g4bVRRN1MtMWhvUXA4N0V3NWRXUWhaOFFpYjNzM2s1OC1PT3RMS0JGYVZBNWpxT2dvOUw3M1BxM0FIZ0szUnZtODAwcEozRUJ2NkFya1JVYkdFdm1JVEpXQTlJdU9BckgxT2pCQ1gxRHV6cFNGZkN4aC1yUFd0U3RkV0VocWI5QktYUFoxa3ptRGNWOTlIcHFZZ0hYbnh5NWNKVXh3WVlxbDVydWxvMUU?oc=5",
+   "date": "2026-09-21 20:00",
+   "lang": "en",
+   "brand": "vf",
+   "brand_name": "VF Corp",
+   "region": "americas"
+  },
+  {
+   "title": "LULU Loss Alert: Lose Money on Your Lululemon Investment?",
+   "source": "GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQOW9CTEpqU1hJT1VjMUhueE9HdnhDZXl2WEVBc04zTG1RY1hfTXdkZGVmZnBJeXRLM3VjXy1lcUZheTg0clhIUFhwRFhyVzBXcjVvLUdNTE9KTmlyc29uZHJadkhyQjZFWTN4Y1NnNzRaYkI0SlZMZ3VBUHo3U1BSaU9RRVQ2dkRNLXcwMnBHMTZaMVlkcS1TRUJfeGpOQ1NRelNka2dLMDBncWJYMGliRGJHNmFlQ2JpVVdEMVUydW9JWjQtUUtkZlRBNHhEUDdEb0p5Y3NJUGo3X0JMd3hPRjR0VjMzbkgwUkpiVzJJd1p6RG1LQ0JkQXo3cW8tam5xQ01Ld3JVSVZQWjVySFNfOHphaDJCOE5MQW1kWnpZZWdsaEdWOFE?oc=5",
+   "date": "2026-09-21 17:47",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
    "region": "americas"
   },
   {
@@ -188,64 +208,14 @@
    "region": "americas"
   },
   {
-   "title": "UVM Athletics Announces Team-Specific Stores Open Until September 28 with Nike/BSN Sports",
-   "source": "University of Vermont Athletics",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1V1czBWSWdCT0N4NFEzTmJHdE4wUDEySGZnZU5Wei1aWmMzeTBKUXpfdWM2eHNMaDBUQ2pVRlFjOU5PZVBoQ1owdDQyZVpUYXZCUVZPamhvOERYUDNvQW9Wb3ZmS2dibzBLRDFUU2c0Z0FxNkptWEJrNFVkREdWUDZ5WWxBQmxCV2VqUExZRVZ2cW9zTmwzbmVmMDd0MDRONXFIUGxPRmJCNUxLWVZXZGxkTWZHMG5vUFlleU9NSVFvZ19DVVdTRFdVVVZKV21RU2ZHLXpQNTQ2UDR3?oc=5",
-   "date": "2026-09-19 00:12",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Amer Sports lifts Q3 revenue growth guidance to 22%",
-   "source": "Sporting Goods Intelligence Europe",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEFUOW4yNnVKZVM4YU9Eb2pYV25DR2Y4eW0tQ3NFT0ZYYzN3aVpXTndSR1pqT0VIaFhmVHNYSEFTN25Fb3Y1WS1faGJlbXUxWmpkc3J4c2ZNWVhJcklscDFLTWlwX25Iay1DYTRydkdZZi1rcW9UTzVIOVJZaE9zT0t5ellXLUlwQVRyZW5fYUllamViQ285LUVMZ2l2dkV5QU0w?oc=5",
-   "date": "2026-09-18 21:53",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Amer Sports' 2026 Outlook: Margin Expansion Drives Growth as Direct-to-Consumer Model Scales",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnA2YUVpVTluSDFla2Rpbm80M2ZJV3g5c0w2X2djMDYzR09iclpqUHRZVVVMdXQ4cnpuZ3FueThTVTcyWG9FR1cwRmFldWltWXRsTGtsYW8wOGMyNlgtUHhTZU5GUjdRbjRYa1Y5V29rNUhFd01mbUZyd2VSYXlFejNILU40cDJ1eFJZMTRvbkF4VmRTazQtRTNKUUo2bFJqVWYteE1aSC03ZFNmendoOXM1NC1rNGFrWU9LM2pmUXd0RzFaXzB1bEtOU0xwUzNMY2xtVGJCSHBHUQ?oc=5",
-   "date": "2026-09-18 11:00",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Salomon Aims for $3 Billion in Revenue by 2028",
-   "source": "wwd.com",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXVhallQd0FhaXlNV01MRVNKNFZqa2QzN1VGVktOTXlJRGtqV2NnNWluSFdKQk5UUENQT3pSRGRQUUQ3bDlaY01nWXBRaEtNUGJQY0lnWUdRTi03MVlqeXJib19jaDJNcXQyOXV3RXF1YlJIb2NkN2xMM2duNlBYV3YxaTViWi1EVV80eVRKQk4xU0xwcXMxRllUVUlVM2I0OFdramRYUWJQR09jdDlEWnNWWkY0MEZXQmxR?oc=5",
-   "date": "2026-09-18 03:13",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF9IOFZUMVFDZHZTMllSbWdvTU5OYjZFSFZsUFNyMWNaSjFPMlZZdWlJYjl6VW50d1k?oc=5",
-   "date": "2026-09-18 00:42",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ1LUpaRkxBMnFsZzJiek5ueDJ1VUlUTG9qVEJDZnpiaGNmSHZDU1hOVzNyR3ZPWFRjUWVJOFJDQnB3YThLcV8ya1h2Y2hNOGVpOGdMTWZ2dHNfN0pyUTlhWlBOOFlmbzB4UG5ZTnd6MEhwQTNlUjk1WXVuTmdRckh5bmtkMTlzNjZ2TDJB?oc=5",
-   "date": "2026-09-12 04:37",
+   "title": "鬼塚虎 3 年營收翻 3 倍、獲利率稱霸集團 5 大事業！亞瑟士為何忍痛分家？",
+   "source": "經理人",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDOVBmWUtJUFN4NTEzZEJqS29ERkJneG1DREdXVEtwVUNxQVduMUx6UHdXRDVMakFjNVRRQTA0RWhkOEV0R2EtMWtxRlVhalBNNWl1WnRvU3JLbUZzSTZWcg?oc=5",
+   "date": "2026-09-18 16:09",
    "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
   },
   {
    "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
@@ -255,6 +225,16 @@
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
+   "date": "2026-09-10 15:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -342,6 +322,16 @@
    "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
    "date": "2026-08-30 15:00",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdTb19xcWFnamk5QzREampnYnhscU9jMWNDcnk0bG5idnJLQWcwTFcxcThiQ0NMNG9WNjR1QVdFRGNfNUhSUUlzdzFnM1NuYUY3TUVYYmw2aGgtODZ5YzJqeEpZeGIxMUUyZzJ5UWpkVENEYmRIZGpHTlh2NmN1VnE2c2V2QnZSY2NNSFYwZkxLV1YzWF95dEZfbm8xa1JwdTV4TFFkbzhyRlpoWm1KQjd2dEY5YV9XcGdZamRLSEtUSFN5SXc?oc=5",
+   "date": "2026-08-27 15:00",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
