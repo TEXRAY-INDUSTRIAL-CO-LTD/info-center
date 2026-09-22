@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-22T00:37:02+08:00",
+ "fetched_at": "2026-09-22T14:20:37+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,36 @@
  ],
  "items": [
   {
+   "title": "X-C Lady Bucs’ small varsity squad delivers big results in Adidas Challenge",
+   "source": "My Buckhannon",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHNnOEFiZlJMazNUck9jbExIamprTWw4ZTFmV29tOTU3eWt1My1jSzlrX0hmdTBZTjM2WXN3cmtGNDR4R01oTXl3dndVanZMeGFpVTZCaXdwWFlySXQ0TTVyMGlqMmR0MjBPR0U5a2NPQmw3NWF2QktSZVpzV2RiT25CV0VLa1FFUmMycmJLRk1hMDM3VVEtRTZRb0pfbTk0WWl6T0hBUQ?oc=5",
+   "date": "2026-09-22 11:23",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "Salomon Shooting for $3 Billion in Revenue",
+   "source": "SnowBrains",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQVNhUml2Z0FvSDhvemxMRU1UUXUxZll4SndFaW8zZmlDdWNzbk9rS1FSeTR0WHAwZlVXZ2VZR2o3NVRvMHFFM0tHVHBzbEtWYzdHMFRRTG1GaWNZc1Z1UDZEOFFweExUeW1vbl9rQkRGY28?oc=5",
+   "date": "2026-09-22 06:17",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Elliott Hill: Nike Lifer, Athlete-First Leader, and President and CEO of NIKE, Inc.",
+   "source": "BBN Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGl3RjFuZFdsSmdJVWxyOFBGSU1iZmQyRkdqak1ZTU9iSEREZnBxcFE0UkpwTF9fajZLQzZLZ3BDNW1xaUM0MlRFa19FbTkwY2Vub04xaXBEYWhBdndqTkljV2JGRTF5S2lReEJIeUF0ZEVPOVFGaG55dDJTaHpUczRzRXczU0thdWx6eV8xQ1dKRzBaNUJNUkRZdDhxTGRnbTM1SzJMZWplQ2k3YmhBVGNTTQ?oc=5",
+   "date": "2026-09-22 06:13",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Nike Faces $300M World Cup Boost — But Stifel Sees A Bigger Margin Squeeze",
    "source": "Benzinga",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGlYQjVuVmllbXdQQ25mQm9jREdORDN4OWt5ZVZxWEtJcFF1UTFaUXJpSTFMRU0wU2VtbXRxMnF2a1hGUXZpT2dxRjVBUDAtNjFWRTJFUFF1ZkJramk5cDg3dDRNZ0VyTThTY0l4SGJGcGYtUjdMNDdNaGpBODRlOGxNWDNOd0cwM0FtdG85TVZwVmx4cjZPYWVkLXJUTXE5VDFoS3hIbHJrbW1DNjhyWnU0RU8yUi1PbEo4Rmk5MHR2TWh5Umt0MGpodUp4RlVvZ2I2U1oyX0F2RlRCVHZN?oc=5",
@@ -168,53 +198,13 @@
    "region": "americas"
   },
   {
-   "title": "RBC Expects H&M to Report Higher Sales in Fiscal Q3",
-   "source": "marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXFRc2otVnh6djRvTDN1dmlDVnhlWU5kQmV5YXczSGFzNjNPZ2tyYkR6SFZxY1ZBYzR6eE1hYjMydVBoZEkxM0wyb2psVFdDSzluNGhuWmdnTUVVX3Q2T3RRZ29fU1N1RDFUcG42dXhrcUpac2FTb0Z4R2RjeERXbGtsNklOMkN1blpSUGZOaXlYYmZHSlVwck0zSWwyaEpmVmdkeExmRQ?oc=5",
-   "date": "2026-09-22 00:03",
-   "lang": "en",
-   "brand": "hm",
-   "brand_name": "H&M",
-   "region": "europe"
-  },
-  {
-   "title": "The best sales to shop this week: L.L.Bean, Old Navy, The Home Depot and more",
-   "source": "CNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamZzdmVaT0d4UldZVDItQVpQNmoxakRNbVZsUTIzN0lRR0NhWVRYaG9MZThoZUVvb25HZ3cxa1ZVOXVtOUJLTlc4WmxrRXE4TEhxWTMzTGxpYlJ4VFVGU0pibWZ1d01EYjYyNVlQR2xDcllHVUJpVDhuTjF2X2dEWHlBMU5WRzQ?oc=5",
-   "date": "2026-09-21 23:06",
-   "lang": "en",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
-  },
-  {
    "title": "Nike earnings expectations get brutally cut down by Stifel analysts",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT25XcUZrSnNIWHJjTm9rb2dTVkNyLUJpTEJ5cUhaaWFzU0VlSm9ZUFljWkNhWEZEbHRMSHNSblFpd2lXVFk4QzV0SFdoN1hNR0JDRmdZcm5XajJGQ2E5a1FCcUh6LW43Rzh6a0Z5LUJMQ2JvRkpFN2pmUFdfSmZiU1R3VjRSa2RCLXZzNkFKZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUt4WWNpTE1vb3BNQkk2LTU3VXlkbTlqVVNMeW1DWEhRUE91WWc2VnRPdTFNTDNmQVVCaDVoZlllUXhsSnFNY0RRc19XbklCYVBCSjVDV21HTHZ6YWY4U2VDbWZzUVk2THdMNEo1d3RIQTk2MXlDajVGZ2h6UFZqdVpBQTNkeXUyeXBoZ3hCQ3h2WFBQMW4xWURQZTVndXZlc1FPSmxoWm9YLVdmUDBiZHY3UWE?oc=5",
    "date": "2026-09-21 21:55",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Mesa West Funds $27M Loan for Timberland Partners’ Acquisition of Metro Seattle Asset",
-   "source": "Multifamily & Affordable Housing Business",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODdNRWU3RnBuMVFVNkw2Y2lXb1g4bVRRN1MtMWhvUXA4N0V3NWRXUWhaOFFpYjNzM2s1OC1PT3RMS0JGYVZBNWpxT2dvOUw3M1BxM0FIZ0szUnZtODAwcEozRUJ2NkFya1JVYkdFdm1JVEpXQTlJdU9BckgxT2pCQ1gxRHV6cFNGZkN4aC1yUFd0U3RkV0VocWI5QktYUFoxa3ptRGNWOTlIcHFZZ0hYbnh5NWNKVXh3WVlxbDVydWxvMUU?oc=5",
-   "date": "2026-09-21 20:00",
-   "lang": "en",
-   "brand": "vf",
-   "brand_name": "VF Corp",
-   "region": "americas"
-  },
-  {
-   "title": "LULU Loss Alert: Lose Money on Your Lululemon Investment?",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQOW9CTEpqU1hJT1VjMUhueE9HdnhDZXl2WEVBc04zTG1RY1hfTXdkZGVmZnBJeXRLM3VjXy1lcUZheTg0clhIUFhwRFhyVzBXcjVvLUdNTE9KTmlyc29uZHJadkhyQjZFWTN4Y1NnNzRaYkI0SlZMZ3VBUHo3U1BSaU9RRVQ2dkRNLXcwMnBHMTZaMVlkcS1TRUJfeGpOQ1NRelNka2dLMDBncWJYMGliRGJHNmFlQ2JpVVdEMVUydW9JWjQtUUtkZlRBNHhEUDdEb0p5Y3NJUGo3X0JMd3hPRjR0VjMzbkgwUkpiVzJJd1p6RG1LQ0JkQXo3cW8tam5xQ01Ld3JVSVZQWjVySFNfOHphaDJCOE5MQW1kWnpZZWdsaEdWOFE?oc=5",
-   "date": "2026-09-21 17:47",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
    "region": "americas"
   },
   {
@@ -238,11 +228,11 @@
    "region": "apac"
   },
   {
-   "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
-   "source": "財訊",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
-   "date": "2026-09-10 15:00",
-   "lang": "zh",
+   "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF9IOFZUMVFDZHZTMllSbWdvTU5OYjZFSFZsUFNyMWNaSjFPMlZZdWlJYjl6VW50d1k?oc=5",
+   "date": "2026-09-18 00:42",
+   "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
@@ -255,6 +245,16 @@
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
+   "source": "財訊",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
+   "date": "2026-09-10 15:00",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
    "region": "americas"
   },
   {
