@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-22T14:20:37+08:00",
+ "fetched_at": "2026-09-22T21:40:41+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,46 @@
  ],
  "items": [
   {
+   "title": "Nike Beat Last Quarter's EPS Estimate by 54% — Can It Repeat That Oct. 1?",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDdTb0otb29lOHZVWVJHUnJ5T1VmTTJTaFV1T1lTZXQwMExPSk42WmRnLU45Y0o1NG1Ia2tXWmkwSFNpR1NydF9vNVctSi1EMGNQWTh1U2xZNUc5UVh6U25KcWlnOU5PcE5OYU9vV0JzZlgyVnowdXZfNUFiRlhnUkNLY056cWJpdXItbm13aW5ybFFaakNFOGh3QkV0UVU2VmxuclduZWhoUDl3VTVvYzRhZnNJVlhEbTNYSk1fMWNWOEotREhN?oc=5",
+   "date": "2026-09-22 21:22",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Levi Strauss and M&S launch fashion supply chain renewable energy program",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQzFpQU1JSXRmRE5Qb0Zfa1hta0Fhb3VhcnZmWENDR0QtblVxTHptaXBRQXB0MlJKaVpqaHp5aWZJZlU3TEFrOGl1X0FxSkpudHE3Yk5RVUhoOHdvSVVVYzg0NlVTdktwaDczUnJwUVFJcDNmNVRaWlBqSXRqenNsYTlfODhIZVlXVjEtTlRNRXVPaHcwSnF1YXRzTDQxd2VzRGIxdXMybV9Lc0RGcWJrRng0alE3VkpGbHFiVGplN1FELTJjMUZkRw?oc=5",
+   "date": "2026-09-22 21:04",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts See No Clear Bottom After Jarring Guidance Cut",
+   "source": "foreignpolicyjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQi1xOVJYQU85YWk0VGJscXR5eVVJQmFKb2k5OGRFdlplUkxla25KRW5Najl5eVAyQVI3YnpCbjZPWUhJSjQxVjl6amVWUEw5LUgzUmhLQ1dvdXdmdzZ6TDJCOXhZZEJxN0wwOHFjR3AzRW9Dc0YzejFkOVJzcVl5b3JtU1FMcHhTTFdFZW5zbnVxbWttOVZHaVk5RlJqUkFwaHVMSDZRcFVfS1RQb0o3Z2c5NDR6QmNVeDg1cEFHc1Nwa2Q0M0EtLV95a1FLSm5WX0haQ3NLSUtCZnV5VkVGZ0lQZDVXYlRBZURMcld1OHdYVmRqU2E4RmNqT0xCbzQ?oc=5",
+   "date": "2026-09-22 20:33",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Nike (NKE) Stock May Be 12% Undervalued Following Earnings Forecast Cuts",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHlvUmhodUF2bW5acUFMS3JaejVTeGZjVGxCS1lpT0N3VXRKZG5qUXFtS0RtcUI1VE9xNFZvZ2JLbm0xeHRvdDJ5MUppdHhLNWptcTBSUzhpNHZwSzM2SV9lYTUyWEU2SHBRbkxfNkZjZUpMQmxuUXRVZFV2bGtJYTQybmpQaGNoYTNsZFBLU2xYRHkxSENBSUQzbDB5VzZhX1pZMGpsVFZITWxveHRNbzlqRkNpUTBNQlNtVzRZNlpzVDFLYUdYMtIBzgFBVV95cUxPOUc2MjZQQ0dSZkF6a2Z0b0hFQUozQ1JKNFNkcEtpWUlrR1paS0E3YTN3NDFuUk9wc1M0bUExY0FIam85RVVNR2k1UG5NRUc5VVNSNjM4TEhzVjZqR1E3X1hpNDBsRnFEVUV0ZVF5NEZRd2lZMXczd3h5YnlUamFrdGJtempFc1kzQlIzYm04OEpTWmhUTmZNcGlNaklxRFpSNEh3c2N6VVRCZkYtLTd1LXdmUGJvTHEtaFNpNVdPaDRVZWMxZXQ2QTN2V0pDZw?oc=5",
+   "date": "2026-09-22 18:30",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "X-C Lady Bucs’ small varsity squad delivers big results in Adidas Challenge",
    "source": "My Buckhannon",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHNnOEFiZlJMazNUck9jbExIamprTWw4ZTFmV29tOTU3eWt1My1jSzlrX0hmdTBZTjM2WXN3cmtGNDR4R01oTXl3dndVanZMeGFpVTZCaXdwWFlySXQ0TTVyMGlqMmR0MjBPR0U5a2NPQmw3NWF2QktSZVpzV2RiT25CV0VLa1FFUmMycmJLRk1hMDM3VVEtRTZRb0pfbTk0WWl6T0hBUQ?oc=5",
@@ -182,26 +222,6 @@
    "source": "BBN Times",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGl3RjFuZFdsSmdJVWxyOFBGSU1iZmQyRkdqak1ZTU9iSEREZnBxcFE0UkpwTF9fajZLQzZLZ3BDNW1xaUM0MlRFa19FbTkwY2Vub04xaXBEYWhBdndqTkljV2JGRTF5S2lReEJIeUF0ZEVPOVFGaG55dDJTaHpUczRzRXczU0thdWx6eV8xQ1dKRzBaNUJNUkRZdDhxTGRnbTM1SzJMZWplQ2k3YmhBVGNTTQ?oc=5",
    "date": "2026-09-22 06:13",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Faces $300M World Cup Boost — But Stifel Sees A Bigger Margin Squeeze",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGlYQjVuVmllbXdQQ25mQm9jREdORDN4OWt5ZVZxWEtJcFF1UTFaUXJpSTFMRU0wU2VtbXRxMnF2a1hGUXZpT2dxRjVBUDAtNjFWRTJFUFF1ZkJramk5cDg3dDRNZ0VyTThTY0l4SGJGcGYtUjdMNDdNaGpBODRlOGxNWDNOd0cwM0FtdG85TVZwVmx4cjZPYWVkLXJUTXE5VDFoS3hIbHJrbW1DNjhyWnU0RU8yUi1PbEo4Rmk5MHR2TWh5Umt0MGpodUp4RlVvZ2I2U1oyX0F2RlRCVHZN?oc=5",
-   "date": "2026-09-22 00:17",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike earnings expectations get brutally cut down by Stifel analysts",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUt4WWNpTE1vb3BNQkk2LTU3VXlkbTlqVVNMeW1DWEhRUE91WWc2VnRPdTFNTDNmQVVCaDVoZlllUXhsSnFNY0RRc19XbklCYVBCSjVDV21HTHZ6YWY4U2VDbWZzUVk2THdMNEo1d3RIQTk2MXlDajVGZ2h6UFZqdVpBQTNkeXUyeXBoZ3hCQ3h2WFBQMW4xWURQZTVndXZlc1FPSmxoWm9YLVdmUDBiZHY3UWE?oc=5",
-   "date": "2026-09-21 21:55",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
@@ -238,6 +258,16 @@
    "region": "americas"
   },
   {
+   "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ1LUpaRkxBMnFsZzJiek5ueDJ1VUlUTG9qVEJDZnpiaGNmSHZDU1hOVzNyR3ZPWFRjUWVJOFJDQnB3YThLcV8ya1h2Y2hNOGVpOGdMTWZ2dHNfN0pyUTlhWlBOOFlmbzB4UG5ZTnd6MEhwQTNlUjk1WXVuTmdRckh5bmtkMTlzNjZ2TDJB?oc=5",
+   "date": "2026-09-12 15:00",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
@@ -249,7 +279,7 @@
   },
   {
    "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
-   "source": "財訊",
+   "source": "wealth.com.tw",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
    "date": "2026-09-10 15:00",
    "lang": "zh",
@@ -332,16 +362,6 @@
    "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
    "date": "2026-08-30 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdTb19xcWFnamk5QzREampnYnhscU9jMWNDcnk0bG5idnJLQWcwTFcxcThiQ0NMNG9WNjR1QVdFRGNfNUhSUUlzdzFnM1NuYUY3TUVYYmw2aGgtODZ5YzJqeEpZeGIxMUUyZzJ5UWpkVENEYmRIZGpHTlh2NmN1VnE2c2V2QnZSY2NNSFYwZkxLV1YzWF95dEZfbm8xa1JwdTV4TFFkbzhyRlpoWm1KQjd2dEY5YV9XcGdZamRLSEtUSFN5SXc?oc=5",
-   "date": "2026-08-27 15:00",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
