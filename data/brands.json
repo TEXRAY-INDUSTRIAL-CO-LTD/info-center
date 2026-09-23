@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-23T21:52:00+08:00",
+ "fetched_at": "2026-09-23T23:12:00+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -168,16 +168,6 @@
    "region": "americas"
   },
   {
-   "title": "A Quick Look at Today's Ratings for Nike(NKE.US), With a Forecast Between $45 to $55",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkw5UkVuN2VBeGdPX2RHYUtXSmpFUnpMZGc4MHNETlh3YWRPVTVaZU85ZjhERWE1SHhJZmZkMU1ZWVR1a0FrRnkxZUF0X1NjczNYa3owc3VocWgwaFRtMlRHRmpPbzJTNnpaNS1sdV9janhHSTYxMkxob1JLckRteEtOVUYyMDBTcGRya0ZvVFlYX3ZN?oc=5",
-   "date": "2026-09-23 21:00",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Nike Margin Story Shapes BTIG Thesis Ahead of Earnings",
    "source": "TradingPedia",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUFE2MkM4UUxyVkptVWlFVkp4VUYydzlZbk90R0xHZnZRdTJnZVNKTTZRUkc3WQ?oc=5",
@@ -199,13 +189,23 @@
   },
   {
    "title": "Moody's Ratings affirms ANTA Sports' A3 issuer rating; revises outlook to positive",
-   "source": "tradingview.com",
+   "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWxWY1p3MnRSazNpbXpUN3oxMng2bW9nT2JFV2l6VFQ2M1otaS10ZG1HMy05SUJkRXJ3RjFfN25FM1FRa0tGRlRLbkdIeGJVa2oyejhjbV9Cd1BXSjg1aFhhTTIxUkFWR21RdS12WGhacFpvZXR0UlpkbDlyUEJNWU4zNXFCZ2tqX3Q4cGI5NllMdnB2TnlfUnVMRFdhdml6Mm5vek9uLWJQYjFUQkxaMjNLN193UWtjSGVubUxEWDVaY3l4UjlwMlVqdi1rRVNQNlBn?oc=5",
    "date": "2026-09-23 17:09",
    "lang": "en",
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
+  },
+  {
+   "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXp6M0NGWFJySmhtTGlwQng2YUZIMzZ1b3Q0S2M5aklxcGhrcmlleXhZeGdCTjdZWUY3OGsyTk5xWDZXajhKWUw4Qk9OUVRycy0xS0ZkWFFZcjBFbmI2TmZoWGxVSHQ3Rm1XamdVenhjLXBYSnVXZnBZaERjZzhvZF9zYndob0Riekl1QkNjazRWMVdmeHc?oc=5",
+   "date": "2026-09-23 12:07",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "【即時新聞】旗下Converse涉種族爭議急撤廣告！Nike(NKE)連13季營收衰退恐雪上加霜",
