@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-23T14:04:43+08:00",
+ "fetched_at": "2026-09-23T21:52:00+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,24 +158,54 @@
  ],
  "items": [
   {
-   "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-   "source": "Insider Monkey",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHg1QS1RVktGU0JxNGdzcmpJTkgwWm9JQ05lYmN3V0VmY3BBYWVmQTcxWDFlNzRjazJyYnBGcUp5bjRuYnI3Q0hqWVhIelM3bGU4SFJsc004ZmNuM2Q3aEJSc3g3b2JudG9yLUg2WXNuZVQwUlUwcGlUY2NTLV95bGlTc2RLZ3MybWtYX3RURjdfVXh0bnhNOFRBVkN1ZXh6M2FxUl9xVmhubG1CMzVXQnJMSDFhYmNZRDdEdncwS1JCVTJCd01hSm9DRGdDanczZ2fSAdoBQVVfeXFMUEU3amVoNDliU3FKdU5QVTFrSUo0ZXlUTmJsY2JLd2tnUmt2RWFsRm5xbjZDRHhwbFRGdk5wNUNxNkdFU2RwWGxxZVo4dUZIM3FfVzBLRFBsR3BUal85bThLT3l5T3lFSGk2RW5SVmtfUHluT3BVdlU4OGhjcEZ3UWpHM2l0ZTBSVUVDblFZc2lTdFVhLVp0TXZYWGZQdll1Z19kcVBoVS1WUG1zQ19aMGFMc2Y1MV8zd3p0N1hTX1pPejd0alNSOWRRZEtzSW1GeW9fMmUzbXNOd2c?oc=5",
-   "date": "2026-09-23 12:07",
+   "title": "Levi Strauss, M&S, Schneider Electric Launch Fashion Supply Chain Clean Energy Initiative",
+   "source": "ESG Today",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0JuOG1CT21UOW1FeHVCSU9xcHZVNHRMdks5UFdFUVNmU05GaTNWRUN5Yl9DZlA5ZlJKbE81Nkl0RWVtZkZST2ljN0hSM0VhaWIxODhHZW5TNmI5YXIwN3hpYkZrTEtBSUd6OWtYOUdvaElJOE1aNW1NWHJ5MU5tUURmakRvSS1TdjJuXzBpMUFXcVJ3V2ZBWlRyenJpczFjUjk2dnhXNTlxMW9UaDdxTUVR?oc=5",
+   "date": "2026-09-23 21:31",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "A Quick Look at Today's Ratings for Nike(NKE.US), With a Forecast Between $45 to $55",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkw5UkVuN2VBeGdPX2RHYUtXSmpFUnpMZGc4MHNETlh3YWRPVTVaZU85ZjhERWE1SHhJZmZkMU1ZWVR1a0FrRnkxZUF0X1NjczNYa3owc3VocWgwaFRtMlRHRmpPbzJTNnpaNS1sdV9janhHSTYxMkxob1JLckRteEtOVUYyMDBTcGRya0ZvVFlYX3ZN?oc=5",
+   "date": "2026-09-23 21:00",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "耐吉股價挫 78% 遭剔出標普100 新執行長力拚重振",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ2V4VnJrdUpJOGc4RlpRRnJsb01oNTBiV3NCTWpKTmp3SFg3cFlNYlNIcGNITWdUalkyelRDamdidUp3ejdLY281aF9RTk1KRUthcXBybWFCeFpNTGhJVmRFZnU0Ty1Ga3NPRnh2VnhDMDJOWVVTU1Y0SzZ4Zmc0UHphazZLZ3M1ZFE1Szh4RmRxZ19tQ0tsdjI4OTNickdfZHdpRG1XTTFQSTN4WG01eVR6eGp4Z2c2NE5BcFBLM2pLM19lS3FST09wTVBIMU1vaUpUbmJCQkJEcnJkLV9fd3N4WnJvd05iOHhKX3FkcW9YZ0N3R2hoZ1AwRmxWUERDOTJqNW9UaVRFTnpqVzBhcjVEN0pXZDVZV2cwckZ4ZlhCSU5pWk1Cb2NMWVRRWU80VHBtRTFiOU9vRWh5LWc?oc=5",
-   "date": "2026-09-23 09:56",
-   "lang": "zh",
+   "title": "Nike Margin Story Shapes BTIG Thesis Ahead of Earnings",
+   "source": "TradingPedia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUFE2MkM4UUxyVkptVWlFVkp4VUYydzlZbk90R0xHZnZRdTJnZVNKTTZRUkc3WQ?oc=5",
+   "date": "2026-09-23 17:39",
+   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
+  },
+  {
+   "title": "BTIG shares its Nike stock outlook ahead of next week’s earnings",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczk0U0UycEhjSXZqdllrdGdsUzEyRERRMkJHTXpWS3hOVXBsN0lEUmhIMFNrdzRXMk9ra2NZY1h3R3hPVnpIU2xPb0N5bzU2NlZDR0xCQUNXeFpTWVR5U0p5Nkp0LTEweEppbVNsUU1XazhMQ2Fpc2NXRXNlLS1PbkNYV3paWkxNdkVuT0x3WHBCN1ByY1NPVHh3b1YzQ29NRm42WmhaUnRReUxGc1ZFU3JleXFOS2kyMmh3M0FLSFJsVEU?oc=5",
+   "date": "2026-09-23 17:18",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Moody's Ratings affirms ANTA Sports' A3 issuer rating; revises outlook to positive",
+   "source": "tradingview.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWxWY1p3MnRSazNpbXpUN3oxMng2bW9nT2JFV2l6VFQ2M1otaS10ZG1HMy05SUJkRXJ3RjFfN25FM1FRa0tGRlRLbkdIeGJVa2oyejhjbV9Cd1BXSjg1aFhhTTIxUkFWR21RdS12WGhacFpvZXR0UlpkbDlyUEJNWU4zNXFCZ2tqX3Q4cGI5NllMdnB2TnlfUnVMRFdhdml6Mm5vek9uLWJQYjFUQkxaMjNLN193UWtjSGVubUxEWDVaY3l4UjlwMlVqdi1rRVNQNlBn?oc=5",
+   "date": "2026-09-23 17:09",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
   },
   {
    "title": "【即時新聞】旗下Converse涉種族爭議急撤廣告！Nike(NKE)連13季營收衰退恐雪上加霜",
@@ -199,23 +229,13 @@
   },
   {
    "title": "鬼塚虎 3 年營收翻 3 倍、獲利率稱霸集團 5 大事業！亞瑟士為何忍痛分家？",
-   "source": "managertoday.com.tw",
+   "source": "經理人",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDOVBmWUtJUFN4NTEzZEJqS29ERkJneG1DREdXVEtwVUNxQVduMUx6UHdXRDVMakFjNVRRQTA0RWhkOEV0R2EtMWtxRlVhalBNNWl1WnRvU3JLbUZzSTZWcg?oc=5",
    "date": "2026-09-18 16:09",
    "lang": "zh",
    "brand": "asics",
    "brand_name": "Asics",
    "region": "apac"
-  },
-  {
-   "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF9IOFZUMVFDZHZTMllSbWdvTU5OYjZFSFZsUFNyMWNaSjFPMlZZdWlJYjl6VW50d1k?oc=5",
-   "date": "2026-09-18 00:42",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",

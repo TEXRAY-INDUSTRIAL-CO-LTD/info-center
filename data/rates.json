@@ -3,14 +3,14 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-09-22",
- "fetched_at": "2026-09-23T14:04:37+08:00",
+ "data_date": "2026-09-23",
+ "fetched_at": "2026-09-23T21:51:51+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-09-22",
+   "date": "2026-09-23",
    "cash_buy": 31.3,
    "cash_sell": 31.97,
    "spot_buy": 31.65,
@@ -18,9 +18,9 @@
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
    "primary": 31.97,
-   "prev": 32.03,
-   "change": -0.06,
-   "change_pct": -0.1873,
+   "prev": 31.97,
+   "change": 0.0,
+   "change_pct": 0.0,
    "history": [
     [
      "2025-08-19",
@@ -1101,23 +1101,27 @@
     [
      "2026-09-22",
      31.97
+    ],
+    [
+     "2026-09-23",
+     31.97
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-09-22",
-   "cash_buy": 4.634,
-   "cash_sell": 4.796,
-   "spot_buy": 4.706,
-   "spot_sell": 4.756,
+   "date": "2026-09-23",
+   "cash_buy": 4.628,
+   "cash_sell": 4.79,
+   "spot_buy": 4.7,
+   "spot_sell": 4.75,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.796,
-   "prev": 4.808,
-   "change": -0.012,
-   "change_pct": -0.2496,
+   "primary": 4.79,
+   "prev": 4.796,
+   "change": -0.006,
+   "change_pct": -0.1251,
    "history": [
     [
      "2025-08-19",
@@ -2198,13 +2202,17 @@
     [
      "2026-09-22",
      4.796
+    ],
+    [
+     "2026-09-23",
+     4.79
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-09-22",
+   "date": "2026-09-23",
    "cash_buy": 0.1917,
    "cash_sell": 0.2045,
    "spot_buy": 0.199,
@@ -2212,9 +2220,9 @@
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
    "primary": 0.2045,
-   "prev": 0.2055,
-   "change": -0.001,
-   "change_pct": -0.4866,
+   "prev": 0.2045,
+   "change": 0.0,
+   "change_pct": 0.0,
    "history": [
     [
      "2025-08-19",
@@ -3295,23 +3303,27 @@
     [
      "2026-09-22",
      0.2045
+    ],
+    [
+     "2026-09-23",
+     0.2045
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-09-22",
-   "cash_buy": 35.47,
-   "cash_sell": 36.81,
-   "spot_buy": 36.09,
-   "spot_sell": 36.49,
+   "date": "2026-09-23",
+   "cash_buy": 35.38,
+   "cash_sell": 36.72,
+   "spot_buy": 36.0,
+   "spot_sell": 36.4,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 36.81,
-   "prev": 36.97,
-   "change": -0.16,
-   "change_pct": -0.4328,
+   "primary": 36.72,
+   "prev": 36.81,
+   "change": -0.09,
+   "change_pct": -0.2445,
    "history": [
     [
      "2025-08-19",
@@ -4392,13 +4404,17 @@
     [
      "2026-09-22",
      36.81
+    ],
+    [
+     "2026-09-23",
+     36.72
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-09-22",
+   "date": "2026-09-23",
    "cash_buy": 0.001,
    "cash_sell": 0.00141,
    "spot_buy": null,
@@ -5489,23 +5505,27 @@
     [
      "2026-09-22",
      0.00141
+    ],
+    [
+     "2026-09-23",
+     0.00141
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-09-22",
+   "date": "2026-09-23",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.904,
-   "spot_sell": 1.984,
+   "spot_buy": 1.911,
+   "spot_sell": 1.991,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 1.984,
-   "prev": 1.996,
-   "change": -0.012,
-   "change_pct": -0.6012,
+   "primary": 1.991,
+   "prev": 1.984,
+   "change": 0.007,
+   "change_pct": 0.3528,
    "history": [
     [
      "2025-08-19",
@@ -6586,6 +6606,10 @@
     [
      "2026-09-22",
      1.984
+    ],
+    [
+     "2026-09-23",
+     1.991
     ]
    ]
   }

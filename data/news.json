@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-23T14:04:41+08:00",
+ "fetched_at": "2026-09-23T21:51:57+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,8 +32,65 @@
  ],
  "items": [
   {
+   "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
+   "source": "udn",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
+   "date": "2026-09-23 17:52",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "世界盃球衣台灣廠商不缺席 紡織業靠循環技術打國際賽",
+   "source": "udn",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OXlRYUU3N0RDWlowd2xpaVphZE5qNGNiWXFLaERqRlU4cHNyMWZmWWRXa2lRS1M3akRuOXJsOVQtUE9HUG0xY0MzNjkxeGFv0gFWQVVfeXFMTUIzVXNYaGlZMjdyRUtuZTNITzE3eUV2Y29ZZVg4cUx5MndSUVpkX0lJRkMyU0pwNHpkOHZ4WmhKS3Q5VWhaakI4djRVcERZam54SFZwLXc?oc=5",
+   "date": "2026-09-23 17:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "世界盃球衣台灣廠商不缺席 紡織業靠循環技術打國際賽 | 產業熱點",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0FGR2txS1B0RjV6WV9TX01WeWtta3ptYi1rZG9TcE81RHpBUF9DVXlGblhQYk9MamhMSkZnUlRhZUo5T01TQ0RvRGh2R3FnbFZ0OWZENHpwZVhBVnBmcldULUxJNmRhd2lfUEg2RkllSGlSZTlRenBINUlDRlJRNA?oc=5",
+   "date": "2026-09-23 17:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "第30屆台北紡織展10/6登場 永續循環、機能應用與智慧製造成三大焦點",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KUzFfdzJuOUwwWUFNVWI3OGphbHZxVDBpX09hdjRoc3hTQzdzTTdtZEFKQnUtQ2dxaEZTSm5FWmdVbHJfYmxncnRRN0JJal90LUhqaVFTMHJqQdIBX0FVX3lxTFBRREFNWkJRSERMcFhoaW5Pc2ViMlY2dlVnTGYtMGhDWV8wWFhOcDJhSmE0VHlrZjlRTXJ6RFNMcEo5ZVh6WFBKa082ckw4TkU5S3NXZFdzYVdGWlgtQlVv?oc=5",
+   "date": "2026-09-23 16:53",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "第30屆台北紡織展10月6日登場 永續循環、機能應用與智慧製造成三大焦點",
+   "source": "udn",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UallVNTl4THpTTmRKejNaX2xQZzFNcHJWZGNIbjRzWmJDWGI1OGZTRW5PdHk1emxTdTZHcjA1Z1JTYjBhdlRzclB4WlBGMmlSNGtqSjNB0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
+   "date": "2026-09-23 16:53",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUS3F6LVc4TnpQQmxNbXJBSUh6SVB3Vjk2Wl9qeEhVblp6NnlCcjRmNmVfdzlGQ2R3QjhtZXJLY1dvblgzTFhQOUE5S0xHMUhmOVRpNy1BVDNrd9IBX0FVX3lxTE1tQ1Z5bGlIYXp4ZkZ1NUxISEFpUFlqQUxsSUxMWnplMW44RUdKT29yY05DYkpwOFZPZ0JHZzEzbHBDZmdLMzA4VExTQUlLMGJ1ZS0yRHQ4cUR3dnhLTkVV?oc=5",
+   "date": "2026-09-23 15:54",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
    "title": "2026降溫投資四年回本：孟加拉成衣廠的商業邏輯",
-   "source": "報新聞",
+   "source": "contentplatform.info",
    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNUGtsQWtJNDVFUWE2ZU9sd3ZsYXFQUmVrNkVWSWlxc3ZObGRTQTU4TVFyWXpyM2NwSlZWYk1BYVZBZ20zQzhrX0Y4TGM0R2hsb0Zxc3FoVWU3akJacnlvc0VqS3FFYmtVV2xXRGJnbEw5dW90ZS12cUxhVTkxWGpMODg3NFBpRlJtN1FzWXVWR2RQNjIybW5pYUNsYnJKeDlFRXFkMjEyTEU2ckstNDI5a1RtSmpGM3hRS3p0MEZvMHh6QlZ0MnYzcmpUR2VGc1VhTEpBNHpEVGwxYm4yS1dpOEJKZ0NlemIyeE5LYTZwRFlPZjhidDFZU3lRRFpDY2FNRHk4OGhub2VYOWdlOU5kWlhIa0dqWndTV19Nbk9pQUtBeDdyX1Z4U3ZaTmVPcm1BenZGMGliT1d6a3o0RTRERV85V1YyZlBiVVoya3FiWjZUWjV2?oc=5",
    "date": "2026-09-23 06:34",
    "cats": [
@@ -43,9 +100,9 @@
   },
   {
    "title": "台灣7紡織業者揮軍美國展會 3天斬獲9800萬商機",
-   "source": "stock.ltn.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bE5PNUg1MHJialpVNkptd2NRbHZKa0hjUU5MMVhnamJ1bUJiSjRacjRZMTJuOTdKNDRUZ2Q5SDZjSVpnd1gwUHRWQUlTVEppQ0dsSmY5M1M?oc=5",
-   "date": "2026-09-22 20:26",
+   "source": "自由財經",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05ZnhfYldVbTk5cExUM3p5S1VfWTBxb1RMYWNkWWVQakZfemFCOEZleGxGTzFKY2V1Q08tc2VJbWRraWJMMWRhOTdFbnQybUVpMG5GYTI2eVFPdUhldnZr0gFkQVVfeXFMTmNpMngwcW90S2piejJOVDVWMnZ6SVNUM0QwWGU1RFJJSUlLd2IzVG1yMExUaWFXb2hMZ1J0N0hzVkpMTWp6SHlMSWxBdVpud1RKaDcwRmRBbG42dTBZTlpLLUkzTA?oc=5",
+   "date": "2026-09-22 20:25",
    "cats": [
     "market"
    ]
@@ -98,7 +155,7 @@
   },
   {
    "title": "討論牆 | 機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
-   "source": "LINE TODAY",
+   "source": "today.line.me",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CZUwyTTM0eWs5STBQNVlzdDFuUnFGbThSd0g2WklMUU9OdDFENFlhRUV0N1QxdFNzSTRxcHdEUUJZTm4wVUxQQ0RSZlBITEoyNVpva3BiMHJjSUwxbkRSRmd2dW4?oc=5",
    "date": "2026-09-20 15:46",
    "cats": [
@@ -155,6 +212,15 @@
    ]
   },
   {
+   "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcU9meVM5RDhwSnk1TUdtN3l5aEJycEVEcTV5UmhmNUNnR3BnaFQxRUI3R1RxRGtTT0huYWg4UjhpS1o5NnVmZllQVDc5M1FGTzZuRmw1Mk0tZ9IBX0FVX3lxTFB1OG1TSzFwZlY1U290RnNpLXd2X2FZNnVTUW1wTThkRGM1Q3dNeE00bmhrd2hITHhLbXZSWnBvYnlydG1VWWZaRTV4elRnQWdhM3dnVENLNFFJRzlLLXRZ?oc=5",
+   "date": "2026-09-10 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
@@ -163,15 +229,6 @@
     "market",
     "stock",
     "trade"
-   ]
-  },
-  {
-   "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcU9meVM5RDhwSnk1TUdtN3l5aEJycEVEcTV5UmhmNUNnR3BnaFQxRUI3R1RxRGtTT0huYWg4UjhpS1o5NnVmZllQVDc5M1FGTzZuRmw1Mk0tZ9IBX0FVX3lxTFB1OG1TSzFwZlY1U290RnNpLXd2X2FZNnVTUW1wTThkRGM1Q3dNeE00bmhrd2hITHhLbXZSWnBvYnlydG1VWWZaRTV4elRnQWdhM3dnVENLNFFJRzlLLXRZ?oc=5",
-   "date": "2026-09-10 15:00",
-   "cats": [
-    "market"
    ]
   },
   {
