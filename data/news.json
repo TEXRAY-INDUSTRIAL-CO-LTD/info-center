@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-22T23:10:52+08:00",
+ "fetched_at": "2026-09-23T14:04:41+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,8 +32,27 @@
  ],
  "items": [
   {
+   "title": "2026降溫投資四年回本：孟加拉成衣廠的商業邏輯",
+   "source": "報新聞",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNUGtsQWtJNDVFUWE2ZU9sd3ZsYXFQUmVrNkVWSWlxc3ZObGRTQTU4TVFyWXpyM2NwSlZWYk1BYVZBZ20zQzhrX0Y4TGM0R2hsb0Zxc3FoVWU3akJacnlvc0VqS3FFYmtVV2xXRGJnbEw5dW90ZS12cUxhVTkxWGpMODg3NFBpRlJtN1FzWXVWR2RQNjIybW5pYUNsYnJKeDlFRXFkMjEyTEU2ckstNDI5a1RtSmpGM3hRS3p0MEZvMHh6QlZ0MnYzcmpUR2VGc1VhTEpBNHpEVGwxYm4yS1dpOEJKZ0NlemIyeE5LYTZwRFlPZjhidDFZU3lRRFpDY2FNRHk4OGhub2VYOWdlOU5kWlhIa0dqWndTV19Nbk9pQUtBeDdyX1Z4U3ZaTmVPcm1BenZGMGliT1d6a3o0RTRERV85V1YyZlBiVVoya3FiWjZUWjV2?oc=5",
+   "date": "2026-09-23 06:34",
+   "cats": [
+    "market",
+    "trade"
+   ]
+  },
+  {
+   "title": "台灣7紡織業者揮軍美國展會 3天斬獲9800萬商機",
+   "source": "stock.ltn.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bE5PNUg1MHJialpVNkptd2NRbHZKa0hjUU5MMVhnamJ1bUJiSjRacjRZMTJuOTdKNDRUZ2Q5SDZjSVpnd1gwUHRWQUlTVEppQ0dsSmY5M1M?oc=5",
+   "date": "2026-09-22 20:26",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "輕工紡織產業發展“十五五”規劃發佈：力爭2030年規模以上企業營業收入突破30萬億元作者智通財經",
-   "source": "hk.investing.com",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTjV3cWhfdU1Na2ppSXI1TFhGZk5ieGlzendRUjVrSTBtUzM4dEY4TjlNYTB2NUtyZlh1Nzk4QWdwWU5Cb0tNcGlKUlFWTWw4elFJaTdpeVBreFA5N1hSR0F3MEN6Q3NUNlJpbEhfNUk?oc=5",
    "date": "2026-09-22 15:46",
    "cats": [
@@ -59,19 +78,10 @@
    ]
   },
   {
-   "title": "台灣7紡織業者揮軍美國展會 3天斬獲9800萬商機",
-   "source": "自由時報",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bE5PNUg1MHJialpVNkptd2NRbHZKa0hjUU5MMVhnamJ1bUJiSjRacjRZMTJuOTdKNDRUZ2Q5SDZjSVpnd1gwUHRWQUlTVEppQ0dsSmY5M1M?oc=5",
-   "date": "2026-09-22 05:25",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
    "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-09-21 15:44",
+   "date": "2026-09-22 02:10",
    "cats": [
     "green"
    ]
@@ -98,9 +108,9 @@
   },
   {
    "title": "柬埔寨成衣免稅配額綁美製布料 訂單能否穩住還看買家意願",
-   "source": "報新聞",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPdTd2Qng4X2xTVC12cU5VUHNKUmZrU3l6dFctem9mTXlLeG5lazhBOWZ1OGR4LTlEbkZiajl5bHRMdHZRd0tkY3J5QmVaY000bVV2LXlxNGdiNXc5UGd2NkFKV1lQMUNIZ1FfYm1vZmJic1A0eERPcUptU2pSWjFSSXpXT01KeEFmMGRUWmVSR3BHYkhNM0Zfanczb1dSWFNJTkhSODNEQ05TNk43a2ZFc2NGWXFfdy12WFRnQXUtSE9jcWJOWHBNRkFJeW5iQ1ZZQTItdjlLektpVWVEOGhoYXh0LWFrUmhBMWRKOHZoWE9KbTZZRl9fWFhRS2E0WG5rQUhLV2NnSG8zVTNQamZ1Q01XYjRlN2t1V1dEeUdvQ0NqNW5NbkJvOVBpTWlZRmlkajRXR0J4eDRBQXV2YUhBaTJQY3NtXzk2Vlo0OUZHOFBSNWtZTFZSUEVibU1MaGJMMzFneThlcw?oc=5",
-   "date": "2026-09-18 23:53",
+   "source": "索引新聞",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TVEVYaGFLRUxlNU0zdXFXYkR3cnVadENYUmVLaDItT0dTTWJfRmw4M1c3Y2RoZmwwdy1uc3Jza1lUZnNQT0RNYTlxdm5iMk9XdTFMdS04MDJjTm8xVWE5R3FB?oc=5",
+   "date": "2026-09-18 16:25",
    "cats": [
     "market",
     "trade"

@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-22T23:10:56+08:00",
+ "fetched_at": "2026-09-23T14:04:43+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
+   "source": "Insider Monkey",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHg1QS1RVktGU0JxNGdzcmpJTkgwWm9JQ05lYmN3V0VmY3BBYWVmQTcxWDFlNzRjazJyYnBGcUp5bjRuYnI3Q0hqWVhIelM3bGU4SFJsc004ZmNuM2Q3aEJSc3g3b2JudG9yLUg2WXNuZVQwUlUwcGlUY2NTLV95bGlTc2RLZ3MybWtYX3RURjdfVXh0bnhNOFRBVkN1ZXh6M2FxUl9xVmhubG1CMzVXQnJMSDFhYmNZRDdEdncwS1JCVTJCd01hSm9DRGdDanczZ2fSAdoBQVVfeXFMUEU3amVoNDliU3FKdU5QVTFrSUo0ZXlUTmJsY2JLd2tnUmt2RWFsRm5xbjZDRHhwbFRGdk5wNUNxNkdFU2RwWGxxZVo4dUZIM3FfVzBLRFBsR3BUal85bThLT3l5T3lFSGk2RW5SVmtfUHluT3BVdlU4OGhjcEZ3UWpHM2l0ZTBSVUVDblFZc2lTdFVhLVp0TXZYWGZQdll1Z19kcVBoVS1WUG1zQ19aMGFMc2Y1MV8zd3p0N1hTX1pPejd0alNSOWRRZEtzSW1GeW9fMmUzbXNOd2c?oc=5",
+   "date": "2026-09-23 12:07",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "耐吉股價挫 78% 遭剔出標普100 新執行長力拚重振",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOZ2V4VnJrdUpJOGc4RlpRRnJsb01oNTBiV3NCTWpKTmp3SFg3cFlNYlNIcGNITWdUalkyelRDamdidUp3ejdLY281aF9RTk1KRUthcXBybWFCeFpNTGhJVmRFZnU0Ty1Ga3NPRnh2VnhDMDJOWVVTU1Y0SzZ4Zmc0UHphazZLZ3M1ZFE1Szh4RmRxZ19tQ0tsdjI4OTNickdfZHdpRG1XTTFQSTN4WG01eVR6eGp4Z2c2NE5BcFBLM2pLM19lS3FST09wTVBIMU1vaUpUbmJCQkJEcnJkLV9fd3N4WnJvd05iOHhKX3FkcW9YZ0N3R2hoZ1AwRmxWUERDOTJqNW9UaVRFTnpqVzBhcjVEN0pXZDVZV2cwckZ4ZlhCSU5pWk1Cb2NMWVRRWU80VHBtRTFiOU9vRWh5LWc?oc=5",
+   "date": "2026-09-23 09:56",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "【即時新聞】旗下Converse涉種族爭議急撤廣告！Nike(NKE)連13季營收衰退恐雪上加霜",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVhhZWN0M09FZ3hxRkpmbEYtVXA0MnV3ZnV6Z284NFIyVmtkZ3FKY1RSbnNra0xqWW9SZlpuWHZOYkxlcXdqeG85dUcwUXNGdmxlOFpfaEhmVExhcEZOZ2dnaUJQYWhDRE1lT1ZPUWxvNUJITG1DRTBkejQxdVNnV2hrQTdiZko4dDBPb1k0Njk?oc=5",
@@ -166,66 +186,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEV5UFViSk8tZWpYRThzZlA5bHBkZ0ZXQ3Yxalk3YUh0OEVZdnZDQXBBQWRfZENpVld0bGx4WlhlU3BNN1JmM1VmdWRkU2tacWFSdlFWSWhwV1FYVDRvSUN4WDlmVTg1QUR0VEtyRnpEeHJCQTY4cVUtcUs3Y21EaFJrTURHdjVYdTJMelBDR3BhY2dRSUMyNm96Yw?oc=5",
-   "date": "2026-09-22 21:53",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Beat Last Quarter's EPS Estimate by 54% — Can It Repeat That Oct. 1?",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDdTb0otb29lOHZVWVJHUnJ5T1VmTTJTaFV1T1lTZXQwMExPSk42WmRnLU45Y0o1NG1Ia2tXWmkwSFNpR1NydF9vNVctSi1EMGNQWTh1U2xZNUc5UVh6U25KcWlnOU5PcE5OYU9vV0JzZlgyVnowdXZfNUFiRlhnUkNLY056cWJpdXItbm13aW5ybFFaakNFOGh3QkV0UVU2VmxuclduZWhoUDl3VTVvYzRhZnNJVlhEbTNYSk1fMWNWOEotREhN?oc=5",
-   "date": "2026-09-22 21:22",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Levi Strauss and M&S launch fashion supply chain renewable energy program",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQzFpQU1JSXRmRE5Qb0Zfa1hta0Fhb3VhcnZmWENDR0QtblVxTHptaXBRQXB0MlJKaVpqaHp5aWZJZlU3TEFrOGl1X0FxSkpudHE3Yk5RVUhoOHdvSVVVYzg0NlVTdktwaDczUnJwUVFJcDNmNVRaWlBqSXRqenNsYTlfODhIZVlXVjEtTlRNRXVPaHcwSnF1YXRzTDQxd2VzRGIxdXMybV9Lc0RGcWJrRng0alE3VkpGbHFiVGplN1FELTJjMUZkRw?oc=5",
-   "date": "2026-09-22 21:04",
-   "lang": "en",
-   "brand": "levis",
-   "brand_name": "Levi's",
-   "region": "americas"
-  },
-  {
-   "title": "Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts See No Clear Bottom After Jarring Guidance Cut",
-   "source": "foreignpolicyjournal.com",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQi1xOVJYQU85YWk0VGJscXR5eVVJQmFKb2k5OGRFdlplUkxla25KRW5Najl5eVAyQVI3YnpCbjZPWUhJSjQxVjl6amVWUEw5LUgzUmhLQ1dvdXdmdzZ6TDJCOXhZZEJxN0wwOHFjR3AzRW9Dc0YzejFkOVJzcVl5b3JtU1FMcHhTTFdFZW5zbnVxbWttOVZHaVk5RlJqUkFwaHVMSDZRcFVfS1RQb0o3Z2c5NDR6QmNVeDg1cEFHc1Nwa2Q0M0EtLV95a1FLSm5WX0haQ3NLSUtCZnV5VkVGZ0lQZDVXYlRBZURMcld1OHdYVmRqU2E4RmNqT0xCbzQ?oc=5",
-   "date": "2026-09-22 20:33",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "X-C Lady Bucs’ small varsity squad delivers big results in Adidas Challenge",
-   "source": "My Buckhannon",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHNnOEFiZlJMazNUck9jbExIamprTWw4ZTFmV29tOTU3eWt1My1jSzlrX0hmdTBZTjM2WXN3cmtGNDR4R01oTXl3dndVanZMeGFpVTZCaXdwWFlySXQ0TTVyMGlqMmR0MjBPR0U5a2NPQmw3NWF2QktSZVpzV2RiT25CV0VLa1FFUmMycmJLRk1hMDM3VVEtRTZRb0pfbTk0WWl6T0hBUQ?oc=5",
-   "date": "2026-09-22 11:23",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
-   "title": "Salomon Shooting for $3 Billion in Revenue",
-   "source": "SnowBrains",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQVNhUml2Z0FvSDhvemxMRU1UUXUxZll4SndFaW8zZmlDdWNzbk9rS1FSeTR0WHAwZlVXZ2VZR2o3NVRvMHFFM0tHVHBzbEtWYzdHMFRRTG1GaWNZc1Z1UDZEOFFweExUeW1vbl9rQkRGY28?oc=5",
-   "date": "2026-09-22 06:17",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
   },
   {
    "title": "Nike市值剩530億美元！遭「標普100」剔除、道瓊地位也告急 10月財報恐低於預期",
@@ -239,7 +199,7 @@
   },
   {
    "title": "鬼塚虎 3 年營收翻 3 倍、獲利率稱霸集團 5 大事業！亞瑟士為何忍痛分家？",
-   "source": "經理人",
+   "source": "managertoday.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDOVBmWUtJUFN4NTEzZEJqS29ERkJneG1DREdXVEtwVUNxQVduMUx6UHdXRDVMakFjNVRRQTA0RWhkOEV0R2EtMWtxRlVhalBNNWl1WnRvU3JLbUZzSTZWcg?oc=5",
    "date": "2026-09-18 16:09",
    "lang": "zh",
@@ -268,6 +228,16 @@
    "region": "americas"
   },
   {
+   "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OUhLNkM4WXktaWNZMEwwUEd1M1NXUnl5VC1STE55NjdqaDgyczFFel9KLWwxYWVqal81MVI0VmhjNEdUVzktbkZpZHBrTnRnZTFyU1dlRS13Z9IBX0FVX3lxTE8wRDlmamt0M1BpTGV0NEFQd0ZFVmppMUQ4WVVubVdZWGVNWndoUlBKcERVbjBUOHluOGFBWTRQbHFtZ1ZmckVqUFdCZDFfM3NqTUZqdlM2UlQ5MmstNVI0?oc=5",
+   "date": "2026-09-10 15:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
    "source": "財訊",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
@@ -282,16 +252,6 @@
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
    "date": "2026-09-10 15:00",
-   "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "【即時新聞】Zara母公司印地紡(IDEXY)上半年營收增逾7%，看好下半年銷售動能持續發酵",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamx3WjZzOGM2Z1B3aHBSQk1CYUJIdVNvZXl2SHZxMHI3T3RtaTBrb1RSNlJzYVU5RFlhSFA4U1hTRjFkVm5iTm5fcWRpaUw1by1pdnBieEp6VFJQUDQxamhzYkNDdEZadXNUanl5UjBNcmJlY25ubkhNLXk3QVZVVnlnRWUyVmZiLUJ4Xy04ZGo?oc=5",
-   "date": "2026-09-09 15:00",
    "lang": "zh",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
@@ -356,16 +316,6 @@
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
-  },
-  {
-   "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
-   "date": "2026-08-25 15:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   }
  ]
 }
