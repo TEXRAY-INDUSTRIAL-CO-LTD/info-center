@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-24T21:47:49+08:00",
+ "fetched_at": "2026-09-24T23:30:40+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,46 @@
  ],
  "items": [
   {
+   "title": "Primark U.S. Boss On Why He’s Still Introducing The Brand 48 Stores In",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWRtaFhoZ21XV3FMLS05cXptZXJJYXVoNVJVV3VOQ3FJcUlsOXV2UXRmMGpBVUdCWmplVzlMVU5IRndFeklmQzRhRjZHY3BwMjZDeVRqT3BLQUUwR1hQZFU5a3NKU3prOUowQVlETklVbU9MbHNQaTVaaTZVdlZXbUJEY2xNdVM0UEtlQ1h4WUlYOTA?oc=5",
+   "date": "2026-09-24 23:23",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "Nike股價或因即將公布的財報而波動7% 作者 Investing.com",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fakdoM0M2QjRWbjd4cThjS3ZPRE9ySjd5SlF6Z0lfbGtYdllxcjBlTjYtUF9hRl9UWUVpQldodHBwX1NSSzN6WkNqdV9NN2NaV3JKakctWld3NTZLLXJvcmpKbWpCcFVEMnBWTjZCTzN6R0hiYUdr?oc=5",
+   "date": "2026-09-24 22:56",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike stock may move 7% on upcoming earnings report",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDVYNUJobFRiOUtmaUxTdHVmUlZuMWxqa1FHX1pTSndmNjQ5VUpIX3dBSGoyTFJ4bml5TE9yYkU0cGV5WHR5R2tsaFVGeDd1dThJa2kwcERGckw5bWNucFFHcnl1VTg3a3NhNlRjbUh5UXRuV0VXQ29fQmFpYUhmSnVCeTN2dldxVFh4T1V3YVJzOTB6aU54YzY0UkVCd1FXVmVRYmczRFE2LWJjLTlmbA?oc=5",
+   "date": "2026-09-24 22:55",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Is Levi Strauss (LEVI) Undervalued As Earnings And Tariff Questions Build?",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOenhYWU5vdjJsS2xQekY3UUxaR0hKQXB4XzRibmxwZVp6VXJmZ1VERW5fQU42VlpRMUc0UlhScG9tX1dsY0ZyeW5qX0FJdlZIbnNGOEFmazlvVEd1aUNRSWNSdWpfc0VvTGJZUFR0Nm5sV2JyeVlxQ1NBQ0h4VF9ibWl2SlNrMWthZV9KT2EtTzRFRnI0TUdXeDBkc3A4V2VMQ29UUU5BN19wOFMyM3UwVjYwU2FubnZkalp3V1h3aFAxUmNENVVaQVpKblhtUEh0YnVmedIB2gFBVV95cUxQRGtoQnFQb2dMdXQwUllVcmY4eTdveFB0MUlHQ0ZhMjZvaWhRN1ZlcERfYWZYTkhNN1VibW1yQWI0WHhfWkRMbVc5UVBhUVZrbm1TbE94RWRic3FOZFBDRTZ2dTJaeWZSbFB5aU9TSVpnSVlzeExhZUZOQ296MGFzTEFsc3dSazlHYWxFYWpRQTM3X1M5M2RKSTVOZ3ZvVm1BUUhqSUNLQ3dQSUY4ZHJtYm9tV01fSVhqYm55NzVDOHNjNXF4M09IQUl3X0t4cDlKZzBEWDdiQVFDUQ?oc=5",
+   "date": "2026-09-24 22:03",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
    "title": "H&M results beat expectations, but margins raise concerns",
    "source": "marketscreener.com",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRUFKcmlFRWlwd0JGOUR2NkQ0Vkd5bzd2VmR6X0pkaXE1bTBDSm5FczFySXlONTZpQW5ZWFlmVE9Ub2tMbWFrZzNEbWp6eUViZVc3Zld5dTV1NlNCNndnOS1OdW5acDNNbFZpTGhCN2JvYVVlRHhYc0tMcXFoeUZEd2VDa3BHTHBTNjczRXJ6SmpzWTk2eEN6QThhU2FrSVY4VVJoMGl5bG92ZVRMWW16ckVHeGE0RG0wbVlBdXo0S0g5NXdWUEJyMDlFVQ?oc=5",
@@ -178,8 +218,18 @@
    "region": "europe"
   },
   {
+   "title": "Earnings Preview: Nike (NKE) Q1 Earnings Expected to Decline",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcF9OVEtNMkFMM0Y3SGxhVUNzcFlaX2xqNlJUYWtRU19FRWdra19EQk4ySUlzVk9sU2l6alFVOFNtTUxydnFoeEl4MkdraXZmS2E0SU9hc2FNZ0xzNVpqR1pwUl9uOENjWVh6aWpvNTI1aGVEYVVRcGdva1g0Qk8zRkdQWGMtNm52c1duNkJra2dyMEFDZ3U5RQ?oc=5",
+   "date": "2026-09-24 21:00",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Global Supply Chain Woes Weigh on H&M Sales in Third Quarter, but Profits Climb",
-   "source": "wwd.com",
+   "source": "WWD",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXloNGxNeEVEaW1aTm8taHppU3Y0VlJLd084S0dheFYyb0ctYjNGQS1tWnBibjd5SFlPSW54b0ZWLU1xUVRPR3pvdkxqelN0amxRcEF5TDkyUmh0enJ1UjZDTllyLUpYeW5Kd29XdDl3TDhlTTRQMF82Q2dDVjVXLTh2al9hTlllSE5KQjB1MVNpWUFHc0tHQlRYV3RsYkZiaWlwYWNwZHFhd2hfaVQ4?oc=5",
    "date": "2026-09-24 20:56",
    "lang": "en",
@@ -218,26 +268,6 @@
    "region": "europe"
   },
   {
-   "title": "NKE Nike - On Holding攜手足球巨星姆巴佩，十年合作展望品牌新篇章！ - 股市爆料同學會",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xUkFIeUlGMzBBeThjNklTYV9WTXpqcFJ5ZWFXeHR1WWpJZ1Y0S2hENEQtd3FObVNSWDVXWFAzenBVUkxJc29KcHo4THN1NHVRRk50cG1leEo?oc=5",
-   "date": "2026-09-24 19:34",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analyst",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2MxZUtnaVRKaHRjRng5SXRuVThVNTBKRGxYUWItY1JwT0F4WEhZeWVVMlRmSXFRMXJvV1NoOEMwbWhtd2UzZmI1bGczeHVHbU50MFBWOEU1bVc0WV9zb3lGSllsTHlKWW1rcnN1QkFtaHJUVzlzN0thMDJNb1NOdWdLSm9jclM5UUZ4ek5KSnlYc3BfM21VRG4xSlBqUzloeEtRdlFNLUZDMW1Xc25QNldyR3E3WHJ5Ym00bHAxNThfdlFfdzY4d3pDdVNzTHkyWG9yR2ZJZUtIdW8zWW5EenJpLTdWcTQ5N0Z3OGpKdTBLcDJTNl9NN24ycTVBTXB2b21rMXdodTNKMUM1X1E?oc=5",
-   "date": "2026-09-24 18:37",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "How Investors Are Reacting To Amer Sports Stock Raised Q3 Guidance",
    "source": "simplywall.st",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdllNZmdtYzZOYjFlRTNleVN4MmFUaUdfVGtiaUZwenUxc3JuWUFZM2VybVlDZ3FVOFZWcHl1WGdvOWROSVNjSkphNHRpYkR1QXc3YWNFMFM5S2YySnJTOFo4ZU1QWXpfb05qWkNEWkgwaDhCVGx0bUVCNE9zQUVUQTdyXzBoT3J3RWg1Tld1ZGt2OEVhNV9tWTJWdGpXSWtnZ2M5cFJMVlhrTWlGWVpmX0RYQ0d2NExvaEQxVW1kUzY2Y3Z1VEFOSDQ3RzlJaUJk0gHWAUFVX3lxTE9oR3ROQTFMZzg5VEsyNXljS3pIWS0wQms1U3ZiUDdvOGpvMzhHT0swc0QyVE5XeWVwQVFEcG9KbGJubzV3bE1sQmNHOGxLbjJtVTJfWURVOEdKaGw4MUdEcnVLSUZTNTktTXdtRDRkSmo5SUhteEd6YnJ1Qm5xV3IyNHFXXzV4MWhMZlFCMmJHUF9RM3ZKUHk2SWpJTVEwRFpxSUtEdDNoeTFIVXVhWHlET2JEX3I2TVFZWXRxbms2YmQ3Um5OV0d6S210Um4zUTBsTHJXd3c?oc=5",
@@ -258,18 +288,8 @@
    "region": "americas"
   },
   {
-   "title": "Nike Heads Into Q1 2027 Results With Sales Still Under Pressure",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlFiRW1QcFdHcWRwajVabzYxNDgwTW9wc1NLSlNwYS10a09FeW9VdWY4czNZS1J3VUxmaVp3aV9veENOaHFyQk0tX0xxVlJlUUdmaDY4UHJreURFWTZHYjVqdE1sc0U1TWhyLVNabHNhdGlGQUQtalgwSWxNcWxtYkhiRzB6OHZ0ejREWWxqUjF2elB3dmpjUHAzd05VaFJ2b1hhZGtUMA?oc=5",
-   "date": "2026-09-24 15:10",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "原來你買的迪卡儂，很多都是「台灣製」！深耕36年推「收購再造」服務，舊運動單品重獲新生",
-   "source": "woman.tvbs.com.tw",
+   "source": "女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dFBGWEpIcnFFVUJGMmFydlBValRWc2JrZksxVmZOQkxWZ3o2V0xYTjIxNVZrdU4tUHc2ZGxBcjNyYW1zX3lJdS0xRnVrTkFl?oc=5",
    "date": "2026-09-24 07:31",
    "lang": "zh",
@@ -286,16 +306,6 @@
    "brand": "gap",
    "brand_name": "Gap",
    "region": "americas"
-  },
-  {
-   "title": "Germany’s adidas “Farewell” Kit Closes Out a 70-Year Partnership",
-   "source": "House of Heat°",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9US0NZMldIaHhMbG5nYXFuSzlfb1p6LURqT1pMcmVsWXlJQXpPa1FXMmtJcE1ScFp3a1JOajZpd012U05mX0l3dVNub0E2N3VCMmdJa1AwNHVDSF9nZTMxRXU1ZEdreDYzM2NEVjk0QTN1cTA?oc=5",
-   "date": "2026-09-24 00:34",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
   },
   {
    "title": "EXEC: Anta Sports’ Debt Ratings Outlook Upgraded",
@@ -339,7 +349,7 @@
   },
   {
    "title": "Nike市值剩530億美元！遭「標普100」剔除、道瓊地位也告急 10月財報恐低於預期",
-   "source": "tw.stock.yahoo.com",
+   "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbVFXMmtFbUtEVnFzS3V5UkJIczZhQmc3SWhhalBQTW55UVgtSWs4cVQ5Z0phUVg2dGQ2andVU29wZlZmV1IzTjJZcFozUDg1cklObWtMYmNCMEtCaU40cVljTXBfTThhYVlLVV93TERJekRrMS1XWjZaNHlteHVEelp3Y1dJWmF6QnlfQzRmM21LbW5wYVhuWk9aNDBmOTl4XzRnVHEwZFFqOTFsUFVPMFRRLXJDRzBZTzRDZ2lpNmQwaWI2TURJUnBrRlVqOFFvSU9aMkZZdm9QODduanNlc0ktSG5Jcm94YUtHV0l5UDlQUW4zLVVMbkJTT2FoaF9OVUFlOU82QXJ1MHpsY2JCWjFqYlRSenp4d3lQUDNQWGplbU90d1VIazNPWlk4d1Zfb2xuT0lBMEdyMTZLc09NdEgtQ2Q3dw?oc=5",
    "date": "2026-09-19 14:05",
    "lang": "zh",
@@ -348,34 +358,14 @@
    "region": "americas"
   },
   {
-   "title": "鬼塚虎 3 年營收翻 3 倍、獲利率稱霸集團 5 大事業！亞瑟士為何忍痛分家？",
-   "source": "經理人",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDOVBmWUtJUFN4NTEzZEJqS29ERkJneG1DREdXVEtwVUNxQVduMUx6UHdXRDVMakFjNVRRQTA0RWhkOEV0R2EtMWtxRlVhalBNNWl1WnRvU3JLbUZzSTZWcg?oc=5",
-   "date": "2026-09-18 16:09",
-   "lang": "zh",
-   "brand": "asics",
-   "brand_name": "Asics",
-   "region": "apac"
-  },
-  {
    "title": "大摩維持李寧增持評級 8月零售銷售回穩帶動信心",
-   "source": "BigGo 財經",
+   "source": "finance.biggo.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLWdCQ0YzRmlWSkdsWmpScmNibDZpdVZzZl9NQ0FnaGNiM0Z4Ym5faG5hTDRLWENqcU1NY1dnSGlsX3E5bkhaQXFmYm9KSFpXeXJHbGpqWHFFV0ZkZnhqR0dGQ1UxUFQ0N1pRQzd3RlpsejdRazRvM093?oc=5",
    "date": "2026-09-18 13:05",
    "lang": "zh",
    "brand": "lining",
    "brand_name": "Li-Ning",
    "region": "apac"
-  },
-  {
-   "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ1LUpaRkxBMnFsZzJiek5ueDJ1VUlUTG9qVEJDZnpiaGNmSHZDU1hOVzNyR3ZPWFRjUWVJOFJDQnB3YThLcV8ya1h2Y2hNOGVpOGdMTWZ2dHNfN0pyUTlhWlBOOFlmbzB4UG5ZTnd6MEhwQTNlUjk1WXVuTmdRckh5bmtkMTlzNjZ2TDJB?oc=5",
-   "date": "2026-09-12 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
@@ -419,7 +409,7 @@
   },
   {
    "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
