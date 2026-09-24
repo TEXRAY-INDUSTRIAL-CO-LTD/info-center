@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-23T23:12:00+08:00",
+ "fetched_at": "2026-09-24T14:14:21+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,66 @@
  ],
  "items": [
   {
+   "title": "H&M's operating profit grows more than expected in third quarter",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2plZm1ZNkxXSGxxWVlXYTN1UkxZc2lFa240QWVuY2U3b1ZfbEJRYjBTak1lUzhIeEt1SzM2MFh2R1FUUjdIWWY5OWRkTlY5UHIzYVJVMUpKNkVuX0FXVWtUU2d5c2JnX3lfc29aMVFlX0syTDNjcFpQdVZTWk1lUVg2NWFzMEpPdk1sS1NIbi1abXFQd0lBSHoyX21TcjE2dEJnSDBtaEc0c2dkVDNPVnlFUlkzMVRGRGlacg?oc=5",
+   "date": "2026-09-24 14:04",
+   "lang": "en",
+   "brand": "hm",
+   "brand_name": "H&M",
+   "region": "europe"
+  },
+  {
+   "title": "NIKE (NKE) Expected to Release Earnings on Thursday",
+   "source": "MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXRieEZ1VThsLXdrVEs4SkNOVTY2MU1xNlFjUTJTdTRDQTg5azgyNEZxNzVpdkN3TGpreDZlSEhXaXN0VDVTQlltRzM5bkY0VGdmUnZFZllHQnZyU3lvbUxUS0pwM19TcWpkSDRDbGQ0S2RvbVdKUUJJclNGTWNsZmFQaUM2SW1TOUFVZ1IxY0ZGSVMxSGJwRXA2YVVPWm5WUDY1NUxvWmhxTm5GRXpMZzRB?oc=5",
+   "date": "2026-09-24 13:15",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "原來你買的迪卡儂，很多都是「台灣製」！深耕36年推「收購再造」服務，舊運動單品重獲新生",
+   "source": "女人我最大",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dFBGWEpIcnFFVUJGMmFydlBValRWc2JrZksxVmZOQkxWZ3o2V0xYTjIxNVZrdU4tUHc2ZGxBcjNyYW1zX3lJdS0xRnVrTkFl?oc=5",
+   "date": "2026-09-24 07:31",
+   "lang": "zh",
+   "brand": "decathlon",
+   "brand_name": "Decathlon",
+   "region": "europe"
+  },
+  {
+   "title": "Top fall sales 2026: Gap, REI, Banana Republic and more",
+   "source": "Good Morning America",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGRsdzFXbkdXSGdLMGljSlhfTzBfYXE5cm1hZUswb3oyaHJESm1hREQyUGd6d3NxS0k5aE1NZ1BHMGZ5V3NLWTNiRko3UWdVQ1BkaXprOHJCY01JSmJFRVQ3YXpoNGFySkIwR0ljM01JMzhQWWtjLXFremppZ3YtRdIBgAFBVV95cUxNZGRsdzFXbkdXSGdLMGljSlhfTzBfYXE5cm1hZUswb3oyaHJESm1hREQyUGd6d3NxS0k5aE1NZ1BHMGZ5V3NLWTNiRko3UWdVQ1BkaXprOHJCY01JSmJFRVQ3YXpoNGFySkIwR0ljM01JMzhQWWtjLXFremppZ3YtRQ?oc=5",
+   "date": "2026-09-24 04:09",
+   "lang": "en",
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
+  },
+  {
+   "title": "Germany’s adidas “Farewell” Kit Closes Out a 70-Year Partnership",
+   "source": "House of Heat°",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9US0NZMldIaHhMbG5nYXFuSzlfb1p6LURqT1pMcmVsWXlJQXpPa1FXMmtJcE1ScFp3a1JOajZpd012U05mX0l3dVNub0E2N3VCMmdJa1AwNHVDSF9nZTMxRXU1ZEdreDYzM2NEVjk0QTN1cTA?oc=5",
+   "date": "2026-09-24 00:34",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "EXEC: Anta Sports’ Debt Ratings Outlook Upgraded",
+   "source": "SGB Media Online",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrQks0T2MyVjN0UldGT0RfUUZ2eUZuenpYXy1fakdYS1pranVCUEJmQVhPV3cyU2RyQWlQZEJFdUpvLU84QnNqdFZobkVfdkFuX3pLR2U5M0V1a2gwMU9fdl82LXU1QXd6SWZ0R3VqajR0UQ?oc=5",
+   "date": "2026-09-24 00:30",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
    "title": "Levi Strauss, M&S, Schneider Electric Launch Fashion Supply Chain Clean Energy Initiative",
    "source": "ESG Today",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0JuOG1CT21UOW1FeHVCSU9xcHZVNHRMdks5UFdFUVNmU05GaTNWRUN5Yl9DZlA5ZlJKbE81Nkl0RWVtZkZST2ljN0hSM0VhaWIxODhHZW5TNmI5YXIwN3hpYkZrTEtBSUd6OWtYOUdvaElJOE1aNW1NWHJ5MU5tUURmakRvSS1TdjJuXzBpMUFXcVJ3V2ZBWlRyenJpczFjUjk2dnhXNTlxMW9UaDdxTUVR?oc=5",
@@ -165,26 +225,6 @@
    "lang": "en",
    "brand": "levis",
    "brand_name": "Levi's",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Margin Story Shapes BTIG Thesis Ahead of Earnings",
-   "source": "TradingPedia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUFE2MkM4UUxyVkptVWlFVkp4VUYydzlZbk90R0xHZnZRdTJnZVNKTTZRUkc3WQ?oc=5",
-   "date": "2026-09-23 17:39",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "BTIG shares its Nike stock outlook ahead of next week’s earnings",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczk0U0UycEhjSXZqdllrdGdsUzEyRERRMkJHTXpWS3hOVXBsN0lEUmhIMFNrdzRXMk9ra2NZY1h3R3hPVnpIU2xPb0N5bzU2NlZDR0xCQUNXeFpTWVR5U0p5Nkp0LTEweEppbVNsUU1XazhMQ2Fpc2NXRXNlLS1PbkNYV3paWkxNdkVuT0x3WHBCN1ByY1NPVHh3b1YzQ29NRm42WmhaUnRReUxGc1ZFU3JleXFOS2kyMmh3M0FLSFJsVEU?oc=5",
-   "date": "2026-09-23 17:18",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -198,11 +238,11 @@
    "region": "apac"
   },
   {
-   "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXp6M0NGWFJySmhtTGlwQng2YUZIMzZ1b3Q0S2M5aklxcGhrcmlleXhZeGdCTjdZWUY3OGsyTk5xWDZXajhKWUw4Qk9OUVRycy0xS0ZkWFFZcjBFbmI2TmZoWGxVSHQ3Rm1XamdVenhjLXBYSnVXZnBZaERjZzhvZF9zYndob0Riekl1QkNjazRWMVdmeHc?oc=5",
-   "date": "2026-09-23 12:07",
-   "lang": "en",
+   "title": "耐吉股價挫 78% 遭剔出標普100 新執行長力拚重振",
+   "source": "蕃新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HV2k3aWlmVXI3dWlwbnZlVGVsNDlKVV9DWjR4YjZTOUVPdEwyMUtLVG11TW1aSXFWdWwwNXdiem1JNjVYVm1TeXhsMXlpUkM3UVE?oc=5",
+   "date": "2026-09-23 09:43",
+   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -236,6 +276,26 @@
    "brand": "asics",
    "brand_name": "Asics",
    "region": "apac"
+  },
+  {
+   "title": "大摩維持李寧增持評級 8月零售銷售回穩帶動信心",
+   "source": "BigGo 財經",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLWdCQ0YzRmlWSkdsWmpScmNibDZpdVZzZl9NQ0FnaGNiM0Z4Ym5faG5hTDRLWENqcU1NY1dnSGlsX3E5bkhaQXFmYm9KSFpXeXJHbGpqWHFFV0ZkZnhqR0dGQ1UxUFQ0N1pRQzd3RlpsejdRazRvM093?oc=5",
+   "date": "2026-09-18 13:05",
+   "lang": "zh",
+   "brand": "lining",
+   "brand_name": "Li-Ning",
+   "region": "apac"
+  },
+  {
+   "title": "【時尚產業一週要事】Zara母公司毛利率不如預期、2026年CFDA時尚大獎公布入圍名單、Redress設計大賽優勝者出爐",
+   "source": "BeautiMode 創意生活風格網",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10b2VtdXhKUENkdGFUWk9LeHpMREx6ZktSajBNb2U0aWxQeGF3RnlZRkp1NVViR3VUWGxXRm9GbFFOUXVpVGtHblY1b0N6bk9FLTJSRmliT1kwRjZ6a1E?oc=5",
+   "date": "2026-09-13 15:00",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
   },
   {
    "title": "Lululemon再度下修指引 股價重挫18%是否過度反應？-CMoney 研究員",
@@ -288,16 +348,6 @@
    "region": "americas"
   },
   {
-   "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
-   "source": "news.cnyes.com",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSEJFTURTSC0zbFZuRFJfMi1YWkEtRWU5a2JIY2NEUEdWRHI2eWItQmNBYkxhaGJZbnN1d2JBWGNETHpOckpBcHdXQ04taU0?oc=5",
-   "date": "2026-09-04 15:00",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
@@ -318,6 +368,16 @@
    "region": "americas"
   },
   {
+   "title": "〈財報〉Lululemon下修全年財測！轉型陣痛加劇 盤後股價慘摔18%",
+   "source": "Yahoo 財經",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUg0NVBxbEpieGx0QU9scnN2WW9TdmRXYzJacHRnbjFVQ3doSk1YcFFmelVHdDNoVEJWdmRJNFlwbDVIZkxEUllfNUxBUWR6cXo5akJkamphWmN4UXZPZkFRMFJGUWNQek84SlQzQ2F1QTV3ZmZtU29JTnZhN2pmLW1fcWc2THdsQlpDYzhXekxtNzVtS3JyLVY3RVVGYlBuYWJac2djY1pjU1ZxSGh1MHRQNS1wY29XVXJwbm5jekRtRUIzZlhFa1VEUXF2akk4am1HOGdTcW11cjJ3VlpqWGlUQ3lsc1UyWjNReTFsc3BQMGo1UVFFVUthdExDZUFScnN3d2NuVGNSMzYyeXprb0E1eEJBdWRIQ2Nqekxnb1ZBdmNEb2J4YzZtSWJBelJxT2NOelhJZW52d2V3ZkMwUDBaOGdhYkQ0WGYtOGMwajlpQ0cycVJoY1A1cEhJTXg2?oc=5",
+   "date": "2026-09-03 15:00",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
@@ -325,16 +385,6 @@
    "lang": "zh",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
-   "date": "2026-08-30 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
    "region": "apac"
   }
  ]

@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-23T23:11:57+08:00",
+ "fetched_at": "2026-09-24T14:14:19+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,44 @@
  ],
  "items": [
   {
+   "title": "台北紡織展三十週年 聚焦永續環保/機能應用/智慧製造",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQM19hMmlsOWU1V0dYLVFRMV8zb2FSbVVhRWRGVEZyMUNXeG9aQ1ZvV2hOMHlXYlZyZ0F6OFkyV1JfZ1daZGZ1QjVtSzZteUcybF9KZGRhWHVKYjRsZU43R29KUEhoWVNFYXVzRXp5aS0tQ2FuOXU3T3hTcmZCVzFrWS1EMWtpUmVzcTV3dDlnZ3hwdnhaajNkdjA0NHl4VkJ5blpIRDVSUUFDSWZueVZJSEtvTFVRTE41T0dBWHNIQ1RGc29QMjFEX3pPMmpiQldBUnp3aVVsUjFGNmd6eFZQZHMtZGJSWENobE5wTS00VmExQUt6NWtlRzJ0VnJmM0ZkRE5jbUJiMlhxVXZCRlcyZ3l1b2ROYXhjb3dSdHZIZm5uVUtFbWR6c29uUDU5MFJKTUowaldENnJiOGdfbE1WM3hFZ3MtM0pJTEtlZHBvSmZUeTR5ODB4VWtaMXhaWURLZWx3a1NhRFZ5ODU4T2JVOGV6MA?oc=5",
+   "date": "2026-09-24 12:52",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "台北紡織展三十週年 聚焦永續環保/機能應用/智慧製造 | MoneyDJ理財網",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZeUU2dV9sNk51MW9Ya0huME5XQlMzVjQ5cERNX2VzLXB4RlNvUlc3cGl3LWRkbWZLbWVEaWgtZ1UzN085NmFvcjVtTkVTaWFXLWI3cjR3?oc=5",
+   "date": "2026-09-24 12:22",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "電子紡織感測器用導電紗線市場展望2035年：遠端監測與智慧衣著帶動成長 - 新聞與統計",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaUpkbTFiTzF1VFhCZC1tMUNSMjRLLWVCbTc0bUpmb2ExaXpHanA3VkVSeGM3QjVPbWo1OGxfLU14eEI3OGM0LWdNNk9hMzRtc01ENDBrM05wVDZsRnJ0V3libTd4bWxVcHp5RXJJeFhsZG9Qd1FDM05lbFJ6ejE4SlZlNUU4dU1aUG5vRjdBSDcxV2pueGV1WjZPSG83dk12OWRuMnlJWHhQZ2hBSTNZVWVEeWVnNXhFUUlVeGJBOG5oT2FodHBqdXNNZGlrN2t2bTF0Z3BSVXVlTE41ZjN1TVhPM2lKaWdtdHAyQXM3dUJLSzY1V0ZZTXhB?oc=5",
+   "date": "2026-09-24 06:21",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "成衣紡織廠商會歡聚中秋佳節 會員攜眷同歡聯誼 共度溫馨團圓夜",
+   "source": "United News Ph",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xSDJDNXFmRjdXd2k1SzNWcEx0ZnpYb3lLZ1J1MXVmMkJZRUlEUjUzd3BVZnZObVRjX1JJUEpuRkYyVExFYzF2R3h2cUNTQkRCSFIyZEx0OFdyVmFjT1E?oc=5",
+   "date": "2026-09-24 00:01",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
@@ -41,7 +79,7 @@
    ]
   },
   {
-   "title": "世界盃球衣台灣廠商不缺席 紡織業靠循環技術打國際賽",
+   "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OXlRYUU3N0RDWlowd2xpaVphZE5qNGNiWXFLaERqRlU4cHNyMWZmWWRXa2lRS1M3akRuOXJsOVQtUE9HUG0xY0MzNjkxeGFv0gFWQVVfeXFMTUIzVXNYaGlZMjdyRUtuZTNITzE3eUV2Y29ZZVg4cUx5MndSUVpkX0lJRkMyU0pwNHpkOHZ4WmhKS3Q5VWhaakI4djRVcERZam54SFZwLXc?oc=5",
    "date": "2026-09-23 17:00",
@@ -73,6 +111,16 @@
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UallVNTl4THpTTmRKejNaX2xQZzFNcHJWZGNIbjRzWmJDWGI1OGZTRW5PdHk1emxTdTZHcjA1Z1JTYjBhdlRzclB4WlBGMmlSNGtqSjNB0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
    "date": "2026-09-23 16:53",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "台北紡織展10月6日登場聚焦永續、機能與智慧製造| 產業綜合| 產經",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZRmhNekRMRzdkVk8yMFhlcGJ2WW1scmdSamtmdFJVeFpILUJkV0JUaWVSbmZ4aGNJTkkwb19sNVd1YVBwZEkzWnNrNjhNVzRr?oc=5",
+   "date": "2026-09-23 16:04",
    "cats": [
     "tech",
     "green"
@@ -127,7 +175,7 @@
   },
   {
    "title": "輕工紡織產業發展“十五五”規劃發布--經濟·科技--人民網",
-   "source": "人民网",
+   "source": "finance.people.com.cn",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRUVYzTTFDQVczM1hJUzhycTBlNGFNSC1aTHowWUdubmh1d2N3MzQwNzhRbUtKU3BMSTVwWk5aSWstZTVKSkZCU1htekl4M3FfWUY4Y2taOER3V2xHRmdETGcwakIydDBROWdrVm9EbXBiZjN4?oc=5",
    "date": "2026-09-22 14:41",
    "cats": [
@@ -145,7 +193,7 @@
   },
   {
    "title": "孟加拉成衣廠投資降溫設備 研究：四年內即可回本",
-   "source": "民視新聞網",
+   "source": "ftvnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZW5SVDRFWDkyaWtDWnlLLW5wYTh2MHRmUWpmV1JodlMzZlFYRGN0Zmp4ZUxqV3hsNjZzLUxtYVcxeVhLOFhCZV9NSGZxM3pHMGpYXzBaMExUV243T1BRdA?oc=5",
    "date": "2026-09-21 06:18",
    "cats": [
@@ -194,7 +242,7 @@
   },
   {
    "title": "全球能源成本飆升 衝擊歐亞化工、紡織產業",
-   "source": "公視新聞網PNN",
+   "source": "news.pts.org.tw",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcXE2RjlHNUhuZFctYWNsUHZRVUQ5dmlnbEV6YUtSTHJBV2F3QUR4SVgxdmpBOUNOWUQyX3hFbXJFVlY2U0ZPajRBem5YUzg?oc=5",
    "date": "2026-09-14 15:00",
    "cats": [
@@ -212,15 +260,6 @@
    ]
   },
   {
-   "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcU9meVM5RDhwSnk1TUdtN3l5aEJycEVEcTV5UmhmNUNnR3BnaFQxRUI3R1RxRGtTT0huYWg4UjhpS1o5NnVmZllQVDc5M1FGTzZuRmw1Mk0tZ9IBX0FVX3lxTFB1OG1TSzFwZlY1U290RnNpLXd2X2FZNnVTUW1wTThkRGM1Q3dNeE00bmhrd2hITHhLbXZSWnBvYnlydG1VWWZaRTV4elRnQWdhM3dnVENLNFFJRzlLLXRZ?oc=5",
-   "date": "2026-09-10 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
@@ -229,6 +268,15 @@
     "market",
     "stock",
     "trade"
+   ]
+  },
+  {
+   "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcU9meVM5RDhwSnk1TUdtN3l5aEJycEVEcTV5UmhmNUNnR3BnaFQxRUI3R1RxRGtTT0huYWg4UjhpS1o5NnVmZllQVDc5M1FGTzZuRmw1Mk0tZ9IBX0FVX3lxTFB1OG1TSzFwZlY1U290RnNpLXd2X2FZNnVTUW1wTThkRGM1Q3dNeE00bmhrd2hITHhLbXZSWnBvYnlydG1VWWZaRTV4elRnQWdhM3dnVENLNFFJRzlLLXRZ?oc=5",
+   "date": "2026-09-10 15:00",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -301,6 +349,15 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
    "date": "2026-09-05 15:00",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
+   "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
+   "date": "2026-08-31 15:00",
    "cats": [
     "trade"
    ]
