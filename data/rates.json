@@ -4,7 +4,7 @@
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
  "data_date": "2026-09-24",
- "fetched_at": "2026-09-25T14:11:47+08:00",
+ "fetched_at": "2026-09-25T22:11:05+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
