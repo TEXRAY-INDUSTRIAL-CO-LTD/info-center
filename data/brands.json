@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-25T22:11:12+08:00",
+ "fetched_at": "2026-09-25T23:34:42+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,14 +158,24 @@
  ],
  "items": [
   {
-   "title": "H&M Earnings Rise as Cost-Saving Push Pays Off",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjVMWGxIVERFQ09mRmQwcTdoRU1WdElNQmp0T1p6N1RnZUZtemVhY1NVeFhYcTc4akplOENha0RkalMyUEtrZGVENmRmVFdReDdubHFVbFRoWjBhc2R4VGdCZjh5RVhra2dUZ3VIeXpsb2VPbzVOZ0pMTFBWSXdZNFV6akszS3c2MWFjY096Sjk0a1VaZVNIUA?oc=5",
-   "date": "2026-09-25 21:56",
+   "title": "BofA Downgrades Nike to Underperform Ahead of Earnings",
+   "source": "GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHd0bG9NRDZ0QWE2YkluMjBLakhqYktEeDd0a2h1RGtQNFJ2OFBCanV3M3dGdkFWX2hKZUVMWGxzaW5wenMzSnMtVGVfSlRKSHg2eVNTWklMeUlKVGhzS0xkSWl4UEJybXZQYjM4TmtvZnN4YXBVMnhXWWdhd1lYY0ZpSmJZa2Q0TlV6cVVFUEFtemJBWEhpTg?oc=5",
+   "date": "2026-09-25 23:33",
    "lang": "en",
-   "brand": "hm",
-   "brand_name": "H&M",
-   "region": "europe"
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike Trades at a 12-Year Low Into Q1 Earnings: Here’s What Has to Go Right on October 1",
+   "source": "TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtaUVpkbWdjZklCcG9BVHRJUW9IeEQ2aWpGSGt5bjM1MW5wQ2l6b2tfSE1saU80UmluRkM4dTItSnlTdl9zMXhERlMwY1hpZ05HUUN0SnF2UFRTZEhsZk5vaER6MWM3d292ZzVJOVhsWWlma0NZMVZTM0FFekowVG1OLU5zRnZUMFo4aUdDNkdnR2VDeWRZS2JYR0VQX3RVV0pHSjZmRzJzT1pSZ05hSg?oc=5",
+   "date": "2026-09-25 22:24",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "How Investors May Respond To Lululemon Stock CEO Change And Margin Pressure",
@@ -175,16 +185,6 @@
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Nike’s Turnaround Faces Another Test: BofA Cuts Price Target To $30 Ahead Of Earnings Next Week",
-   "source": "Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUDFyZy15OXBqZGFubVJlRE9salFQU1J6RVBCa08zNGQ3TmQ0NzVvSGduNjZlWTFxM2p4M0EtdkxRa2lkTWFCQzR0LXcyYzhzU0I2VXJGVE5JWTNMeEhvNlFjRXRwbGZPMU9wb1ZRQm5fTWpMVkk1ckQ2MTZCWjY5TmEtbjl3WGZ3bWtIVFVIeVlsdjh6QkZQdTFqMGRhb0pxVVZsSlFkbk1aU3VNZmRkSEtFa0JuQ2l4ODFVLXNHZDJfYWZXNFZaRGFkaWh5M2hkZDlaYnV1NlF3dw?oc=5",
-   "date": "2026-09-25 20:32",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -199,7 +199,7 @@
   },
   {
    "title": "Hennes & Mauritz (OTCMKTS:HNNMY) Issues Quarterly Earnings Results",
-   "source": "marketbeat.com",
+   "source": "MarketBeat",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUxTbDc3Qk1UT2lLTUJZNkNBNlU5Q2NGMVNhQmFLbHRFZ3I2WFJkbmhGcHZSZmwyNkhFdnRPbzZZWWxJbTN5dlJlVDdGNjBHNTFwNjlKaXJ3a2xBZmdIV1NLODVXU3RvNnZiQzNXbzRZblUxNmc1ckVpTU5ISHVPSHB1NDktcy1fVjRvQ09LUFhsbzJXVkp1ODVhVTVKUHlSM1pvTGZsREQ1alFTNGI0aFVocTEtM2F6OW05ekF6Q0RVc0E?oc=5",
    "date": "2026-09-25 20:17",
    "lang": "en",
@@ -228,16 +228,6 @@
    "region": "americas"
   },
   {
-   "title": "Nike Stock: Tread Carefully As FQ1 Earnings Loom (NYSE:NKE)",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzNiMmdoN3R0UHo0SEItb0QxaFBacWJINVhPZDZZWVFPaHNTT2JsUEtEUFhWaVJubkhzVFZoVWk2SXhXUU1IQ254STBFWUo1VTNGUGFsekVOUDhBVGl0Y0RoeHZCVHJjbGdUYzNOTF8zdzIwVG0tWGxfNU1QeUhReXpvODNZMlFfV05PbGVDUko?oc=5",
-   "date": "2026-09-25 19:30",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Lululemon Athletica (NASDAQ: LULU) Carries Strong Sell Rating As Earnings Estimates Tumble Sharply",
    "source": "foreignpolicyjournal.com",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTVZJN084Y3NUcG4tN01pNUJYcjZlTllMT3RieDhBbzN1YTVUS1AxX1ZKeXJ5czhzMm1xRFZfTVlUT21iSVVWVUlpS2F2eEZiSGFYeGtYNEZfVHF6MF9kTTllZG1XVkxDR0NPdmRYVG84Q3RILXZXdVJEaWhuc2dQQl9ZbU1MTnh0XzVsaEJnYzBYaVg5bml3NDNrOXJ2V2dFZUxJS2tpQzJCdmRzN2JsQ1dNdFJiNlVjQjNkRGtsYzMtQWJFdkN1blNmV2kzRTBRbmp3TUxsbFlxbFJh?oc=5",
@@ -258,8 +248,18 @@
    "region": "apac"
   },
   {
+   "title": "H&M Profit Boosted by Tariff Refunds, Sales Lag",
+   "source": "Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEJjVzRsaFRKeFhVQTdnMUFQa08xZkQ2c2l3dGFaSkJrZUFSWHczODhad1l5SjBzUlNsQWR1VkpZcld4M3FOa1NTWW9yRG5zSXM1b2MwZDJNaTVWdFVoNm1tNFE2cnF3TkRhSFhoOFpkVklHMFNpdl83WmV2bzloc1I3SE5kTWRjc2l6c05rSERmZw?oc=5",
+   "date": "2026-09-25 11:11",
+   "lang": "en",
+   "brand": "hm",
+   "brand_name": "H&M",
+   "region": "europe"
+  },
+  {
    "title": "安踏把“全球併購”這盤棋下成矩陣| 港股",
-   "source": "hao.cnyes.com",
+   "source": "鉅亨號",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XUXd4ZW0tWDVZYzFYNVNPY3ZoX3BOeXR3eWZ4WDIwOEhnMnhZUXVkM2xzY0x6TGM4OXV2bGgwbzBBcFdjY0Fobw?oc=5",
    "date": "2026-09-25 10:27",
    "lang": "zh",
@@ -269,7 +269,7 @@
   },
   {
    "title": "Top fall sales 2026: Gap, REI, Banana Republic and more",
-   "source": "Good Morning America",
+   "source": "goodmorningamerica.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UX3IyN1lJWUhtTWNhNDNXZG94QUZfY3N6SWV4Nk9NdzV5V0lKX001eHpDS1J1TGFQYk9jNkFUY0dQZFhvVGgzRHNXR2Z4OHgwSlFMSjhnMWszelNsaE44TEVoeVVIVkUtWFo4cWZBejkxVnhPeGlNc0EyUdIBgAFBVV95cUxNZGRsdzFXbkdXSGdLMGljSlhfTzBfYXE5cm1hZUswb3oyaHJESm1hREQyUGd6d3NxS0k5aE1NZ1BHMGZ5V3NLWTNiRko3UWdVQ1BkaXprOHJCY01JSmJFRVQ3YXpoNGFySkIwR0ljM01JMzhQWWtjLXFremppZ3YtRQ?oc=5",
    "date": "2026-09-25 09:43",
    "lang": "en",
@@ -286,16 +286,6 @@
    "brand": "gap",
    "brand_name": "Gap",
    "region": "americas"
-  },
-  {
-   "title": "Primark U.S. Boss On Why He’s Still Introducing The Brand 48 Stores In",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3VaSnl6dkt3TWxoUGI0SFVjeGo0TkhkSjhWUlhFOEQ3M09QX0dtNGZySHJnRk9kX1p6VFVIV3BQQzBKeWtPZ0FZUnF1b2xjQVppbTZiTDY3ODI1VjRCeUozMTUyejduOVI3RVczVm9FaklzZDVEblAwVXptRTViSTU3aXR2SUNKV1l1RnlyWW1fWHRoTXNfOFdZMGE2MmlfbnpGcS1QUVRGZ3J6SjYtckp4akhhWnpNYktqWHh5MA?oc=5",
-   "date": "2026-09-24 23:23",
-   "lang": "en",
-   "brand": "primark",
-   "brand_name": "Primark",
-   "region": "europe"
   },
   {
    "title": "Nike股價或因即將公布的財報而波動7% 作者 Investing.com",
@@ -319,7 +309,7 @@
   },
   {
    "title": "H&M Earnings: Margins Improve on the Back of Cost Reductions; Sales Stay Weak",
-   "source": "Morningstar",
+   "source": "global.morningstar.com",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTcyc0F6eFhuX2FyY2g4RmJUZEY4dndYblBTN0dBa2E5aW9xM2dURHYyS2N2RWJGaVFfT3JPZzBPb0FnLUlMYTdCd3hhakZSU0FMY3FveWdXUDVRTGZ2MkZHaGNLR3ZOZDRuTVFZVmlFMEl0V1Z5YmFCeGx4NUtXdC15dGtCdHlhQ2NqMW1YQ2JKWFVNV3RQMTJIQkZmeGN3WWpCTFowSWM2RXVZ?oc=5",
    "date": "2026-09-24 20:47",
    "lang": "en",
@@ -328,18 +318,28 @@
    "region": "europe"
   },
   {
-   "title": "Adidas Germany Farewell Kit Closes 70-Year Partnership",
-   "source": "KicksUnderCost",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGxWZmxVX1dfSDZTY3haWmZ4QkJfQlBLVFdBUzlMUThLN0FTSnJTS3ppQW9pSkthdGk0VXZ4cEVLQXR0NGRxc0VMc0wtMnhKMjN6Ym9adkNtc1RXbkZfRTFZNVpSMktFdkZFNE1tbzhfbk8xWmR4UGtfc3V5ZHF2OTlKdVM0Zw?oc=5",
-   "date": "2026-09-24 20:08",
+   "title": "Mike and Zara Tindall in mourning: former rugby star grieves the loss of his father after a battle with Parkinson’s",
+   "source": "Tatler",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUNsaC1kSmViX3A4ZkZYYjM4R2cxRU9TSXFUX25mUUlYRjc4cW9NTmZCcGNVTHc5ODhJMkNyRFgzNW5vMTJKNnRoMGJESGl0TTA1bVJSRmY3a0xDSUs4TFVPanh2cm5NUGVfUDhTcW5tUGZKdXk5cC1FanpwVXFWdE9hb3ltR1lfeDN3YjdUak9jb2V5VUNkNHlCRTRhdk5GM2laRXBzMjZrNnl0N1RZdUlKZEdtX21KNVNHbmRvVzJ2V2ljdWdvejNleF9mdlNKamZOTExQTFJnNGFJ?oc=5",
+   "date": "2026-09-24 18:27",
    "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "H&M Earnings Rise as Cost-Saving Push Pays Off",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjVMWGxIVERFQ09mRmQwcTdoRU1WdElNQmp0T1p6N1RnZUZtemVhY1NVeFhYcTc4akplOENha0RkalMyUEtrZGVENmRmVFdReDdubHFVbFRoWjBhc2R4VGdCZjh5RVhra2dUZ3VIeXpsb2VPbzVOZ0pMTFBWSXdZNFV6akszS3c2MWFjY096Sjk0a1VaZVNIUA?oc=5",
+   "date": "2026-09-24 15:17",
+   "lang": "en",
+   "brand": "hm",
+   "brand_name": "H&M",
    "region": "europe"
   },
   {
    "title": "H&M promises change as slow sales undermine profit boost",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2plZm1ZNkxXSGxxWVlXYTN1UkxZc2lFa240QWVuY2U3b1ZfbEJRYjBTak1lUzhIeEt1SzM2MFh2R1FUUjdIWWY5OWRkTlY5UHIzYVJVMUpKNkVuX0FXVWtUU2d5c2JnX3lfc29aMVFlX0syTDNjcFpQdVZTWk1lUVg2NWFzMEpPdk1sS1NIbi1abXFQd0lBSHoyX21TcjE2dEJnSDBtaEc0c2dkVDNPVnlFUlkzMVRGRGlacg?oc=5",
    "date": "2026-09-24 14:04",
    "lang": "en",
@@ -389,7 +389,7 @@
   },
   {
    "title": "【即時新聞】旗下Converse涉種族爭議急撤廣告！Nike(NKE)連13季營收衰退恐雪上加霜",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVhhZWN0M09FZ3hxRkpmbEYtVXA0MnV3ZnV6Z284NFIyVmtkZ3FKY1RSbnNra0xqWW9SZlpuWHZOYkxlcXdqeG85dUcwUXNGdmxlOFpfaEhmVExhcEZOZ2dnaUJQYWhDRE1lT1ZPUWxvNUJITG1DRTBkejQxdVNnV2hrQTdiZko4dDBPb1k0Njk?oc=5",
    "date": "2026-09-22 22:32",
    "lang": "zh",
@@ -409,7 +409,7 @@
   },
   {
    "title": "Lululemon再度下修指引股價重挫18%是否過度反應？-CMoney 研究員",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ1LUpaRkxBMnFsZzJiek5ueDJ1VUlUTG9qVEJDZnpiaGNmSHZDU1hOVzNyR3ZPWFRjUWVJOFJDQnB3YThLcV8ya1h2Y2hNOGVpOGdMTWZ2dHNfN0pyUTlhWlBOOFlmbzB4UG5ZTnd6MEhwQTNlUjk1WXVuTmdRckh5bmtkMTlzNjZ2TDJB?oc=5",
    "date": "2026-09-12 15:00",
    "lang": "zh",
@@ -449,7 +449,7 @@
   },
   {
    "title": "lululemon股價暴跌17%！全年展望再度下調，投資者憂心未來",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXN3M1EtdHhPbFIyY0tsbWdsT29QNkJKc3gtNG9DNnViTjd1NnRBU3pnRElGeWUxMldHZzVCS1VNdEdrLVRXbWdCM1hwT1JKZXVPV0hjaHBMQV9mVVVYd1phTkNQSWE3VHNOWEJjWnNzQkhKU0RtMk5DbHRGUV9NVHE5UDRHZ2NqR0tkclRB?oc=5",
    "date": "2026-09-05 15:00",
    "lang": "zh",
