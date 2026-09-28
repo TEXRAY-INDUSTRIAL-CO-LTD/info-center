@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-29T01:02:08+08:00",
+ "fetched_at": "2026-09-29T02:16:12+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,8 +158,28 @@
  ],
  "items": [
   {
+   "title": "Shein sees 1% revenue growth in first half of 2026",
+   "source": "RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjVBa1RBd2t0T29ZWmZLVVVYVmVFU05keFcwUEQwTl9zdmpYempNMGZRbFk2U0xwdGtNczJ4aGpWNTJZR2tLQWFRTmVKOTJvMVJKcVI3V1UtbU1MOHlTZTFUX19TZkw1c0IxaTZiVXFwNXVsWUZvSFJSRmxCR1ZKSENUQVROU3V5WmE1eUh4TVQ4TVlwVXlMdWZFM1RtUElkSDdqaXB3?oc=5",
+   "date": "2026-09-29 01:20",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Shein returns to profit in second quarter but Europe sales drop amid price hikes",
+   "source": "FashionNetwork USA",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckFTTklOdVljd0ZQenB1NUNWbDdIenhrVFRkOFJGTmNRTXJjUnJ5cHQwemhQUktsQlJKeUM3WFdpMmJBbGxfcDZLN1pxR0d2YW0xOHNWR2pjUUJqOXJKLWlSZjlQVkhkR29mOTBrc1JhQzRzMy1UZTJiX3FPNG5GVmxMQ2lVbWtEc3FRaEczNHRMS29FZlE5OWd2NjU0X3NmUk9rZTZuTDhCSjYwZFpBZjBZRDBvXzZkZ2NnTk1zbU5pWFBvNFY4?oc=5",
+   "date": "2026-09-29 00:57",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
    "title": "This Week in Retail: Shoptalk and Nike earnings",
-   "source": "Retail Brew",
+   "source": "retailbrew.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHhuNkxkbHZlYzF2TzZIVDBwUXo2YXFWNEtubzgwZEllNFBNVVhKeUJ3RHlqdWJ5WmUxUHZkbG9KVUZlWXpSS3hDNlFqTERKX1hLS2s2VnNnamFTMzJKZVR2aFpJM3NiUFk3UkNFS0Jra21JUE5iS0tmN1lHTDhJSzBpdF9Cb0hF?oc=5",
    "date": "2026-09-29 00:31",
    "lang": "en",
@@ -178,10 +198,20 @@
    "region": "americas"
   },
   {
-   "title": "Shein issues caution as European sales slide",
-   "source": "Bdaily",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHpzVUdGYVRUbTEzWnY0Z0twNmxoWXVnQ3dyTExIVXZPdjE5OUxhMlgyZzlfV3A2VWZzZWppblVmeVBoWXBmVWU0RXptTG9BT2ROZkJBOGJxZE1zNTRfa2dGYkxXM3lmYjRNbV9JcWN1bXQ1OXRTZGtjZUhlUGRFYm1Fd1BHS18zcjlld3JR?oc=5",
-   "date": "2026-09-29 00:03",
+   "title": "Nike Q1 2027 Earnings Preview — October 1, Street Expects $0.44 EPS",
+   "source": "AlphaStreet",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1FTMFZDcGJPby1KTXh1UUpuU2JKVmF6aENzQ0pnRzQxS1d1THZyVDVPajZrRDN5Tzg5QlJmYlZTbmRCbW1yckJGbWIwdTg3c1NJREtTYzVLd3V6U2pVSC14TFRuUXQ0Wmt1eWw1cXV3Zks0OHI4VjRoRUxKUnlTOXBnN1NqS3FBZUEwbzBOdms5QTJNUXJhWDZqQ1prUdIBngFBVV95cUxQb1FTMFZDcGJPby1KTXh1UUpuU2JKVmF6aENzQ0pnRzQxS1d1THZyVDVPajZrRDN5Tzg5QlJmYlZTbmRCbW1yckJGbWIwdTg3c1NJREtTYzVLd3V6U2pVSC14TFRuUXQ0Wmt1eWw1cXV3Zks0OHI4VjRoRUxKUnlTOXBnN1NqS3FBZUEwbzBOdms5QTJNUXJhWDZqQ1prUQ?oc=5",
+   "date": "2026-09-29 00:23",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Shein Faces First Public Earnings Test as Growth Woes Mount",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU1VS0ZUMl9UbUZzbzVSTm8xNVFZM1o0TnA2QVB1YjBQTTBhVFF2dVVEeE5Xa3E0WlA0dkpROGx5cEFaMVotR242dTgtZUZMNnd5YThMRVpNZkhHT0dLRTFhR1FsU2h0MXZrZXdzUG1acC1qZG9kLVhvMjdjbXZuR2pLN2hjRjR3YXJ2Zkl5NDExMDlua19LSnpvRGNkQUZWVDMzSkdYNXlkbkNKa1Yw?oc=5",
+   "date": "2026-09-29 00:11",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
@@ -248,10 +278,10 @@
    "region": "americas"
   },
   {
-   "title": "Nike Q1 2027 Earnings Preview — October 1, Street Expects $0.44 EPS",
-   "source": "news.alphastreet.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1FTMFZDcGJPby1KTXh1UUpuU2JKVmF6aENzQ0pnRzQxS1d1THZyVDVPajZrRDN5Tzg5QlJmYlZTbmRCbW1yckJGbWIwdTg3c1NJREtTYzVLd3V6U2pVSC14TFRuUXQ0Wmt1eWw1cXV3Zks0OHI4VjRoRUxKUnlTOXBnN1NqS3FBZUEwbzBOdms5QTJNUXJhWDZqQ1prUdIBngFBVV95cUxQb1FTMFZDcGJPby1KTXh1UUpuU2JKVmF6aENzQ0pnRzQxS1d1THZyVDVPajZrRDN5Tzg5QlJmYlZTbmRCbW1yckJGbWIwdTg3c1NJREtTYzVLd3V6U2pVSC14TFRuUXQ0Wmt1eWw1cXV3Zks0OHI4VjRoRUxKUnlTOXBnN1NqS3FBZUEwbzBOdms5QTJNUXJhWDZqQ1prUQ?oc=5",
-   "date": "2026-09-28 19:51",
+   "title": "Consumers are changing: here is what Nike’s sales by category and region reveal",
+   "source": "Revista Merca2.0",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1VfYnZaWEFycURHZ0ZjdWRxWjFDRW9XaVJqWUVBUXIyV0VyWDVLVmpGWGZIYzlEdHdSZWhZZzVHaHN6ZHJ2VmltQ0FNMW1LbU9rYzE5N1BUTUJ4czVNRWFXTVpWZVNTS1dENjkzbk9sU09oOFNPM2Yzd2x5dldJUFlkS3VrTlgtV0QwZ2RTNVpyX1M3NDNOUS1ZYklUSk11WHI3Vg?oc=5",
+   "date": "2026-09-28 18:26",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
