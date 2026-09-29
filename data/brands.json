@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-29T23:05:36+08:00",
+ "fetched_at": "2026-09-30T00:38:48+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,56 @@
  ],
  "items": [
   {
+   "title": "Shein quarterly profit falls 67% as costs jump",
+   "source": "The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDZoTEs4NTdybGhBZGgzVklRUlo1MllldDdtMkN6Xy0yMWJCSDh4S0E4aFhQcVhNRzd1alNfQS1NN3NuRTV5WGQ3RGl6TFhFam5SQ0NEczRUX3NQT2Q4TkV2WWZiWGlNVmcwY0pTbUtZQTc2U0tVMWI4R1Z0YVk5WGY4aVB5WWtmVjVab3gxWXczNWtRN01heXRJdlJRUnZmQkZldjFhbDRqYWtOWU40Um84eTROM2J0eXfSAb8BQVVfeXFMTTI3YzlmMzF1YXFob0tVSW93NmZ1ZTQxYko3U1FZWnVlYVpvaExOWGt1aDRmY1RGMTNwRDJUQW5WeW4zRkxyTm1fSW1TZWVvdDgwWkhQeHBveFNIbFBZX0JwVjc0dDRPZE5fUDhlcnl1QUxSVnFLaElWWHFibGJmN3B3MzcxdnNHS2RmYjNmSUpKZXV2TzdHVHN3Y1R1cThYTXJ4bjNNMzZqYjJQR3JzdVJnS1B6bXV5eUM4M3o0bFU?oc=5",
+   "date": "2026-09-30 00:08",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Nike Q1 Results Unlikely to Miss Guidance by Much, RBC Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXR6WHpDUDQ2UlpQWGZhYnRCTGhxdDZpSFRMWXRNY0k2MGpKOGxkbFlob2U0VUR6RTA1MGxKcEJPa3lhQlUwWkZwRTNRMFRneG05X0pPNmRQam1yRV9LNzY4anJ4S0xESTBmQ01PSlZnZU9nd2MtMl9LQUJ4dW1Hc0pLY0p6eFFQdXFGVlpkNVBaMlBheVVWRXdn?oc=5",
+   "date": "2026-09-29 23:57",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike Likely to Issue Conservative Guidance, RBC Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzg5MHFTRW5HWnlPU0FwbU9Fc2NfVFVxc09MS2tia2dPbmR6VUxoTm53SEJVa2RxTXFoTnJtZFpUZ3lBUE9aU2hTQUZocTFsQThVTlJBdWEyZU1RODg2Z2EwNDFxVWtXQklrclB3WTZrZHM4RkxhOEE1UVJnZ2xhSVFkMTVjN3VhcXROWEs3N2VReHYtZUJZU1FNQU1QN3dwMG1zNk43NA?oc=5",
+   "date": "2026-09-29 23:53",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Shein posts 1% H1 revenue growth in first results since listing",
+   "source": "Just Style",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fWjhUMWxjT1RaMEhBRFRQOEFKQ3B3S3FES2FoN3pHMVUySk5VN3F0YTVHcllMMmt5akFqWmgxb1VmQlBrYVdBLWNQd3IxTXVlUEFheTJVYnFWLXg3MVpDd2ppR0RPaF8tU2tB?oc=5",
+   "date": "2026-09-29 23:30",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Shein Faces Tariff Squeeze as First-half Profit Falls 55.6%",
+   "source": "WWD",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVk0aFRyczFldGo5TmVlR1RWWlZIcG9MX3J6M2p6UHZqM3RqOXhURHhjalV0VXhRblA2VkJELWdrNUJCbjV3SEZNUVozcjFUMDFBbElvUHJYVHg2V2N2ZWxNcFA3UDRqXzFMbmJYVlVJQTJmX1NjOUd1Mm4tTzBHZzNVbjRoMVlBektmbWhSc1RNclFx?oc=5",
+   "date": "2026-09-29 23:11",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
    "title": "RBC Capital下調Nike股價目標至40美元，銷售疲軟為主因 作者 Investing.com",
    "source": "Investing.com 香港 - 股市報價& 財經新聞",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PS28zcmQ3UG1nNldBekx5X1FhRU55VG1JRlhsREdnaUtXUE1xMG9xTjVyaU1WSHFkTzVpcmFEbVZVRnJuUFJWWHQ5SWVaRFh0M1pkdEdyZ0ZKMDlqOGtLSjZtTkRLWHhzVGxTZVptZVB4RkN4?oc=5",
@@ -168,50 +218,10 @@
    "region": "americas"
   },
   {
-   "title": "RBC Capital cuts Nike stock price target to $40 on soft sales",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHNLdEVjbmk4Mkh2bklGVlEzWXJUOFVJelp5eS1ZWVg3a2tMeDUwb2ZWRk9Ca0cxMS1JbHdPWmlBSGJGbHU3UkFMSVFQaXZHZHVuclJZamZ4d0xQbWQ3RTU3YXloMTl2TDhRYVN2VkJjOHBFS1dKNGE0VElGVHJFcjVrbGNONkJhQzJOZTJSdVo1c0lXVzhCMmdaRmVFbTQ4VW5OM05ac1N5WkpxQnNNQ2daMWFHd2luTnVtZg?oc=5",
-   "date": "2026-09-29 22:37",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Shein’s cheap-fashion model comes under pressure as profit plunges 67%",
    "source": "Bilyonaryo Business",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0s3cmVyOHpnRklONW9XZXZ5eUpYaXlqVTdiTlowYzVtTFVTcW1wTHhXTUZkakY3Q0MwXzlQZndycmdoYnl0T2dlankxaFR1U3VfRHByYUpWczJzckJPeTV4QWlKSlN5RThJSVNwdkxIalFtTXNKQUJRVWxDY0hzcnEzekNrekk3X21uT3l6WEd6MXBhbGlZ?oc=5",
    "date": "2026-09-29 22:16",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "NIKE to Post Q1 Earnings: Should You Buy the Stock Before the Release?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1E4Ump3dkQzdHZ6dGd6VmcxZkRYcDlLdXlPdFpYNW10Ym84ME5BM1lTNzF6ang3NFpRTDVPV1dyQlVURDRGeUhSQWk4MDc3ZnVhQnMzNERZVldTZ3hkQXBObWw5a1oyMjhOZDJBblVwejNKaWh3enZFUlFEMlg4WGZBS1lObzZzdnpPcW1XS012Wkxi?oc=5",
-   "date": "2026-09-29 21:25",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Shein collapses 10.7% in Hong Kong after its quarterly operating profit plunges 66%",
-   "source": "Demócrata",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmNLZklPNHlIN2p4TGpQdWlBQmd1Q1lyaXBCODFmak5xUDBrS0htQTZmOG1xWjR5by11djAwUWhDSnB5X0ZpM2VFZ2N6NjhRaF9OdmVsWDJOM0FvRmZLM0xBY3lsZE82R1hheEdPa2ZxRFRPS1JWUGZySXdmNW5vVlM4MDZna0l5WTN1MUpvXzA2NHdiNnF2QVlYLTN2VnNLeVNUbGRNTnRGdjFLY1BoQlZuMW82amFXd3fSAb8BQVVfeXFMTjRnVWtBQWZIR2Z1U0hBRTFGM2R3dVB5VzBkRzMwOWVoWWV0WnROWmpGc2lSY0otc2Uwd3l4eWhTZXk0Y2VjaTlFVWU1N2Zlc2Z5bl9GY0g1aFhkeDhLLVFCbkR2VEYxWG85ZU1VLXNLQ1FVck85d2wzelUtTFBxcWhmWHI2aEFwNWVnYUQxWFJwaVpBMDNpNDVHanFLQk5ISTEwWmtNc0Q2RHlRZWNGVDJIQ2JDN2FCYlI4Wk1uOWc?oc=5",
-   "date": "2026-09-29 21:17",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Shein posts 1% H1 revenue growth in first results since listing",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUJZbTVOSkV5NDJQUkpBb2VBcmdIRUIwQUE4QlpVaEZIaThrVWZDdlJQQnRsN0RsYV9obTZaVWl4dXphaV9fdkhKcUk2NnVmNlNEZ0NaUS0xVFNtd1NGcEZkWWNOS2tRX1Y4QmhvazJuUnl4SUFiOXF2SHNXZXFPWkRrY2dLLWRHdnBxclJySUxFZVU?oc=5",
-   "date": "2026-09-29 19:14",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
@@ -289,7 +299,7 @@
   },
   {
    "title": "Uniqlo秋冬肩背包推薦Top5：「這2款」愛馬仕前設計師操刀，庫存告急！",
-   "source": "Bella.tw儂儂",
+   "source": "bella.tw",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HZmhiRnVOUTdSQkNFbTltM285MTB4QzdVQlNGQVNKd3ZqMmtsbmR1NE1fRTdLUDN5ektuSmtHWUc5aFF6eENseUJxMHRZOWotTm9OdUdLTFBfczUwNXFLOUE1SVZaM3BrdkFoRGtYMl9MNzM3SDIyTVBVY0o?oc=5",
    "date": "2026-09-28 00:15",
    "lang": "zh",
@@ -362,16 +372,6 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2plZm1ZNkxXSGxxWVlXYTN1UkxZc2lFa240QWVuY2U3b1ZfbEJRYjBTak1lUzhIeEt1SzM2MFh2R1FUUjdIWWY5OWRkTlY5UHIzYVJVMUpKNkVuX0FXVWtUU2d5c2JnX3lfc29aMVFlX0syTDNjcFpQdVZTWk1lUVg2NWFzMEpPdk1sS1NIbi1abXFQd0lBSHoyX21TcjE2dEJnSDBtaEc0c2dkVDNPVnlFUlkzMVRGRGlacg?oc=5",
    "date": "2026-09-24 23:04",
-   "lang": "en",
-   "brand": "hm",
-   "brand_name": "H&M",
-   "region": "europe"
-  },
-  {
-   "title": "H&M Earnings: Margins Improve on the Back of Cost Reductions; Sales Stay Weak",
-   "source": "Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTcyc0F6eFhuX2FyY2g4RmJUZEY4dndYblBTN0dBa2E5aW9xM2dURHYyS2N2RWJGaVFfT3JPZzBPb0FnLUlMYTdCd3hhakZSU0FMY3FveWdXUDVRTGZ2MkZHaGNLR3ZOZDRuTVFZVmlFMEl0V1Z5YmFCeGx4NUtXdC15dGtCdHlhQ2NqMW1YQ2JKWFVNV3RQMTJIQkZmeGN3WWpCTFowSWM2RXVZ?oc=5",
-   "date": "2026-09-24 20:47",
    "lang": "en",
    "brand": "hm",
    "brand_name": "H&M",
