@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-29T15:00:12+08:00",
+ "fetched_at": "2026-09-29T23:05:33+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,42 @@
  ],
  "items": [
   {
+   "title": "紡織商前工程師涉隱瞞利益衝突抬價騙900萬元訂單圖利 被控4項欺詐罪明提堂",
+   "source": "香港文匯報",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wUVgzWGU3MWJHZnQ5cG1pamVqSm9yUGQxX0VYZkdwQkh4TWQwUGpFeEJvM2pxV0dIb3dDUnRLNFJyRVhuSlJ4NW1JbmpQQkZfMkpBUEQ5bkV2X0ViMGQ4TWtBaWl4TV9za0FlZ25zNmhWbVc1dGFj?oc=5",
+   "date": "2026-09-29 21:23",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "涉隱瞞利益衝突向親戚採購900萬元訂單 紡織商前系統工程師被控",
+   "source": "on.cc東網",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHpNQ1NMOTYzd1pLNG9OMW5XU3dUUXQ1NUpZb0Y3T3FsY3VlWUU3NjZnSUtwaU41b1FpU1A0OHFodE5VbVVFRnJZMGxMS2NHT182OHFxekljMEhOTHo4amZmRTFWd3N2ZXdrRF9PNzMydFNFZGJEdlZiSTdHNHlHSWNOTDg5b1NjaEVN?oc=5",
+   "date": "2026-09-29 20:33",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "廉署起訴紡織商前系統工程師及其親戚 涉隱瞞利益衝突抬價騙訂單圖利",
+   "source": "橙新聞",
+   "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPVF9GZ21ZSkxsNFBaTk15cmFuV0ZqbHFKOFlCWi0wSnN3eXRGeHlvcUpXYy10UWJBVUdfNFpUazROVmNHTjFNalJ2NkNuMWFHeWRmbklsQl96OHlRWE1iWnQ4VGU0bE5DY0JHLU9xNElsQThleDlPZzl1eHdjWW4ySjFYXy02bDAxSTR2MEEwYzIxYzdhN0xMSDVlX2FsOUdQUFQ0eHQ2a1FkUnc2bXFuVG9JdGU5RkZZX2lCOFFKb1pKZWtTeGhtelBQMGhNaHZYaVhBZmR1VHZBOGJlMzI2THFHLXNtUUk4TmtvMVhTOXBrX1hiYy1iUzV4WkxHcTV4QnJDZUdSUTM5WlVwaFZlbXZBeFBWaVZVMXN4WkdqSDl4Qk9TSDZlM0J6WWZMLXg4UkRfMEs4ZE5XWXBNLU15NjFFdDRGaXdmRUpDMFRJa0ZvVU5lcFo1TmF4V0M1SzB0NlNVdFJaWVFRcFBOQ2JUbURJQzlWY2tvZkdEUWlyOEhmLUxDa01PSE1GRjJqZDlnMFFSYklFcV9VaFBWdzMzdVQxZmpTejl5dko0NVNWMU5wSkxlNWViX3hLWWNWanZQdThfNjByaWh4WWMyS29mN05YOA?oc=5",
+   "date": "2026-09-29 20:16",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "紡織商前系統工程師涉隱瞞利益衝突向親戚採購 訂單涉款約900萬元 廉署起訴兩人 (19:48) - 20260929 - 港聞",
+   "source": "news.mingpao.com",
+   "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOSFN3d1ZISWpUTzJaZGJtTGRUU3FhMnJpQ0dIX3lwajdyV2xjdVZ6aEM0U1FaZWJ2dFRHS3l4NTh2d1FtNTlpNWJabWxveDNTYVlfTmRZeWtLNXl0VjF5VHIyeWFMWkxubUlqSHpuZDRNVFdYZ3FCQkJxNC1ETkczWmdMZS1nb1FsZWtSZzZCRDRJZ1BWRkU4UjRidzB1c2Zxei1kcmdPVzVlZ2g5MTJocnBEWXFVZFpVLW5UTEZDakNOSnowY1dFU0luMjdwVnNkOElqMHdEZm5IWjBVbmNEWUtpX3lTZVhVNHl6R2Rtc01sTmZZRU5XT29KOFJ0a29OQktCd2NpV0hCVzYtQjd0Rk5CZTFZNnptYzBBbW9FXzJZRWJ1d2IzbTZNNWViVmhNczhDbnd1b0hmQkJKTTlGNE8zTDZjMUhyXy1Va0J4UUp0VkJTWm1rME9GUTRnVFdPaGRXQ29IVzlDbFFDbXlDX1pYMmtZTUhUUW4yeE5PNnhNQ0oxV2xYQU5kemZXMm1uZmhxOHo0QzF3Y1Q0U3BxUE1GeE1IVExaUHlnUmFhOElHVUp3QmdHRTFLT2N3T1R5MVNTZngwcVVhN2xkajVscWtxaGFZdlRWYTg5cU1qdWFFNV9LNlkxRTIxcjhHb0hYLXltZy1RWXp6VDZST0VHTW1WRjRJSGxfQ09EZ0dlZms2eXlfbWVOVlQ3ZzBjV2VqMXlVV25td0czVkpoblE?oc=5",
+   "date": "2026-09-29 19:48",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "9921 巨大 - 瑞銀：自行車與成衣產業2027年需求可望復甦 看好兩檔台股 ... - 股市爆料同學會",
    "source": "CMoney",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwUkktQmZuVmJfWklmdkV0YnAycnNOM1JRQThYdkswTzZ3V2FzaXAtMFNkVmYxWEpQckRkUi0xSlFpdjNBdjRSZlY4Yjc5UThCWVMyZ3FKRUw?oc=5",
@@ -50,12 +86,12 @@
    ]
   },
   {
-   "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqT3ZrbS1fdW1vQ0lfRXNMMjVQajZVYjNWY1RkOFhOU3gxdkdFT0pSZ0JuU1l4bjVvWnRRUWlubDVLdkdWVG1fZUZ2QnNIeFJQajlnY3l4WFpCZ9IBX0FVX3lxTE9iU0tWSHU5SU4teDZEZzlHMnhWQkNPdTFsakNNRzNoMHhBWVduRzNEZ3Zma2Fpdjh3eDM5V1ZUSHhraEhZQ0lqTzQwMGluYS1iOGxGS2tDV0tjZE16ZGpn?oc=5",
-   "date": "2026-09-27 17:00",
+   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
+   "source": "三立新聞網SETN.com",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
+   "date": "2026-09-27 17:54",
    "cats": [
-    "market"
+    "green"
    ]
   },
   {
@@ -97,6 +133,15 @@
    ]
   },
   {
+   "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OXlRYUU3N0RDWlowd2xpaVphZE5qNGNiWXFLaERqRlU4cHNyMWZmWWRXa2lRS1M3akRuOXJsOVQtUE9HUG0xY0MzNjkxeGFv0gFWQVVfeXFMTUIzVXNYaGlZMjdyRUtuZTNITzE3eUV2Y29ZZVg4cUx5MndSUVpkX0lJRkMyU0pwNHpkOHZ4WmhKS3Q5VWhaakI4djRVcERZam54SFZwLXc?oc=5",
+   "date": "2026-09-23 17:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "第30屆台北紡織展10月6日登場 永續循環、機能應用與智慧製造成三大焦點",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CaS1oQlIxVXZiX1ZYaDduY3EyN2V2Y0VQUy1sLWl6b1gwblhBVGhibzEtRmtiWlZORDQ2cVZkb3R3bUZZVDJmUV92QmpLRF9y0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
@@ -118,7 +163,7 @@
   },
   {
    "title": "2026降溫投資四年回本：孟加拉成衣廠的商業邏輯",
-   "source": "n.yam.com",
+   "source": "蕃新聞",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yREdCZXY0QzZCWHRRbjZSYUJOUGwyTEZoOGZmUHgtNmFvdTNqVS1IMnJKRFF4YkVhNGFmcUpRRTROem1TNWZqUlpNUXBEemRpbVE?oc=5",
    "date": "2026-09-23 06:34",
    "cats": [
@@ -225,7 +270,7 @@
   },
   {
    "title": "「老牌紡織廠」出大招！ 跨界低空經濟 股價直飛漲停板",
-   "source": "news.ebc.net.tw",
+   "source": "東森新聞",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZbF9YTFY2U2FZWVhXRjdTWml3eGhpNHpWVndKb2R6M0xVY05DanRDTUNxTzRwbGlfLUFwemEtOWFta2ZtMlR6THhMUEtmeDE5Njdnd21Gcw?oc=5",
    "date": "2026-09-09 15:00",
    "cats": [
