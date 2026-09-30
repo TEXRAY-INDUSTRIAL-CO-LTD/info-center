@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-30T23:19:46+08:00",
+ "fetched_at": "2026-10-01T00:31:02+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -78,7 +78,7 @@
   },
   {
    "title": "廉署起訴紡織商前系統工程師及其親戚 涉隱瞞利益衝突抬價騙訂單圖利",
-   "source": "橙新聞",
+   "source": "orangenews.hk",
    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPVF9GZ21ZSkxsNFBaTk15cmFuV0ZqbHFKOFlCWi0wSnN3eXRGeHlvcUpXYy10UWJBVUdfNFpUazROVmNHTjFNalJ2NkNuMWFHeWRmbklsQl96OHlRWE1iWnQ4VGU0bE5DY0JHLU9xNElsQThleDlPZzl1eHdjWW4ySjFYXy02bDAxSTR2MEEwYzIxYzdhN0xMSDVlX2FsOUdQUFQ0eHQ2a1FkUnc2bXFuVG9JdGU5RkZZX2lCOFFKb1pKZWtTeGhtelBQMGhNaHZYaVhBZmR1VHZBOGJlMzI2THFHLXNtUUk4TmtvMVhTOXBrX1hiYy1iUzV4WkxHcTV4QnJDZUdSUTM5WlVwaFZlbXZBeFBWaVZVMXN4WkdqSDl4Qk9TSDZlM0J6WWZMLXg4UkRfMEs4ZE5XWXBNLU15NjFFdDRGaXdmRUpDMFRJa0ZvVU5lcFo1TmF4V0M1SzB0NlNVdFJaWVFRcFBOQ2JUbURJQzlWY2tvZkdEUWlyOEhmLUxDa01PSE1GRjJqZDlnMFFSYklFcV9VaFBWdzMzdVQxZmpTejl5dko0NVNWMU5wSkxlNWViX3hLWWNWanZQdThfNjByaWh4WWMyS29mN05YOA?oc=5",
    "date": "2026-09-29 20:16",
    "cats": [
@@ -87,7 +87,7 @@
   },
   {
    "title": "廉署起訴紡織商前系統工程師涉隱瞞利益衝突 抬價騙900萬元訂單圖利",
-   "source": "星島頭條",
+   "source": "stheadline.com",
    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQQjc1RVFfZFo5WUJvcW5GeS1kbF91alMwbmtuNlF5eVI2ZUtOd1hudTAwek94QUlScVZYdkZSemtqb296ZS1JOUpITVJQeS1WaExEVnpxSXUtUXdvWmNMVHlveW9CbWFhNzRRR0RpaTdoWUs2MjdLZEhVOXQwbm45TF9tb3FBOFozalI0MjJfNEJILUlmWk5BTE82S2I4U1NjcHA5c3pURGlmTmtTYnU3N2FOOUxmWjFVWkhxTzJSX1daeWxGV1FQSDdOdHh0YjhBaWNVblV4b1hPSEhoY3p6aEFrbnZaOC0xNGRQeWU1UFZ1anlneGd4WHhTLXRZeGRoanQtOVEyWE1VUjZ5SDB3NTJkcy1kWXZuSHQzaXh2NThrZlhmLVk2V3NxRWtCZE0yZDlkS2lhR0RrTHpoSi1uZkpNcU9fMU1Xb1pZajYyanJidXctZk01eWR1Zm45NzBoM2lwNjRaeU5DMVZhU1Jmc0ZJZi1GeXlZNmdUMDNaMm4zU3FYVmZYdTl6X3N6WGY1czhXaEpkdTR3ZUhKZDlFWHh5TW5wR1FPcUlkemJ1YnliS3NhSkdB?oc=5",
    "date": "2026-09-29 20:09",
    "cats": [
@@ -104,17 +104,8 @@
    ]
   },
   {
-   "title": "301關稅台灣10%不疊加 紡織、塑化業者：對產業是好消息",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OaU1OcGQtVzh3RGxTeTZoWEpyS0RpbWVET0ptaDYzaVpYbFZ1RzluU0VwWEVXY29hYTg1Yk0yUE8wa3FWVkZKbG42US1ZQnhRVTEySkl2YXY5UHfSAWBBVV95cUxQTnVTa1RjM19pb2h3VjVCMUtiT1JYNDZXQmJpWkJjMEhRbGVxSUFNb1pZbW0zbk16emU3XzQ0cE9ESmpaZFpXMW9kVzdUakdzLVBxdWlwa1d6cVNndGIyRG4?oc=5",
-   "date": "2026-09-28 17:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
    "title": "瑞銀：自行車與成衣產業2027年需求可望復甦 看好兩檔台股",
-   "source": "udn",
+   "source": "udn.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRX1hQaGJzSEZMWURUbDFZRVQwQkNDM29wSjZObTNVNTU0eFRiYzItbTIzci00a2ZZcEItQnIwM0N2YURpd0dIYjEwMFdhOGFm0gFWQVVfeXFMT3lyaTFCREQtRTRrdXBXcUZsQ29JcVRyUTZsaWJxaW9QdXMySU9BYmJGc2pVZDVJdEZSY2dvLW44SXdNYXVsQWZpQkQzTnNMWmlHNVQtU0E?oc=5",
    "date": "2026-09-27 21:55",
    "cats": [
@@ -123,7 +114,7 @@
   },
   {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞網SETN.com",
+   "source": "setn.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
    "date": "2026-09-27 17:54",
    "cats": [
@@ -142,7 +133,7 @@
   },
   {
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
    "date": "2026-09-24 11:34",
    "cats": [
@@ -152,7 +143,7 @@
   },
   {
    "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
-   "source": "udn",
+   "source": "udn.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
    "date": "2026-09-23 17:52",
    "cats": [
@@ -161,7 +152,7 @@
   },
   {
    "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
-   "source": "udn",
+   "source": "udn.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OXlRYUU3N0RDWlowd2xpaVphZE5qNGNiWXFLaERqRlU4cHNyMWZmWWRXa2lRS1M3akRuOXJsOVQtUE9HUG0xY0MzNjkxeGFv0gFWQVVfeXFMTUIzVXNYaGlZMjdyRUtuZTNITzE3eUV2Y29ZZVg4cUx5MndSUVpkX0lJRkMyU0pwNHpkOHZ4WmhKS3Q5VWhaakI4djRVcERZam54SFZwLXc?oc=5",
    "date": "2026-09-23 17:00",
    "cats": [
@@ -170,7 +161,7 @@
   },
   {
    "title": "第30屆台北紡織展10月6日登場 永續循環、機能應用與智慧製造成三大焦點",
-   "source": "udn",
+   "source": "udn.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CaS1oQlIxVXZiX1ZYaDduY3EyN2V2Y0VQUy1sLWl6b1gwblhBVGhibzEtRmtiWlZORDQ2cVZkb3R3bUZZVDJmUV92QmpLRF9y0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
    "date": "2026-09-23 16:53",
    "cats": [
@@ -209,7 +200,7 @@
   },
   {
    "title": "討論牆 | 機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
-   "source": "LINE TODAY",
+   "source": "today.line.me",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CZUwyTTM0eWs5STBQNVlzdDFuUnFGbThSd0g2WklMUU9OdDFENFlhRUV0N1QxdFNzSTRxcHdEUUJZTm4wVUxQQ0RSZlBITEoyNVpva3BiMHJjSUwxbkRSRmd2dW4?oc=5",
    "date": "2026-09-20 15:46",
    "cats": [
@@ -334,7 +325,7 @@
   },
   {
    "title": "台灣之光！成衣業者登巴黎舞台　業者回應了",
-   "source": "三立新聞網SETN.com",
+   "source": "setn.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hbFdYb0hnVVlpWnNzSklTZ2hQazVGamlFd2xaQllqckd0M0txS2YyaDd5MkhqTzZDTTRnUGlsdXR5WU8xSUtHadIBTEFVX3lxTE9GSW1RYko4ZnNTZ0d1WUpEU0E2TFpaR0lkVWJTakNIMWJVRWsxdUpnTVlvdzAxOEZJR0hWZ2FqVFA5NDYtUWx1aV9MWm8?oc=5",
    "date": "2026-09-06 15:00",
    "cats": [

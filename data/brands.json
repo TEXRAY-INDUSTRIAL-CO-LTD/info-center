@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-30T23:19:49+08:00",
+ "fetched_at": "2026-10-01T00:31:05+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -168,21 +168,21 @@
    "region": "americas"
   },
   {
-   "title": "砸10億砍掉重練！Nike布廠竣邦為何捨棄高毛利小單？揭秘背後的轉骨豪賭大計",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQTWZwdWhDTDF5bFVyTm5OVC1ua1dTbmdtSWN2RTNJclNjMTdwVlpQckNqUG1CcktTWmlPeE9WVGVSUUFIM09HbXZlRzJ6MkVuN3owX1gzZFlBSW1tNnBrMWJQWmxRa0tucWJTQk51TEhnU0c1WUkzSEFXbDhOV2ZqbzZzamRoblg5Z0JpdmI1T3dSNzl5RUpTYkN4cGtsMHF4S1p2TXFDNDF4ejhvdExRak92MFdyV1E4OUgtX0t5aUtSRHMyQWpCcWNoYTBRVjlubXNlMl94R0tuci1MOUJoZ3EtRjlrazNUQmZqNlVLRndEdjhtUG9MbElna0ZOMmRZWkFGR1JXRGZ5Y2w4UDk5SUx1RzRBODlOR0VxSmlmOHlvdC1PTGlSMEoxYWUzUi1NRTJ3ZnVHY2VjTC1rTkJBbHNFdkl2bHZSSWV6em5PNU9WVU9fMnJ6TUVhOFBiRG01RUZQbkpNaV9mUF9xa19sVjF2R0g5TXBQOUlUaUZqWWdUZzExaEdlLTFaRlFpRmg5VE91U2hnR2Q1aVdEemptWjBiVW5PVXVob3lpTVpGMlpVWkxTMlA4RHJDdGJ6YXJMc0NER0l3?oc=5",
-   "date": "2026-09-30 11:57",
+   "title": "Nike Q1財報前瞻：轉型能否迎來拐點？華爾街最高目標價75美元",
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEw0MGNHbTBjaTRoVGFqSUZBdDA3TTVYNjBHenFjOVB2NVFoZVdwb0pKeGN2cERpLU1GaVZuOEZhekxQcTUxVTZ5d2FBNklLSTU5R0pyREx2cjJwT0hOakhRYU0wc3pZR3RtVTBiZlN4RkFtZGI3Q0NvR25sSEJFT1FoWFd3eWRvVzVKTk5SQnlxRVhoRzN0SzA1S1NaMHRObS1yZ282VnhNX2loZjRaVTVHLUg0SG9D?oc=5",
+   "date": "2026-09-30 17:04",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "Most traders are looking at Micron into earnings. But don't count out Nike",
-   "source": "cnbc.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelJjMlZBR2Q1aUE2cWdzdTRuY3Y4b2Z3ajJ2eWgyTXgyaDZvZXdpNEctNkNSZWc3Si1SQm1idXYwQm1ydi1mZlY3c0Z5RFdsMzhHS0kyRlRERG9QTnVBOWI2eVZYcHBGZ2xSbDNLSi1zNTZFclVvdVdfOTB2ZzdmTEcwTnpjLW1RSkxadEhpMGRLNjlpYi1neW93YXA1aU5KLVBJbzdBem44cVJMSWc?oc=5",
-   "date": "2026-09-30 05:34",
-   "lang": "en",
+   "title": "砸10億砍掉重練！Nike布廠竣邦為何捨棄高毛利小單？揭秘背後的轉骨豪賭大計",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQTWZwdWhDTDF5bFVyTm5OVC1ua1dTbmdtSWN2RTNJclNjMTdwVlpQckNqUG1CcktTWmlPeE9WVGVSUUFIM09HbXZlRzJ6MkVuN3owX1gzZFlBSW1tNnBrMWJQWmxRa0tucWJTQk51TEhnU0c1WUkzSEFXbDhOV2ZqbzZzamRoblg5Z0JpdmI1T3dSNzl5RUpTYkN4cGtsMHF4S1p2TXFDNDF4ejhvdExRak92MFdyV1E4OUgtX0t5aUtSRHMyQWpCcWNoYTBRVjlubXNlMl94R0tuci1MOUJoZ3EtRjlrazNUQmZqNlVLRndEdjhtUG9MbElna0ZOMmRZWkFGR1JXRGZ5Y2w4UDk5SUx1RzRBODlOR0VxSmlmOHlvdC1PTGlSMEoxYWUzUi1NRTJ3ZnVHY2VjTC1rTkJBbHNFdkl2bHZSSWV6em5PNU9WVU9fMnJ6TUVhOFBiRG01RUZQbkpNaV9mUF9xa19sVjF2R0g5TXBQOUlUaUZqWWdUZzExaEdlLTFaRlFpRmg5VE91U2hnR2Q1aVdEemptWjBiVW5PVXVob3lpTVpGMlpVWkxTMlA4RHJDdGJ6YXJMc0NER0l3?oc=5",
+   "date": "2026-09-30 11:57",
+   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -218,16 +218,6 @@
    "region": "americas"
   },
   {
-   "title": "NIKE to Post Q1 Earnings: Should You Buy the Stock Before the Release?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1E4Ump3dkQzdHZ6dGd6VmcxZkRYcDlLdXlPdFpYNW10Ym84ME5BM1lTNzF6ang3NFpRTDVPV1dyQlVURDRGeUhSQWk4MDc3ZnVhQnMzNERZVldTZ3hkQXBObWw5a1oyMjhOZDJBblVwejNKaWh3enZFUlFEMlg4WGZBS1lObzZzdnpPcW1XS012Wkxi?oc=5",
-   "date": "2026-09-29 21:25",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Shein shares dive more than 11% after earnings disappoint",
    "source": "Hong Kong Free Press HKFP",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmFTcHlNUDR2RE9qbG92bGVJb19Ta3BhSXphZjU5Z3M3WVdjSWc1VEZ0VU1iVlptcnhTdHgxbzltUnhUWHJ2UC1VVlhyM05IV2pFMDIxVlhUY0RtZ2F6QnUxMDZ4Zl9NZnBPS0RmTHFuaEJKOXUwMWFTYVFhRjJHWVR0YkJOZzVidmVhbENUN2tqM3JiVHc?oc=5",
@@ -249,7 +239,7 @@
   },
   {
    "title": "Nike's Next Earnings Report on Oct. 1 Could Send the Stock Plunging. Here's Why.",
-   "source": "The Motley Fool",
+   "source": "fool.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFo3V1pyQk1Hajl2YWR5TXg5bUtjRjM5M0tZdHNiVGNMVHBsMW9KSXdHRENOc3JYNF9udDl6bWdRTnN1eURsU2lVUURmYkxzWkhZZ3V6bVpkc29RZWRpZGlRWkVhRV9ac1M0N2J5cF84TWRiTTJxeVQyZS1EbThrWkVXdjRBYTR1c0hMRU93RmdXTHRUVlRyVXhHX1JXakdvWjNOdlRiU1dVTTRmdGptVjk4bUM3U0hOUUZQcA?oc=5",
    "date": "2026-09-29 01:16",
    "lang": "en",
@@ -269,7 +259,7 @@
   },
   {
    "title": "Shein cautions over uncertain backdrop after European sales slide",
-   "source": "independent.co.uk",
+   "source": "The Independent",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV21UazBnM1BIZnRjMWlJZ2U2RmM1cDVGTlNhalI4eHk5aTM5WDJmWVctaGdYRUk3VmRhS3BFWWF5WnYzS3RsNjZsclJKZkUzTUZrQXYyY3RTUGVmNjYtTDlncnhaNmNUcGxxMjFhajhnajlwVEdHcnAwMVRqb01ZQzk3Q3hrU254VXc?oc=5",
    "date": "2026-09-28 23:41",
    "lang": "en",
@@ -349,7 +339,7 @@
   },
   {
    "title": "Nike遭標普百大除名、股價跌78％ 一份亮眼財報為何仍救不了它？",
-   "source": "udn",
+   "source": "udn.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETkZvbE84UVFkNm1xTDNBNUU1VjJwSDh4TE02YzFtYmdnNlhOSFpMVk5FdzQyRFEtZXFvaHYzUlg5TFNqLUdETmpiZmNiOEF5?oc=5",
    "date": "2026-09-25 08:15",
    "lang": "zh",
@@ -389,7 +379,7 @@
   },
   {
    "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
    "date": "2026-09-10 15:00",
    "lang": "zh",
@@ -419,7 +409,7 @@
   },
   {
    "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
