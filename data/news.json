@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-01T23:40:51+08:00",
+ "fetched_at": "2026-10-02T01:08:59+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -43,7 +43,7 @@
   },
   {
    "title": "涉隱瞞利益衝突抬高採購價獲利 紡織公司前系統工程師與親戚被控欺詐提堂",
-   "source": "stheadline.com",
+   "source": "星島頭條",
    "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNVluSTZscDJNOEF5VUZyTGZObjkwY1BXamlMV3BlZHpnYlp6RnhFN3FmQ0Jkd29mVEdHSU8wekphU0ZFYlVwVFNrQ0tCOE5Jbm5hYmJyZC1IcVdTQzJXSHZlekVDelBPTVg2andyNjdCZkVtQUIxdk9rb0NTWTA5S3NsanhnX1Q4U2lkajktTDNMcmhTQU9SVk5feHpWaXJVejJ6NlJ2LU9oci15ZDR0eVFNMFZfNks1VWhwLVJJdXpRSFlMMm5uME9XUEJiU3h6UmJCLTZZck9RaU56aU1DYndMWkVNdUNhb0RaZ1pyMkJ2YUh3cnlXRC11SFV6aXh4ZnJYLUVsM0M1RXFXX2dOZ0s1VDZyOUROSDJTQjl0Z2FxUElJdENVNi1qLTZOb2NIeGJZWlZxbzZrUmpiWDJQV2c5UGRobmd2ZDlBRjFtTGNPZEdPRVExRWJHbWtHcVAtcV84aFNWQVhUb09xM2xqTkx0VlFlSTllZF9UWFZLdGM0WjJZaFRrbjlTd1RvMGNPWWc2MFo1X1FBb3ZGOHoza042VHh0aDVXYVVtTGZTcXNMTE9vbnBZSXFnN3p0NHBhUDJydU9jOFVORHVyXzhlMEFQaXd0VTFta1lpVmYtcGZnZm8?oc=5",
    "date": "2026-09-30 17:40",
    "cats": [
@@ -52,7 +52,7 @@
   },
   {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞網SETN.com",
+   "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
    "date": "2026-09-30 17:12",
    "cats": [
@@ -70,7 +70,7 @@
   },
   {
    "title": "涉隱瞞利益衝突向親戚採購900萬元訂單 紡織商前系統工程師被控",
-   "source": "on.cc東網",
+   "source": "hk.on.cc",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHpNQ1NMOTYzd1pLNG9OMW5XU3dUUXQ1NUpZb0Y3T3FsY3VlWUU3NjZnSUtwaU41b1FpU1A0OHFodE5VbVVFRnJZMGxMS2NHT182OHFxekljMEhOTHo4amZmRTFWd3N2ZXdrRF9PNzMydFNFZGJEdlZiSTdHNHlHSWNOTDg5b1NjaEVN?oc=5",
    "date": "2026-09-29 20:33",
    "cats": [
@@ -125,7 +125,7 @@
   },
   {
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
    "date": "2026-09-24 11:34",
    "cats": [
@@ -182,7 +182,7 @@
   },
   {
    "title": "孟加拉成衣廠投資降溫設備 研究：四年內即可回本",
-   "source": "民視新聞網",
+   "source": "ftvnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZW5SVDRFWDkyaWtDWnlLLW5wYTh2MHRmUWpmV1JodlMzZlFYRGN0Zmp4ZUxqV3hsNjZzLUxtYVcxeVhLOFhCZV9NSGZxM3pHMGpYXzBaMExUV243T1BRdA?oc=5",
    "date": "2026-09-21 15:00",
    "cats": [
@@ -239,17 +239,6 @@
    ]
   },
   {
-   "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
-   "date": "2026-09-10 15:00",
-   "cats": [
-    "market",
-    "stock",
-    "trade"
-   ]
-  },
-  {
    "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
@@ -266,6 +255,17 @@
    "date": "2026-09-10 15:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
+   "date": "2026-09-10 15:00",
+   "cats": [
+    "market",
+    "stock",
+    "trade"
    ]
   },
   {
@@ -317,7 +317,7 @@
   },
   {
    "title": "台灣之光！成衣業者登巴黎舞台　業者回應了",
-   "source": "三立新聞網SETN.com",
+   "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hbFdYb0hnVVlpWnNzSklTZ2hQazVGamlFd2xaQllqckd0M0txS2YyaDd5MkhqTzZDTTRnUGlsdXR5WU8xSUtHadIBTEFVX3lxTE9GSW1RYko4ZnNTZ0d1WUpEU0E2TFpaR0lkVWJTakNIMWJVRWsxdUpnTVlvdzAxOEZJR0hWZ2FqVFA5NDYtUWx1aV9MWm8?oc=5",
    "date": "2026-09-06 15:00",
    "cats": [

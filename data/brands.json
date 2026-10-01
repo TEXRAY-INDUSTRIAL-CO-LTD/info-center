@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-01T23:40:53+08:00",
+ "fetched_at": "2026-10-02T01:09:02+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "We finally know when Uniqlo’s two new Miami stores are opening",
+   "source": "Miami New Times",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWd6RVYwU3lzczdpY0JERUdqYkE0NlNWajFZazVGeVhSa2tsb09sYlk5eEpsVzA5OWZBUEhham05cHUwYmNobmhxdUxLQ3RYYmFhY3NKaDFzWUtzc3NqT0ZUNHRtNS15T1RSZTRpQlpiSzVPOU1udm43OElIbERIbjUzMC1mYVgzUVdvbENNWTlxXzVpSTFSSDdiNWZBQkxLZ1dzOHRJMA?oc=5",
+   "date": "2026-10-02 01:00",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
+   "title": "Nike is set to report earnings after the bell. Here's what to expect",
+   "source": "cnbc.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84OXJNenNBbzFadXhuTlJDcFBraV9PcjRXb3EwT3dZSWNHSXp4TmdfR1N6UndTU3AxejM4UTFEcTVRZjhHazViblQ0SFV3a1JfTnF1UDlSVWo2dXhBUTFXcUxmUS11RS12Y0RwbVFJb9IBdEFVX3lxTFB5N292Y2FSbjl2RHhjcERWWHFHVHdSYjJDSF9DT2RYZlZLMG9RWjlSdS1NZlFQS3NVOTlsRVpVXzFSWGpHWFdwXzE4UEhGQUVoRktTMmJLYUVNWEFiZVR5SEZiT3E3R2VxRS1rMkpnb3FUd3pa?oc=5",
+   "date": "2026-10-02 00:00",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Nike puts stores and wholesale under one EMEA lead",
    "source": "Sporting Goods Intelligence Europe",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmpnWEtYQ0FBUGZtXzFFSDB4VVBrMmJGeXlGMm5PU1U3UjNkeXRESUVySllyV3dMYVlnUzRwSjVSVS1GclctMGM5aUpiR1ZiWHQ3RG55cE9pY05WTlNHNkl3N1ROWmFpR1Y3WmtuS0lzSVowTGQ0ZUpPaUk4RnktWnM5NXVXMkxocGxvV0ltRGRuazl0d2ZORmcyS3JGNXl2d3NMd0MycWQ2X2lZenc?oc=5",
@@ -168,19 +188,9 @@
    "region": "americas"
   },
   {
-   "title": "Fast Retailing stock gains 2.47 percent ahead of October earnings",
-   "source": "AD HOC NEWS",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlRsSGxrMjgxOEhuT1lUZENydjRlSVp6bXJfbGF2YTlBTm5EbTdTeGdtd09BQUxXbWkwU3JNaTdXNDZ4bl9fblo1ZWllVnhPN3VQX2xxbzBxRDR0b1Qzbi1HX2ZzbHRCaWE5eHE4Q0Z0RHIzZzZMbWVQbmRSSERfaUJ0djE1M1gza003bElvSHFqX2tyNml0WmlpVlVmcGpKU3pXa1FPWWZueWdELUdWRENiQ3BlRXNtb3d6ZlZtUG1zVEFqSmVV?oc=5",
-   "date": "2026-10-01 22:54",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
    "title": "Nike Stock Is at a 12-Year Low. The Company’s Earnings Are on Tap",
-   "source": "Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRm1OcDMtM0huc0FqVXZJTzlHcmtOSHFrbm5JTS1vcUVFSGhURE9XOUc2azV4MG5FZ1VYb29tNTJWOXhEbHZLRVlmVmp0UVJBYVZiU1FJb3E2T21xc2NmTmpxVXZQbkQ1NzBhc2dvdWItQmd0RHJXdlFWQ25zb2VUc290TjNBYWhydlNWWWU4WV9KY3hJdWoyczBsTVVMUFdBXzdPWWdyY1AwV3g3bXo2VXZqRVV2LVQwM2stb2xLTWI0UQ?oc=5",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzFORFh4cjBBSncwVnM5TlZFdmpHUFlBZ2QxZ2xKQ2p1VFdFRUZsSHIzQ0RpZkxaNW83Ykw0UzdoLU9oVHZ3RVdCWDBNTjcyZHo5aHQ1U1RHZnllZlBYNi1kV3JueVlSTThlaHk5eTdkRXdqNDRsWkNtclptTXBHVjNBZHBtTzU2QkRtdlV3M3hLeWRH?oc=5",
    "date": "2026-10-01 22:20",
    "lang": "en",
    "brand": "nike",
@@ -209,7 +219,7 @@
   },
   {
    "title": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
-   "source": "Miami Herald",
+   "source": "miamiherald.com",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVpxckI4Y1lPNGU0eUxDdXgwcmt2d0VpejEzaDJhR1VMemFjd2lNZ0NvZURKUlMwb2JVNGprRVRucDZmRWxWZlB0eUpWWUtONGRNVHE2ZkZLNmd5YzlGWG5XdjctUk84QnV0cnltN2nSAXBBVV95cUxQX3c0SFhWdjZtMlJqMkc1SHBScE5NRmR0U1E5MUU5MURkNGoybzVBUXZFakNnZndjTUFQSldhNzlSTlZ3SWhMZ292YmdtYjBXTHI2bkxRMmVrY3FHOUlUTGNFVk1YZ3UtN0xZYllfYnVQ?oc=5",
    "date": "2026-10-01 20:00",
    "lang": "en",
@@ -248,18 +258,8 @@
    "region": "apac"
   },
   {
-   "title": "Salomon Appoints Two Field Sales Managers to Expand U.S. Coverage",
-   "source": "SGB Media",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUk5YTmUzMjNMdWs4ZUZMWGNzbmZWVmpCTk9KMDlZaElQSHdodVFLQXlBUWd3Ty11elpWX09mbXNvQ09qODhHREdTNUlIVnBKWDRMc0ZiMkJlZlEtal9TSDduUnY2SnZNUS1KV0pEY0s2UmFxRjRYTWNMMHNQR25VR2RCdUs1eWRIazlF?oc=5",
-   "date": "2026-10-01 07:03",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "Nike Q1財報前瞻：轉型能否迎來拐點？華爾街最高目標價75美元",
-   "source": "tradingkey.com",
+   "source": "TradingKey",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEw0MGNHbTBjaTRoVGFqSUZBdDA3TTVYNjBHenFjOVB2NVFoZVdwb0pKeGN2cERpLU1GaVZuOEZhekxQcTUxVTZ5d2FBNklLSTU5R0pyREx2cjJwT0hOakhRYU0wc3pZR3RtVTBiZlN4RkFtZGI3Q0NvR25sSEJFT1FoWFd3eWRvVzVKTk5SQnlxRVhoRzN0SzA1S1NaMHRObS1yZ282VnhNX2loZjRaVTVHLUg0SG9D?oc=5",
    "date": "2026-09-30 17:04",
    "lang": "zh",
@@ -279,7 +279,7 @@
   },
   {
    "title": "砸10億砍掉重練！Nike布廠竣邦為何捨棄高毛利小單？揭秘背後的轉骨豪賭大計",
-   "source": "今周刊",
+   "source": "businesstoday.com.tw",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXg5UHNfc01DZnpocjhrWFBPbFBmcXhIdmVfNXAxRUhPckZFdFEwZDNfM2JIYUNiSjhhbk5Bc01xWjZmZERxNVlRTXJtNWRYQzZaaVdZNXo3RmlYdE9xYUxQSkd0UW1Vbi1VMTRKMFNrUVRCWHM5eWNlZGUtd0l3Tw?oc=5",
    "date": "2026-09-30 09:06",
    "lang": "zh",
@@ -289,7 +289,7 @@
   },
   {
    "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
    "date": "2026-09-30 01:30",
    "lang": "en",
@@ -319,23 +319,13 @@
   },
   {
    "title": "Shein Faces Tariff Squeeze as First-half Profit Falls 55.6%",
-   "source": "wwd.com",
+   "source": "WWD",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVk0aFRyczFldGo5TmVlR1RWWlZIcG9MX3J6M2p6UHZqM3RqOXhURHhjalV0VXhRblA2VkJELWdrNUJCbjV3SEZNUVozcjFUMDFBbElvUHJYVHg2V2N2ZWxNcFA3UDRqXzFMbmJYVlVJQTJmX1NjOUd1Mm4tTzBHZzNVbjRoMVlBektmbWhSc1RNclFx?oc=5",
    "date": "2026-09-29 21:42",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
-  },
-  {
-   "title": "NIKE to Post Q1 Earnings: Should You Buy the Stock Before the Release?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1E4Ump3dkQzdHZ6dGd6VmcxZkRYcDlLdXlPdFpYNW10Ym84ME5BM1lTNzF6ang3NFpRTDVPV1dyQlVURDRGeUhSQWk4MDc3ZnVhQnMzNERZVldTZ3hkQXBObWw5a1oyMjhOZDJBblVwejNKaWh3enZFUlFEMlg4WGZBS1lObzZzdnpPcW1XS012Wkxi?oc=5",
-   "date": "2026-09-29 21:25",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "Shein shares dive more than 11% after earnings disappoint",
@@ -359,7 +349,7 @@
   },
   {
    "title": "Shein shares sink after profits disappoint in first results since IPO",
-   "source": "Financial Times",
+   "source": "ft.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBOZG5aNi1yRmlvcm1LUzVFN3d5UTVmdkRKcmd4aVdJYVAxWG9reDZHZkZFMVFKWUJhckpmLUh6REVNb3FiVjh2and1anIxcDVQblI1MFI2dXI5ZWxVbEJIZWhwT0NvdTVidUZQN2phaExERC1xSFBfSmhfbDZUUDVVdDQ?oc=5",
    "date": "2026-09-28 23:42",
    "lang": "en",
@@ -499,7 +489,7 @@
   },
   {
    "title": "Lululemon財報爆雷、盤後崩新CEO面臨挑戰",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbks2U3ZrNlY4T1ZJMGxETVMyQ2lQM3Q2YzAyei1qMVlPUy1uNTRRWlpLc3gyZ0xYWmxvNFNlM2ZZOXJzWUUya2NjM2l1aGJPc21BZGJEZ2RIVGx2SlpEZ3VSclUwaXhvdVdXdkxtMDVPbXhzRnJaM05zTVc5Ylh5dFVQRzdTN09ORXRvbVFNNzBxdw?oc=5",
    "date": "2026-09-04 15:00",
    "lang": "zh",
