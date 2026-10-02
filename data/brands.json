@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-02T23:01:12+08:00",
+ "fetched_at": "2026-10-03T00:22:29+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,10 +158,30 @@
  ],
  "items": [
   {
+   "title": "Nike extends turnaround timeline amid more layoffs, sales declines",
+   "source": "Retail Dive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHdZM2V6REx5V3l5WWJXSE9velpOQWhHUDd6YmxBMVJ4b19OLTFTUEhHTWRSa0ZBMWc3THFLWHVSVk9YdkNEdWFOenlLQW1PTjhRcmlYaVQ2MDFtajhqNFdlVElsemFTb1Q3M3Z0VTM0TExTdmpIZG9oMkJ3NlN1UVJuSGhuQU9YeXNRTFI3MzJtSnotcVFualliOWlYcFpPRFNUZEE5MGxFRHMzejdz?oc=5",
+   "date": "2026-10-03 00:20",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike’s Weak First Quarter Report Ripples Across Footwear Sector",
+   "source": "WWD",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1JlLUs0Nml4eDd4OWhkSjA1Y0U2MGNXWXBhZVUwSUUyOXJDTzk2QkJjek83WDMza2kxWGVDdTVJTmJ4R18wX1g3eWpYMzN6V2ZLNHVYMlhNZllhcVVoNFB4MUstdnVoX0xNa0xSbExHWEh3MmxJdFhHbGJMMlJlczZJNzFfdzY1WVplQm56djRTY0FyZFBFNzhXSktBRkhEUHZCYUlWanRSd0pvS1BIS3Z4LXNZQQ?oc=5",
+   "date": "2026-10-03 00:11",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Oregon-based Nike outlines new restructuring as revenue slips 4% in first-quarter earnings",
-   "source": "KATU",
+   "source": "katu.com",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT3ZhTnF1WGZDWEs2bTV1akVWeWVZWF9Ga3RGaUl2ZFB1TDBYT0pTdFo4WlBVeXZ3eld2QmtHMFVkSVE4YVVrVTdjLXo0cDBxVTNoSmhKZTE2Mm1SUndwWlNpdnlCZ1VrLXY3ckdfTnRLNk1qRGxXUmRQNzFiTF9DN1JoaXdXZHp0ZkJyUVYxTldrazJUa0JjUHhzMHpBT1Q0S2N3VWRES0xvN0JIcnZmUnVrT1hlaUVCTmRVcVZFdEpQLVFYM213eDFwaXVMeXd6bVhoSkxFUk81blVW?oc=5",
-   "date": "2026-10-02 22:48",
+   "date": "2026-10-02 22:49",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
@@ -179,7 +199,7 @@
   },
   {
    "title": "Nike shares plunge 9% as turnaround slows, restructuring could bring job cuts",
-   "source": "americanbazaaronline.com",
+   "source": "The American Bazaar",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFB4aEZJX2tqRGpPSldYM19PdHluTEJxV3RfRUQybk5fSGFwMmlYUjNfbVhZZWc4dFVYLVo5b1hUY3o4WUIzZjBQWWcxVG44ZUhYTTQ1YWdBbmtPenBrVll2WENvRVJpeUYxWUFIWlZZaEJabHM2bGE2ZVJZanlnYlZoa2RRVThIUmFmVlpiTHc5cmVTZEE4?oc=5",
    "date": "2026-10-02 22:35",
    "lang": "en",
@@ -196,16 +216,6 @@
    "brand": "adidas",
    "brand_name": "Adidas",
    "region": "europe"
-  },
-  {
-   "title": "Countdown to Levi Strauss (LEVI) Q3 Earnings: Wall Street Forecasts for Key Metrics",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFlLSzN6N3ZPNGF2cW5CY3BNTURnMUMySEFXZ2RRQllFaGVXSzJHYmdFY3lDRF9jX1VFMHpveDM0dm4wZXFZZ0ZrZEJCaEpya1lDUDBSeVhTX2VEcUs2cnl1MF9HLUNnRFR6WHhlUklId3dpaWpOR1NFVjRQU0dUWmFITUJSdw?oc=5",
-   "date": "2026-10-02 20:15",
-   "lang": "en",
-   "brand": "levis",
-   "brand_name": "Levi's",
-   "region": "americas"
   },
   {
    "title": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
@@ -288,8 +298,18 @@
    "region": "americas"
   },
   {
+   "title": "砸10億砍掉重練！Nike布廠竣邦為何捨棄高毛利小單？揭秘背後的轉骨豪賭大計",
+   "source": "今周刊",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXg5UHNfc01DZnpocjhrWFBPbFBmcXhIdmVfNXAxRUhPckZFdFEwZDNfM2JIYUNiSjhhbk5Bc01xWjZmZERxNVlRTXJtNWRYQzZaaVdZNXo3RmlYdE9xYUxQSkd0UW1Vbi1VMTRKMFNrUVRCWHM5eWNlZGUtd0l3Tw?oc=5",
+   "date": "2026-09-30 09:06",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
-   "source": "Reuters",
+   "source": "reuters.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
    "date": "2026-09-30 01:30",
    "lang": "en",
@@ -359,7 +379,7 @@
   },
   {
    "title": "Shein posts Q2 profit but slow revenue growth likely to fuel doubts",
-   "source": "Nikkei Asia",
+   "source": "asia.nikkei.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0RhYmlXSGMxUldFOFF1c1BvVVBLVWpzVlZZTGNGazlRcncycHkzd2UtZ080U2o0ODBkMkM2UDI3RU5oa0w5Q1A3WEpMR2M2QzFXa1FsVmxXYldpd1ZZU1pxeG1fZHVrNTR2S0NwWEpyMmt6d0N6WlNDbXVkNWdBSDJWVWtCRVFlOTIxVzI2UDc1SHVldnRLZTUzQ21Bb3ZRX1hQbmpjTjBOODQ?oc=5",
    "date": "2026-09-28 22:19",
    "lang": "en",
@@ -399,7 +419,7 @@
   },
   {
    "title": "Nike遭標普百大除名、股價跌78％ 一份亮眼財報為何仍救不了它？",
-   "source": "udn.com",
+   "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETkZvbE84UVFkNm1xTDNBNUU1VjJwSDh4TE02YzFtYmdnNlhOSFpMVk5FdzQyRFEtZXFvaHYzUlg5TFNqLUdETmpiZmNiOEF5?oc=5",
    "date": "2026-09-25 08:15",
    "lang": "zh",
@@ -409,7 +429,7 @@
   },
   {
    "title": "H&M promises change as slow sales undermine profit boost",
-   "source": "Reuters",
+   "source": "reuters.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2plZm1ZNkxXSGxxWVlXYTN1UkxZc2lFa240QWVuY2U3b1ZfbEJRYjBTak1lUzhIeEt1SzM2MFh2R1FUUjdIWWY5OWRkTlY5UHIzYVJVMUpKNkVuX0FXVWtUU2d5c2JnX3lfc29aMVFlX0syTDNjcFpQdVZTWk1lUVg2NWFzMEpPdk1sS1NIbi1abXFQd0lBSHoyX21TcjE2dEJnSDBtaEc0c2dkVDNPVnlFUlkzMVRGRGlacg?oc=5",
    "date": "2026-09-24 23:04",
    "lang": "en",
