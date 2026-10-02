@@ -3,24 +3,24 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-10-01",
- "fetched_at": "2026-10-02T15:04:29+08:00",
+ "data_date": "2026-10-02",
+ "fetched_at": "2026-10-02T23:01:07+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-10-01",
-   "cash_buy": 31.455,
-   "cash_sell": 32.125,
-   "spot_buy": 31.805,
-   "spot_sell": 31.905,
+   "date": "2026-10-02",
+   "cash_buy": 31.445,
+   "cash_sell": 32.115,
+   "spot_buy": 31.795,
+   "spot_sell": 31.895,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 32.125,
-   "prev": 32.12,
-   "change": 0.005,
-   "change_pct": 0.0156,
+   "primary": 32.115,
+   "prev": 32.125,
+   "change": -0.01,
+   "change_pct": -0.0311,
    "history": [
     [
      "2025-08-28",
@@ -1093,23 +1093,27 @@
     [
      "2026-10-01",
      32.125
+    ],
+    [
+     "2026-10-02",
+     32.115
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-10-01",
-   "cash_buy": 4.644,
-   "cash_sell": 4.806,
-   "spot_buy": 4.716,
-   "spot_sell": 4.766,
+   "date": "2026-10-02",
+   "cash_buy": 4.654,
+   "cash_sell": 4.816,
+   "spot_buy": 4.726,
+   "spot_sell": 4.776,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.806,
-   "prev": 4.813,
-   "change": -0.007,
-   "change_pct": -0.1454,
+   "primary": 4.816,
+   "prev": 4.806,
+   "change": 0.01,
+   "change_pct": 0.2081,
    "history": [
     [
      "2025-08-28",
@@ -2182,23 +2186,27 @@
     [
      "2026-10-01",
      4.806
+    ],
+    [
+     "2026-10-02",
+     4.816
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-10-01",
-   "cash_buy": 0.1919,
-   "cash_sell": 0.2047,
-   "spot_buy": 0.1992,
-   "spot_sell": 0.2032,
+   "date": "2026-10-02",
+   "cash_buy": 0.1928,
+   "cash_sell": 0.2056,
+   "spot_buy": 0.2001,
+   "spot_sell": 0.2041,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 0.2047,
-   "prev": 0.2065,
-   "change": -0.0018,
-   "change_pct": -0.8717,
+   "primary": 0.2056,
+   "prev": 0.2047,
+   "change": 0.0009,
+   "change_pct": 0.4397,
    "history": [
     [
      "2025-08-28",
@@ -3271,23 +3279,27 @@
     [
      "2026-10-01",
      0.2047
+    ],
+    [
+     "2026-10-02",
+     0.2056
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-10-01",
-   "cash_buy": 35.2,
-   "cash_sell": 36.54,
-   "spot_buy": 35.82,
-   "spot_sell": 36.22,
+   "date": "2026-10-02",
+   "cash_buy": 35.04,
+   "cash_sell": 36.38,
+   "spot_buy": 35.66,
+   "spot_sell": 36.06,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 36.54,
-   "prev": 36.67,
-   "change": -0.13,
-   "change_pct": -0.3545,
+   "primary": 36.38,
+   "prev": 36.54,
+   "change": -0.16,
+   "change_pct": -0.4379,
    "history": [
     [
      "2025-08-28",
@@ -4360,13 +4372,17 @@
     [
      "2026-10-01",
      36.54
+    ],
+    [
+     "2026-10-02",
+     36.38
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "cash_buy": 0.001,
    "cash_sell": 0.00141,
    "spot_buy": null,
@@ -5449,23 +5465,27 @@
     [
      "2026-10-01",
      0.00141
+    ],
+    [
+     "2026-10-02",
+     0.00141
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.883,
-   "spot_sell": 1.963,
+   "spot_buy": 1.872,
+   "spot_sell": 1.952,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 1.963,
-   "prev": 1.986,
-   "change": -0.023,
-   "change_pct": -1.1581,
+   "primary": 1.952,
+   "prev": 1.963,
+   "change": -0.011,
+   "change_pct": -0.5604,
    "history": [
     [
      "2025-08-28",
@@ -6538,6 +6558,10 @@
     [
      "2026-10-01",
      1.963
+    ],
+    [
+     "2026-10-02",
+     1.952
     ]
    ]
   }
