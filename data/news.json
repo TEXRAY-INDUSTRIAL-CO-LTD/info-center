@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-02T01:08:59+08:00",
+ "fetched_at": "2026-10-02T15:04:31+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -42,48 +42,12 @@
    ]
   },
   {
-   "title": "涉隱瞞利益衝突抬高採購價獲利 紡織公司前系統工程師與親戚被控欺詐提堂",
-   "source": "星島頭條",
-   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNVluSTZscDJNOEF5VUZyTGZObjkwY1BXamlMV3BlZHpnYlp6RnhFN3FmQ0Jkd29mVEdHSU8wekphU0ZFYlVwVFNrQ0tCOE5Jbm5hYmJyZC1IcVdTQzJXSHZlekVDelBPTVg2andyNjdCZkVtQUIxdk9rb0NTWTA5S3NsanhnX1Q4U2lkajktTDNMcmhTQU9SVk5feHpWaXJVejJ6NlJ2LU9oci15ZDR0eVFNMFZfNks1VWhwLVJJdXpRSFlMMm5uME9XUEJiU3h6UmJCLTZZck9RaU56aU1DYndMWkVNdUNhb0RaZ1pyMkJ2YUh3cnlXRC11SFV6aXh4ZnJYLUVsM0M1RXFXX2dOZ0s1VDZyOUROSDJTQjl0Z2FxUElJdENVNi1qLTZOb2NIeGJZWlZxbzZrUmpiWDJQV2c5UGRobmd2ZDlBRjFtTGNPZEdPRVExRWJHbWtHcVAtcV84aFNWQVhUb09xM2xqTkx0VlFlSTllZF9UWFZLdGM0WjJZaFRrbjlTd1RvMGNPWWc2MFo1X1FBb3ZGOHoza042VHh0aDVXYVVtTGZTcXNMTE9vbnBZSXFnN3p0NHBhUDJydU9jOFVORHVyXzhlMEFQaXd0VTFta1lpVmYtcGZnZm8?oc=5",
-   "date": "2026-09-30 17:40",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
+   "source": "三立新聞網SETN.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-09-30 17:12",
+   "date": "2026-10-01 06:52",
    "cats": [
     "green"
-   ]
-  },
-  {
-   "title": "紡織產業轉型加值交流會",
-   "source": "moea.gov.tw",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFExRm5LVVcyVnNUblJIYlZkeEE4d2E0YzRmVXBhT1BCRUgwY05wTEEtbjlON0dxSHdDdGJ2dWhReFZEeGV1eDhTeVhhQ3NVa3BlX3FXa3c4RkFOYi1aUmZTcVVfcDFSUXlOOGM0TWd3bXAzSTA3TjBrOGFuTTdER1psZk5saWktRXliOTRuVk05MXFIWF9v?oc=5",
-   "date": "2026-09-30 12:14",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "涉隱瞞利益衝突向親戚採購900萬元訂單 紡織商前系統工程師被控",
-   "source": "hk.on.cc",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHpNQ1NMOTYzd1pLNG9OMW5XU3dUUXQ1NUpZb0Y3T3FsY3VlWUU3NjZnSUtwaU41b1FpU1A0OHFodE5VbVVFRnJZMGxMS2NHT182OHFxekljMEhOTHo4amZmRTFWd3N2ZXdrRF9PNzMydFNFZGJEdlZiSTdHNHlHSWNOTDg5b1NjaEVN?oc=5",
-   "date": "2026-09-29 20:33",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "廉署起訴紡織商前系統工程師涉隱瞞利益衝突 抬價騙900萬元訂單圖利",
-   "source": "singtao.ca",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPUTdrWlM2VVhYYW9CMjBaZ2wzcHh3dUQxbUQ5TGVyQXdtTldhVzU2cGNXSWlLY2MxQlJJUTFIRVZVcWhFZUJGM1gyYUE4UkZmZEhTRXlabU5pUVZTUG1BWGxEZDM4NEtQQXJNZFlPckI5d1ppRHU5Qm8wZWpYSGh4VG1uWnlFMThCUXQ5OUJ1Q0M3Zm9HSWI4QjhnMkdIMWdCeGYtaXR5dDNEdEIzVUx4ODFhNUJKMU1tZWw1Y29pQzBLaE1vWW16RlZDMWVHZHhGeDRiWUtjbV8zcWNiclZrSkw5cFFMQmFCNlRETVJRN01TZzRBdEs5Ny1KdmRVQUQwbTNiZnI1Q3IzdktaWm5iZzFldUFjbUw1dVEwNXZGemRNaFdyQjRiejlOSDlMMEVnZWZVYjdaV25yRXBxRHUzQ0VzdUxqc0NkSHB5Y2x0ZFBwMEk2ZkZpZVc3dGMyNHBvZlN3WnBmdUNkNlJROEFQMmNBT2MtcXlmdFl0Ukl0UFBzZ3RqYUd3NHRiSUt3WWlRVVpPYXpFRUhvc0hmc1ZWTEZxdG9MMzhTeTJQUE9xd2w2c1Z3aEVnRUxqRDc0d9IBigFBVV95cUxNdmVDRWdqc2R2YlFiSkFZNi15cWpfcVltQkdiSHA0Q1V4OHZ0aHpQMXlpNWNRcERKOWp4X1dlSGxuVWdTVjVVekRUWEZXaEpfM1owRVZicndydXpVeE5jV0hEY2dOTE1ra01LRVdXQW1fWnZCT0l5MEVQMXhWeHV6bEhKWVZtN0RXbnc?oc=5",
-   "date": "2026-09-29 20:14",
-   "cats": [
-    "market"
    ]
   },
   {
@@ -93,15 +57,6 @@
    "date": "2026-09-29 19:48",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "301關稅台灣10%不疊加 紡織、塑化業者：對產業是好消息",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OaU1OcGQtVzh3RGxTeTZoWEpyS0RpbWVET0ptaDYzaVpYbFZ1RzluU0VwWEVXY29hYTg1Yk0yUE8wa3FWVkZKbG42US1ZQnhRVTEySkl2YXY5UHfSAWBBVV95cUxQTnVTa1RjM19pb2h3VjVCMUtiT1JYNDZXQmJpWkJjMEhRbGVxSUFNb1pZbW0zbk16emU3XzQ0cE9ESmpaZFpXMW9kVzdUakdzLVBxdWlwa1d6cVNndGIyRG4?oc=5",
-   "date": "2026-09-28 17:00",
-   "cats": [
-    "trade"
    ]
   },
   {
@@ -125,37 +80,9 @@
   },
   {
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
    "date": "2026-09-24 11:34",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
-   "date": "2026-09-23 17:52",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqT3ZrbS1fdW1vQ0lfRXNMMjVQajZVYjNWY1RkOFhOU3gxdkdFT0pSZ0JuU1l4bjVvWnRRUWlubDVLdkdWVG1fZUZ2QnNIeFJQajlnY3l4WFpCZ9IBX0FVX3lxTE9iU0tWSHU5SU4teDZEZzlHMnhWQkNPdTFsakNNRzNoMHhBWVduRzNEZ3Zma2Fpdjh3eDM5V1ZUSHhraEhZQ0lqTzQwMGluYS1iOGxGS2tDV0tjZE16ZGpn?oc=5",
-   "date": "2026-09-23 17:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
-   "date": "2026-09-23 15:43",
    "cats": [
     "tech",
     "green"
@@ -172,6 +99,34 @@
    ]
   },
   {
+   "title": "紡拓會：世界盃球衣 台灣廠商不缺席 紡織業靠循環技術打國際賽",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83OXlRYUU3N0RDWlowd2xpaVphZE5qNGNiWXFLaERqRlU4cHNyMWZmWWRXa2lRS1M3akRuOXJsOVQtUE9HUG0xY0MzNjkxeGFv0gFWQVVfeXFMTUIzVXNYaGlZMjdyRUtuZTNITzE3eUV2Y29ZZVg4cUx5MndSUVpkX0lJRkMyU0pwNHpkOHZ4WmhKS3Q5VWhaakI4djRVcERZam54SFZwLXc?oc=5",
+   "date": "2026-09-23 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
+   "source": "cna.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
+   "date": "2026-09-23 15:00",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
+   "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
+   "date": "2026-09-23 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "台灣7紡織業者揮軍美國展會 3天斬獲9800萬商機",
    "source": "自由財經",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05ZnhfYldVbTk5cExUM3p5S1VfWTBxb1RMYWNkWWVQakZfemFCOEZleGxGTzFKY2V1Q08tc2VJbWRraWJMMWRhOTdFbnQybUVpMG5GYTI2eVFPdUhldnZr0gFkQVVfeXFMTmNpMngwcW90S2piejJOVDVWMnZ6SVNUM0QwWGU1RFJJSUlLd2IzVG1yMExUaWFXb2hMZ1J0N0hzVkpMTWp6SHlMSWxBdVpud1RKaDcwRmRBbG42dTBZTlpLLUkzTA?oc=5",
@@ -182,7 +137,7 @@
   },
   {
    "title": "孟加拉成衣廠投資降溫設備 研究：四年內即可回本",
-   "source": "ftvnews.com.tw",
+   "source": "民視新聞網",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZW5SVDRFWDkyaWtDWnlLLW5wYTh2MHRmUWpmV1JodlMzZlFYRGN0Zmp4ZUxqV3hsNjZzLUxtYVcxeVhLOFhCZV9NSGZxM3pHMGpYXzBaMExUV243T1BRdA?oc=5",
    "date": "2026-09-21 15:00",
    "cats": [
@@ -239,6 +194,17 @@
    ]
   },
   {
+   "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
+   "date": "2026-09-10 15:00",
+   "cats": [
+    "market",
+    "stock",
+    "trade"
+   ]
+  },
+  {
    "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
@@ -258,14 +224,12 @@
    ]
   },
   {
-   "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
-   "date": "2026-09-10 15:00",
+   "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
+   "date": "2026-09-09 15:00",
    "cats": [
-    "market",
-    "stock",
-    "trade"
+    "green"
    ]
   },
   {
@@ -276,15 +240,6 @@
    "cats": [
     "market",
     "stock"
-   ]
-  },
-  {
-   "title": "臺灣紡織亮相巴黎PV展 以永續創新鏈結全球時尚市場 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RX0hUZ19Za1R3MUJpOW5sSXYyZjJPX2o5MzFsdVZSeEQyQUJCVUZiV25mWFVGMk1RT1NwQk0wQWhVbDNRZjVaeGV0LVZ5bTZOWDFPVU1WMEFrNzQ?oc=5",
-   "date": "2026-09-09 15:00",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -308,7 +263,7 @@
   },
   {
    "title": "畫作IP變印花穿上身台灣紡織與藝術家共創產業鏈| 產經",
-   "source": "中央社 CNA",
+   "source": "cna.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oazBzUi1OdkgzdmhUOF9sTVpIcUE1Q2F1WlpWVE5BV2xEbXhVZkhGTkRKeVp2X3hwcnRtai1nZVBlcWI0LVl6aWF2ZTY1bEZUMmdzM1o5eXd5QURfMkE?oc=5",
    "date": "2026-09-06 15:00",
    "cats": [
@@ -316,17 +271,8 @@
    ]
   },
   {
-   "title": "台灣之光！成衣業者登巴黎舞台　業者回應了",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hbFdYb0hnVVlpWnNzSklTZ2hQazVGamlFd2xaQllqckd0M0txS2YyaDd5MkhqTzZDTTRnUGlsdXR5WU8xSUtHadIBTEFVX3lxTE9GSW1RYko4ZnNTZ0d1WUpEU0E2TFpaR0lkVWJTakNIMWJVRWsxdUpnTVlvdzAxOEZJR0hWZ2FqVFA5NDYtUWx1aV9MWm8?oc=5",
-   "date": "2026-09-06 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "關稅牽動成衣版圖台灣牡蠣殼將穿越馬達加斯加進歐洲| 產經",
-   "source": "中央社 CNA",
+   "source": "cna.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TERNUWIwNEgtQlhYTDM3akJUSkhNb2lMdWxRdk5aa2pYVUJTTXk0YkRLYXpIRWtVT1BFcUt1UEU1RWViV2E2a3J6Ul84VlFfQnRLdDhIcjl2NkdyaGc?oc=5",
    "date": "2026-09-05 15:00",
    "cats": [
