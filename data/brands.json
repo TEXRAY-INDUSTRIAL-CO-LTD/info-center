@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-06T01:24:53+08:00",
+ "fetched_at": "2026-10-06T03:24:18+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,16 @@
  ],
  "items": [
   {
+   "title": "Fast Retailing stock gained 4.07 percent ahead of results on October 8, 2026",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdjhxUHpPT1hlb0xmSkExT0NHUGxxN3F6SlN4SFBlTFZVZWVqQ3EtVGM0cU81YlA2UFpSNEk5M29qQVU5VVBuaUZRYkZCS3pvV2RxcXVNYjN5dFNnS09YQzh2ang5MHhQRndfUUlicDlHWnU4MkwxMkh2UURTdi1hdEEzcHZCdV9QQmFEYVBJVHFoUmFBR1pqeFN1dEdjamNWMXJwTC1CQUJtT1poMjU5dXliVzlVazhxdHJCYVRBUEhORDhNMVdhdEVUbWxZdw?oc=5",
+   "date": "2026-10-06 02:26",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
    "title": "EXEC: Sports Direct Parent Frasers Group Acquires Minority Stake in Under Armour",
    "source": "SGB Media",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkNCWkFYRld0QlZwc2pJOEpJYTZtcDY4OWtGWG1NSkZUbDF0TDNMbnJIOEltNnNMS0hpLXdtWlhIaVA2TnVvcU1oVkIwWHZYaEpSZGdrel8zUmJkZGp6d2Y4cTA3YlBNYWtMcGljSkthdlFsRWdabVBVMUlfc2YxR0o1dVBJeHBxY3RN?oc=5",
@@ -179,7 +189,7 @@
   },
   {
    "title": "What Should Nike Stock Holders Take From Its First Quarter?",
-   "source": "Trefis",
+   "source": "trefis.com",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXVBdlh2R3Nic1NuUUhXVXRDaEZsRVFxSUk2ME1uTHV5VHZzNE81Wjh6dEpTQzM0NTVVSXJlMWl3R3B3N05mSzRLYXB2TC1WVl95UXFwbFhwVXJvMHNhRVJOZnFTMDRKQVB6VU9xZDV4Y0NDMllsTHdKWlpfcXBpaDZ6MzdZY0RZbXlaZ052dXFfY2I3M3NUTXNNUzI2akhQRGplZTZmUkE2aFRWN3g1ZmlwLWEtR0ZUbXc?oc=5",
    "date": "2026-10-05 22:01",
    "lang": "en",
@@ -188,23 +198,13 @@
    "region": "americas"
   },
   {
-   "title": "Alphabet, Micron, Nike and Nvidia are part of Zacks Earnings Preview",
-   "source": "The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTlhd2hzSERyUGttRUczc3h1b05POE9PSktQaVFXWlk2cnIzb0tvb1RCTlVKU1lGZUlkMFZ3eFBaREgyZS1RZnNVY0c0NEtJT0ZHV3VaaEJ3ZUpRbzBTV3JsRFhoa0d4V253MndpOWRiME5JMmtJamd4YmFHUjFMWUdwLTVVb2dJbVA2MXBKVDdfMW9faDM0aHNBemJRNV9vdER1TXE3Yk1ZWGhFS3h6SmJjbkp2NF92QXFKcUJ6WFJqejNkbjBvdkhQTlJPeElHVm0yZGJlcVRNeUQ5REdKSG9rQQ?oc=5",
-   "date": "2026-10-05 22:00",
+   "title": "Nike CEO may have just admitted the company went too woke as stock hits 12-year low | OutKick",
+   "source": "Fox News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc01GR0VJWmJTMTZPNkJBb2xycXh5al9CYlVvd1RRbndPQjFNYXFydFdsWDh2UDVQOElwWFBtQk1FNDJzRERvM0pkLW9Xdk10MVFkSUxHb3lhZ2hsUGg3a3h2MUZHX3gtcHNDTWUwTHZMYUZ2ZHdjd2ZHdlFRMTJCMGhUN09rNkxUVnpGNWp1OE9QUHBUVHlSblFteWwwZWU3dF9DaHl1NVB1UQ?oc=5",
+   "date": "2026-10-05 18:47",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "EARNINGS PREVIEW: Delta, PepsiCo, Levi Strauss kick off Q3 reports",
-   "source": "Breakingthenews.net",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcEsyb2gxb1dtTU1QV2RrSDJvMmNYS2ZVQnd2UmczNDdMSVNUWU1sejlsbjEyc2hrWERGZExJZEdOb200QnB4YU43Y09vRlNTZDFrejNPaVpwTndsOWpPMFl0bVJQMVViZVVQeDRGQloxbVFpMldPMWozZEM0N0VMckR0cF9qTVQzY0k3WWFtMTlwSl9kU2VVclBMZjFTOVhwUUxrX01QWjRHWFMtclE?oc=5",
-   "date": "2026-10-05 18:31",
-   "lang": "en",
-   "brand": "levis",
-   "brand_name": "Levi's",
    "region": "americas"
   },
   {
@@ -218,16 +218,6 @@
    "region": "europe"
   },
   {
-   "title": "Frasers Group CEO Michael Murray on Matches, His Plans for Harvey Nichols and His Intentions for Hugo Boss",
-   "source": "Vogue",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnpObkpvZjgwa1FOQ1hwREZyTi04MWQ5a1kyV0VWSm00Wk1seVlPSC01OGZ3Sy0wSlRSQTdOMU1mOGtoa3RjdlZWRXp1UHFnMlpvYlhvc0xsYkJxWEJfdlJ6WEFlYVdZLW5RRi1aRkFueldvcmJDbDNXaVNPNzZfSVdmYUxoTHV1Tlh2bjZfc19WSkpKUE1IczAwckdwNnpmdVlHY05Lb3RCMjQ2dG16ZzZtbXhBbGRrNWRoMzU2c19PVWhNdUQzTWZRLW5wbUVl?oc=5",
-   "date": "2026-10-05 12:50",
-   "lang": "en",
-   "brand": "hugoboss",
-   "brand_name": "Hugo Boss",
-   "region": "europe"
-  },
-  {
    "title": "UNIQLO日本同店銷售增幅今年第2大迅銷大漲",
    "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnJwc2g0RlcxNFlzUFRtQWNyY3lvNmhJeWFqUTBWUEQ5Vk1mejZaYTZ3eHU0N21rYlMza2pkMEtoa3JiaTVKSG9EVUxYbG1IdnVEYjRBVDRuYmJLSEo3eXVCSkZvZjBfVVUxalFuOFlLTXo3S3ZocHNMYXJ2enZ1V1VIU1dXZHRqaHd5WW4xV205QXlsNVE?oc=5",
@@ -236,16 +226,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "Zara Halts Children's Nazi-Style Costume Sales Amid Outcry",
-   "source": "조선일보",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemJ1ay1TOEQ5MDNUdkQyRE14NXFPZGk5VjBPaW5nLVhrZGpYYXZUaWtXb0tNak55MFZYZHRMQmI0ZTQ5amEzMFE1OW9JY0FJeVhhS3Zyd0dVaUV3RGpxMGVOS3NtTDlUemRTMEJhd3NtcW5NV1hmcFJxb0tyaDdXb2tSTVE?oc=5",
-   "date": "2026-10-05 05:37",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
   },
   {
    "title": "Nike財測不妙！全年營收慘摔、盤後重挫近9% 1台廠恐掉單",
@@ -306,26 +286,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "Uniqlo opening two South Florida stores (Video)",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03T2dldHFySm9JMjhHeVJMa1JrbWZ6Q3NOcmFPVVpGYXJYU18yNUkxYXlMRWh3azVIZFl2WjdKZ1QzODQyTjdHMkltQVFvMFYyV2t5cG9VQmRpSkxjVm9UaFViUEZieWM0OTR5T3RXSlg?oc=5",
-   "date": "2026-10-03 06:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Uniqlo opening two South Florida stores",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREFjdTY0NkZISGk0TmYyMnhDX3RxQVlpaGhQdGVjWF9paHd5anBHV3VsemxNS0t2YVlic1Q4dFpKR0R3V3pWUWYtMkI1NV90dHhtT1I3NnZjSjlyNzVYdGVUWVZmRUtiMVIwemtZSnZJVE1tTVRBOFZTVnB2ZUVWVEVlVFRTYTM1?oc=5",
-   "date": "2026-10-03 05:37",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
   },
   {
    "title": "台灣、中國不買Nike了？大中華區本季營收重挫22% 公司預告將裁員 | 蕭宥宸",
@@ -429,13 +389,23 @@
   },
   {
    "title": "希音中報隱藏的賬本：訂單、效率與第二張牌",
-   "source": "Moomoo",
+   "source": "moomoo.com",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4waE8wUmUtT0p0MGtrTWtzbVBpc1pSUzN3enhWRUdYRDlwazl0SGdvbUFJVlgzVW9GeFVDZ0gwSXJTeHhHd1F2RkRQUi1Mam1NX09kTUhVTHRSR2F4?oc=5",
    "date": "2026-09-30 11:02",
    "lang": "zh",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
+  },
+  {
+   "title": "砸10億砍掉重練！Nike布廠竣邦為何捨棄高毛利小單？揭秘背後的轉骨豪賭大計",
+   "source": "businesstoday.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXg5UHNfc01DZnpocjhrWFBPbFBmcXhIdmVfNXAxRUhPckZFdFEwZDNfM2JIYUNiSjhhbk5Bc01xWjZmZERxNVlRTXJtNWRYQzZaaVdZNXo3RmlYdE9xYUxQSkd0UW1Vbi1VMTRKMFNrUVRCWHM5eWNlZGUtd0l3Tw?oc=5",
+   "date": "2026-09-30 09:06",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
@@ -489,7 +459,7 @@
   },
   {
    "title": "Uniqlo秋冬肩背包推薦Top5：「這2款」愛馬仕前設計師操刀，庫存告急！",
-   "source": "bella.tw",
+   "source": "Bella.tw儂儂",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HZmhiRnVOUTdSQkNFbTltM285MTB4QzdVQlNGQVNKd3ZqMmtsbmR1NE1fRTdLUDN5ektuSmtHWUc5aFF6eENseUJxMHRZOWotTm9OdUdLTFBfczUwNXFLOUE1SVZaM3BrdkFoRGtYMl9MNzM3SDIyTVBVY0o?oc=5",
    "date": "2026-09-28 00:15",
    "lang": "zh",
@@ -521,7 +491,7 @@
    "title": "Nike市值剩530億美元！遭「標普100」剔除、道瓊地位也告急 10月財報恐低於預期",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbVFXMmtFbUtEVnFzS3V5UkJIczZhQmc3SWhhalBQTW55UVgtSWs4cVQ5Z0phUVg2dGQ2andVU29wZlZmV1IzTjJZcFozUDg1cklObWtMYmNCMEtCaU40cVljTXBfTThhYVlLVV93TERJekRrMS1XWjZaNHlteHVEelp3Y1dJWmF6QnlfQzRmM21LbW5wYVhuWk9aNDBmOTl4XzRnVHEwZFFqOTFsUFVPMFRRLXJDRzBZTzRDZ2lpNmQwaWI2TURJUnBrRlVqOFFvSU9aMkZZdm9QODduanNlc0ktSG5Jcm94YUtHV0l5UDlQUW4zLVVMbkJTT2FoaF9OVUFlOU82QXJ1MHpsY2JCWjFqYlRSenp4d3lQUDNQWGplbU90d1VIazNPWlk4d1Zfb2xuT0lBMEdyMTZLc09NdEgtQ2Q3dw?oc=5",
-   "date": "2026-09-19 15:00",
+   "date": "2026-09-18 15:00",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
