@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-10-03T00:22:26+08:00",
+ "updated_at": "2026-10-05T15:10:39+08:00",
  "dhl": {
-  "percent": 46.25,
-  "label": "2026 年 9 月 28 日至 10 月 4 日",
-  "start": "2026-09-28",
-  "end": "2026-10-04",
+  "percent": 48.0,
+  "label": "2026 年 10 月 5 日至 11 日",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
   "source": "https://www.dhl.com/tw-zh/home/express/products-and-solutions/products-and-services-overview/surcharges.html",
   "auto": true,
   "history": [
