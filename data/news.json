@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-06T23:27:24+08:00",
+ "fetched_at": "2026-10-07T00:56:08+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -33,7 +33,7 @@
  "items": [
   {
    "title": "Taiwan Textile Select:重製未來 RECODE 2050時尚秀 31家紡織業者攜手6大設計師品牌 48套作品演繹臺灣紡織創新與永續",
-   "source": "yesmedia.com.tw",
+   "source": "https://www.yesmedia.com.tw/",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNaVVHMW1JRzJLZDdUdlQ5UFBBcXRQS2VWX1J4MFVJVjQ5UklHOU9weWtHTzlWc1lvbXhYS2dhVkRZbW9ORjNFSE9jTTdQeFdvWVF4dnZMMzF2QW1PRG9takd4N19JZXh4MkUzekg4Tnp5cG9fV0tVb2kwTDhLT1l3eWlNSlJrcG03d0dPYVRJdk9TMXRRSnBTSm9nSkZzWlJlT2I5dWxsQmZmU0hKa1g3S3pWVF9sN1Etam1KbEc2NFFxblE0cFhKYjlsVDFaZUdSLW5NWGNWM1h2dzVQd1hUeW1yQmRSSmtwbkVWbFBZeE5LbUZ2cWM5eGZyTE9MTHd0LW1fc29mLTJTUEpvMHpJYzVOT1Bsd3dHSVI3SmFFQ2wtczY3bndKVnVxM18xX2IwY0h3YkVibnQ5MWctcmtvUXlRa0FuN3RsbHI2NA?oc=5",
    "date": "2026-10-06 22:59",
    "cats": [
@@ -70,7 +70,7 @@
   },
   {
    "title": "〈台北紡織展〉紡拓會郭紹儀：持續強化國際買主鏈結 410家廠商參展聚焦三大主題",
-   "source": "news.cnyes.com",
+   "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sRF8yWktTRWFncnc1WExlSUM3elA0Q1p1SE1TcHdHczN3QkdyWmZIal84aEFRMFFqbFhRT0ZqQ0xDSGl6N25uZll4UXA1WHM?oc=5",
    "date": "2026-10-06 19:54",
    "cats": [
@@ -116,7 +116,7 @@
   },
   {
    "title": "南寶參展台北紡織展環保水性樹脂助攻綠色轉型",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTVaVi03czFxNk9jWERfMmRRVXFLU2NRb0lqd2ZGREZES0g5SXkwYUpHVTF5TkwyVnkxZnphdkRiQkh4TGduOHkzOGZRaEo3ZnctdzBZcWoyOEY1ODMtTHFYMzhqTTJqeGtjbFR0dWNxMUZwamxWdWI0b3JBcTF6OFhqNmtLY2tUczVaT2hzV0ZPZw?oc=5",
    "date": "2026-10-06 15:29",
    "cats": [
@@ -144,7 +144,7 @@
   },
   {
    "title": "〈台北紡織展〉新纖NEOLAST新產線正式量產 首階段年產能600噸",
-   "source": "news.cnyes.com",
+   "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93ck03YkhmUHB3V1JMbk0wZGg5SDctY1l2V3ZTSGFJTXNUY19hNldrbXdJWm9fekhkLV9OVUxxbEdNcGt0TmlhLWVlTlR5c28?oc=5",
    "date": "2026-10-06 13:51",
    "cats": [
@@ -162,7 +162,7 @@
   },
   {
    "title": "福懋看紡織景氣有望觸底；明年復甦力道仍有限",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGpZdG53ZVFkTHNKZzBkMEZRZng3LTFKcDBwb3RLWV9qRVdUZ3d2RWt0MXZxRWxFNHdnb24zd3I2QWw1SU5rU0VrMzB4U2tzdm5iY3UxcVByby11c2FrY1JoM1RBVGtobWVwUEhCc3ZQTjl5WV95ZFlBNmhpelQ0bTdZWmw4dVF6bjR5cDVzeHIwZw?oc=5",
    "date": "2026-10-06 13:39",
    "cats": [
@@ -171,7 +171,7 @@
   },
   {
    "title": "〈台北紡織展〉儒鴻董座：Q4營運向上全年可望創高 明年首季展望樂觀",
-   "source": "news.cnyes.com",
+   "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hcXh6TkxKcHZyR2VsdDNNcmZ6SFBySkJlX1c3Y3JFclNCTVA2Y3VGVXBDZWYtU2tvT2pnUHFpRFNaLU1wTnkzMklRbUVwa3c?oc=5",
    "date": "2026-10-06 13:15",
    "cats": [
@@ -189,7 +189,7 @@
   },
   {
    "title": "紡織展30週年聚焦永續環保/機能應用",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGhqWGR6bWswOHVYal9hNlNUSWNOWVpzYW1kV3JRbUh4dmp5ZlJ1NHA5WnBYZy0yT0pvb3BiTFNQOU9FWVBKV3pxdGV3Rk1WbldlcHYzak1iTi1ucmowdEwtTzlhSUl4NkJ0UkJFNHAxTlY5OFIzanhQMEo2cTl3S2lxYlgzSkJMLWNvREdzSnlNQQ?oc=5",
    "date": "2026-10-06 12:27",
    "cats": [
@@ -291,18 +291,8 @@
    ]
   },
   {
-   "title": "〈台北紡織展〉南亞三大特色產品亮相聚焦高機能、舒適及創新永續纖維- 股市爆料同學會",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11OXl2eGo4akFvUURjb0ZYODBhaDFDMExBaWk0eFJlX0NmUFhscmc2emJ6cVZXbS1BNEc0NjJETTl2MUxhYmZEWEd3RDV2UWdLcG9scWVieTc?oc=5",
-   "date": "2026-10-05 13:05",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
    "title": "〈台北紡織展〉南亞三大特色產品亮相 聚焦高機能、舒適及創新永續纖維",
-   "source": "news.cnyes.com",
+   "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3NnVyT0J2MlQya0pDTGtIUk5fY2RVM19zS25LWDRoS2FxV2hyQ3VJX1BTamhtU3NRdE1ZU3MwRGtVN0dVa3RWSEdfeFRyWDg?oc=5",
    "date": "2026-10-05 12:42",
    "cats": [
@@ -369,7 +359,7 @@
   },
   {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
+   "source": "三立新聞網SETN.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
    "date": "2026-10-05 01:12",
    "cats": [
@@ -436,7 +426,7 @@
   },
   {
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
    "date": "2026-09-24 11:34",
    "cats": [
@@ -571,7 +561,7 @@
   },
   {
    "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
-   "source": "news.cnyes.com",
+   "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
    "date": "2026-09-07 15:00",
    "cats": [

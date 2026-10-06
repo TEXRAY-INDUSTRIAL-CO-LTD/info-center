@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-06T23:27:27+08:00",
+ "fetched_at": "2026-10-07T00:56:10+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Nike’s Restructuring Raises Questions About Layoff Uncertainty",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0NLQXR3VEdVdmhKc2NaUlJ4NUtlTEY5YUhTR0UyRk9ueVhhRV9KTFVZRmJhTjNhaWRQdWh5TmZOS0JzdEtuSzhoZ2lYUFdfUy1pZlFhV0lheTY0cXVOMjF0NnNzZS1IVk1TNHNFWXNvQlp4VGZOeEpYZUZhZ2J3UGk4ZmtsaFZnMkVfVVdLRlpHNjBUdTA5bW15UnJ6bXZUMmpNX3RWeW9FdFlSZ1dDdkc2VXFVOUdz?oc=5",
+   "date": "2026-10-07 00:22",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "The best October Prime Day shoe deals are live — shop sales on favorite styles from Adidas, Skechers, New Balance and more",
+   "source": "Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNR2dsWW9pTFczckZIOWJEVmVlbEY2TmZXXzFZcmhPR25NcGFkbnF5NHhOMzNqS1Z2SVgzc0VKUXliVDh2QWdjcTl3a1Y5RFZqYTI5QkFLSy1Yd3Z2QkdNcmZEY25CYzdfOTd1N2FLNldGRFdld0xFX1k5REk3b0xCbDdZWXVqbEdTbjlTOFVCQVpWRUVCd3ZRa1N3Zk9jTDZvemw4V19ZOEozb3ZMZlREZVNOYm5sWW04YTRENzNNRmZpWWZHUVpRQ2Z3d2E3czRoWW5GMXpITk5xa2xUUWFqN2otWU9POGZIVmtaUGRBVkhfb0J3MV9lcFZkRU9zVzgybGVWSEstcGxlOHVuQmFHalRVdEZQY0Ft?oc=5",
+   "date": "2026-10-07 00:11",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "Sozzi talks SpaceX, takes a look at Nike, and chats with the Conference Board CEO",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080RXJMem9EYnhiSHAwRjZuUWRPeTlFdkdqN1dtQ1JONnNZTVY5U2JFMkctRmpoYk1sU1pGdjR3RDk4TUNQV2JSN1BHaHBkSmgySlhLSElnaUM1YkRXQ3RsMWx5MlJ5SjQ0X3AyNm5vWWlJREYzcnQ4bDV6X2loOTVDQ1F3VXRXQ0lxMktPOXN4YzdWWC1BS2p2eE1zQXlLazNUZHhpdlQ3U01ja0pPT0tRNUN2bm1BS2pHVHVWMWZaV2lI?oc=5",
@@ -168,17 +188,7 @@
    "region": "americas"
   },
   {
-   "title": "The best October Prime Day shoe deals are live — shop sales on favorite styles from Adidas, Skechers, New Balance and more",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNR2dsWW9pTFczckZIOWJEVmVlbEY2TmZXXzFZcmhPR25NcGFkbnF5NHhOMzNqS1Z2SVgzc0VKUXliVDh2QWdjcTl3a1Y5RFZqYTI5QkFLSy1Yd3Z2QkdNcmZEY25CYzdfOTd1N2FLNldGRFdld0xFX1k5REk3b0xCbDdZWXVqbEdTbjlTOFVCQVpWRUVCd3ZRa1N3Zk9jTDZvemw4V19ZOEozb3ZMZlREZVNOYm5sWW04YTRENzNNRmZpWWZHUVpRQ2Z3d2E3czRoWW5GMXpITk5xa2xUUWFqN2otWU9POGZIVmtaUGRBVkhfb0J3MV9lcFZkRU9zVzgybGVWSEstcGxlOHVuQmFHalRVdEZQY0Ft?oc=5",
-   "date": "2026-10-06 22:41",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
-   "title": "Lululemon: 12 Stalled Apparel Brands Say The Margin Can Increase",
+   "title": "lululemon: 12 Stalled Apparel Brands Say The Margin Can Increase (NASDAQ:LULU)",
    "source": "Seeking Alpha",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmRkcnhBckZlSi1zSy1OckNfSVc2TkVXYUliSTJ0UHJRY0NPRHZXV0w1OGo4NGZESHp6Y25ob3NiRGhIQnJneklrNF9pUWN3V0RmMF9ra0kxcXE1c2xHeW5LOGZOYVgtbmxENEhIVXQ4UXVmaFBjOXkzMVE3V2JlSTNfa1pUTTR0bUZDYVhrejlNZ0Vqclp1RU9xU2FtQnBYdTc4OXc0Z0d5R2Ni?oc=5",
    "date": "2026-10-06 21:56",
@@ -188,8 +198,18 @@
    "region": "americas"
   },
   {
+   "title": "NIKE Trades 28% Below Its Usual Earnings Multiple. Here’s Why That Doesn’t Make It Cheap Yet",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaDJfQzVicGM5ZWJ5dllZblhBd05UN0lYZ2tRSV9aQXlIa19XR3JUZm96Yl8yYVFsQ1QtNEtqaFE4VWZkczJFdHAyUnBLZThFNG5KRlBjUVZ5MzZRWGs3NDlXYXlwdlVxcXVMUGk4ai1aWHVIdWVRcElKX2dvbEVMSzFpaE45YjRqaHJHa05PRnQ5SDF0M0E?oc=5",
+   "date": "2026-10-06 21:12",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
-   "source": "kiks.com.tw",
+   "source": "https://www.kiks.com.tw/",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
    "date": "2026-10-06 20:47",
    "lang": "zh",
@@ -228,18 +248,8 @@
    "region": "americas"
   },
   {
-   "title": "Nike仍是儒鴻大客戶！董座王樹文：訂單沒衰退很多 第四季營收續拚新高",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNNHNTT2dtS2p6SEp4ZlBRLWRFTHhYSHVic0ZZbU5GMGFkRXg0R1RFOHJCT1U3N0txYUwyYmZvek1zRW16dkdBR1FMczVqc0c2NUE0N1BzS0hER3NyRmRqWVNUcE1ORnN6LXVDc0ROMlBFbHhjeHBRRU9oUW1UVE5vaE13cHQxSTl3WXBNdUQ4ZHlSMVhudDJCUm5nY1FrXzNRQWZJcnlCZWZyYmhIakE1Y0FlcTZ2Z2E1bVpMMVN6Q2NTbmJ5VXpNZ1ZsUjBaVVVzWHM0dnEwUVNuSHJkNVViSk43amJjU0xDWGtnQVdhVHN2MGo4djRnelg0VUpFdTVfZU5KVnMyZGQwNDlzenY2STFzaTE0SWxSMDFpWnQwVFpnWGxQRl9fWmREVGhBOExGVFdRRVhWb1dmTWVFaC1OSVdIZFQ1anE0VXJtR3NjREUxNmNMU21yUUZJQ2hrRlVhZThSMTV0allYeHNYb0gyZGVzV2ZaRUVSVEg5TFpNQ3h1ekoxalE2dzlEa2ZZVVZTQlUtMWVkLVozc1E4d090MTZvSjh0azZFRUY2TnhWemVhYjRNNXNPbXU2WVZ4UVUzSmRNbWl3QzR0dw?oc=5",
-   "date": "2026-10-06 13:32",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "【每日揭詐】收「假亞瑟士email」稱訂單異常 痛失近20萬",
-   "source": "taisounds.com",
+   "source": "太報 TaiSounds",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzZUEtVm9PQ2toczNLcTZYLXVuR0RfNjE0S3ppRko2OWpxQ3RMdGtyaGwtSE5Jb2JpY0FFUkJvS1E1X2RTVk5LZEVJSWZCRWNIQnpwZzNfdzlFc3NY?oc=5",
    "date": "2026-10-06 13:08",
    "lang": "zh",
@@ -279,7 +289,7 @@
   },
   {
    "title": "Nike（NKE）大中華區營收年減22%，品牌還是護城河嗎？",
-   "source": "pocket.tw",
+   "source": "口袋證券",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldzV6ekZyem9ncHB4Vm5TMm9rSXIyRTlnRXVYczRSc05tOVdISzRDQkdMTEs3UUFlQjg3Z1R0b0QwNWFSeEdSVU0xN1pmSVhLUERRbC0zZGNIaEkwX1U2QlMxOA?oc=5",
    "date": "2026-10-05 10:06",
    "lang": "zh",
@@ -289,7 +299,7 @@
   },
   {
    "title": "UNIQLO日本同店銷售增幅今年第2大迅銷大漲",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDNtczhKaGpvWndueTRjd0VFZnZBUzVvQkdSd280RFkwY2VNZDhKQnplTlpVa19aaXY0WDhwWlJyTDVyU3h6V1RFOHc1U1p0TWNUMUJKZThNZlZvcDlsb0k4VXNqcW8yZnZaYzlxdEwyN2ZkemdVRWpoc05WQUd1dUVBNzNjUlpQYWZoelZqQ0Z5UQ?oc=5",
    "date": "2026-10-05 08:13",
    "lang": "zh",
@@ -378,24 +388,14 @@
    "region": "americas"
   },
   {
-   "title": "Nike's struggles test investor confidence in CEO Hill's turnaround effort",
-   "source": "reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmtjTU5zNWQ5RUQ0VHBWSlVlLWVRNTdLLWhoM0hid2RBTkVRWm5oV2ZjR21BN2pKT0N6Ml94TzlRZ0tlX19USmZsNGhROW5pckgxUXZGOURXRDNEMnpPUW9ld0tCeG0wQVpRUzZzSkV4ZVhpWTU1NkpSZVZoUG94dEtQbDc0dzY5c2ZWTE9ac213WnR0Y0F4UHZNMUx1dmtpa2JSam9JLXMySHNweTQxWGVPQXVLcmhudWgtdGdmOGVTek5ydW93Sg?oc=5",
-   "date": "2026-10-02 21:46",
+   "title": "Nike stock misery continues after another dreadful quarter and outlook: Wall Street reacts",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUGtQdGkyRDZYeXFLcDhqcUZnSjdqWllsRUhiWVEteXBDZlM2VWZCOFRrcktZUlhERW12Y0d2ZXVablRWN1NJNDFhRG1UaFEtb0NVZVhCMWV5RkV0cmFZOU9RWGhEVkhqZFhmWnpLMXdoUEl1REhNZkZlM1pzdkhfbUp5UTNCeE5CS1JGU3FZYjRGYzZkcm9raUhQU0VUWmxDbnB2eWZtamVaekN0enFIZzBJNkpHcTdpdkVlb0lfUGtuaXlYLU45LWE3ak1KR29QS3p0QzllcUc1RktKY3lZS3o2aGdTMS1j?oc=5",
+   "date": "2026-10-02 21:35",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "We finally know when Uniqlo’s two new Miami stores are opening",
-   "source": "Miami New Times",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWd6RVYwU3lzczdpY0JERUdqYkE0NlNWajFZazVGeVhSa2tsb09sYlk5eEpsVzA5OWZBUEhham05cHUwYmNobmhxdUxLQ3RYYmFhY3NKaDFzWUtzc3NqT0ZUNHRtNS15T1RSZTRpQlpiSzVPOU1udm43OElIbERIbjUzMC1mYVgzUVdvbENNWTlxXzVpSTFSSDdiNWZBQkxLZ1dzOHRJMA?oc=5",
-   "date": "2026-10-02 01:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
   },
   {
    "title": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
@@ -418,18 +418,8 @@
    "region": "apac"
   },
   {
-   "title": "【即時新聞】Nike(NKE)財報將出爐股價創低！資安概念股發威，這3檔強勢創高",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1gtamxXMTA5NzVMaFhvSzRvVEs3NGVROWU3bHpjdWE3X1hoeHk4T2FDbk80UEZ0OHV5ZEVvc2xBQ3ZfU0tSZFB2N0FWeV9KTUtLNzQtdU5RUG9xYjFrUXhCSkZEQzdlQWNwTlpBWUp3WVd6RkhHWDR1V1F3OFE3am9aYUQtdnhhNVZ6b19QbUY?oc=5",
-   "date": "2026-10-01 08:45",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
    "date": "2026-09-30 01:30",
    "lang": "en",
@@ -439,7 +429,7 @@
   },
   {
    "title": "Shares of fast-fashion's Shein plunge 14% to record low after profit slides",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWZjMUtCelNMN3AzUkZReWtMdXBRbm9CQktZanlXQVJxVS1TeGUwZjR2M05jNnc4djlXQTZYcng5R0ZMdVhfZ09YM3dCbUJNckVFaE51Q0JmTE1UOVNkVnhIMEkwajBnSnpQRjdNRjBvMDhJQlhnMjZaM3RILUdxT29WamdBZm54Zk9hb1V4dnZ3WjRCSGJvbTRHODFQVkxaT1Ezc1k4Ympval9PZGhjb2ZiOVVIb0xpNlhOVjNuNVRDS3ZHX3hzakNKdFdRTUln?oc=5",
    "date": "2026-09-29 18:15",
    "lang": "en",
@@ -458,9 +448,9 @@
    "region": "apac"
   },
   {
-   "title": "希音上市後首份財報 Q2獲利暴跌67% | 陸股透視 | 兩岸",
+   "title": "希音上市後首份財報 Q2獲利暴跌67%",
    "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DaHd5TjV1QmtyNGNSYThoaWtQaV95azVocHFaREp1U3lVcWtRbUFFbFpKS0k1dWcwbERqRUZySHFSN04zS3BWcU53cF9ydTdGNDkzRnJiS2t4dw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DaHd5TjV1QmtyNGNSYThoaWtQaV95azVocHFaREp1U3lVcWtRbUFFbFpKS0k1dWcwbERqRUZySHFSN04zS3BWcU53cF9ydTdGNDkzRnJiS2t4d9IBX0FVX3lxTE1zODdhTU4xZHJtY0kxZE9sZ3k3TGRVOVlCcXFiQmpwUjc1bG9sR2lyejF0bWZCMkFsYk53VjhsVkpwbkdXR2V3LU11WFZ5Tk5FVFBBT1hKSlZHT1ItMWNB?oc=5",
    "date": "2026-09-29 13:25",
    "lang": "zh",
    "brand": "shein",
@@ -509,7 +499,7 @@
   },
   {
    "title": "Zara owner Inditex reports profit miss despite strong August sales",
-   "source": "reuters.com",
+   "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
    "date": "2026-09-09 15:00",
    "lang": "en",
