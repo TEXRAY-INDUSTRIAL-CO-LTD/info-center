@@ -3,24 +3,24 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-10-06",
- "fetched_at": "2026-10-07T15:18:49+08:00",
+ "data_date": "2026-10-07",
+ "fetched_at": "2026-10-07T23:46:46+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-10-06",
-   "cash_buy": 31.395,
-   "cash_sell": 32.065,
-   "spot_buy": 31.745,
-   "spot_sell": 31.845,
+   "date": "2026-10-07",
+   "cash_buy": 31.405,
+   "cash_sell": 32.075,
+   "spot_buy": 31.755,
+   "spot_sell": 31.855,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 32.065,
-   "prev": 32.04,
-   "change": 0.025,
-   "change_pct": 0.078,
+   "primary": 32.075,
+   "prev": 32.065,
+   "change": 0.01,
+   "change_pct": 0.0312,
    "history": [
     [
      "2025-09-02",
@@ -1093,23 +1093,27 @@
     [
      "2026-10-06",
      32.065
+    ],
+    [
+     "2026-10-07",
+     32.075
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-10-06",
-   "cash_buy": 4.648,
-   "cash_sell": 4.81,
-   "spot_buy": 4.72,
-   "spot_sell": 4.77,
+   "date": "2026-10-07",
+   "cash_buy": 4.646,
+   "cash_sell": 4.808,
+   "spot_buy": 4.718,
+   "spot_sell": 4.768,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.81,
-   "prev": 4.799,
-   "change": 0.011,
-   "change_pct": 0.2292,
+   "primary": 4.808,
+   "prev": 4.81,
+   "change": -0.002,
+   "change_pct": -0.0416,
    "history": [
     [
      "2025-09-02",
@@ -2182,23 +2186,27 @@
     [
      "2026-10-06",
      4.81
+    ],
+    [
+     "2026-10-07",
+     4.808
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-10-06",
-   "cash_buy": 0.1918,
-   "cash_sell": 0.2046,
-   "spot_buy": 0.1991,
-   "spot_sell": 0.2031,
+   "date": "2026-10-07",
+   "cash_buy": 0.1919,
+   "cash_sell": 0.2047,
+   "spot_buy": 0.1992,
+   "spot_sell": 0.2032,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 0.2046,
-   "prev": 0.2051,
-   "change": -0.0005,
-   "change_pct": -0.2438,
+   "primary": 0.2047,
+   "prev": 0.2046,
+   "change": 0.0001,
+   "change_pct": 0.0489,
    "history": [
     [
      "2025-09-02",
@@ -3271,23 +3279,27 @@
     [
      "2026-10-06",
      0.2046
+    ],
+    [
+     "2026-10-07",
+     0.2047
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-10-06",
-   "cash_buy": 34.92,
-   "cash_sell": 36.26,
-   "spot_buy": 35.54,
-   "spot_sell": 35.94,
+   "date": "2026-10-07",
+   "cash_buy": 34.78,
+   "cash_sell": 36.12,
+   "spot_buy": 35.4,
+   "spot_sell": 35.8,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 36.26,
-   "prev": 36.1,
-   "change": 0.16,
-   "change_pct": 0.4432,
+   "primary": 36.12,
+   "prev": 36.26,
+   "change": -0.14,
+   "change_pct": -0.3861,
    "history": [
     [
      "2025-09-02",
@@ -4360,13 +4372,17 @@
     [
      "2026-10-06",
      36.26
+    ],
+    [
+     "2026-10-07",
+     36.12
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-10-06",
+   "date": "2026-10-07",
    "cash_buy": 0.001,
    "cash_sell": 0.00141,
    "spot_buy": null,
@@ -5449,23 +5465,27 @@
     [
      "2026-10-06",
      0.00141
+    ],
+    [
+     "2026-10-07",
+     0.00141
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-10-06",
+   "date": "2026-10-07",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.878,
-   "spot_sell": 1.958,
+   "spot_buy": 1.873,
+   "spot_sell": 1.953,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 1.958,
-   "prev": 1.943,
-   "change": 0.015,
-   "change_pct": 0.772,
+   "primary": 1.953,
+   "prev": 1.958,
+   "change": -0.005,
+   "change_pct": -0.2554,
    "history": [
     [
      "2025-09-02",
@@ -6538,6 +6558,10 @@
     [
      "2026-10-06",
      1.958
+    ],
+    [
+     "2026-10-07",
+     1.953
     ]
    ]
   }
