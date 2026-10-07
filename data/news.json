@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-07T23:46:49+08:00",
+ "fetched_at": "2026-10-08T01:33:08+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -41,6 +41,15 @@
    ]
   },
   {
+   "title": "重製未來RECODE 2050時尚秀演繹臺灣紡織創新與永續| 樂活情報",
+   "source": "中央社好生活",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZQXk1UmJTeHNkRlZ1WkwzUVo3UWtFczQ3bS04WC1nWlhzdDlMekpidFBCZXN3azAtbTZRWDROdUhQQjNiTXBiTVlQb1ZyVVhOaEJ3MTdYRlR1R1dLckE?oc=5",
+   "date": "2026-10-07 19:21",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sT3IxTi1kQTdsbEpaejd2ZjF2YWdHNnZ0aUxqazlobGZzME9LVTVzQ1BZRmtteWkydFZSdG9ZbHBXdl9HZzRFZmk5R2VpSUFGNXlGdEF2dmpibFVqTnNmbE5xREhNd2luaFU2LTZ6ZUlQLVRtRUE?oc=5",
@@ -60,18 +69,18 @@
    ]
   },
   {
-   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
+   "title": "台北紡織展產發署主題館首度亮相 17家業者展現紡織轉型",
+   "source": "蕃新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5dlQ4MGRQaGJTd1lCRDE3bVRpczhueHVtcXNndFhOM3N5Vld2Q0U2NU1OcGcwekhQY0p0amJSRzBBQ1ppaUZTckxaSEktVXJKakE?oc=5",
    "date": "2026-10-07 15:02",
    "cats": [
     "market"
    ]
   },
   {
-   "title": "台北紡織展產發署主題館首度亮相 17家業者展現紡織轉型",
-   "source": "報新聞",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQb3FQakNPMGgzbFNROXZrVGlMRVZGUUh5aEVTRlpHSzhyVjdkTURrTzUzaTE2cVBPTlozU1AxNWl5YjNMakg0WWtNMVl5cklzbEI2MlJJa2xOcmhGbHpWaTc3TmVoNk80TzlLNXc1UUVXS1g1TTM4V2pLM2hwQVFpdFdqMUFpODJXNzRvUzFlam12eFRjRzdXd3J4bGF5SkJvZTEwUjA2Yzk4VlAyVEN6eUpWU094NUttWkpQdzROc085MUE3UHp6T3hxWm92OG11RkFtRGwyenZuSVFuWFRhQXRoNk84TGltLWhSZjdJdlphSXFhaHN2RGxPdTlvV2h0WEFFb0laaVdkalVDcmpqQlBveGZTZHhRcTlmZjN5T3lHaHdDanFCMElfbUctQkxqVUFmSjVma2tzcDJlc1RxZnRwSmk4dldEVTdiYkpzYU05OHZwdzRqYXR4TkJmUVBuZ2hRRVVHdS1ydw?oc=5",
+   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44V3RpdENpZ2Fremx6RGtMSWpQS0t6TDZHOG9fREZMSHJnSHgydEdwa09tbHU3b0pNa0ctTGcyXzBFWkVUeG51QWloNA?oc=5",
    "date": "2026-10-07 15:02",
    "cats": [
     "market"
@@ -107,9 +116,9 @@
    ]
   },
   {
-   "title": "重製未來RECODE 2050時尚秀 31家紡織業者攜手6大設計師品牌48套作品演繹臺灣紡織創新與永續",
-   "source": "蕃新聞",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ub0dacV9tTTA5YV93Ym5obzAxUk4yYnlfYnZ2SlBReVFObFhLSXpDUExtckNYS0JONzhIUGphTF9hS2sxbnRKNTYwUVZhRGQ5YUE?oc=5",
+   "title": "重製未來 RECODE 2050時尚秀 31家紡織業者攜手6大設計師品牌 48套作品演繹臺灣紡織創新與永續",
+   "source": "新頭條",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcjJ1SU81c3paOEtsX0xqSnFKN3hxOHZUX01aSDZ6ZXlGMW9hVjZFZ0VELTdELXpzMHlBeGpyenZvdklsT2ZSYkpmakVhazFGaVNwRQ?oc=5",
    "date": "2026-10-07 13:06",
    "cats": [
     "market",
@@ -269,15 +278,6 @@
    "source": "CMoney",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NUWhKMkhJTHhmM1NuNFVJQUk3Q2FnLURBUC03TjBnTEN5VkRaTkZhb0JJY3B5M3RDY3k0M3ZEMldZdUg2N2JCbmZVN1lIOG9vLU9DSEZVR0U?oc=5",
    "date": "2026-10-06 14:05",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "福懋總經理李敏章示警紡織景氣：明年不會更差、但好轉也難| 產業綜合| 產經",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qUnJkMTA5aVNQZTd3Z1JPZDZzdENwWEdYREptbmFpc2JqLTN6aW5sRDNVN3FPeUxHSnE3d09nTHFBS0Ztd2U2LUpGUktFdUIt?oc=5",
-   "date": "2026-10-06 13:52",
    "cats": [
     "market"
    ]
@@ -461,7 +461,7 @@
   {
    "title": "紡織展明登場　南亞聚焦3機能纖維　今股價衝上286元漲停寫新高",
    "source": "NOWnews今日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QMVVZOVpqcnk2Xy1fRXF4Sms0cnV4Q3kyeE1HRFBQOGhpQmhuZ0EtQnNYdVNFRXhnaXk2UU9jNmV6MlhsODBfLVQwWFrSAVJBVV95cUxOb2JVUW9qZWFsWDM2Uld0RGxUQ2VKWmFzNU5qTGlrS24zN0hCTjRDSmhjTWVTZFY3NzdxX2VneERHREZYaDhJcXdMOVZ6RXpDTWtR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYlVRb2plYWxYMzZSV3REbFRDZUpaYXM1TmpMaWtLbjM3SEJONENKaGNNZVNkVjc3N3FfZWd4REdERlhoOElxd0w5VnpFekNNa1HSAVJBVV95cUxOb2JVUW9qZWFsWDM2Uld0RGxUQ2VKWmFzNU5qTGlrS24zN0hCTjRDSmhjTWVTZFY3NzdxX2VneERHREZYaDhJcXdMOVZ6RXpDTWtR?oc=5",
    "date": "2026-10-05 12:31",
    "cats": [
     "stock",

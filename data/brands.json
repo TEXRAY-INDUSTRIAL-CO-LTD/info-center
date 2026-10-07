@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-07T23:46:52+08:00",
+ "fetched_at": "2026-10-08T01:33:11+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,16 @@
  ],
  "items": [
   {
+   "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
+   "source": "https://www.kiks.com.tw/",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
+   "date": "2026-10-08 01:10",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "The 10+ Best Prime Day EDC and Travel Bag Sales from The North Face, Osprey, Bellroy and More",
    "source": "Gear Patrol",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzRzWXJGT2ptVWFkbDJfNWFXVEkyZVZsY1FIdkJwNnp4WTliQ3VYUFlPcDZueXo3NVkzcGhWdTZ0MUl1UlYyU2daWVo0b1g5cG9YZlg1U0Y4MkdaRmQxblRULXV5bHcwWEthNl9MbVMtTEI4WmNfalQ2b2ZwdThPZ0RmNkhNUGs?oc=5",
@@ -208,10 +218,10 @@
    "region": "apac"
   },
   {
-   "title": "Puma: Anta Sports completes acquisition of a 29.06% stake and becomes the group’s largest shareholder",
-   "source": "FashionNetwork USA",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWpIUEpzV3pycGlvUURsWjJueXRZR0dtQ0JxUmN6TkVtb2pBSHNScnotVFFYYkVrU3RGVE1zdFV3VVBSZWR3cnAzclZkRHlrUXIxcmc1UG9EWnBZcUpHRkNRNGItRDV0WjE4OVdLRlNvMVZPTGNwUDNYSTVubTdsdXlOQ3l3R2lsdUR0QzR0dHNsOEd5Vmt4ZndvVi1oNGVpazRFLWFjdFo1RHlKaF85a3RhSVFkNk1id2JCMHNJZ250SnYtNXhCTjhRVENIc1hJdjlEYlpTT0QzWGltZ01VZA?oc=5",
-   "date": "2026-10-07 20:48",
+   "title": "Anta Sports Acquires Nearly 30% Stake in Puma for NT$54 Billion, Becoming Largest Shareholder",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01S2p1c3lRVDhPVnprYTVDOVM3VDZSemNnWUFfZW0wbnV5RnZJdjB5ang0clYzN3l5eTQyX2NLRHpWNE5NMXdMNjYwTEF3T3hTcjhyclBlSUItUExiU1M5ajZvbkJrZlVLaEI5c2Q5SEdLSVYwcUE?oc=5",
+   "date": "2026-10-07 20:35",
    "lang": "en",
    "brand": "anta",
    "brand_name": "Anta",
@@ -231,30 +241,20 @@
    "title": "安踏體育(02020)：完成收購PUMA SE的29.06%股權 作者 智通財經",
    "source": "Investing.com 香港 - 股市報價& 財經新聞",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vNGJGTjVlNmNMeEk0OUtfVEZlcXY2Q3FMakFLVDhxbkJIQU5fa29kRmRPbzZGSmtxYk1pWmNYQlZXWExxWlFScWsySFdmMjhiSnBCTURDNWNWU1pUQlJVRVRYQmthV3Vja3pDajV2cGg?oc=5",
-   "date": "2026-10-07 19:26",
+   "date": "2026-10-07 19:39",
    "lang": "zh",
    "brand": "puma",
    "brand_name": "Puma",
    "region": "europe"
   },
   {
-   "title": "Decathlon moves into four more MediaMarkt stores",
+   "title": "Decathlon Germany moves into four more MediaMarkt stores",
    "source": "Sporting Goods Intelligence Europe",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzVpc3pWODZySUMzQ0k2R0pjMzRCZFNnSlE5UHozYWtoZ0M1OUQzTVFNaEhubVlNMUNmeEhvYnhpZ0RlaTFTS3R6WXVUakVYYXl5Mlpqb1RqMkJuUXhYZHA1ZGZudVJXT2hDQjVCSmxJVWszZTVuSFQzTUZHRGVIRHIzWHJLNUl1NWVBaklWejk1Nm8zRmotQkIyc1M?oc=5",
-   "date": "2026-10-07 18:07",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenhGWk1UdmRiS3JjVklPQTl1YVQ4cFBZQmVsMlBPODVJZ1k4TTVqSUdmZXA3bUZubjRsSGNFSW1jRTNHSEpiOTlIMVoxT25LODVyYWdRZmkzYklqMGFuVzd5RmJPdWZ2bmxiWmY2U0pwN0JQZGl0dDZRalNDSjlwQ3BWb3FzbDNwVlJYVXBZXzF0RUk3cEJrMUpmS2RoWTNyUklEdGVlOA?oc=5",
+   "date": "2026-10-07 19:21",
    "lang": "en",
    "brand": "decathlon",
    "brand_name": "Decathlon",
-   "region": "europe"
-  },
-  {
-   "title": "Burberry Group Fell While It Turned A Profit",
-   "source": "Simply Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnIzekF6ek9YZzhHVFVNcXplcTVzbElmdFhKSHhJdl9LdzB1X3BWamNVbmxvd05ta3dFZnN4dVoxVEpMQkM3OG9pMTk3ODVuMWl6cWd4Ul85R2pFUFRpTUFOVWg1YTkzNURzNHdWQUJXTjZab0JKRVR5SV9vV0xaNG5CZW9acDd2MDhGVnJWWTdjUE1LWlpaNTQtdDFzdG5HeEFfMVlhaUpWSHFIRDhKOWVqV2pCeTVvT0VEMnFfa3hCMVhhZG55RmxR0gHPAUFVX3lxTE5NSmRwQ2xja0RHdDc3VWRkeWRlZXdkZS1ub3ZiclUwcks3c09nbEl3UU15bDZOeHJJQnR1c0tfd1llSThLN0RqenJpY1RLZDZiMUVoYlZZdUFCTHk2VzlhOFZKMTlsb3pMTmxwQjI0UF81cmJXdUxrNll2Zk9SZWZPdFFVSEJvM1kwQVh2S25TcTV1a2EtNVloVFZfcXJsTE1fbU1VU2ZubWhGMWJxM1F6d1hUTXY0cllib05Zd3JwSGtMcU1MZGMwcE00UXZtYw?oc=5",
-   "date": "2026-10-07 18:00",
-   "lang": "en",
-   "brand": "burberry",
-   "brand_name": "Burberry",
    "region": "europe"
   },
   {
@@ -286,16 +286,6 @@
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
-  },
-  {
-   "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
-   "source": "https://www.kiks.com.tw/",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
-   "date": "2026-10-07 08:47",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "儒鴻淡季不淡！NIKE業績衰退沒在怕靠神祕「小巨人」爆單營運季季高",
