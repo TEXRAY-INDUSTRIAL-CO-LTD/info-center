@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-07T00:56:10+08:00",
+ "fetched_at": "2026-10-07T15:18:56+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,29 +158,69 @@
  ],
  "items": [
   {
-   "title": "Nike’s Restructuring Raises Questions About Layoff Uncertainty",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0NLQXR3VEdVdmhKc2NaUlJ4NUtlTEY5YUhTR0UyRk9ueVhhRV9KTFVZRmJhTjNhaWRQdWh5TmZOS0JzdEtuSzhoZ2lYUFdfUy1pZlFhV0lheTY0cXVOMjF0NnNzZS1IVk1TNHNFWXNvQlp4VGZOeEpYZUZhZ2J3UGk4ZmtsaFZnMkVfVVdLRlpHNjBUdTA5bW15UnJ6bXZUMmpNX3RWeW9FdFlSZ1dDdkc2VXFVOUdz?oc=5",
-   "date": "2026-10-07 00:22",
+   "title": "Mike Ashley’s Frasers Group Acquires 8.8% Stake in Under Armour",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNktlOGo3bGtHeTdCcWVMTWpCMXVaelB3dmNiS3NFaHp0dWRNVW1rZThwdnBkSGFJN3FPeU1iUUl0SWtWZUo4WTJHY0FXSXVtdEFkRzc4ZlgtdV9XeVdvT1RBYXQzM1B3MDZJN3RpcG9qdjFYLVIxVjNzckN3blYxNktaLVVhQ0xjVFhwZFBqUlBFZU4tZ1FuaDY0RGJKcmRPMFRiN24tbjVxSm11MWZ1UndfMA?oc=5",
+   "date": "2026-10-07 14:55",
    "lang": "en",
+   "brand": "underarmour",
+   "brand_name": "Under Armour",
+   "region": "americas"
+  },
+  {
+   "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
+   "source": "https://www.kiks.com.tw/",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
+   "date": "2026-10-07 08:47",
+   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
+   "title": "Ryohin Keikaku stock gains 1.11 percent as MUJI sales grow",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVI5a0NMbzI4TWZWMk9Sbkx1YWF4d3ZzdC03VmNUdHVGMm9mbjNBNlRYSU1vTWdlUlJoYzZyTjFubUdyZ3JnYmtJTWdGOWxyZ1ZuUHVkOHk5bmtweVQzRmxJdnFuVUc3d3JBUmprb0RJTDNEOHRDRm16NXJfZ3YyMmpyZVRYX2QybmpHcXBHSWdUcFlhMnFqZkp1anAyQVJsbDJVUzFNMGRzT2d4SVFjU1pjaEdBRFoy?oc=5",
+   "date": "2026-10-07 07:41",
+   "lang": "en",
+   "brand": "muji",
+   "brand_name": "MUJI",
+   "region": "apac"
+  },
+  {
    "title": "The best October Prime Day shoe deals are live — shop sales on favorite styles from Adidas, Skechers, New Balance and more",
    "source": "Yahoo",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNR2dsWW9pTFczckZIOWJEVmVlbEY2TmZXXzFZcmhPR25NcGFkbnF5NHhOMzNqS1Z2SVgzc0VKUXliVDh2QWdjcTl3a1Y5RFZqYTI5QkFLSy1Yd3Z2QkdNcmZEY25CYzdfOTd1N2FLNldGRFdld0xFX1k5REk3b0xCbDdZWXVqbEdTbjlTOFVCQVpWRUVCd3ZRa1N3Zk9jTDZvemw4V19ZOEozb3ZMZlREZVNOYm5sWW04YTRENzNNRmZpWWZHUVpRQ2Z3d2E3czRoWW5GMXpITk5xa2xUUWFqN2otWU9POGZIVmtaUGRBVkhfb0J3MV9lcFZkRU9zVzgybGVWSEstcGxlOHVuQmFHalRVdEZQY0Ft?oc=5",
-   "date": "2026-10-07 00:11",
+   "date": "2026-10-07 07:10",
    "lang": "en",
    "brand": "adidas",
    "brand_name": "Adidas",
    "region": "europe"
   },
   {
+   "title": "NIKE (NKE) Could Be 6% Undervalued After Its Fiscal 2027 Revenue Warning",
+   "source": "Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDc3c1FscGxNVEFTZFh4X3BHWXM1R3hGYWwwWkZkM3BVdURLVFExUjZISnd4ajhhdEk0Mi1SWElYMVFXcHZMWmd4NFRLSzBBdjh3YkhuWXVwcG5nS3J1RHNIdk5PSXRMVVVZeHZEZExwakhsR2gzM0RPT0R6SGJ4aE5lTE9hRVJJaGRDRWlFM0pHSm80M1J5WTNhZkx1ZU1GQnJXOGtRZm11dVZ1VXFBV0p1V0szMGtmSlliRl92eGI2U0xaVkFzX9IBzgFBVV95cUxOT3o1WXpocnB1a3FwdWUza3ZSRHc2VEFsQkgybVhfclo2UXlma0tHRmlVR2ZCMm5wTEZ2S0VMTWVpRFE3Y2RkaGpoMkRTY3JodGZBbmZBcUtwdjZ4ZEE5bDhhc25halRGVjhJQkdFXzZudUdWRERtdHhIQ3VjS1RETFFDOVhWRTZSa0xETnNNamtZUjc1bzlyWVQxaTRMZWxhMEt3YVN4dmZiZmY3clJpQ0lkSG5LUWx5eGtRN2NVLUswbHptemR6Ny1JbU5tUQ?oc=5",
+   "date": "2026-10-07 06:34",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "儒鴻淡季不淡！NIKE業績衰退沒在怕靠神祕「小巨人」爆單營運季季高",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RZnVZQzFUSHlaLWFKRDZFX1c5VkpZbmZBdTlVekVyUVU2THZtOFZnMHRaY2UzVkpaYjRycTI2SUJWblJGTGUzMHp4V2xYN3cwaUZBZnJQREF5SVdBdG5Z?oc=5",
+   "date": "2026-10-07 03:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Sozzi talks SpaceX, takes a look at Nike, and chats with the Conference Board CEO",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080RXJMem9EYnhiSHAwRjZuUWRPeTlFdkdqN1dtQ1JONnNZTVY5U2JFMkctRmpoYk1sU1pGdjR3RDk4TUNQV2JSN1BHaHBkSmgySlhLSElnaUM1YkRXQ3RsMWx5MlJ5SjQ0X3AyNm5vWWlJREYzcnQ4bDV6X2loOTVDQ1F3VXRXQ0lxMktPOXN4YzdWWC1BS2p2eE1zQXlLazNUZHhpdlQ3U01ja0pPT0tRNUN2bm1BS2pHVHVWMWZaV2lI?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQW1XTE9OMHBOdEpRbFFrSWs4RlRHdUtVMlQ5T0RzTXNEMFJRUXViaEs3NjNsWUZVdmFrOUY1LW9KM3JpV0k2bERDcXFHNVRQak0tZFpMcUdsTkFJQWVfUVYwUlBuZHNjQjBndnhBUFdUZmVrdVk1U1hZYVNYMWhaLVZ3?oc=5",
    "date": "2026-10-06 22:51",
    "lang": "en",
    "brand": "nike",
@@ -208,36 +248,6 @@
    "region": "americas"
   },
   {
-   "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
-   "source": "https://www.kiks.com.tw/",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
-   "date": "2026-10-06 20:47",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Frasers Group acquires 8.78% of Under Armour's Class A stock",
-   "source": "Sporting Goods Intelligence Europe",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUhwLV9Va2QzX1pzb1BBSzV6b0t6dzBBaHJEOEdGWWdiay1Ndk9SU2h4UWJER040ZW5STFBsV2IyWUpaeGpIQXFyWGhaNzBKZ29YdkpYZlBBN0pxNU1PdXBDeUtjbWFveDc2YUhRaTRBbmFvOHhEU0wxckZaZHBsdlNWdndMOThNQi0yODRKQzFpMjVsT01GTmd3TVlZMjNyYThTTklDQ2lnUjg3ZlE?oc=5",
-   "date": "2026-10-06 18:16",
-   "lang": "en",
-   "brand": "underarmour",
-   "brand_name": "Under Armour",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon Athletica Stock Extends A 9-Day Losing Streak To A 10% Loss",
-   "source": "Trefis",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUlZMVVoTnllam0wY3ZoaXFDRF9GSlB3V01CUUI3TTl4UDM2M3ZjZ0JWazNKT3JnRl9FNHJyNUJDTklvWlVnMmU0bHpId1RDTEJLZG9LTkhuc0htd1lrdWJKTjE1Qk14MTVPcWtVZ1UzaHE0aTdXYldGUnNHN2pxVFR0YU1CNlVYR1pGMno1X0lvcEJQdEYxdG9zYWJ1X3gyZk50bEpSUzNTSmV0S01zTnI5WFRBQ1pock9QT1c1R1huRnM2MUlsNQ?oc=5",
-   "date": "2026-10-06 14:10",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "‘The Big Short’ Investor Michael Burry Justifies Lululemon Tax-Loss Sale: ‘I Am Not Throwing In The Towel’",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckZfMlR2U1lGNTVBaVhVTFBBMU9IdkNsYmwyYnZWTU1uZmNtdjN1RVJ5eTV4OE5vdV9sNWhoY0hMdTRUWmFQZjdUMi1wZW15SVE4TDg5NzA1cmNvNWR4NGE3T2VwYTNaRmY2c2t2Q0ZGU3VpSzZqXzhfeXFzLUlPSzhDQlhtSGdBd2dnRDdmVzZXcG5rMXM4Nk91YUxOUQ?oc=5",
@@ -245,6 +255,16 @@
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Nike仍是儒鴻大客戶！董座王樹文：訂單沒衰退很多 第四季營收續拚新高",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNNHNTT2dtS2p6SEp4ZlBRLWRFTHhYSHVic0ZZbU5GMGFkRXg0R1RFOHJCT1U3N0txYUwyYmZvek1zRW16dkdBR1FMczVqc0c2NUE0N1BzS0hER3NyRmRqWVNUcE1ORnN6LXVDc0ROMlBFbHhjeHBRRU9oUW1UVE5vaE13cHQxSTl3WXBNdUQ4ZHlSMVhudDJCUm5nY1FrXzNRQWZJcnlCZWZyYmhIakE1Y0FlcTZ2Z2E1bVpMMVN6Q2NTbmJ5VXpNZ1ZsUjBaVVVzWHM0dnEwUVNuSHJkNVViSk43amJjU0xDWGtnQVdhVHN2MGo4djRnelg0VUpFdTVfZU5KVnMyZGQwNDlzenY2STFzaTE0SWxSMDFpWnQwVFpnWGxQRl9fWmREVGhBOExGVFdRRVhWb1dmTWVFaC1OSVdIZFQ1anE0VXJtR3NjREUxNmNMU21yUUZJQ2hrRlVhZThSMTV0allYeHNYb0gyZGVzV2ZaRUVSVEg5TFpNQ3h1ekoxalE2dzlEa2ZZVVZTQlUtMWVkLVozc1E4d090MTZvSjh0azZFRUY2TnhWemVhYjRNNXNPbXU2WVZ4UVUzSmRNbWl3QzR0dw?oc=5",
+   "date": "2026-10-06 13:32",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -256,16 +276,6 @@
    "brand": "asics",
    "brand_name": "Asics",
    "region": "apac"
-  },
-  {
-   "title": "UK retail conglomerate acquires minority stake in Under Armour",
-   "source": "The Derrick",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSHREeXBQd2k3Z0xJeEQ0ZDdZcTFLWlNkYUtycExHeEpZS3VXY2lHVU9TR1NKMmhhMnN6Q21fXzk5SldkU0lGemwtVVEtM2ZEQW40aE9EeFpaMXphR0lZZHVIU3pRSmloVDQ4NUZSNF9UMFh4LWxyUVctUWlZX3dNaWRkaVNLeFNHWko5b0lEcFJ0Y20tdDNzb0pnMzVjZVpNM0ljZmVvbjVwWDMxa3pVUVg0eEJnZUZuOWw1SlZXZlhPVXBsMXZKTmloRU12ZkswLTVhSGdRa3BmWkt1ZG9OazcweEE5Y3VtZFlMWnQ4bw?oc=5",
-   "date": "2026-10-06 10:52",
-   "lang": "en",
-   "brand": "underarmour",
-   "brand_name": "Under Armour",
-   "region": "americas"
   },
   {
    "title": "美股異動｜耐克跌3.2%，標普下調其信用評級至A，展望“負面”",
@@ -368,6 +378,16 @@
    "region": "americas"
   },
   {
+   "title": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVpxckI4Y1lPNGU0eUxDdXgwcmt2d0VpejEzaDJhR1VMemFjd2lNZ0NvZURKUlMwb2JVNGprRVRucDZmRWxWZlB0eUpWWUtONGRNVHE2ZkZLNmd5YzlGWG5XdjctUk84QnV0cnltN2nSAXBBVV95cUxQX3c0SFhWdjZtMlJqMkc1SHBScE5NRmR0U1E5MUU5MURkNGoybzVBUXZFakNnZndjTUFQSldhNzlSTlZ3SWhMZ292YmdtYjBXTHI2bkxRMmVrY3FHOUlUTGNFVk1YZ3UtN0xZYllfYnVQ?oc=5",
+   "date": "2026-10-03 06:02",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
    "title": "台灣、中國不買Nike了？大中華區本季營收重挫22% 公司預告將裁員 | 蕭宥宸",
    "source": "Storm.mg",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MamJsNVJ6RU83RDAyeDl6T1VoZ28wOGZDOUJLX0ZpSVVWbDhCWFNVZXZEUzNWcDkwSTNPeDFrZy1ldkNWbzZrUHd3cVFwdw?oc=5",
@@ -388,33 +408,23 @@
    "region": "americas"
   },
   {
-   "title": "Nike stock misery continues after another dreadful quarter and outlook: Wall Street reacts",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUGtQdGkyRDZYeXFLcDhqcUZnSjdqWllsRUhiWVEteXBDZlM2VWZCOFRrcktZUlhERW12Y0d2ZXVablRWN1NJNDFhRG1UaFEtb0NVZVhCMWV5RkV0cmFZOU9RWGhEVkhqZFhmWnpLMXdoUEl1REhNZkZlM1pzdkhfbUp5UTNCeE5CS1JGU3FZYjRGYzZkcm9raUhQU0VUWmxDbnB2eWZtamVaekN0enFIZzBJNkpHcTdpdkVlb0lfUGtuaXlYLU45LWE3ak1KR29QS3p0QzllcUc1RktKY3lZS3o2aGdTMS1j?oc=5",
-   "date": "2026-10-02 21:35",
+   "title": "Nike's struggles test investor confidence in CEO Hill's turnaround effort",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmtjTU5zNWQ5RUQ0VHBWSlVlLWVRNTdLLWhoM0hid2RBTkVRWm5oV2ZjR21BN2pKT0N6Ml94TzlRZ0tlX19USmZsNGhROW5pckgxUXZGOURXRDNEMnpPUW9ld0tCeG0wQVpRUzZzSkV4ZVhpWTU1NkpSZVZoUG94dEtQbDc0dzY5c2ZWTE9ac213WnR0Y0F4UHZNMUx1dmtpa2JSam9JLXMySHNweTQxWGVPQXVLcmhudWgtdGdmOGVTek5ydW93Sg?oc=5",
+   "date": "2026-10-02 21:46",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVpxckI4Y1lPNGU0eUxDdXgwcmt2d0VpejEzaDJhR1VMemFjd2lNZ0NvZURKUlMwb2JVNGprRVRucDZmRWxWZlB0eUpWWUtONGRNVHE2ZkZLNmd5YzlGWG5XdjctUk84QnV0cnltN2nSAXBBVV95cUxQX3c0SFhWdjZtMlJqMkc1SHBScE5NRmR0U1E5MUU5MURkNGoybzVBUXZFakNnZndjTUFQSldhNzlSTlZ3SWhMZ292YmdtYjBXTHI2bkxRMmVrY3FHOUlUTGNFVk1YZ3UtN0xZYllfYnVQ?oc=5",
-   "date": "2026-10-01 20:00",
+   "title": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE9JeTIxdm1kT2d4MVlWZGZZT0h3ZU1XV2FYVUF3SDZ2OFVISU9xVjVfdHBfYUJ1Z2l4LUdYVVlxeWdteEtFMTRGdGxUMkpfUUk2dVU3d01uV0NSLUtLUmYtWnhTSjgxZmhDRDZ6TFBSUkFwZ29GTUpaQkxBR3NsRlZEY2ZIUFBCU1pPTlVTb1VaU0xiUktueVp1b19BMjRRUkptZUk2RVkwNDBILXFic3gxVXFqRy1HTWZyNFR3?oc=5",
+   "date": "2026-10-02 09:26",
    "lang": "en",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Shein warns tariff, shipping turmoil will persist as Europe sales slide after price hikes",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUJCRzEzR0R0QkJKWFlFRkRNcTRVczBZYTBfY1lQVHJrSUZJVGtNLXVvS0NmV3doeDllSWt2WGdWRV9OZnIwLXFReEFIVXZVZ0dCTmF0dDNWVlRVcEVUOF9Oa0xuS0ktUW1lbjAwWGdmY0tXQVlpU3dfLXJ4WkwzUTR5eVQ2VkNUWDNjQXU4T2Y4T2FfbEpicWlscDlMOENIWFE?oc=5",
-   "date": "2026-10-01 11:56",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
    "region": "apac"
   },
   {
@@ -493,16 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWx2YncxT1c1R0tGS0Z0czVLX1U4MnVMU3BkZ0NpTWtDZ0oxR2M3dTd4MkhlUEFHNnRVWTQzQ1VkbGhVeUVvM0s0ZHNqN2t3dXdrekszMDlabm4wSDNHemZmTE9LRTBrS0x4TUlaYmhVeElmN3dQWVRaQkx5RUN5VFByNA?oc=5",
    "date": "2026-09-10 15:00",
    "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "Zara owner Inditex reports profit miss despite strong August sales",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTNzY2RWM0R5Rm5xekRYNWN6eVA4cWRIUHdwWEpIeUQ4bHJNd0RtOFRKR1lEeWF0Y3gtS2hEcGpuR2l2akN4THlFX1NlNDNSVVotVDNEZms5VzZhbjQwNnpJZUdLcWtQdHZ2ckFkY0lUTGZqRDJkeTVCVnhnNHp6ZkxiMzVRS0FlSDRYNnBMcTNQY3FRbEo0RHkwVG9NTVg3MW1CUGR5bWVMQ0owQzZQZFBXTDhwY09EclNfOHhNREQzdw?oc=5",
-   "date": "2026-09-09 15:00",
-   "lang": "en",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
