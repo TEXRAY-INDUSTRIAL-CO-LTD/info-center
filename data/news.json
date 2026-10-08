@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-08T15:30:00+08:00",
+ "fetched_at": "2026-10-08T23:52:10+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,24 @@
   }
  ],
  "items": [
+  {
+   "title": "安能聚亮相台北紡織展TITAS 再生碳纖維從回收到商品化",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHE2b1pqbURkT3c4UHdURElvTXRNQ3ZMdDlBY1FTQV9XMzVibWRCd1JwZUZBUWNHWVV3a2lYcXdRSzgtNXl1bUtwVWhQN3daUzFzeC11THo4Zw?oc=5",
+   "date": "2026-10-08 17:42",
+   "cats": [
+    "green"
+   ]
+  },
+  {
+   "title": "個股：成衣客戶出貨延後，光隆9月業績銳減，惟Q3仍維持年增，Q4估淡季不淡",
+   "source": "富聯網",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnk4U0d0NGpDWmxSUk9HRVlDaTBKdmpqWVFUczMxekVSRzZVbkdzdEFWVjUxSTl3QUdiUzNYa3JZTmM3MGpid1hQcWtzOE9xbEEwUnRiVXJPNlVhOTBaSU56TkNJREstTTlFa1VIcHo2M2x4RWkzNWVIX3I1RTVRMER3dTNyM3Rl?oc=5",
+   "date": "2026-10-08 15:22",
+   "cats": [
+    "market"
+   ]
+  },
   {
    "title": "徐旭東3天兩度露面 125億醫療園區與紡織轉型受矚",
    "source": "民報",
@@ -79,7 +97,7 @@
   {
    "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
    "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sT3IxTi1kQTdsbEpaejd2ZjF2YWdHNnZ0aUxqazlobGZzME9LVTVzQ1BZRmtteWkydFZSdG9ZbHBXdl9HZzRFZmk5R2VpSUFGNXlGdEF2dmpibFVqTnNmbE5xREhNd2luaFU2LTZ6ZUlQLVRtRUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16dDAtYUo0YW9KQWU4VzlyeGtwOVpELVoyaEszU0psMWtzV3kyYU1iVlcwVXNxak5UNGhxU2Zsb1hzQmFwSmtXX3N4S0ZpMV9Y?oc=5",
    "date": "2026-10-07 16:00",
    "cats": [
     "market",
@@ -96,18 +114,18 @@
    ]
   },
   {
-   "title": "台北紡織展產發署主題館首度亮相 17家業者展現紡織轉型",
-   "source": "蕃新聞",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5dlQ4MGRQaGJTd1lCRDE3bVRpczhueHVtcXNndFhOM3N5Vld2Q0U2NU1OcGcwekhQY0p0amJSRzBBQ1ppaUZTckxaSEktVXJKakE?oc=5",
+   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
    "date": "2026-10-07 15:02",
    "cats": [
     "market"
    ]
   },
   {
-   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
+   "title": "台北紡織展產發署主題館首度亮相 17家業者展現紡織轉型",
+   "source": "報新聞",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQb3FQakNPMGgzbFNROXZrVGlMRVZGUUh5aEVTRlpHSzhyVjdkTURrTzUzaTE2cVBPTlozU1AxNWl5YjNMakg0WWtNMVl5cklzbEI2MlJJa2xOcmhGbHpWaTc3TmVoNk80TzlLNXc1UUVXS1g1TTM4V2pLM2hwQVFpdFdqMUFpODJXNzRvUzFlam12eFRjRzdXd3J4bGF5SkJvZTEwUjA2Yzk4VlAyVEN6eUpWU094NUttWkpQdzROc085MUE3UHp6T3hxWm92OG11RkFtRGwyenZuSVFuWFRhQXRoNk84TGltLWhSZjdJdlphSXFhaHN2RGxPdTlvV2h0WEFFb0laaVdkalVDcmpqQlBveGZTZHhRcTlmZjN5T3lHaHdDanFCMElfbUctQkxqVUFmSjVma2tzcDJlc1RxZnRwSmk4dldEVTdiYkpzYU05OHZwdzRqYXR4TkJmUVBuZ2hRRVVHdS1ydw?oc=5",
    "date": "2026-10-07 15:02",
    "cats": [
     "market"
@@ -126,8 +144,8 @@
   },
   {
    "title": "王文淵現身台北紡織展 台塑集團總裁吳嘉昭：石化景氣明年有望改善",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50aUZ0VGtaNkphM3otWlg5VFBYWE9uc29FX2RpODdpVkZfSlpjc2RCNFdBWEZ0cHM4ekw1M0Z2Qy1udEhqSjMwT285ZndlNnB1Z2ZlRXZR0gFWQVVfeXFMTnRpRnRUa1o2SmEzei1aWDlUUFhYT25zb0VfZGk4N2lWRl9KWmNzZEI0V0FYRnRwczh6TDUzRnZDLW50SGpKMzBPbzlmd2U2cHVnZmVFdlE?oc=5",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFBhTmNxZERoRXh5STdiTWEtak1oenhZaXJLa1ltRks1ZUVOQ3FaSkRNdXBjUGRmMmFpTzdldWxCOGRPMzdWNHNSeXI2cm5HUHN0M3NjdUlfRk04S1BQd3FIdUE5ZkJmZ3VfazA1dTNBSTY3VDRGay1JQ085U2pJRNIBX0FVX3lxTFAwTEktdDhUVldEZ256RGNVR0ZRZmF5OWxpVzlDVEVjNTRKa2h1dmJWY2Fzdnd2V1JfN2ZQc1J2VGdrMFlUWjJOXy1nVmFOTVA2U0JNcUVoSU8xU01UeFhN?oc=5",
    "date": "2026-10-07 14:28",
    "cats": [
     "market"
@@ -178,15 +196,6 @@
    "cats": [
     "market",
     "green"
-   ]
-  },
-  {
-   "title": "萬鋒電機參展2026台北紡織展 聚焦跨產業倉儲式染料自動化與智慧製程整合 | 自動化產業",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9INENtTjdGMlprOENqY1BnN3BkRm5RYXhuek1BWjZNWGN0MUJPY3FHMzB5T1ZmZVZBZEc4T3Q5amZYQnhteG5XRVFTd0VJMkpmQTJ6S1h0UjVCQQ?oc=5",
-   "date": "2026-10-07 10:02",
-   "cats": [
-    "tech"
    ]
   },
   {
@@ -264,8 +273,8 @@
   },
   {
    "title": "經濟部技術司六法人齊聚2026台北紡織展 六項技術估帶動13億產值",
-   "source": "商傳媒",
-   "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQeFktUWtzYUJnaWF2VUtyNWVpaFU3N2pDaXZRTGNpeU1ZcHhBeXEycWsyZ1lPVW9ULXFHTXhWOExVeVJLY3pmQllhRG1Dd2Q0eVFkbUxSM0VBdGdyNUh5RkxHVW9FbHQ3M25ual9MV2owcVJ6dkp5ZmN4X0xFQUNTMmR6eUZhT0F1ckthSEJsX2VrRktkMnE0VVphOUtISTczTktpZGtDM0pjVmREWG1MOFNDV3o5SEt4WlMtUTJmd21BOXZPTW15LTNSUGRlTlJ4OGpNR3l3MnBfaWRINVlfeUU5endQN2N1RjJuU1N3VlBISktmNXhuMW94ODV3ZGprY1BTdEdDWkNIT0NIdHhScEpja3BvOGpKSFh4b2tCZWRHUklnLWtLY29tTlh0R2ppNE1PLUxQa0pSMjNfNTFIbkZuVUwwNXlrQW90Sm1DWkoyRUtyVFBlOXJaeE15bXEyMElZdkVCdklZZWtDUE9TVzk2QktmcDRNc1JBZTRaSFR2OEhQTmNyaXQtby1KaFdOWHptdVR1VEk3LVdOWG5pbnhn?oc=5",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2tUanp5ak40c25pSjlCa1MxNGZKYnNvOTRyem1ZVVJDSkRpaTRYLWlKeEhqS3M5bjZIRUwtd1BSN1dVR0pId1VFM2U4RWNJUVJvMWp1V3NTTk1TRmRtbGFzZ2N0LUl5aWRsVkplaWZYREE4SVJWZlVKblZNTk1RVnphc0lfTGVGUWRYaQ?oc=5",
    "date": "2026-10-06 18:41",
    "cats": [
     "stock"
@@ -276,6 +285,15 @@
    "source": "ETtoday財經雲",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQjBRS2szNXk3UHU0ZXNxUjBsS1RHVm9FN2FkZkZEMFBkdU1xRnZUUnZudkk4S0hvd2trTkYwT3dNV2Y2VUtQUWNBVnVmQkxPOGfSAVBBVV95cUxQVWlUbTkzam5ac3NpWjJWTWlCd2h4azdFQjZLSE9wb3B0WHJ6SEdYV1NWVmtkRG9RZF8tNkFITXphbGp0UHRzTkxvbnpLVWxuaw?oc=5",
    "date": "2026-10-06 17:32",
+   "cats": [
+    "stock"
+   ]
+  },
+  {
+   "title": "經濟部技術司六法人跨域齊聚2026台北紡織展(TITAS) 六項亮點技術 預估帶動逾13億元產值",
+   "source": "經濟部",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWJQZzZxYUxZRUk0dENSOVR6MUh0dEhsdEZrbnZnT2F5a3BnWmhGalJUVWVYYlFNR1hTTkZzUzNueGVyUlNEZnFvdFVCX3RWaUM2ZDQ3eGZSLWJGa1RFLXR6WTJhcFFHTUpJV05zZWFhZnpQZXpDQnFPMGNQLVEwVEFQcGNkZWlGYVY2eA?oc=5",
+   "date": "2026-10-06 16:15",
    "cats": [
     "stock"
    ]
@@ -293,7 +311,7 @@
   {
    "title": "南寶參展台北紡織展環保水性樹脂助攻綠色轉型",
    "source": "MoneyDJ理財網",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWxLU1Q1cDJDd0h4SXNDY3FfaHFzeTlDX2FiV0NfNFd3aDNkUUN0LUhXbUEzelZwVTdyOGM5WDg3a19xcXJxeUtwck9SeWkxU2k3Q3NFUjQxX195REZuc3ZCMll6ZzFNRWNHak51RkRQdGJIblNuZDJib3dHYnBzY1drY2t1ckhtMU12dmJjNUI3Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTVaVi03czFxNk9jWERfMmRRVXFLU2NRb0lqd2ZGREZES0g5SXkwYUpHVTF5TkwyVnkxZnphdkRiQkh4TGduOHkzOGZRaEo3ZnctdzBZcWoyOEY1ODMtTHFYMzhqTTJqeGtjbFR0dWNxMUZwamxWdWI0b3JBcTF6OFhqNmtLY2tUczVaT2hzV0ZPZw?oc=5",
    "date": "2026-10-06 15:29",
    "cats": [
     "market",
@@ -393,15 +411,6 @@
    ]
   },
   {
-   "title": "個股：南寶登台北紡織展，打造綠色轉型一站式解決方案，搶攻東南亞商機",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblc1UjN6eHZoNnJDUzZNeld3eUhhQmZsQTBUNjJSbUN6WWlMRFlSWmFEc19nZTkyWmdFOUFfVWdvUWZoWTh2eV9nMUk3NnZmdnIzVXROWnRCZzZwRVFCWmpDTmJfSEMxY05sdmpQaGZuOE9XYXhHcmhMM2RnNHo0cC1lYmJoWjJv?oc=5",
-   "date": "2026-10-06 11:21",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "南寶登場2026台北紡織展 著眼東南亞綠色商機、助業界推進永續",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42WHYwT1pCdlBQeWctWXNCX2Q3SjZuUDNtN3hCaE1XWGVvMmJRdXdIanZPMzBJdUJHYXRtMndzRW9wY0lxcHpTWVA4dlpZQlJKYVdMRG1wUFVkLU9nakJ30gFfQVVfeXFMTjZYdjBPWkJ2UFB5Zy1Zc0JfZDdKNm5QM203eEJoTVdYZW8yYlF1d0hqdk8zMEl1QkdhdG0yd3NFb3BjSXFwelNZUDh2WllCUkphV0xEbXBQVWQtT2dqQnc?oc=5",
@@ -448,10 +457,10 @@
    ]
   },
   {
-   "title": "和友紡織前瞻中心強攻產業新藍海- 產業特刊- 工商時報",
-   "source": "中時新聞網",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iVmt4T0Z5WjItNTJaZ19peThxem03QlFEWnNpSlgySWRUdHJfOXBQTzRKS2d5bjhMQnFnaEV6elBuaW9QMTJ0ZFhDRWxIOXhDYUNVaWFkek9ZNTNMZ0t1LUkzdXM2QXpiVVVN?oc=5",
-   "date": "2026-10-06 04:10",
+   "title": "和友紡織前瞻中心強攻產業新藍海",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CdEVqbEFLSlB6WXEwYmNSS1JIMnlkSVo4MVA2dGtCNjNWbGpiMVFOQjE3N1hZbk96dUM4QzRSNXBDZld6dERKbk5BUTlNVWVCSmxodV96ZS1DcTE1YnJv?oc=5",
+   "date": "2026-10-06 03:00",
    "cats": [
     "market"
    ]
@@ -617,16 +626,6 @@
    "cats": [
     "market",
     "trade"
-   ]
-  },
-  {
-   "title": "討論牆 | 機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CZUwyTTM0eWs5STBQNVlzdDFuUnFGbThSd0g2WklMUU9OdDFENFlhRUV0N1QxdFNzSTRxcHdEUUJZTm4wVUxQQ0RSZlBITEoyNVpva3BiMHJjSUwxbkRSRmd2dW4?oc=5",
-   "date": "2026-09-20 15:46",
-   "cats": [
-    "stock",
-    "tech"
    ]
   },
   {
