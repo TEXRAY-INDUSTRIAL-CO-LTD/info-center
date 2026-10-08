@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-08T23:52:13+08:00",
+ "fetched_at": "2026-10-09T01:36:25+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,13 +158,63 @@
  ],
  "items": [
   {
-   "title": "Watch PepsiCo Lowers Guidance; Levi Strauss Sales Growth Disappoints | Stock Movers",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEN0TjJqMW55eFVieWdIN3BidHJvRkRvaWZWU2otdVFibjhEMTdFRjVkbnlhZ3dYOE1BcmF2VW1qY2ZNaDJ1LTY3elpncjBvbFpJblUzdFJpanB1cWIxT0xsQUUwM01LMG9vMUpnaHBNSGRjX0ZwSlJ4VFZvc3F4TmduRWlXd1E0cDlHdVJSZndMM2ZKQ0NIM253Qmk1a0k0RkMzYVlaOA?oc=5",
-   "date": "2026-10-08 23:13",
+   "title": "Lululemon leadership overhaul: ex-Nike CEO rebuilds top team",
+   "source": "Human Resources Director",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUJtYWVSNUhXVV9lY3ExbV9JUTg1aVpoX2l1RFJPOGNIZTRDV1hTUVJFdXB5YW5ORy1teEhlOEJuS05obFFqSlg5WDZ5eWc3aXVyUHp6bEZBTzV4c1hTWVZ6QTVhSEkxVjFFLXJxY2NjaEZyZzRlLV9jR05FcXBrNTlfd1ZNNnRxVGtXQ3ROLVVWQVV2RTF3LXZZOUhZR3hUNm5hS25neXNMdlNEQ2FxVmswdDJtdjB0LXc?oc=5",
+   "date": "2026-10-09 01:30",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "NIKE's Shares Fall More Than 2% Post Q1 Earnings: What's Ahead?",
+   "source": "Zacks Investment Research",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjR5TmV2SHVld3F4eElJTWY4ekFwS3ZXd2luaUpyU1czN0pXYkFWY1d3MVNqaHNqeVVOS3NxYUdORWlsWHV6QURHajBZeGlNVXVwT3J2TmxZMjJDNUtJdzkwNS11c3hMbG04R2k3cXRDYkpFTV92cmw3UGp6Y3VITUxWY21uV25wYVFQdG92aEFjZUVNY0EtMWFsZHJVWHFh?oc=5",
+   "date": "2026-10-09 01:09",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "\"We aim to triple our revenue by 2030,\" says Muji Europe's Takuo Nagahara",
+   "source": "FashionNetwork France",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzNQMlFONzk4SGdnbUt1VTBuZmQ2YmgtRk0tTVhQXzZBNWtzN0haNnpfV1djUGlabG4yNk5peUlXZWZkR1VXR1dCVDRfV2pVQVhXSkVvZ1hudDNrcUtjQllrRFc4YmtSaTRxSHJZZ21ZZmNGdjZVU2hBTFJMUHRGRXlIbEFEOGJHYmpZd1F3ZGFOTU05eHdrZ2FNUFlheWtnaF9HTUl3bUFmaGJQdXduVEtTd0F3eVl4ZE1j?oc=5",
+   "date": "2026-10-09 00:47",
+   "lang": "en",
+   "brand": "muji",
+   "brand_name": "MUJI",
+   "region": "apac"
+  },
+  {
+   "title": "Levi Strauss lifts full-year earnings outlook following tariff refunds and strategic expansion",
+   "source": "The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWlxTXZtTm1GdkFJQ1V0LXhFS1ZabGtBXzBLZWNEWm4zOV9yWms2SXRUVGJ4U25UWTc2b0d1aHBiaWsxVmRYX1d4Vkl2OWtUN1k0akpNRmljVkh4ZTRQSDFNRFhLVnVURFlYNTFMbUNRZmozMDBNUkZmWTdwYVlmeXJscGt1U3d1QVlIdmZwN3VtSEhvYzRsM0p4cWJud0huQ2N0WW5MX3Rqa1ZHNWJ4UUNHVEt0OE5uLXYxLUl1OA?oc=5",
+   "date": "2026-10-09 00:04",
    "lang": "en",
    "brand": "levis",
    "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "Japan's Fast Retailing forecasts growth after record annual sales",
+   "source": "Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTSjNfemNYVlFYX0NKNGVDTWVPc1Bpdkc3SVAtSFBCa2M2MEhxWWNoLVpVaE1pcTRuV1RfTE1YMkFsT180UlcwMllzOUU4NlZGajYwc1NDVzRYMnBESzFn?oc=5",
+   "date": "2026-10-09 00:04",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
+   "title": "Big C-suite shakeup at Lululemon under new CEO; Walmart, Nike vets join team",
+   "source": "Chain Store Age",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMG1nRW51aWZsYlZka2lKTTNmUGd0R3VncWNXU2U4YVhDTGUtVUxzakdfeGhlMW1acExzRmFKWWp5TXJ2WjZFS09BMnNKSGUzV3hyblBpTV9lc3pVMFA4TlNDQ1c3SlhFYm5BaU1nWjFuMjgzd3dybGRpcXRwLUZEU1hqSTZ5U3g1bnZFUF9pZHZFMWNUOFhId2xsSDBRdw?oc=5",
+   "date": "2026-10-08 23:48",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -288,6 +338,26 @@
    "region": "europe"
   },
   {
+   "title": "Levi Strauss is raising its full-year earnings outlook after tariff refunds boosted profit",
+   "source": "Quartz",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5NldUWDhvWVNjbjRJV1FzbEhMbFZmTWRPOXRHdVFZZlplbW83MGdYbGxpU3VTLU5nWGpGLVRoRldUZGwxcS04NWhxaFhncEUyVkRXNnJRTy1TYXFlOVVKT0hTYVhUSEo0NjRtdGlMaW5wM29iVGEtbjNlT3ZJUQ?oc=5",
+   "date": "2026-10-08 19:40",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "Uniqlo owner seemingly set to overtake H&M as sales surge in Europe and North America",
+   "source": "Retail Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQW95SGJibWNUVl9kSGpSakRrcm1iSUxNcy1tRGRuZlg4Ukt2RGdWcnhNUGllekhocktqYkRxb3Y1V1M2eWFOQjlOZHRiTDFSTFhHeTh1Rkt1LU0teFJyb0tmR0RQRXZYNGVjeEFPY3NqNEZ2b3ljeE5WdUJsbUQ2NjVSd3dTWDNFWWxuTkxxWUZybWEyQXFFNlFXVE1LaGZJcDF0VEJ3RE1tdE9qODhEcC1hRlRiU053Z0ZRbzkzZ3MtMTJJNmR3WWN3?oc=5",
+   "date": "2026-10-08 19:32",
+   "lang": "en",
+   "brand": "hm",
+   "brand_name": "H&M",
+   "region": "europe"
+  },
+  {
    "title": "De Minimis Tariff Exemption Ends: How Shein and Temu Prices Doubled for U.S. Shoppers",
    "source": "Global Trade Magazine",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3VkSlk5VFA5NHZKVFFNQmtOaWhtNnBHNHdHd1AxYmR4MV82TzdhbTZOWUVtWVFHWWduUmtPaV8xbXNvUlNvWGI0S3Fzay1QSkpaUTA3bHVRdVBYZjB6Nmt4a0E5SXBLOVl5aTNMVHNQbGlldVkzaGpPTmhBVFI0MHYwekk5STVYM2owSWhPOVdEdmJ0Ni1sZldRRUNUSnF3VXpOYkFNcXYxWGxpMVNTSUFpbGFNdw?oc=5",
@@ -298,10 +368,10 @@
    "region": "apac"
   },
   {
-   "title": "Uniqlo owner set to overtake H&M as North American and European sales soar",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmI0ZmpZNTN0YkpEX01kTkhnMUdWY05LUEt6UmVORjF4eENHTGF6NTc2UlQ0V1I1bEhYbjVGQ2NmRUh6U2FENzdjd0FYR0VVd3FuQmVQaDF4RlVFTlU1bW9HWS1ZNUhtWHlERVpGYlVnWmV0VnU3azZEQncySWdhWTRpUWM?oc=5",
-   "date": "2026-10-08 17:36",
+   "title": "Fast Retailing Set to Overtake H&M as World's No. 2 Apparel Retailer with ¥3.9 Trillion in Revenue; Net Profit Also Hits Record High",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5neVlnLXl3SlpibGFpQ3d4a1RpYnVnYzdtbjgwUXlia0FhTjR4ZDdleUdOVWVOYm9yekZpbTFrZnBySk9wZVBVUkRYNjJMR2h0NmtXdGVvNFZzOEhhb3hidTQ0S1FQVHA1RG1ucXBVRzV0bEp1eUE?oc=5",
+   "date": "2026-10-08 17:55",
    "lang": "en",
    "brand": "hm",
    "brand_name": "H&M",
@@ -346,16 +416,6 @@
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
-  },
-  {
-   "title": "Building a Fall Wardrobe Just Got Cheaper—Banana Republic Factory Styles Start at $12 and Are Up to 70% Off",
-   "source": "Real Simple",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYnAyZjJUaFRTN1J0RGNxYTJDN3U1STlkRkpXeDF4TFhPU25NZ1YxcVJTWlVRZ2s3NEQxS0MyOGZGVF9CeUZmdlhZNWpLSUJHWDB1UUhJMXZXcWlJSEgwOHBFX1JNbnZIQVF6U2d0ZzNpRWNfNXNJcHZ2NUNiWGUzbFZRdGJLb3hNREE?oc=5",
-   "date": "2026-10-08 12:00",
-   "lang": "en",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
   },
   {
    "title": "安踏完成收購PUMA 29.06%股權，成為最大股東- 股市爆料同學會",
@@ -405,26 +465,6 @@
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon puts Nike veteran in charge of product as CEO O'Neill looks to right ship",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMV9BWTJ2SlZlR1I0S21FcklvTUpPWGUzejV6Vm1xam9CNTk5RVNZY1FsN2FoMUU2YzRZUkhjZEdHWlJfbzRWUTBIS0pWTHNuM0x1dlVVMkM0VHdleTE2Uzh2WktWWGJ6Qnk4OFJ2YUxKVEpfcGo0ZVVIQXpySDF4U3hhellPdVBUVi1LNWdDd3BOY2ZGOWx2RzdNTzg1czRqV2ctODhsdVNPMTVCMllqRDE3YlNzSXVFN19lS29NVDRudVJFNnNHZzVSbw?oc=5",
-   "date": "2026-10-08 05:20",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "VF Corporation Announces Second Quarter Fiscal 2027 Earnings and Conference Call Date",
-   "source": "Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZE5TWXhsRHdlSE5lX3NaSncyc3R1dUU1MlNDY1FPX0ZEQ1JQN293SmVDbUNyYldMMG1vRW5fOWN2dTBjRGVVcWxIdHZmSU1UMFVYWjE2SEpLZGxnR1dxd0pMaXZlY21uT2p0c2pFdzN4RW9OTHFia0laMUd2dDJpUGdsV0szVEhqOGR2cGdLMTVVaDFSYmlUdjZoTDE1UkRSdWVhX2NveDFvM3BPRVYtZUZVSk5PcDhMRWpxdDRGTzlySVJxMEI0SlR2R3hCN211WUxvbVlpdGZEZw?oc=5",
-   "date": "2026-10-08 04:33",
-   "lang": "en",
-   "brand": "vf",
-   "brand_name": "VF Corp",
    "region": "americas"
   },
   {
@@ -598,20 +638,20 @@
    "region": "americas"
   },
   {
-   "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3?oc=5",
-   "date": "2026-10-02 22:06",
-   "lang": "en",
+   "title": "【21:30 即時新聞】Nike(NKE) 重挫 7% 續創逾十年新低／財測大幅下修、營收不如預期壓盤",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWm1FREFGZXR6aUJoaGhxaUJNX1ptSFdWUVVWNDNBblF6S3Z0dW5zUGRXQnZEY1NFMG1DLU9wQ245bmNwWW1Yb3gydDZsaEVSU0FKYnZfdUJjTENSSnZ6OTctdU5RckpaVjdTM3JJQ0tOUUhObEJWNWlXd2VFaERhSlB6VURTWlFYbVN3UW5B?oc=5",
+   "date": "2026-10-02 21:30",
+   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "【21:30 即時新聞】Nike(NKE) 重挫 7% 續創逾十年新低／財測大幅下修、營收不如預期壓盤",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWm1FREFGZXR6aUJoaGhxaUJNX1ptSFdWUVVWNDNBblF6S3Z0dW5zUGRXQnZEY1NFMG1DLU9wQ245bmNwWW1Yb3gydDZsaEVSU0FKYnZfdUJjTENSSnZ6OTctdU5RckpaVjdTM3JJQ0tOUUhObEJWNWlXd2VFaERhSlB6VURTWlFYbVN3UW5B?oc=5",
-   "date": "2026-10-02 21:30",
+   "title": "Nike計畫再度裁員並預警全年營收下滑，大中華區營收重挫26%",
+   "source": "Martin Cid Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR01sNzRKRGRPU0V3eXdKV2VrTnJMRXBrSWJjR19xcnRPYWlRZkVFd1g0dFFTcm1nODRZcHl0R1BFYmFiT29yMUhVXzgwLXVOT1M0UFJxendFazJFNHkwaTU0NElRS2Z6ZS0yRnExTDJ0S3FYZTBrb29VUkRfUks3a3MyVnl3MVVzWEMyaW1jTHVraGtKMWJIUkVwM1ZqaC1QMW9JSDdjN0EybEZkRzlxbmVlTmMyTGhPbnduOGx5VGVyb1dUNTJjU1lJcFVKWURxVWZZb2wya2ZVMW5CZ2pjR3pPdFBfZXhMTGM2X0ZzbmQxQ0g2MFR3M1JkeGJzZ240a0lFdFVMN3kweHdLb1pzNzJRUWM5TWFiSUdvdmZkZUxaQQ?oc=5",
+   "date": "2026-10-02 21:04",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
@@ -646,16 +686,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "Nike遭標普百大除名、股價跌78％ 一份亮眼財報為何仍救不了它？",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETkZvbE84UVFkNm1xTDNBNUU1VjJwSDh4TE02YzFtYmdnNlhOSFpMVk5FdzQyRFEtZXFvaHYzUlg5TFNqLUdETmpiZmNiOEF5?oc=5",
-   "date": "2026-09-25 15:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "Zara 母公司初秋銷售佳 但 Q2 獲利受中東衝突影響",
