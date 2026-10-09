@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-09T23:34:16+08:00",
+ "fetched_at": "2026-10-10T01:12:16+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,21 +158,21 @@
  ],
  "items": [
   {
-   "title": "Piper Sandler維持Nike中性評級，對銷售前景表示擔憂 作者 Investing.com",
-   "source": "Investing.com 香港 - 股市報價& 財經新聞",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Zk5ybmxoSjhyRGFZTGhMS2lmbXRvandyckJ3UExlaURxNVBlVW93U1RseHppcUp2QmprdHNNUjczRmNhY1dLUjFKSktabkpuMDVVX0ktQUwzTTE2TjVCN3hrOXFsbENJcC1xd280THhYdlUw?oc=5",
-   "date": "2026-10-09 22:27",
-   "lang": "zh",
+   "title": "Piper Sandler keeps Neutral on Nike stock amid sales concerns",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEc3YjJBN3VzU2d5NXNWSGctcW5ydGpZTDJVbXVvYlEyQmtQS3lhSWVKa3FmYzFDeE9ERnVpaENXWG9CMV9Qc3Uta1h6aVI4VnowQ1E4ZllaY3hEa0U3ZVJEOWJVSHpuWlJaOHR4YnRaNTRfdHhYZHBBdGlqX1JONmVJamZKb24zeFhrZ3diTzI3akx6Y29ZYkdvZlo1SFJQVUVKRFl2OExfeDNRUnVFUFV1ZzZnZ2pSbmlyZzh3?oc=5",
+   "date": "2026-10-09 22:41",
+   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "👨‍⚕️💰Who knew #hospital scrubs could become a ₹250 Cr+ business? From scrubs to stethoscopes, clogs and medical hijabs - Knya wants to be the #Nike for doctors!🩺 📈 FY26 revenue at ₹110 Cr, profit at ₹10 Cr & annualised run rate above ₹250 Cr. Next",
-   "source": "LinkedIn",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlR6Umc2cUw3QmV5UEtSTWowTGxjamtjWGZvdGtweERhekp4N1FRR0Y3UnRwempwSlNuNzh1cmY4cG9KSlRnSmRsMDVmNHcyd0JoakNCV1ZDd0hKT2Frcl9FdlpIeDY2azJHQmVOdWVFYnZoX0FydTJWYzlMYzNwU3BVN1V2UWNINXFMRV8xbV92R1VUQjVKVG5ISXRKVnkwdGxLbQ?oc=5",
-   "date": "2026-10-09 22:07",
-   "lang": "en",
+   "title": "Piper Sandler維持Nike中性評級，對銷售前景表示擔憂 作者 Investing.com",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Zk5ybmxoSjhyRGFZTGhMS2lmbXRvandyckJ3UExlaURxNVBlVW93U1RseHppcUp2QmprdHNNUjczRmNhY1dLUjFKSktabkpuMDVVX0ktQUwzTTE2TjVCN3hrOXFsbENJcC1xd280THhYdlUw?oc=5",
+   "date": "2026-10-09 22:27",
+   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -228,16 +228,6 @@
    "region": "americas"
   },
   {
-   "title": "PUMA最大股東換人！中國安踏豪擲555億收購朝全球前3大運動品牌邁進| 國際",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvMWoxYkN4VW0yeGVWdkgyUUphZHl5Wk9maXcxTUtub2VHRVR4YV9oQVhKeFF0dnRSaXRqeVBtMHN4NGhlZmpfaw?oc=5",
-   "date": "2026-10-09 20:23",
-   "lang": "zh",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
    "title": "Shein increased UK revenue to £2.58bn and overtook Asos — The Guardian",
    "source": "UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczQ3cC1wLWVONmlNcTdwUzlnc0ZrYW1PMEpFWG9JVWhQXzdfM25GQ0pQWjZwRDJiVE9XVVctOVdYcFNzQk9UYm1zYzNiVlctSV8zY3dENFFnOEp5S2EwVnhDcmVId2dhU3FxUG90SHV0VmY0ekstMExlVVhDbHdoZkRvaDE2cnRxRXJxT09ZaFVkRnZTcjN2QzQ1TzNnYXNpVFRQLWVR?oc=5",
@@ -245,6 +235,16 @@
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "PUMA最大股東換人！中國安踏豪擲555億現金收購 朝全球前3大運動品牌目標邁進",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOU3JyZzVXYnBDOVB3TTZ5Q01oVnJLU2hZa01tek1vQVNUaW5pWERLSi04dm8yTHRQUTVscmtpWnpwVi0tamVfV1hWd2hJcGx0NDE3WWtQdTJ1dWsweG1CclpQNjNUazZBdVc3OHFvazJXZTNiZVRqUTZqZ0RWSGNuTmV4SGhwVGU4QVRhaFV5dUJ3Ny10Q3ZvbDY0Y2RLOVYtR2U3bW1rVXlxTHBoZWVkSDZxc2Q2RVUwbG5KUTNRTFBnR1dUa0huQ1lob29aT2ZBMmxKUkRLaHFKWGxlSWtTTXB2RmpIN0xISlMyekRNZ19EZEJwYnpkbkxVSXRyM2Rua3NiV2Q0RGc0RmVJYzF4Q01NQTVyelpPTTRjQ05yRWUtWnZtVFVlYncxNDVZR0o0RmdHUkZJbXpQbnBpdk44NEZCZ0pkek5YSjVRaDY0V001ZnRDZDlpR2h0QVBnTTdYVFExTVN5TGc0MDAySHhVcUpWS1g4MjE0UC1mRkYwZkV0Uk9QTHUxNE43ZVRnY2lXUTN3aEROcU9wWFZvcWVSUG9VcDBTNWVya0JVVDRTS3FEQmRnUVVBNmlELURrdDhLMGMxWWFCYnJpbDM3WmREQjJTS2o?oc=5",
+   "date": "2026-10-09 18:48",
+   "lang": "zh",
+   "brand": "anta",
+   "brand_name": "Anta",
    "region": "apac"
   },
   {
@@ -339,9 +339,9 @@
   },
   {
    "title": "\"We aim to triple our revenue by 2030,\" says Muji Europe's Takuo Nagahara",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDNSTXVNem9zZmstWEhibmVkQkhGT016ZUJDREE1N04wTmd6aW5USzhfd1NUb2RHbDVIR2w0UTdwN3Y3UWZVVnU0M0Jpa1pBU2REMEk2M0V5bW1IMEZ2QlUtNEQ2RzQzYmlVbW1IVTRDWXN0dXJENXl0WU1LOEQwTVVTd0ppdmlhWUVJS0Y5a1BTcGRkWEZ0MzRpWmVMTW84azhpUVBjZU1rdzhPY0RaZW1LbExPV29hR2xJ?oc=5",
-   "date": "2026-10-08 23:50",
+   "source": "FashionNetwork USA",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVkzenFmVVFxLWUtVmZwUUJWVUVGUVNmTHVXeGgwUUtSRDU1LUpsZjBhcWJvTkFlOWhpbmcwX1hzYzJNXy1FdTcxWHFjeTJPTV82UHFrc2VwSXRPWllYWHJHcVZldVZsdXdmelppQUlWQjJFSUxpeVdsR24xLUZOTS1oM1RHLUYxTElHQi1fSk1RMXJaM191eXZyZXBqUHRyUkozdGFuYWpVRFFQZWNuZy1ELWFhdWV2enBZ?oc=5",
+   "date": "2026-10-09 00:47",
    "lang": "en",
    "brand": "muji",
    "brand_name": "MUJI",
@@ -528,16 +528,6 @@
    "region": "americas"
   },
   {
-   "title": "Why Is Nike (NKE) Giving Investors Less Insight Into China Sales?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3I5V0xZUk9Tc0lzdjZlQTRkdTRmclB2S2ZXY3RBMXRaX2kwSjg2WVNjREpjM1NKZllNdlQwWnZrcGhwRlJzeGxPOGVSZ3dBaHRxbUhVdlFRUWhHY3dOQzNsaEdUNllLZmJXbV9CUlJ3ZDFhWnkzTzAwY0Qyblpqang1RUprVnJlc29yZVVsaDFKbGNpUDNRYjB3?oc=5",
-   "date": "2026-10-08 03:12",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "從 Nike Hybrid 到 Jordan Strength—— Nike 全面擴張至 Training 訓練領域",
    "source": "https://www.kiks.com.tw/",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHNRdEtsZ1JySnJQNkMyT0MySUVyV3BGeDRSZTlzYWJ3SzA2V3ZyY245cFMyLWNuaW9yNUdqSUpaSE11d19qUUFacDN6VjNRWmNhM25CRjB1bU5mTS1LRnVoalJlN1U1bzRRRG9WeGNZVkd4ZHdPSHJGMEJ6bHlhNzBxYjRtbWdKdEVoUmxHNUR1UnNlbkhKUm41VEhMWWVael83N1FrX3ctczNudE1hYS1hNmhuc2xKbnRBbnl3TXJLcnRHeGNvU095TUF2enZNTDBmekJ1QlNTVHVMMkhHQnVQN2RNTmFQS3pSVDJkUEZRb3BNZ3ZuV3pGdzdVbC1XMThn?oc=5",
@@ -712,6 +702,16 @@
    "source": "Martin Cid Magazine",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR01sNzRKRGRPU0V3eXdKV2VrTnJMRXBrSWJjR19xcnRPYWlRZkVFd1g0dFFTcm1nODRZcHl0R1BFYmFiT29yMUhVXzgwLXVOT1M0UFJxendFazJFNHkwaTU0NElRS2Z6ZS0yRnExTDJ0S3FYZTBrb29VUkRfUks3a3MyVnl3MVVzWEMyaW1jTHVraGtKMWJIUkVwM1ZqaC1QMW9JSDdjN0EybEZkRzlxbmVlTmMyTGhPbnduOGx5VGVyb1dUNTJjU1lJcFVKWURxVWZZb2wya2ZVMW5CZ2pjR3pPdFBfZXhMTGM2X0ZzbmQxQ0g2MFR3M1JkeGJzZ240a0lFdFVMN3kweHdLb1pzNzJRUWM5TWFiSUdvdmZkZUxaQQ?oc=5",
    "date": "2026-10-02 21:04",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike宣布裁員！大中華區營收暴跌22% 執行長證實「全球砍職缺」",
+   "source": "三立新聞網SETN.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SVUdsaWdaeHVxOHEzRzN0dTB1X3h5NHU5NGJ5NmdSVUdlUktIR1hqUDVTWDRXRmdyYVBLMlFxV2pTY0NXTU5fU1N2dw?oc=5",
+   "date": "2026-10-02 16:54",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
