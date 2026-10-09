@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-09T15:28:20+08:00",
+ "fetched_at": "2026-10-09T23:34:14+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "中國紡織品進出口商會：8月我國紡織服裝出口額達285.7億美元同比增長7.7% 連續三個月保持7%以上增速作者智通財經",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tRzhiM29DTmxmcy1vYkpFaV9zcFhlLTB3X05HZDJpS3NfQ2hYdEZ4VWMzd1VnVTJhclpfRmliMW0yQ0ZtRTZpWktsN2xqRjlsTTZLMjdWamNWX1U3S0tGZm1PWkF5RWZTZFFvVEx1OWI?oc=5",
+   "date": "2026-10-09 15:50",
+   "cats": [
+    "trade"
+   ]
+  },
   {
    "title": "《產業》紡織業景氣冷、接單仍有戲！TITAS 3天創6000萬美元潛在商機",
    "source": "富聯網",
@@ -64,7 +73,7 @@
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
    "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-10-08 21:51",
+   "date": "2026-10-09 02:56",
    "cats": [
     "green"
    ]
@@ -594,6 +603,15 @@
    ]
   },
   {
+   "title": "複合再生韌帶 推動材料與紡織技術跨入高階醫材",
+   "source": "Industrial Technology Research Institute",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzFWblVXMHd0ck5TSXRkQUVLOEM2Q2N3aC1OVGVFWXlPekhNZ245Wlo2SmtFTFM4bUlYZ0t2YnQxbS1FQzZYbER5MnpaUHY5aWdodFVOcmo3MHJpWGFDSUlMejlZbDhPOGMwVW1BS2NHN01LTko2LUN4VzJyOWc0MkJZMEtwR1E1V1ROWjdwenFZT3VVMml6TXdUVUZYaVFSem1fRWNpREV2ZS11Z2hZY3FnUDFFN21yME1LdHNSUQ?oc=5",
+   "date": "2026-09-29 07:45",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "瑞銀：自行車與成衣產業2027年需求可望復甦 看好兩檔台股",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80WjdnNFBFaEF0S0pudTRnMjE5b0lIcmNCV0g4VzVfR2F3dlZRdVZQV0F2NmpKOTNIUW9kdlB6UDJRTV9meFNES1BlQmN1NEE5Q0UtWUF0WHBMZ9IBX0FVX3lxTE9ZX0Z0LUkyeFlGUENiRmpqRElVbjJlczBzLUZBOWRBcjhXbThibkdOVWx6emFYT1lESlNuVTVLb0ZQLW1LXzh5T2lYV0haQ2Z6dmJGRjhjVkJCcnBEQ3Zn?oc=5",
@@ -616,10 +634,20 @@
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
    "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
-   "date": "2026-09-24 11:34",
+   "date": "2026-09-24 15:00",
    "cats": [
     "tech",
     "green"
+   ]
+  },
+  {
+   "title": "2026降溫投資四年回本：孟加拉成衣廠的商業邏輯",
+   "source": "行銷人",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVE9GY1dlZTlxUndPOGxWZTBpUk90U081MVd4cFpSMmJmM0xyS1hrSWoyN3NrSmI0aU1LLTNScHBaUDJ0aUNieUYzSkJKSVRzbHlSYVZlSVNHU0tHLVdSRzc3OTdWU0JpMF9kM2cybVVSU1NJdld6WF8xOXk3ckdFRml4emRFY3JIT1JERGZ6NFhURWVmamQxaWZ3ZmVyVEw2OWF2WUNxNFU1ZmJEcVpuN2YyUFZjeHV0WjlVeVhsdXRTY0UwQ0dETnhPTmdVNk5zc0RoVFRzSVV5UUZ1bVhEWTR5c005N2puZ0pMSW10RE90RF90NTY4OFJkR2w5cWdRTkVvSGlINnRFTW4ydFpiclhIcWgzXzJ1blJyQVdNQm5RMDhpQUtVM3FHVU5rcXFFUmI2WmZidXgxTUZsYkw5TnNyaE5JU09tN3l6V3JBd0NUTEVo?oc=5",
+   "date": "2026-09-23 15:00",
+   "cats": [
+    "market",
+    "trade"
    ]
   },
   {
