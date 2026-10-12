@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-13T02:13:13+08:00",
+ "fetched_at": "2026-10-13T04:00:13+08:00",
  "window_days": 30,
  "categories": [
   {
