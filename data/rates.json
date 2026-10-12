@@ -3,24 +3,24 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-10-08",
- "fetched_at": "2026-10-12T15:27:09+08:00",
+ "data_date": "2026-10-12",
+ "fetched_at": "2026-10-13T02:13:09+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-10-08",
-   "cash_buy": 31.5,
-   "cash_sell": 32.17,
-   "spot_buy": 31.85,
-   "spot_sell": 31.95,
+   "date": "2026-10-12",
+   "cash_buy": 31.51,
+   "cash_sell": 32.18,
+   "spot_buy": 31.86,
+   "spot_sell": 31.96,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 32.17,
-   "prev": 32.075,
-   "change": 0.095,
-   "change_pct": 0.2962,
+   "primary": 32.18,
+   "prev": 32.17,
+   "change": 0.01,
+   "change_pct": 0.0311,
    "history": [
     [
      "2025-09-08",
@@ -1085,23 +1085,27 @@
     [
      "2026-10-08",
      32.17
+    ],
+    [
+     "2026-10-12",
+     32.18
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-10-08",
-   "cash_buy": 4.661,
-   "cash_sell": 4.823,
-   "spot_buy": 4.733,
-   "spot_sell": 4.783,
+   "date": "2026-10-12",
+   "cash_buy": 4.67,
+   "cash_sell": 4.832,
+   "spot_buy": 4.742,
+   "spot_sell": 4.792,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.823,
-   "prev": 4.808,
-   "change": 0.015,
-   "change_pct": 0.312,
+   "primary": 4.832,
+   "prev": 4.823,
+   "change": 0.009,
+   "change_pct": 0.1866,
    "history": [
     [
      "2025-09-08",
@@ -2166,23 +2170,27 @@
     [
      "2026-10-08",
      4.823
+    ],
+    [
+     "2026-10-12",
+     4.832
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-10-08",
-   "cash_buy": 0.1924,
-   "cash_sell": 0.2052,
-   "spot_buy": 0.1997,
-   "spot_sell": 0.2037,
+   "date": "2026-10-12",
+   "cash_buy": 0.1921,
+   "cash_sell": 0.2049,
+   "spot_buy": 0.1994,
+   "spot_sell": 0.2034,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 0.2052,
-   "prev": 0.2047,
-   "change": 0.0005,
-   "change_pct": 0.2443,
+   "primary": 0.2049,
+   "prev": 0.2052,
+   "change": -0.0003,
+   "change_pct": -0.1462,
    "history": [
     [
      "2025-09-08",
@@ -3247,23 +3255,27 @@
     [
      "2026-10-08",
      0.2052
+    ],
+    [
+     "2026-10-12",
+     0.2049
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-10-08",
-   "cash_buy": 34.89,
-   "cash_sell": 36.23,
-   "spot_buy": 35.51,
-   "spot_sell": 35.91,
+   "date": "2026-10-12",
+   "cash_buy": 34.94,
+   "cash_sell": 36.28,
+   "spot_buy": 35.56,
+   "spot_sell": 35.96,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 36.23,
-   "prev": 36.12,
-   "change": 0.11,
-   "change_pct": 0.3045,
+   "primary": 36.28,
+   "prev": 36.23,
+   "change": 0.05,
+   "change_pct": 0.138,
    "history": [
     [
      "2025-09-08",
@@ -4328,13 +4340,17 @@
     [
      "2026-10-08",
      36.23
+    ],
+    [
+     "2026-10-12",
+     36.28
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-10-08",
+   "date": "2026-10-12",
    "cash_buy": 0.00101,
    "cash_sell": 0.00142,
    "spot_buy": null,
@@ -4342,9 +4358,9 @@
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
    "primary": 0.00142,
-   "prev": 0.00141,
-   "change": 1e-05,
-   "change_pct": 0.7092,
+   "prev": 0.00142,
+   "change": 0.0,
+   "change_pct": 0.0,
    "history": [
     [
      "2025-09-08",
@@ -5409,23 +5425,27 @@
     [
      "2026-10-08",
      0.00142
+    ],
+    [
+     "2026-10-12",
+     0.00142
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-10-08",
+   "date": "2026-10-12",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.871,
-   "spot_sell": 1.951,
+   "spot_buy": 1.892,
+   "spot_sell": 1.972,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 1.951,
-   "prev": 1.953,
-   "change": -0.002,
-   "change_pct": -0.1024,
+   "primary": 1.972,
+   "prev": 1.951,
+   "change": 0.021,
+   "change_pct": 1.0764,
    "history": [
     [
      "2025-09-08",
@@ -6490,6 +6510,10 @@
     [
      "2026-10-08",
      1.951
+    ],
+    [
+     "2026-10-12",
+     1.972
     ]
    ]
   }
