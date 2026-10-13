@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-13T15:48:11+08:00",
+ "fetched_at": "2026-10-14T00:27:11+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -117,15 +117,6 @@
    ]
   },
   {
-   "title": "徐旭東3天兩度露面 125億醫療園區與紡織轉型受矚",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOLXZxb3pTcU9NdlNxU3ZvUGtiVTlzaHgzUHhJWXN6U01zODNkZEkwQ1ROM2hNMkYzTDFCUy0wMjBibzJqcnN3d3dpNjI0VlN5VUZhVURWVlZRUUZlZzJMcE9PZ09sNk84di1tX3JBUU9MSUNCTDlDNEtuT2xxZ2c0ZjdiQUhfRUJ3bm1IS1c0ZHFrTXJGRFBVaVlnZWxNUm1yOTdLaUtJNnc2Y3FIYkt0QVZZc0FoOFJGNkN6QnEtbXBEd0JRcHhuaEJ2NGN6LTM4ZHY5b0tsczJacTVMYmJVTkdEU2ZHb2RVU0JLdkV3WU1ZemVIdGJRWFlfWTV4WjNhdWkxbVJZUFZrQU53REpJdUl5S0RESjNmTjFtak9DQW9rNV9IczFLUlZKaEs4M2FHbmR6V211RFBKeTR3NVpfR3JWa2t0blhKR1E?oc=5",
-   "date": "2026-10-08 09:43",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "2026台灣紡織品新趨勢發表會促進紡織產業策略聯盟拓商機",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jazMxT3dGVDI0ald3YVZKeEFfNXZmTWtzZTh3NzBLSTNDeVVGRDRVTUxGdDhRRFFEQk1GUWFEZEtOQTVSaEV5b2hxYVBhUm1TLTFnRHBtajV1cE1LQ2Nn?oc=5",
@@ -145,7 +136,7 @@
   },
   {
    "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
-   "source": "udn",
+   "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16dDAtYUo0YW9KQWU4VzlyeGtwOVpELVoyaEszU0psMWtzV3kyYU1iVlcwVXNxak5UNGhxU2Zsb1hzQmFwSmtXX3N4S0ZpMV9Y?oc=5",
    "date": "2026-10-07 16:00",
    "cats": [
@@ -250,20 +241,11 @@
   },
   {
    "title": "紡織展大戲 前景展望兩樣情",
-   "source": "udn",
+   "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jMnl0QV9CTkNfWnNkVkt4bE96bGZjSW5ERnlIQW5pMm1jT1RCVlRybmNWVHdXT3RLbnhzT2cycVk4Q0NHZ2l5ak1SWTNvcUl00gFWQVVfeXFMUFVCaVhMWTR5UEVNOTh5ZmJaWU5jb3FBZFNLODV5ajNLUmF6N0d3RnpMd1Fwdk9mLVhFV1NiR0RiU3hZVnlVMktES3lqemVsdVowd3lGeGc?oc=5",
    "date": "2026-10-07 01:28",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "紡織產業鏈搶搭永續商機！台北紡織展最新技術創逾13億產值，遠東新受惠-財經焦點情報站",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzNoLWNqNEpjZnZNOU40N19JaXJRRGpfZ2twV3dYSDM1VTZHYnlqaElnZGdQVDZfdVczMkVTcURRLUxpcy1nck5hSXdYLThQaHZWajJhTlY5bGNwRzdNZ01SZ0JtVHMzSTcwMjltQUQ1ZlpBR2t3a0RvSkRwZWZCOXlB?oc=5",
-   "date": "2026-10-06 20:15",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -416,8 +398,8 @@
   },
   {
    "title": "南寶登場2026台北紡織展 著眼東南亞綠色商機、助業界推進永續",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRcTRuME4xZnJJaTRRQ1VncnpRX2t6SjdwcGswdkJ0Y0sybnBmVUtsZ01nV0tZUTA1YVVQY0FzTXAya0ZCR1JXRElGaS1qRlhk0gFWQVVfeXFMUG5yYnFsZTF5LXdXWXpCTFg3bWZGdzYxSTNlSk51ZG9NdjB2Vk15Nm91eXVDUGRzb2JSMm9DTGxOMEt4b2JuUmxuWEhMdnotOFlNQmdUNmc?oc=5",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Oc1MyeVEzLUlmR09MUWxKNElCWjhaLXFodGxRSkFNUFJ3czZFdE1FYW81SU5yMFlfdFRXVWY2SG9KTHoyNDNiV0doWG1hal9xVWd5VFlQdkJwd9IBX0FVX3lxTE42WHYwT1pCdlBQeWctWXNCX2Q3SjZuUDNtN3hCaE1XWGVvMmJRdXdIanZPMzBJdUJHYXRtMndzRW9wY0lxcHpTWVA4dlpZQlJKYVdMRG1wUFVkLU9nakJ3?oc=5",
    "date": "2026-10-06 11:13",
    "cats": [
     "green"
@@ -439,15 +421,6 @@
    "date": "2026-10-06 10:02",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "能源署攜紡織所秀智慧節能技術- 產業特刊- 工商時報",
-   "source": "中時新聞網",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybEttR09lTDZzME9Ucy1kd0M2RFFYTmFxUzdtYWFzNWI4ZGd4blFpQXUzd2NGNGpGeXoyeVhuclY1aUs3Q2cycDZfYnUyVGlMOG9TWVJkbGwxeXdoSERfS0NwWlV3ejNjZlBr?oc=5",
-   "date": "2026-10-06 04:10",
-   "cats": [
-    "tech"
    ]
   },
   {
