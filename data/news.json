@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-14T22:03:14+08:00",
+ "fetched_at": "2026-10-14T23:30:31+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -258,6 +258,15 @@
    ]
   },
   {
+   "title": "南寶登場2026台北紡織展 著眼東南亞綠色商機、助業界推進永續",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Oc1MyeVEzLUlmR09MUWxKNElCWjhaLXFodGxRSkFNUFJ3czZFdE1FYW81SU5yMFlfdFRXVWY2SG9KTHoyNDNiV0doWG1hal9xVWd5VFlQdkJwd9IBX0FVX3lxTE42WHYwT1pCdlBQeWctWXNCX2Q3SjZuUDNtN3hCaE1XWGVvMmJRdXdIanZPMzBJdUJHYXRtMndzRW9wY0lxcHpTWVA4dlpZQlJKYVdMRG1wUFVkLU9nakJ3?oc=5",
+   "date": "2026-10-06 15:00",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "福懋總經理李敏章示警 紡織景氣：明年不會更差、但好轉也難",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fNEs0STNjR1JySkY0WWlyakpSUzhjSGJaemVGQ3JmZkRVMFpFYVJRX3h6cV9pV19nLUlOaVRueXJNUHAwSjk3M0J3T0ZiazVNc1BGZGlvaGZlUdIBX0FVX3lxTE04X0M3WlJEb2l6YmhWWDd0MW9XSExYUkE3V250NFJDVnVwVENBTHpfY0czRzdUdVcxT0RuQkFVcEhQUU9LbFN3SldPVjJtaERaMDd2RWJNMjhNd0VBODRB?oc=5",
@@ -319,15 +328,6 @@
    "date": "2026-10-06 12:21",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "南寶登場2026台北紡織展 著眼東南亞綠色商機、助業界推進永續",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Oc1MyeVEzLUlmR09MUWxKNElCWjhaLXFodGxRSkFNUFJ3czZFdE1FYW81SU5yMFlfdFRXVWY2SG9KTHoyNDNiV0doWG1hal9xVWd5VFlQdkJwd9IBX0FVX3lxTE42WHYwT1pCdlBQeWctWXNCX2Q3SjZuUDNtN3hCaE1XWGVvMmJRdXdIanZPMzBJdUJHYXRtMndzRW9wY0lxcHpTWVA4dlpZQlJKYVdMRG1wUFVkLU9nakJ3?oc=5",
-   "date": "2026-10-06 11:13",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -396,6 +396,16 @@
    ]
   },
   {
+   "title": "〈台北紡織展〉南亞三大特色產品亮相 聚焦高機能、舒適及創新永續纖維",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3NnVyT0J2MlQya0pDTGtIUk5fY2RVM19zS25LWDRoS2FxV2hyQ3VJX1BTamhtU3NRdE1ZU3MwRGtVN0dVa3RWSEdfeFRyWDg?oc=5",
+   "date": "2026-10-05 15:00",
+   "cats": [
+    "tech",
+    "green"
+   ]
+  },
+  {
    "title": "南亞紡織展聚焦機能纖維今股價漲停寫新高- 財經新聞",
    "source": "PChome Online 新聞",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVlqSUlEMDdyR2xDaHk2NThpVTRCSjI4SjlMVHl5WXJuQ0c1X2E0Q3gzbnBRMUVWUlBxSnlIUkFtbm5MMFJqSWNVa2F1SWdya3UxTGJNeTl6eVFBbWF2cm1TNGFKeVA5WC1BY2sxeUxtYl9JY0p0UXVKTVNXZXQ2R2FDMHg5Zi05WmlZ?oc=5",
@@ -403,16 +413,6 @@
    "cats": [
     "stock",
     "tech"
-   ]
-  },
-  {
-   "title": "〈台北紡織展〉南亞三大特色產品亮相 聚焦高機能、舒適及創新永續纖維",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3NnVyT0J2MlQya0pDTGtIUk5fY2RVM19zS25LWDRoS2FxV2hyQ3VJX1BTamhtU3NRdE1ZU3MwRGtVN0dVa3RWSEdfeFRyWDg?oc=5",
-   "date": "2026-10-05 12:42",
-   "cats": [
-    "tech",
-    "green"
    ]
   },
   {

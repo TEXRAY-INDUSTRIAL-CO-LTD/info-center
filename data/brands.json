@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-14T22:03:17+08:00",
+ "fetched_at": "2026-10-14T23:30:33+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -316,16 +316,6 @@
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
-  },
-  {
-   "title": "棄經銷商 狂出復刻鞋 Nike把運動精神輸給短期財報｜余偉龍",
-   "source": "星島頭條",
-   "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQQTBQTW8yNllvOXVaakEwaUs2dktRM1JLbk52S0FvOHZnaVJ3RGdkWjZ0djNZUXlBQmFYeVAzWWNpN2JpVndpN2lMckoyZ1RDdnJTVE93eXZJbVctQ1ZJTmt1TC1Wb2ZfQ3l3Tm1ZQnFSQzFyTzhjLXJwRGl0YXFkUUM1dnRMXy02b19iaGlWWTZjRDcwR01COWZ2Znl2WXloeG1fdnVGS2VPUUtSTldwc1pPd191YkZjLWdNRFQwUVJNSWVJcjhCNF9lY3pTcURwSzRZVVhUaFE2RklwS3I4VDRtcUhvaHpFVXVpNmhtTUNWMnd3Z3NMTEZQVXZTNWJaN29jNS0wUC1lcjJKckUtckNTdndoZXFIZHNOSGhPbFVLZ2QyRkphamVzeFJPVF8xVEVxeVJmVlFSV25FODEyNXVpczIzM3RWXzA5eWk0d21EUHhrVWxsRUpvU0FBQjh2bDhEV2lVNk1tV3Q3OHFBZm1ncDZpWEFE?oc=5",
-   "date": "2026-10-10 06:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "中國安踏體育「搶下PUMA最大股東」！砸550億收購近3成股權",
@@ -689,7 +679,7 @@
   },
   {
    "title": "Nike遭標普百大除名、股價跌78％ 一份亮眼財報為何仍救不了它？",
-   "source": "udn",
+   "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ETkZvbE84UVFkNm1xTDNBNUU1VjJwSDh4TE02YzFtYmdnNlhOSFpMVk5FdzQyRFEtZXFvaHYzUlg5TFNqLUdETmpiZmNiOEF5?oc=5",
    "date": "2026-09-25 15:00",
    "lang": "zh",
