@@ -109,6 +109,36 @@ def fetch_dhl() -> list[dict]:
     raise RuntimeError("找不到 DHL 燃油費率表(頁面結構可能已改版)")
 
 
+def merge_known(fresh: list[dict], keep: int = 26) -> list[dict]:
+    """
+    把這次抓到的週次,與上次存下來的合併。
+
+    DHL 的頁面會「退版」:2026-10-13 抓到的最新一週是 10/19-10/25,隔天同一個
+    網址卻只到 10/05-10/11,連當期那一週都不見了(連抓四次皆同,不是節點跳動)。
+    只信任當下頁面的話,這種退版會讓整輪更新失敗,即使我們昨天就已經知道正確數字。
+
+    合併規則:同一週以**這次抓到的**為準(DHL 若更正費率要跟上),
+    頁面不再列出的舊週則沿用先前紀錄。只保留最近 keep 週,避免無限長大。
+    """
+    by_start = {}
+    try:
+        prev = json.loads(OUT.read_text(encoding="utf-8"))
+        for w in prev.get("dhl", {}).get("history", []):
+            if {"start", "end", "percent"} <= w.keys():
+                by_start[w["start"]] = w
+    except (OSError, ValueError, KeyError):
+        pass                                           # 沒有舊檔或格式不符就只用新的
+
+    carried = [s for s in by_start if s not in {w["start"] for w in fresh}]
+    by_start.update({w["start"]: w for w in fresh})    # 新抓到的覆蓋同週舊值
+
+    merged = sorted(by_start.values(), key=lambda w: w["start"], reverse=True)[:keep]
+    if carried:
+        print(f"  頁面已不再列出但沿用先前紀錄的週次:{len(carried)} 筆"
+              f"(最新 {max(carried)})")
+    return merged
+
+
 def current_week(weeks: list[dict], today: str) -> dict:
     """
     找涵蓋今天的那一週。找不到就拋錯,不做任何猜測——
@@ -127,7 +157,7 @@ def current_week(weeks: list[dict], today: str) -> dict:
 
 def main() -> int:
     today = datetime.now(TPE).strftime("%Y-%m-%d")
-    weeks = fetch_dhl()
+    weeks = merge_known(fetch_dhl())
     cur = current_week(weeks, today)
     print(f"DHL 燃油:{cur['label']} = {cur['percent']}%(共取得 {len(weeks)} 週)")
 

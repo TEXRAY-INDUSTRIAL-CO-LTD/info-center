@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  issues: write            # 失敗時自動開 issue 通知
 
 concurrency:
   group: update-data
@@ -94,14 +95,17 @@ jobs:
           fi
 
       # 有任何來源失敗就讓整個 job 判定為失敗,才不會安靜地壞掉沒人發現
-      - name: 回報失敗的來源
+      # 彙整失敗來源。這步本身不讓 job 失敗——否則後面開/關 issue 會被跳過;
+      # 真正把執行結果標紅的是最後一步。
+      - name: 彙整失敗來源
+        id: report
         if: always()
         run: |
-          fail=0
+          failed=""
           check() {
             if [ "$2" != "success" ]; then
               echo "::error::$1 抓取失敗($2)"
-              fail=1
+              failed="${failed:+$failed、}$1"
             fi
           }
           check 匯率        "${{ steps.rates.outcome }}"
@@ -109,5 +113,50 @@ jobs:
           check 紡織產業新聞 "${{ steps.news.outcome }}"
           check 品牌客戶動態 "${{ steps.brands.outcome }}"
           check 原物料價格  "${{ steps.materials.outcome }}"
-          if [ "$fail" = "0" ]; then echo "全部來源皆正常"; fi
-          exit $fail
+          [ -z "$failed" ] && echo "全部來源皆正常"
+          echo "failed=$failed" >> "$GITHUB_OUTPUT"
+
+      # 壞掉要有人知道:DHL 燃油曾從 9/4 壞到 9/17,執行紀錄一路是紅的卻沒人查看。
+      # 改成自動開 issue,GitHub 會寄通知。同一組失敗來源只開一張,避免每天洗版。
+      - name: 失敗時開 issue 通知
+        if: always() && steps.report.outputs.failed != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FAILED: ${{ steps.report.outputs.failed }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="資料更新失敗:$FAILED"
+          if gh issue list --state open --limit 100 --json title --jq '.[].title' | grep -qF "$TITLE"; then
+            echo "已有相同的未關閉 issue,不重複建立"
+            exit 0
+          fi
+          cat > body.md <<EOF
+          以下來源抓取失敗,**其餘來源的資料仍已正常更新入庫**。
+
+          - 失敗來源:$FAILED
+          - 執行紀錄:$RUN_URL
+          - 台北時間:$(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')
+
+          下次排程若恢復正常,這張 issue 會自動關閉。
+          連續多日沒有自動關閉,表示來源端真的有變動,需要人工查看。
+          EOF
+          gh issue create --title "$TITLE" --body-file body.md
+          echo "已建立提醒 issue:$TITLE"
+
+      - name: 恢復正常就關閉先前的失敗 issue
+        if: always() && steps.report.outputs.failed == ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          nums=$(gh issue list --state open --limit 100 --json number,title                  --jq '.[] | select(.title | startswith("資料更新失敗:")) | .number')
+          for n in $nums; do
+            gh issue close "$n" --comment "資料更新已恢復正常,自動關閉。"
+            echo "已關閉 issue #$n"
+          done
+
+      # 放在最後:讓執行紀錄確實是紅的,不會變成表面成功實際壞掉
+      - name: 讓執行結果反映失敗
+        if: always() && steps.report.outputs.failed != ''
+        run: |
+          echo "失敗來源:${{ steps.report.outputs.failed }}"
+          exit 1
