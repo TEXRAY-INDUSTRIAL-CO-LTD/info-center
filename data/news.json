@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-14T14:13:38+08:00",
+ "fetched_at": "2026-10-14T22:03:14+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -44,7 +44,7 @@
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
    "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-10-12 15:37",
+   "date": "2026-10-14 03:29",
    "cats": [
     "green"
    ]
@@ -117,6 +117,15 @@
    ]
   },
   {
+   "title": "重製未來RECODE 2050時尚秀演繹臺灣紡織創新與永續| 樂活情報",
+   "source": "中央社好生活",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZQXk1UmJTeHNkRlZ1WkwzUVo3UWtFczQ3bS04WC1nWlhzdDlMekpidFBCZXN3azAtbTZRWDROdUhQQjNiTXBiTVlQb1ZyVVhOaEJ3MTdYRlR1R1dLckE?oc=5",
+   "date": "2026-10-07 19:21",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16dDAtYUo0YW9KQWU4VzlyeGtwOVpELVoyaEszU0psMWtzV3kyYU1iVlcwVXNxak5UNGhxU2Zsb1hzQmFwSmtXX3N4S0ZpMV9Y?oc=5",
@@ -124,15 +133,6 @@
    "cats": [
     "market",
     "stock"
-   ]
-  },
-  {
-   "title": "1303 南亞 - 〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦紡織業要靠「創新」賺錢 - 股市爆料同學會",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYTEp0SFI1WGFQWkluS0ZtN05nQlBoYmM2RXJRQW11ZHdjSUVvTW5heFJzenE5ZktOal80MS0ya3NhZ2h6UThFbW80QlE1b2p3cWFvZlQwSzg?oc=5",
-   "date": "2026-10-07 15:35",
-   "cats": [
-    "market"
    ]
   },
   {
@@ -165,6 +165,16 @@
    ]
   },
   {
+   "title": "重製未來 RECODE 2050時尚秀 31家紡織業者攜手6大設計師品牌 48套作品演繹臺灣紡織創新與永續",
+   "source": "新頭條",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcjJ1SU81c3paOEtsX0xqSnFKN3hxOHZUX01aSDZ6ZXlGMW9hVjZFZ0VELTdELXpzMHlBeGpyenZvdklsT2ZSYkpmakVhazFGaVNwRQ?oc=5",
+   "date": "2026-10-07 13:06",
+   "cats": [
+    "market",
+    "green"
+   ]
+  },
+  {
    "title": "紡織所亮相 TITAS 2026 27項研發成果引領產業升級競爭力 | 產業動態",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcXNCYzFzR2RPN0lwandlVHRuNFJISmM3YnViZF8xQ3R6a2h4bzhjZjVwUFpIQ0xhWjFDZ0hZdTZ4cWNrSzc4c0NfTDlCellmcE9QeG9aQzVpcnM?oc=5",
@@ -180,6 +190,15 @@
    "date": "2026-10-07 01:28",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "紡織產業鏈搶搭永續商機！台北紡織展最新技術創逾13億產值，遠東新受惠-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzNoLWNqNEpjZnZNOU40N19JaXJRRGpfZ2twV3dYSDM1VTZHYnlqaElnZGdQVDZfdVczMkVTcURRLUxpcy1nck5hSXdYLThQaHZWajJhTlY5bGNwRzdNZ01SZ0JtVHMzSTcwMjltQUQ1ZlpBR2t3a0RvSkRwZWZCOXlB?oc=5",
+   "date": "2026-10-06 20:15",
+   "cats": [
+    "green"
    ]
   },
   {
@@ -303,17 +322,6 @@
    ]
   },
   {
-   "title": "遠東新世紀引領100%聚酯循環革命，開創低碳材料與永續機能紡織新紀元- 遠東集團",
-   "source": "Far Eastern Group",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xUlhlWEE4ckN6bzdSR0ZUU1Q3M2dnY0RPVVBHWHBtaG5LSldVQ1pHbUwzWFpzbW9PaEpxdkk4WHpadGsyNzI0NVhQU2U5dS01WVlmWGpYRmJ5bkJyRmUzNEdSeUpjNGs?oc=5",
-   "date": "2026-10-06 11:57",
-   "cats": [
-    "material",
-    "tech",
-    "green"
-   ]
-  },
-  {
    "title": "南寶登場2026台北紡織展 著眼東南亞綠色商機、助業界推進永續",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Oc1MyeVEzLUlmR09MUWxKNElCWjhaLXFodGxRSkFNUFJ3czZFdE1FYW81SU5yMFlfdFRXVWY2SG9KTHoyNDNiV0doWG1hal9xVWd5VFlQdkJwd9IBX0FVX3lxTE42WHYwT1pCdlBQeWctWXNCX2Q3SjZuUDNtN3hCaE1XWGVvMmJRdXdIanZPMzBJdUJHYXRtMndzRW9wY0lxcHpTWVA4dlpZQlJKYVdMRG1wUFVkLU9nakJ3?oc=5",
@@ -369,10 +377,10 @@
    ]
   },
   {
-   "title": "僑生成企業國際布局助力 重電與紡織先驅分享留用國際人才經驗",
-   "source": "104職場力",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xTDV1dUxyOURFLXA3YXBSZTNUblFPYmJ1YjFHWlFtd1lwbE9DVEU0UVBOWDZQSHdVU0M4bjBWRmFoT0YxYVpLakFFeWlfNWRtNVlyeXpVRHdmWGtHSnBRRjEyMVV1R1p2WkJJ?oc=5",
-   "date": "2026-10-05 18:00",
+   "title": "紡織大廠齊聚 展現最新技術與應用 | 產業動態",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uc1BPZzVvXzdBN2RsTjFmQ3dzRXBtSDFZSURSTXpCNEFtWEVSX1dncnk5ZzdLR3NLR3BoazFvV1F3WG9JREV5VVJsVm54Wjl3Q19iZVo3aTlIR0k?oc=5",
+   "date": "2026-10-05 15:00",
    "cats": [
     "market"
    ]
@@ -422,15 +430,6 @@
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FbmxrQTRoZTVzMXZRQWdkNXgxbTJtajg3RmwxN3Mwc0tGQW1Uc1d5b3Q1UTZScEFJSjU3c185OHNNRUZSLVdTTTZEaklSZGlkZ0pfX0N6Vnl0dw?oc=5",
    "date": "2026-10-05 10:05",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡織大廠齊聚 展現最新技術與應用 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uc1BPZzVvXzdBN2RsTjFmQ3dzRXBtSDFZSURSTXpCNEFtWEVSX1dncnk5ZzdLR3NLR3BoazFvV1F3WG9JREV5VVJsVm54Wjl3Q19iZVo3aTlIR0k?oc=5",
-   "date": "2026-10-05 10:04",
    "cats": [
     "market"
    ]
@@ -543,7 +542,7 @@
   },
   {
    "title": "經部攜資策會、又得馬科技助攻紡織業AI升級打造生成式AI針織機| 科技產業| 產經",
-   "source": "UDN",
+   "source": "udn",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUzJTOVFORDFhSFdsbDk2NzNmRFpJa3pTd3YzOXMySWthd0IxNnVqMUliQ2xlTEdOTDZyeGdqVVp0UlN1YWJieFE1bFc3OExU?oc=5",
    "date": "2026-09-23 15:00",
    "cats": [
