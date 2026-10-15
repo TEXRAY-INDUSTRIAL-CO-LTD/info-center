@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-15T13:57:10+08:00",
+ "fetched_at": "2026-10-15T21:42:23+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -42,21 +42,21 @@
    ]
   },
   {
+   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
+   "source": "三立新聞",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
+   "date": "2026-10-14 18:09",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "美國僑二代返臺創業 陳可翰打造「端到端」臺美成衣供應鏈|僑臺商群像",
    "source": "僑新聞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6cC1zSVUxSVlHbTh5Nmg1TjBSQVZVWFZSWmVVVzFydkEwdkZ1LUlnZnhQYVUwU0JMeGZrc0h5UVFaTXV2ZkM5QTFsQQ?oc=5",
    "date": "2026-10-14 13:30",
    "cats": [
     "trade"
-   ]
-  },
-  {
-   "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
-   "source": "三立新聞",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
-   "date": "2026-10-14 03:29",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -158,7 +158,16 @@
    "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
    "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
-   "date": "2026-10-07 15:02",
+   "date": "2026-10-07 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "紡織展大戲 前景展望兩樣情",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jMnl0QV9CTkNfWnNkVkt4bE96bGZjSW5ERnlIQW5pMm1jT1RCVlRybmNWVHdXT3RLbnhzT2cycVk4Q0NHZ2l5ak1SWTNvcUl00gFWQVVfeXFMUFVCaVhMWTR5UEVNOTh5ZmJaWU5jb3FBZFNLODV5ajNLUmF6N0d3RnpMd1Fwdk9mLVhFV1NiR0RiU3hZVnlVMktES3lqemVsdVowd3lGeGc?oc=5",
+   "date": "2026-10-07 15:00",
    "cats": [
     "market"
    ]
@@ -167,7 +176,7 @@
    "title": "臺灣機能布料變身伸展台主角31家紡織業者攜六大設計師品牌重製未來48套時裝演繹永續新風貌| 楊艾喬 | 地方新聞",
    "source": "風傳媒",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uUk9tWnV0VkZ2MjQyS0dxVDM0Q1VZZ3k2ZV9kUFBEVnhrTGxLSHBlMVFNUVc2NTQwaTVETVRMdmFfZTdKM2lEWEQ1b1gwUQ?oc=5",
-   "date": "2026-10-07 14:39",
+   "date": "2026-10-07 15:00",
    "cats": [
     "market",
     "tech",
@@ -190,15 +199,6 @@
    "date": "2026-10-07 11:07",
    "cats": [
     "tech"
-   ]
-  },
-  {
-   "title": "紡織展大戲 前景展望兩樣情",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jMnl0QV9CTkNfWnNkVkt4bE96bGZjSW5ERnlIQW5pMm1jT1RCVlRybmNWVHdXT3RLbnhzT2cycVk4Q0NHZ2l5ak1SWTNvcUl00gFWQVVfeXFMUFVCaVhMWTR5UEVNOTh5ZmJaWU5jb3FBZFNLODV5ajNLUmF6N0d3RnpMd1Fwdk9mLVhFV1NiR0RiU3hZVnlVMktES3lqemVsdVowd3lGeGc?oc=5",
-   "date": "2026-10-07 01:28",
-   "cats": [
-    "market"
    ]
   },
   {
@@ -226,15 +226,6 @@
    "date": "2026-10-06 19:17",
    "cats": [
     "tech"
-   ]
-  },
-  {
-   "title": "紡織股聯發攻漲停再摔跌停　9月獲利提前開獎「小衰退」",
-   "source": "ETtoday財經雲",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQjBRS2szNXk3UHU0ZXNxUjBsS1RHVm9FN2FkZkZEMFBkdU1xRnZUUnZudkk4S0hvd2trTkYwT3dNV2Y2VUtQUWNBVnVmQkxPOGfSAVBBVV95cUxQVWlUbTkzam5ac3NpWjJWTWlCd2h4azdFQjZLSE9wb3B0WHJ6SEdYV1NWVmtkRG9RZF8tNkFITXphbGp0UHRzTkxvbnpLVWxuaw?oc=5",
-   "date": "2026-10-06 17:32",
-   "cats": [
-    "stock"
    ]
   },
   {
@@ -300,6 +291,15 @@
    "date": "2026-10-06 15:00",
    "cats": [
     "green"
+   ]
+  },
+  {
+   "title": "紡織股聯發攻漲停再摔跌停　9月獲利提前開獎「小衰退」",
+   "source": "ETtoday財經雲",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQjBRS2szNXk3UHU0ZXNxUjBsS1RHVm9FN2FkZkZEMFBkdU1xRnZUUnZudkk4S0hvd2trTkYwT3dNV2Y2VUtQUWNBVnVmQkxPOGfSAVBBVV95cUxQVWlUbTkzam5ac3NpWjJWTWlCd2h4azdFQjZLSE9wb3B0WHJ6SEdYV1NWVmtkRG9RZF8tNkFITXphbGp0UHRzTkxvbnpLVWxuaw?oc=5",
+   "date": "2026-10-06 15:00",
+   "cats": [
+    "stock"
    ]
   },
   {
