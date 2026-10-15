@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-15T21:42:26+08:00",
+ "fetched_at": "2026-10-15T23:20:28+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,16 @@
  ],
  "items": [
   {
+   "title": "Williams Trading raises VF Corp. stock price target on improved outlook",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWxuSXRqdC1TcEx0X2xCVFBnMkE5RjNUU19hbG5HTXk2Q2FEeUducHFqT0M0dEJGNlZIcTJRMExyLS1GNnZIYjlCOVY1RlJwOG1FampZZ0tac2RxUEtjRzNjUURCX0dSYW42LXJjSEZzRHA1VUU0Y2xUbnFOVUozcEJHMXJzbVB6bmVCb1VoMXdDUWJpU0dfMWNEQjRjSk1UcTFxaVNlcW1pU3hMWkIwS0dBN1FMUG40dENpQVk1WlBTVXRLelJUeU1B?oc=5",
+   "date": "2026-10-15 21:50",
+   "lang": "en",
+   "brand": "vf",
+   "brand_name": "VF Corp",
+   "region": "americas"
+  },
+  {
    "title": "I Tried Lululemon’s Ganni Collaboration Before Anyone Else—These Styles Changed My Anti-Activewear Outlook",
    "source": "InStyle",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnoyclJXYm9vQ3MybWZMclBSNGxkakU1MWhZT2RGcTZ2NlM5TDhUcWtPZG9rVGN2S2haYktna0xnU1NHSmZ0STRqZnYzZW9qQXAwNjQxNFN6SXktTHFaLUl5QlRzeE1KeDlPanBYWVYxWi1JYWZlcUFKV1VvTl9tbVROcy1fTFU?oc=5",
@@ -198,16 +208,6 @@
    "region": "apac"
   },
   {
-   "title": "UNDER ARMOUR ANNOUNCES DATE FOR SECOND QUARTER FISCAL 2027 EARNINGS CONFERENCE CALL",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWJHeUFjckRvT0d5cVlpSm94R1lKXzUydHUwOHp4NTZHTnZtcUF6dnZUQjhrU2hyWG9jNWt6c2pVRDNLVVZYSVY0YTk3LU9ONjh2clpOanpHOFRFeHNrRTV3Nzc4RVRTMkhNOGE4SmVVQ0FhOGU0cmFiUlpxLWJad2VNY1dmUjNmUEVSUVVNaEtrMVJ4MmQtOHNGaGFtQ0w2Q1Z2MTh1MThXYzBNY0hvSm4tdC14bXozYVZGSlpXenFyQUFWRng4UjdibzJPN3Bjd3ZqcDkzbzFtTHB3?oc=5",
-   "date": "2026-10-15 04:30",
-   "lang": "en",
-   "brand": "underarmour",
-   "brand_name": "Under Armour",
-   "region": "americas"
-  },
-  {
    "title": "Fast Retailing (TSE:9983) Lifts Dividend And Guidance, Is The Stock Fully Priced?",
    "source": "Simply Wall Street",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzlENGZtMTUyVUpUUXotcTNQSkh3VlBoQUlxdFJ4ZXpsZGctQVRDRFNUMkN3YWYzUXMtd2laVVlvbU9ESkRTSllKS3BBbEdSZmJYVzVYSk5JOWxjRVhtZzFQckk5QkdkQmctT0U4MkVuNnY0NDFlbkZyMVMxNlgtSGE3MWlUcHhwakxtQl9YeS1qcENQakFWSmI2b3RxN1lxRU5YMEF1czhJcDZHWTNTSHpwZTBRZ0xCZWpSWE53WE51Q0tkWS0wLTZ4b2ktZW4w0gHWAUFVX3lxTE5TZHRrYy0yY0VJcW4zRVBpcy1JSXdSYUk4aVB3X2pka3lUeklERWdfTWtmVHBjZDRfVHNvQzBfWkFkbGlzUnJ4YmQ4bFBJdVNqcUp6c3NZVmdJN2o5S05wbEdzeElqSzB3V2Y3VGFoZUkxLWs2allfQzVVc0dEOFpWY21BNlc2YkloazY1SG5oQWhGZnZrUF9yRVB6dU81RTFBMFBGREpKWnZEcmZtUXdqUk8tVHdMMDdweEZwOE45YVI3cE5jRU1CNlVBUGxVS1JEdDk2WlE?oc=5",
@@ -223,16 +223,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91bHBzRXQ0VUF3N05WTzB6NURGZll1aWZhUWsyakNEc3pRQ242WTQ3UW1FdnlWdkdKMUFCRjViRE5mWnBtY3UtVjVVT0VleDFBV1RZMEZDNERPZmRsV2FUTmhoUHBrb2FKSUNUNmxtSl92b3gtYU5j?oc=5",
    "date": "2026-10-13 22:45",
    "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "兩大巨頭賣不動，代工霸主卻賺翻？儒鴻憑什麼在 Nike 與 Lululemon 的衰退中逆勢創新高？",
-   "source": "聚財網",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jY3lNSGNPV3AtUW9RNEEwU04yVVMtMEd2Tm1yU194NldwV2JPelQwVTljOFg4cEQ4Zm9PQ2pxbXlHbzB6Ukh2TWxTb1g?oc=5",
-   "date": "2026-10-13 13:05",
-   "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -488,9 +478,9 @@
    "region": "europe"
   },
   {
-   "title": "Nike 財測慘！推25億美元節流計畫 明年起裁員 股價盤後重挫近9% | 美股動態 | 國際",
+   "title": "Nike 財測慘！推25億美元節流計畫 明年起裁員 股價盤後重挫近9%",
    "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMmwtejRRcnNiZmdyelEzb0FwYlJkNHJ3SnRRTXM2bkJhWHlLS0cxc2pnVDRRQmRfanJoNXNsVjV4dmhfUlBSQVV4bW9Hc2s4TlpSSjBfc0pDdWw4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMmwtejRRcnNiZmdyelEzb0FwYlJkNHJ3SnRRTXM2bkJhWHlLS0cxc2pnVDRRQmRfanJoNXNsVjV4dmhfUlBSQVV4bW9Hc2s4TlpSSjBfc0pDdWw40gFiQVVfeXFMTTN5Z0JMTVNvcDZaaFpfeFJCcEQ1ZkV6anpiUjJpQkQwa08zSmZiT042NlV6aVhkbU1KNVpZYlpZaV9QaGZiWEp3RmdnOGxlQ2cwWjdwQUd2cUkxUmhYeHh1Znc?oc=5",
    "date": "2026-10-02 15:00",
    "lang": "zh",
    "brand": "nike",
