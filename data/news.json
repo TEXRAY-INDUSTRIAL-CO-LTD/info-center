@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-16T13:55:51+08:00",
+ "fetched_at": "2026-10-16T21:32:17+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "[聚陽實業供應GapZara等國際名牌揭秘成衣供應鏈實力]",
+   "source": "1111人力銀行",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SHJFdTJfSXZocU5uV1JxUVE2eDBLMzh1VHBucC1rZGhBTWRySTR6eEQ3SDhDQldsT0cwd0oxdHpzMkFfS0d2X1VRRU1Wc19yYWfSAVJBVV95cUxNNkhyRXUyX0l2aHFObldScVFRNngwSzM4dVRwbnAta2RoQU1kckk0enhEN0g4Q0JXbE9HMHdKMXR6czJBX0tHdl9VUUVNVnNfcmFn?oc=5",
+   "date": "2026-10-16 11:43",
+   "cats": [
+    "trade"
+   ]
+  },
   {
    "title": "《新創動態》光觸發自癒纖維導入機能紡織 推進高階材料永續應用",
    "source": "國家新創獎",
@@ -128,12 +137,12 @@
    ]
   },
   {
-   "title": "2026台灣紡織品新趨勢發表會促進紡織產業策略聯盟拓商機",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jazMxT3dGVDI0ald3YVZKeEFfNXZmTWtzZTh3NzBLSTNDeVVGRDRVTUxGdDhRRFFEQk1GUWFEZEtOQTVSaEV5b2hxYVBhUm1TLTFnRHBtajV1cE1LQ2Nn?oc=5",
-   "date": "2026-10-07 21:11",
+   "title": "安能聚亮相台北紡織展TITAS 再生碳纖維從回收到商品化",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHE2b1pqbURkT3c4UHdURElvTXRNQ3ZMdDlBY1FTQV9XMzVibWRCd1JwZUZBUWNHWVV3a2lYcXdRSzgtNXl1bUtwVWhQN3daUzFzeC11THo4Zw?oc=5",
+   "date": "2026-10-08 17:42",
    "cats": [
-    "market"
+    "green"
    ]
   },
   {
@@ -164,6 +173,15 @@
    ]
   },
   {
+   "title": "2026台灣紡織品新趨勢發表會促進紡織產業策略聯盟拓商機",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jazMxT3dGVDI0ald3YVZKeEFfNXZmTWtzZTh3NzBLSTNDeVVGRDRVTUxGdDhRRFFEQk1GUWFEZEtOQTVSaEV5b2hxYVBhUm1TLTFnRHBtajV1cE1LQ2Nn?oc=5",
+   "date": "2026-10-07 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16dDAtYUo0YW9KQWU4VzlyeGtwOVpELVoyaEszU0psMWtzV3kyYU1iVlcwVXNxak5UNGhxU2Zsb1hzQmFwSmtXX3N4S0ZpMV9Y?oc=5",
@@ -171,6 +189,15 @@
    "cats": [
     "market",
     "stock"
+   ]
+  },
+  {
+   "title": "紡織展時尚大秀！6大設計師攜手31家業者 秀出台灣新實力",
+   "source": "TVBS新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFR1lXUlNxNnI1bTd3dTNId1RaODBSVlN0SGZtczgwa1JnR0lmWTdYTFpnMW9pdmJmSHgzSVlIb1ROTnh0eHd1eFJ6ay15dw?oc=5",
+   "date": "2026-10-07 15:00",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -182,15 +209,6 @@
     "market",
     "tech",
     "green"
-   ]
-  },
-  {
-   "title": "紡織展時尚大秀！6大設計師攜手31家業者 秀出台灣新實力",
-   "source": "TVBS新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFR1lXUlNxNnI1bTd3dTNId1RaODBSVlN0SGZtczgwa1JnR0lmWTdYTFpnMW9pdmJmSHgzSVlIb1ROTnh0eHd1eFJ6ay15dw?oc=5",
-   "date": "2026-10-07 14:02",
-   "cats": [
-    "market"
    ]
   },
   {
@@ -522,9 +540,9 @@
    ]
   },
   {
-   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
+   "title": "第30屆台北紡織展10月6日登場 永續循環、機能應用與智慧製造成三大焦點",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CaS1oQlIxVXZiX1ZYaDduY3EyN2V2Y0VQUy1sLWl6b1gwblhBVGhibzEtRmtiWlZORDQ2cVZkb3R3bUZZVDJmUV92QmpLRF9y0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
    "date": "2026-09-23 15:00",
    "cats": [
     "tech",
@@ -532,9 +550,9 @@
    ]
   },
   {
-   "title": "第30屆台北紡織展10/6登場 永續循環、機能應用與智慧製造成三大焦點",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KUzFfdzJuOUwwWUFNVWI3OGphbHZxVDBpX09hdjRoc3hTQzdzTTdtZEFKQnUtQ2dxaEZTSm5FWmdVbHJfYmxncnRRN0JJal90LUhqaVFTMHJqQdIBX0FVX3lxTFBRREFNWkJRSERMcFhoaW5Pc2ViMlY2dlVnTGYtMGhDWV8wWFhOcDJhSmE0VHlrZjlRTXJ6RFNMcEo5ZVh6WFBKa082ckw4TkU5S3NXZFdzYVdGWlgtQlVv?oc=5",
+   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
    "date": "2026-09-23 15:00",
    "cats": [
     "tech",
@@ -577,15 +595,6 @@
    "cats": [
     "stock",
     "tech"
-   ]
-  },
-  {
-   "title": "施政報告2026｜紡織及製衣界：五年規劃與施政報告有遠見、有實招 打下升級轉型強心針",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVpKdFRsNHlnZUhNSnhacGtEQ2hlQkdfTThESWhGd2Q1YTdTWXpyeldxRXU5a3p2Y2RCNVhYUlM1akl1SzhlMno0YmdaS3plc2dtcWRmNVAxY0FhMTJJeE5UVlhuYzlEcjI0cmRjai1KX3FTYXc?oc=5",
-   "date": "2026-09-16 15:00",
-   "cats": [
-    "market"
    ]
   }
  ]
