@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-16T21:32:17+08:00",
+ "fetched_at": "2026-10-16T23:01:06+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -540,9 +540,9 @@
    ]
   },
   {
-   "title": "第30屆台北紡織展10月6日登場 永續循環、機能應用與智慧製造成三大焦點",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CaS1oQlIxVXZiX1ZYaDduY3EyN2V2Y0VQUy1sLWl6b1gwblhBVGhibzEtRmtiWlZORDQ2cVZkb3R3bUZZVDJmUV92QmpLRF9y0gFWQVVfeXFMTlRqWVU1OXhMelNOZEp6M1pfbFBnMU1wclZkY0huNHNaYkNYYjU4ZlNFbk90eTV6bFN1NkdyMDVnUlNiMGF2VHNyUHhaUEYyaVI0a2pKM0E?oc=5",
+   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
    "date": "2026-09-23 15:00",
    "cats": [
     "tech",
@@ -550,9 +550,9 @@
    ]
   },
   {
-   "title": "台北紡織展10/6登場聚焦永續、機能與智慧製造| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbHpIYnd4NXJ3TlMtaFhLX2dGWmN4bGZVUjlrclFLeml6aEdxZDNLX05vQ3ZSRnNxS1Vqd2dhQmJMT01fZmhxd0dScnRON3k1MU1BSVFDMFRGMTZZNUE?oc=5",
+   "title": "第30屆台北紡織展10/6登場 永續循環、機能應用與智慧製造成三大焦點",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KUzFfdzJuOUwwWUFNVWI3OGphbHZxVDBpX09hdjRoc3hTQzdzTTdtZEFKQnUtQ2dxaEZTSm5FWmdVbHJfYmxncnRRN0JJal90LUhqaVFTMHJqQdIBX0FVX3lxTFBRREFNWkJRSERMcFhoaW5Pc2ViMlY2dlVnTGYtMGhDWV8wWFhOcDJhSmE0VHlrZjlRTXJ6RFNMcEo5ZVh6WFBKa082ckw4TkU5S3NXZFdzYVdGWlgtQlVv?oc=5",
    "date": "2026-09-23 15:00",
    "cats": [
     "tech",
@@ -575,16 +575,6 @@
    "date": "2026-09-22 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "孟加拉成衣廠投資降溫設備 研究：四年內即可回本",
-   "source": "民視新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZW5SVDRFWDkyaWtDWnlLLW5wYTh2MHRmUWpmV1JodlMzZlFYRGN0Zmp4ZUxqV3hsNjZzLUxtYVcxeVhLOFhCZV9NSGZxM3pHMGpYXzBaMExUV243T1BRdA?oc=5",
-   "date": "2026-09-21 15:00",
-   "cats": [
-    "market",
-    "trade"
    ]
   },
   {

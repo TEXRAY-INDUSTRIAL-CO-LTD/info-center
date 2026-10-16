@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-16T21:32:20+08:00",
+ "fetched_at": "2026-10-16T23:01:09+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -178,21 +178,21 @@
    "region": "americas"
   },
   {
-   "title": "Nike Stock Forecast: Weak Guidance, Dividend Risks and Key Price Levels",
-   "source": "FXLeaders",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3RCZHM4bjY5am5jN1p4SG5lZEVxU3pOZW9hZGhBakpkSnpUUWJINEtWTUZyTHBMbm50b1ZmMTNUYzkzN0VWd2ZmRDFDOXVWeHdGVi1jczR0V2R5VUJTUFhSNHpaNDBmMHVwT2ZLZkVLbU9NOW1lY1BFN2dnVUlseENseHlQRHRuOWVWWU13ZFpKUVotNkE?oc=5",
-   "date": "2026-10-16 19:51",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "卸任 Nike 執行長後，8 個月找不到方向：杜納霍如何走出人生下半場的迷惘？",
    "source": "經理人",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rNTNQUEc3QlJZWU5yNTl4Q1hfbVF0ZnRvN2t3ZXBIcDA2NGsyLXZ4RlgwMDVaRFNKZl9yQ2lPcTFNZl9zQmtsdzB0Uk03RmhEMkRGNGVwWE9ZYmJjdVQ4?oc=5",
    "date": "2026-10-16 17:44",
    "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike Picked a Vintage Shop Over Its Own Stores for This Wild New Drop",
+   "source": "Men's Journal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGJwcjU2MzBMT01VM2ZETVQ1WS1sRW9TNDk5SVZHaVBtdEJ0Q3YybXkyNTVxYnNmMTIwTE4xSFhSZkJ0bW5ZRXVncExNcC1oSG1wZjA4TGFUaEFXQzNRNEhpNlBNUjNhLWhwNEJXdjNmNjNlaXo5VTdJaWRyYjkyWDZBS18tblpxUU5NWFlITHhJUDdBRVk0eDd2d0pxYzBWOG1na0R3?oc=5",
+   "date": "2026-10-16 14:04",
+   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -206,16 +206,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "How Bad Would Falling Sales Be For Lululemon Stock?",
-   "source": "Trefis",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2xySnA2TkhzMlFjQVZmNUFsUWRzVmFkNFJDZXN0MGZwaGZvY2tPYng3MFh0azZiang4b1lkejByVFB6TEYyWGxoZ1Z1aE5ZaVdFODFkQWdTWGNRNUNSSE12eHpDZmhzNzZwMTZMMGxXVWh4UW91QTNpZkxtUEVlVDBweUZEVWU1ZlpOanlUbEtjMHlEdjUxWThvenNlbkEtUzI2ZzZxZS1ha3U5X0luQw?oc=5",
-   "date": "2026-10-16 01:51",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "Zara founder Amancio Ortega closes on 1 North Wacker for $550M",
@@ -256,6 +246,16 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
+  },
+  {
+   "title": "This Week in Retail: ANTA Completes PUMA Investment, Nike Takes ONE PIECE into Stores, Tiffany Opens South Coast Plaza Café, Burberry Celebrates at Harrods, Furla Plans Airport Expansion",
+   "source": "RETAILBOSS | Substack",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91bHBzRXQ0VUF3N05WTzB6NURGZll1aWZhUWsyakNEc3pRQ242WTQ3UW1FdnlWdkdKMUFCRjViRE5mWnBtY3UtVjVVT0VleDFBV1RZMEZDNERPZmRsV2FUTmhoUHBrb2FKSUNUNmxtSl92b3gtYU5j?oc=5",
+   "date": "2026-10-13 22:45",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "UNIQLO歐美營收首超大中華區！從基本款到年輕人搶買，為何「不追潮流」反而贏？",
