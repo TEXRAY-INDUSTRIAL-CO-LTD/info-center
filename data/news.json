@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-19T14:18:22+08:00",
+ "fetched_at": "2026-10-19T23:52:22+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "泰國低價進口取消免稅仍估增18%，成衣鞋類家具製造先受壓",
+   "source": "索引新聞",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSW8xdndQcU9ycERxMkcwYTRUeDF3bFYtLTFKRXc0NngxS1ljek5vbV9JVFM4RkxuRUQ5VVlfTEU5Um5zNEVuZ2Fldk00akpRaUl1dWpLZFlIU3kyemstcGt3bGdHVG5TeVVVOVdZbFJJSV9FZEVZ?oc=5",
+   "date": "2026-10-19 17:52",
+   "cats": [
+    "trade"
+   ]
+  },
   {
    "title": "紡織業不只拚低成本！遠東新、新纖、聚陽新產能到位 第4季誰有看頭？",
    "source": "工商時報",
@@ -136,12 +145,12 @@
    ]
   },
   {
-   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
-   "date": "2026-10-07 15:00",
+   "title": "安能聚亮相台北紡織展TITAS 再生碳纖維從回收到商品化",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHE2b1pqbURkT3c4UHdURElvTXRNQ3ZMdDlBY1FTQV9XMzVibWRCd1JwZUZBUWNHWVV3a2lYcXdRSzgtNXl1bUtwVWhQN3daUzFzeC11THo4Zw?oc=5",
+   "date": "2026-10-08 17:42",
    "cats": [
-    "market"
+    "green"
    ]
   },
   {
@@ -151,6 +160,15 @@
    "date": "2026-10-07 15:00",
    "cats": [
     "tech"
+   ]
+  },
+  {
+   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
+   "date": "2026-10-07 15:00",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -321,6 +339,15 @@
    ]
   },
   {
+   "title": "紡織產業鏈搶搭永續商機！台北紡織展最新技術創逾13億產值，遠東新受惠-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzNoLWNqNEpjZnZNOU40N19JaXJRRGpfZ2twV3dYSDM1VTZHYnlqaElnZGdQVDZfdVczMkVTcURRLUxpcy1nck5hSXdYLThQaHZWajJhTlY5bGNwRzdNZ01SZ0JtVHMzSTcwMjltQUQ1ZlpBR2t3a0RvSkRwZWZCOXlB?oc=5",
+   "date": "2026-10-06 15:00",
+   "cats": [
+    "green"
+   ]
+  },
+  {
    "title": "紡織供應鏈迎雙軸轉型！官方砸千億預算助攻，這4檔概念股拚高值化與新產能-財經焦點情報站",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUxFaVZWVW5YWi1jZnJxU0lnVWwta1JEZHIxeGxxNGljYU5qN21kbUwzYmlWbEFIbTllS1NrdTc5VGQ4dmM5eXl5Qy1ZcU9tRmxkVHlpcjdwLUxLelZHS1hHeFZLdVpxMVMtVmhqZjA5VDdtck9mYmtGWEc1MDRZRjNn?oc=5",
@@ -328,6 +355,16 @@
    "cats": [
     "market",
     "trade"
+   ]
+  },
+  {
+   "title": "綠色紡織供應鏈啟動！台北紡織展最新登場破千展位，台廠大秀低碳與機能創新-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZW5lNDNRRjROQlhLZW9odkEwRG9FQ3gyRUNRV09VcWhfenU3b3FZaG1WSFlXeGhoRS1QbktTbEZhWGwwRHRRZVpud2FqSFVUeVBhRjIzaG1TQjhLQU9kcEt3cDdUVGg2M244Nm5iNzA3WEwwenNsT0hEZ1huckNnVmdn?oc=5",
+   "date": "2026-10-06 15:00",
+   "cats": [
+    "trade",
+    "tech"
    ]
   },
   {
@@ -451,6 +488,16 @@
    "cats": [
     "stock",
     "tech"
+   ]
+  },
+  {
+   "title": "永續機能纖維商機爆發！最新紡織展題材發酵，帶動南亞飆286元新天價-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlA3LVZwSldSSzRSNGhUeUJVMlRJUGp1T1FEaG1BNzdFeFV1NjcxMm5tTEQzbGhzbld2anhtcm5kZmZxZTNGSGVCTmVYNzVPbEFpTG5JSTF6am1HcmhBc1RfNGdvbU9qTzZmalBHR2VWRmQtVUE2My1lVURNbV9ub3Z3?oc=5",
+   "date": "2026-10-05 15:00",
+   "cats": [
+    "tech",
+    "green"
    ]
   },
   {
