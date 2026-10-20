@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-20T21:51:31+08:00",
+ "fetched_at": "2026-10-20T23:23:15+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -198,14 +198,14 @@
    "region": "apac"
   },
   {
-   "title": "StockX CEO Scott Cutler on Fakes, Nike's Lawsuit, and Rejecting Shoes",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNel9ZakM5emM2MVVOSzV4OC1kalR3dlpQNlQyd0tkUldZbExqbldTcld1OGpDRDc1VDlFM1BxN0NqbGpuSHg0clV0amJMaEhvRGZPdXZVOENhOVpRMERDVE9hYmRJXzl3X3dka29ob2RTVHExUzd5cWpuUjFJYzFhWXItaTRRcTAzeHZj?oc=5",
-   "date": "2026-10-20 14:31",
+   "title": "Khaitan & Co. advises ANTA Sports Products on Government approval for proposed indirect acquisition of PUMA stake",
+   "source": "SCC Online",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXVydC1NTE9mVGl0RHpuNWVVamYwU0Iya0txWXV1dlV4WjN3NG1JQzRPY1dhTWhaZ0lIUE5PdmsybXZCQlRacmlPOXprQ0l4OHVYdE5JS002WnhoV3lzSm1RWllaN2FqWFpDXzNKNHRkQUpJU3NCb1QydW1hWmxVbmFieW83SGVFaWdVN1ltS0E1dDBjV1BaYzJCd3ZHWmFrNGpN?oc=5",
+   "date": "2026-10-20 12:30",
    "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
   },
   {
    "title": "Chicago’s office building sales boom as Zara founder buys One North Wacker for $550M",
@@ -218,6 +218,16 @@
    "region": "europe"
   },
   {
+   "title": "Uniqlo India Revenue Rises 44% to Rs 1,724 Crore in FY26",
+   "source": "Apparel Resources",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZRSUZhWGpfOEl0V3ktbjQzMjJQVU1VbmhpSU1GMGNLaTZfZG1fVU9rR25oZ0lTUGlXZEo0UlBmb1Z5eXo0dmYwM05jaHQ3djJxd25hYjlOVFd6dlBkM095aVFkNjRaZk9TLU5iVGFIRFc1XzBpR3ZHVHBhWVVCemRaODBtWHk0YjFyV3p2aGx5YUVOcFMyYUg4TFZ4Rnp4?oc=5",
+   "date": "2026-10-19 22:20",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
    "title": "Uniqlo在日本宣布漲價4% 挺不住日圓貶值與物價上漲| 國際焦點",
    "source": "太報 TaiSounds",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3TDdrN1p0OTNzenhjbVZzR3VYUWswdk9xQ1Nfbkk3eUhCbnh1RlAtaHM5VGdrdjhqWkJCcDY1MnVrdHBXdU1RNThYZmZoc3lVdTFRdkVqWk1nX3g5?oc=5",
@@ -228,14 +238,14 @@
    "region": "apac"
   },
   {
-   "title": "【本週復盤】NIKE供應鏈資金回流，「3檔概念股」續強？",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YSWROZzJKWXljV3BCOWhMTnhzMjdpNThVRzlxMnZSV25YeWdIVUJSNGszRFdOcHdpME5HWi1wR3U3R1hfRWhsQWc0XzhnNFI4YUk1R3NjVGZPRWZscjcxWkk3a0VmRnBXOFlOTzNJckR2R24zV21kdE9FLTRmZw?oc=5",
-   "date": "2026-10-18 23:40",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
+   "title": "Uniqlo India net profit rises 41% to Rs 253 cr in FY26; co bets on expansion",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcWIyR1RRT3NGQTVvRVFQRjY3eDdkVjRJSWtTdThfWUl1cVhLUzV2VFE5cmtlSmQtUVhubVJab1BDRmVTSFd0Sk40eEk3NzR2X3c1bUJGUktQVFRQX0RWellTTmE1QkVHZGdLSmRxMGlaMjZWa3JkbHk5bjlFWFl4c3dmVHM0RnZ4X3I2Y2QtbFM3cWQ2UFJ4cVc1QzNsdEd1NVZhcnExV1FJQlJfWHBfNER6NlZabENWSGRlVnRZeEJrejk0SV9NLTRscDZRU3RhNGtJeHBOSzBadDZSN1I2OXBlZXhPRTVXNjh3MElLNXJGQWs0SEZwa1E2YWlhNXVq0gGGAkFVX3lxTE1SVm5tUTVLV3lQQWVraVNBczJNWTZRWFR2S21OM1hTc3RmNmc0OHowaER3M2NuQ0tqM2tFSHFMVE5sOEc4ak9KNFBqOFBhQTJ5eTBCNTFTaXFJbUVIZncwQmVGZ0MwUTc4N2RtZjE4bkdKbHBZZWlDcEZFWUs5VzhFVkd3MS11Szd3SVk0b2hOS0lFVl9WZk1nQTdlcjBqaUdhbkg2R1h0ZUdiQkVhRGVPcXFPTWhqamx5anZKMDVZX1FYTm5Sd0RPSnN0TGxYN0tadE8yc044RGoyUTY2WEpRV1BwQUh5MGt6UUpuZkZWYmRYZ2lvSlI2SG1ZeXAxM205c3pnUXc?oc=5",
+   "date": "2026-10-19 03:00",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
   },
   {
    "title": "卸任 Nike 執行長後，8 個月找不到方向：杜納霍如何走出人生下半場的迷惘？",
@@ -298,6 +308,16 @@
    "region": "apac"
   },
   {
+   "title": "Ericsson CEO Picks ASICs Over Nvidia Chips for RAN",
+   "source": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyVUdteF9ZaXZKT1g2YnpSa2ZZaTZYTkdpaUdTZk8zMEczbFFDX2RrMFFEWjdpS2Exc1RtUEdXa19tNVdUWm5faTAyeV9OUnFzUGxaZEZPZFZzcVlOTEZaTHcxVjAtSnRVUTFacU5wV3B6ci1L?oc=5",
+   "date": "2026-10-15 09:58",
+   "lang": "en",
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
+  },
+  {
    "title": "UNIQLO歐美營收首超大中華區！從基本款到年輕人搶買，為何「不追潮流」反而贏？",
    "source": "數位時代",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHFNYXplR21uQ3pobzU1QmhxVnJDY3Q4ZWpUYXV4Ny1oUTJMTkFKdDdYeU54ZkxHT2Q4XzhJTTE5QmxuQUY2dlh6cUtkTmJjQ1Jhb3BpalRzcjg0Wkk3V1BpVklBRE1WWVBBWlVlMGc2NTlGbXEySzZZMUxyU2pWLTE3OA?oc=5",
@@ -338,26 +358,6 @@
    "region": "europe"
   },
   {
-   "title": "Shein outsells British rival Asos as UK revenue hits £2.58bn",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUm50UF9uSVdoZjBKa2lIcUUzbThNdG9fRzJmMVg3MUpoRTdoX19JT0VaRkdWeG9UVXF4Ync0eU1OYXdLT01OZkl4Wks5M1FMSU9nY2JYSUpHWUtMTGZhM09zT1oxaVZfeENuMjI2M2dka0Vvb1B3LTVnR3d6NDFIbWJuMHNhb1BNQmpURFA3U215ZWdYaDNlS1dnOER2U1U0QnplLUd4ZlFTY0U?oc=5",
-   "date": "2026-10-09 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Fast Retailing (TSE:9983) Stock May Be Overvalued Following Raised FY2027 Forecast",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVFpOG9iWWxwSlVyZG4wWkkwS3NsZHU1VVV3azB6MFhKN3Y5ZFNucFNNWGV6eEpnTWZTY1VNNkM0X3hyRFBXUVNGVzd6V0JZLXAtSzNjTVRWd1I1c1lOR0tteGVBb042Z29YeHVkclMxVXQwQXZWbEIwLXJMVk0xdjFBUHQ4anNZek9ueWJ6OWpqbTBmV3h4MThR?oc=5",
-   "date": "2026-10-09 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
    "title": "【即時新聞】運動服飾巨頭Lululemon(LULU)重磅挖角Athleta執行長，高層人事大洗牌力拼營運轉型",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0pZcGdKSWN1UEhnSlZKbWNBWDExMzM3R0RLX3poUk13YV9kOXhrVG1uTTVnZnVTTWItRTI0MWJEZHpQUUpLalJmMlp5S1JTN0pIRUFFTTgxTU9jMFFmck9UVjFiU3E3YktBU0FMUmdwU2FBNUJXeWREaVJTekU3cG5pSnJ2N2pUdF9SQU92VEI?oc=5",
@@ -376,46 +376,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "Uniqlo owner Fast Retailing posts record profit as Western sales overtake China",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmUzeW52QWlxWm9lY0tMd1pOeTBOLTdPUmZMWVB0cURjRW5Ub1liTHlxaUgyZEQwRGVsNmhGM28wMmthLWppM0NFWHg5aXpHNFdKVV9CbllkS01oNGxkamtsNU4wRUxKSTVpcnJYQ0tGUUFSSF9HM3F6OUpYYUpKUW9SWTBiN19SMkRnMXFDQk1CLWl2TXNrTXJkM0Noa1o5c3RwaVpaRnV5d2drMTFBOHJMRkU1WERzN1dHQmdTSQ?oc=5",
-   "date": "2026-10-08 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Uniqlo Owner Posts Record Annual Profit, Expects Further Growth",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclNaYTlIeUF6b212QnNxcDZudE5aRTVHNnVMM0RlMERWV3JMUk5QcUFJVTk2SmRQaXdPdERtQTNiNXVKMERUdmtKRmpQWDRld2tVazE5YzR5c19jVFFUeF9EUDNRbENBbDZld3EzQW5sdDJhTC03d3BhR2FSLWY3VVlkTkg3eDl6NGJNTWE2QTlQakZMdDZBR3JSb01kZUhvVThPNE9CVDhZRzB2S2c?oc=5",
-   "date": "2026-10-08 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "Fast Retailing FY2026 annual earnings: record profit for 5th year",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDJEM1c3TU9HYnpENTBlMmg1V1l3bVdRWm1nRDZ4MENFZmZkRmhiWjJlUnpmMm1pckk4U3JzQnhDbFhLRTZuU0Z0U012em1BRUVHMGZpVkh3OExubXBHc010ZnY2NzhjMWlmcFNCQThtbzJDX280MWp3X2QwOVBmUnJCRVJJUV9UckhhTUZxN1NMeHhFSDBqdWN1dWtuc0Z3WU9oNg?oc=5",
-   "date": "2026-10-08 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "ANTA Sports Completes Acquisition of 29.06% Stake in PUMA, Becomes Largest Shareholder",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWtrVTV6LXBqSjB2VkpYNF9nem9GTHNMRmZkNWV2NDdYRnd5SkdfcVhCYmdDM1R2aWNPQ2Y3cjYtRXhudXEtRGdlbGZpVFFERGlycFpxRUNxOW9FN1RPVFQ4ZEFhR3NnZ2pzbDdLSTlsRDBYYUt4WE1HN0pPemRHME5uQ012WVZPREpzOVlsTXJ3MEpiSVJWWUxYNTF2YmNJMkM0?oc=5",
-   "date": "2026-10-07 15:00",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
   },
   {
    "title": "Nike（NKE）大中華區營收年減22%，品牌還是護城河嗎？",
@@ -516,26 +476,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "Shein’s Earnings Disappoint, Sending Stock Lower",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORktGUnZWSzcwaWQzTjZURVlld0JMLWVlTkNiSGwtMFJaVml0bWxTQkg3cTdtd2NRcUlUdGF4TkdZRHU2NGFrcER3OU5BQnJjbDZqWXVyOG9HWlFfb2lBRWl6WlgwQkg5Qm82SXpiemhRMW9ldW4xZTE3elQ4T2hOeEZ1S1J5bmdVenBxRGVnRnBVNXZDYVE?oc=5",
-   "date": "2026-09-29 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Shein shares sink after profits disappoint in first results since IPO",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBOZG5aNi1yRmlvcm1LUzVFN3d5UTVmdkRKcmd4aVdJYVAxWG9reDZHZkZFMVFKWUJhckpmLUh6REVNb3FiVjh2and1anIxcDVQblI1MFI2dXI5ZWxVbEJIZWhwT0NvdTVidUZQN2phaExERC1xSFBfSmhfbDZUUDVVdDQ?oc=5",
-   "date": "2026-09-28 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "Nike遭標普百大除名、股價跌78％ 一份亮眼財報為何仍救不了它？",

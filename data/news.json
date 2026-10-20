@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-20T21:51:29+08:00",
+ "fetched_at": "2026-10-20T23:23:13+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -97,6 +97,16 @@
    ]
   },
   {
+   "title": "孟加拉成衣業悲鳴- 產業特刊- 工商時報",
+   "source": "中時新聞網",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BV01sNXY0WnlROS1BQ1pQLV9mOWxyTkNLcUFCMWFlSEliZEFhdjB0NTdnV0FxNm80OW9pa0duOG1OT2REVVBpUnpsSjB4cG1tdnE2Wm1YdjRnd2pxOEhNcTliZ0FVa1NGeTdB?oc=5",
+   "date": "2026-10-12 15:00",
+   "cats": [
+    "market",
+    "trade"
+   ]
+  },
+  {
    "title": "弘裕挺進歐洲與北美機能性紡織展會以「零廢設計」搶攻全球戶外永續紡織新藍海",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yU1daOWZrOUdWRlhfTWlSaUtlTXBsWVpjTHdzR0tZblZCbXE2NEp0YVFEeUFhYjV1emhmeERFbm1LZFh1VmpFZmR5eGRoSF9qNl96eTBLNXNkTXJxQmlN?oc=5",
@@ -122,16 +132,6 @@
    "date": "2026-10-12 10:02",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "孟加拉成衣業悲鳴- 產業特刊- 工商時報",
-   "source": "中時新聞網",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BV01sNXY0WnlROS1BQ1pQLV9mOWxyTkNLcUFCMWFlSEliZEFhdjB0NTdnV0FxNm80OW9pa0duOG1OT2REVVBpUnpsSjB4cG1tdnE2Wm1YdjRnd2pxOEhNcTliZ0FVa1NGeTdB?oc=5",
-   "date": "2026-10-12 04:10",
-   "cats": [
-    "market",
-    "trade"
    ]
   },
   {
