@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-21T22:08:29+08:00",
+ "fetched_at": "2026-10-21T23:38:44+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Adidas FC Bayern Women 26-27 MCM Special Kit Spotted in Stores Ahead of Official Launch",
+   "source": "Footy Headlines",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQlMtOElqMWFuY25xV1ByX3FtTHQ1eTZaVmZrcVp0MUFzRjFIczB5UDhKUm5rWkRkU2YwS2F3bExJZ1NvVmdsVHVvZmItdk83c2hpSnN4YlB1ZjBCWjdUa1FsREdnLTJlQkU2OXJoc05vLWhfSkdaVTE0aVpXdUJyLU1EY05SZmE4VmtqNFctSmZJQVZxMTJSZ0F2RGgyMEdNbHVFVEw1Z3dUd0lsN2RWOWg0ekg0emFlTXNDay1iTUV2bUpxaWtRVDg2VDlPM1E?oc=5",
+   "date": "2026-10-21 22:56",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "lululemon's Americas Sales Slump Deepens Turnaround Concerns",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEc3eHdzd0piWE1QWGFjaGgwTVRRYWREU0dGT2lzc2V0bEhpeV9KZTk2cVl2Yy0tX0ZVMVBQZmMyTXRzclJrVFh6d2YxREVyUjZCVGYwY0NuUGVDRE52M3ZqcUdTOHhQZkJJZDc0VFFteU5VUTBFaEdFZFFTZm9CdnNUSlFscFlIbFdYMThSNk13UHhqZnY4OFZIMldzY3dGLUV1cnVBaw?oc=5",
+   "date": "2026-10-21 22:00",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "Nike Stands By Converse As Sales Keep Sinking 10/21/2026",
    "source": "MediaPost",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVNlSFFabWdjeEZXZlN3SFJLTk9RRFRVYjBueWJ3Wk1TcFNCTGJqS3JULUg3TmhIRmlRczQzRlVjYnlpaGpPbzdjbWtXMXlZMFJUYXdUQzR0czdTUS1lRVhUcDdieVZlZng5VWlXR1oyTU8xYUVON2Y5RlFyQVU0MXR5RS03aGVJMlI3d2tKUGNtSEpVQ2NjUElBcU1oRmN3WDRUckFfd0RHZFRkSlJ6bDZJTEo5TUNfanVN?oc=5",
@@ -183,16 +203,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01X0pncnl5bEZ6cUxicFJGU0p1RE00RnZlb0k3MzFuMVdqNVJSc1NjbzdMaXpZSVEwbmEyRXRJSkFfSE5yT2Z5eWwyOWtFcDJEbEJv?oc=5",
    "date": "2026-10-21 20:20",
    "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
-   "title": "愛迪達搶先公布Q3財報！初估營收年增9％衝2652億創高 全年獲利再上看915億",
-   "source": "FTNN 新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qQ2dHYXlaU1pVRnNmdk9VU0JUT0hMU3dmQnU5eUFuZVpLeWRGT0NfSkk5cktDMHAwZ21TeU9CU0NlX1E4cEVzVS1qRQ?oc=5",
-   "date": "2026-10-21 20:15",
-   "lang": "zh",
    "brand": "adidas",
    "brand_name": "Adidas",
    "region": "europe"
@@ -248,11 +258,11 @@
    "region": "apac"
   },
   {
-   "title": "日本優衣庫11月起部分商品加價 秋冬系列平均漲約4% 中國市場暫無調價計劃",
-   "source": "堅料網",
-   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQN0I2d095aVFrNVZCd3AwSEFWLUE4MmtkTDJXNjN1X2ZqYlUwVTJIQzhLVmU5VFMxbE9BZWdKX2I1R3RyT2Q5Q2s2MWxxekJoTVl6SF8tRDJGRU5uVHJNOFl2cGM5R01Mb1ZpenkybGQweWN1X2tvaE5HSVFUQzJGc3d3OVpRRm5LU2s0S0VCZ180T0xMeUY2NlU0dXgzcmJYc2tMaU0tLVE3Zmw2S3ZZeHJOVnJ0RHYtal9aYktJNUNoNDlkYWRFUGVOMHZNMEMzM3dVY2FMMVNyNWtlcTQyS0pHT3ZBRTFrUWpFeEZFOExmZjc4cTJhV25haldWWTltSXFCY1MtU3ZWSEtyb25ZbDZFMWlWYXFBdHdQVXpreko5Y3pZVEVuWUV6bFFoY0ZOVXNuMnV1RnRObENlSEhMTlZFNGVxQWJmZHBqUHhET0YzNDdPQ3J1VTVCN0w2bUNaQU42SUFzMElMRmVpOFpTcldnZXNYWmhsVUhmQjZDbkhJWjBnWXhLZFlzTUV5QXFFOFlJSWtXOW5IZzUwNnVDZWFTRFZHT3JYLVpMVTNSMzAybDBNenZoMEF4X3h1ZnNCVlBsR3pDc2YxcXlaaDB1bUIzSVZHMDgzM2JWbURIZTZ5a1pmZEhOSjFubkNOYkx3X1RsT3RlXzhzeU05TzdtQ1VPVnFyYVo4WGt0TUxxVTZXbWtDeHpvekdTbUxCOUd5dGRwdGNn?oc=5",
-   "date": "2026-10-21 16:43",
-   "lang": "zh",
+   "title": "Fast Retailing reports record profit and Fast Retailing stock trades at EUR 423.60",
+   "source": "AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazltWW5qSHhxdWdobEN5dlMzRVVOZG11REdmWmtWOTF4X0VpN09VMHJZN3E4MFdVZVlCcDNuOVJISGU1TTB5cUZXUkZyMUMxZFd3X3pIeHNvemhoVUVNLXBDN2R3N29jRDMxc1lZemlRQmV1QllkS1Y2dWlMTDQtWVBFX01QbTJTNTNJcVNPalQ3eUVuVmlkcUlIRkZGSEc0UWV5b0cyRjY4VXF6N1dCTGp4U19QY19pY3h6NWtyUHBMekZZNmZuVkV4NjgxYVhiMlFlN3R3NDlXVnhrQnc?oc=5",
+   "date": "2026-10-21 16:50",
+   "lang": "en",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
@@ -288,11 +298,41 @@
    "region": "apac"
   },
   {
+   "title": "Khaitan & Co. advises ANTA Sports Products on Government approval for proposed indirect acquisition of PUMA stake",
+   "source": "SCC Online",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXVydC1NTE9mVGl0RHpuNWVVamYwU0Iya0txWXV1dlV4WjN3NG1JQzRPY1dhTWhaZ0lIUE5PdmsybXZCQlRacmlPOXprQ0l4OHVYdE5JS002WnhoV3lzSm1RWllaN2FqWFpDXzNKNHRkQUpJU3NCb1QydW1hWmxVbmFieW83SGVFaWdVN1ltS0E1dDBjV1BaYzJCd3ZHWmFrNGpN?oc=5",
+   "date": "2026-10-20 12:30",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "Uniqlo India Revenue Rises 44% to Rs 1,724 Crore in FY26",
+   "source": "Apparel Resources",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZRSUZhWGpfOEl0V3ktbjQzMjJQVU1VbmhpSU1GMGNLaTZfZG1fVU9rR25oZ0lTUGlXZEo0UlBmb1Z5eXo0dmYwM05jaHQ3djJxd25hYjlOVFd6dlBkM095aVFkNjRaZk9TLU5iVGFIRFc1XzBpR3ZHVHBhWVVCemRaODBtWHk0YjFyV3p2aGx5YUVOcFMyYUg4TFZ4Rnp4?oc=5",
+   "date": "2026-10-19 22:20",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
    "title": "Uniqlo在日本宣布漲價4% 挺不住日圓貶值與物價上漲| 國際焦點",
    "source": "太報 TaiSounds",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3TDdrN1p0OTNzenhjbVZzR3VYUWswdk9xQ1Nfbkk3eUhCbnh1RlAtaHM5VGdrdjhqWkJCcDY1MnVrdHBXdU1RNThYZmZoc3lVdTFRdkVqWk1nX3g5?oc=5",
    "date": "2026-10-19 20:50",
    "lang": "zh",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
+   "title": "Uniqlo India net profit rises 41% to Rs 253 cr in FY26; co bets on expansion",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcWIyR1RRT3NGQTVvRVFQRjY3eDdkVjRJSWtTdThfWUl1cVhLUzV2VFE5cmtlSmQtUVhubVJab1BDRmVTSFd0Sk40eEk3NzR2X3c1bUJGUktQVFRQX0RWellTTmE1QkVHZGdLSmRxMGlaMjZWa3JkbHk5bjlFWFl4c3dmVHM0RnZ4X3I2Y2QtbFM3cWQ2UFJ4cVc1QzNsdEd1NVZhcnExV1FJQlJfWHBfNER6NlZabENWSGRlVnRZeEJrejk0SV9NLTRscDZRU3RhNGtJeHBOSzBadDZSN1I2OXBlZXhPRTVXNjh3MElLNXJGQWs0SEZwa1E2YWlhNXVq0gGGAkFVX3lxTE1SVm5tUTVLV3lQQWVraVNBczJNWTZRWFR2S21OM1hTc3RmNmc0OHowaER3M2NuQ0tqM2tFSHFMVE5sOEc4ak9KNFBqOFBhQTJ5eTBCNTFTaXFJbUVIZncwQmVGZ0MwUTc4N2RtZjE4bkdKbHBZZWlDcEZFWUs5VzhFVkd3MS11Szd3SVk0b2hOS0lFVl9WZk1nQTdlcjBqaUdhbkg2R1h0ZUdiQkVhRGVPcXFPTWhqamx5anZKMDVZX1FYTm5Sd0RPSnN0TGxYN0tadE8yc044RGoyUTY2WEpRV1BwQUh5MGt6UUpuZkZWYmRYZ2lvSlI2SG1ZeXAxM205c3pnUXc?oc=5",
+   "date": "2026-10-19 03:00",
+   "lang": "en",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
@@ -306,6 +346,16 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
+  },
+  {
+   "title": "Ericsson CEO Picks ASICs Over Nvidia Chips for RAN",
+   "source": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyVUdteF9ZaXZKT1g2YnpSa2ZZaTZYTkdpaUdTZk8zMEczbFFDX2RrMFFEWjdpS2Exc1RtUEdXa19tNVdUWm5faTAyeV9OUnFzUGxaZEZPZFZzcVlOTEZaTHcxVjAtSnRVUTFacU5wV3B6ci1L?oc=5",
+   "date": "2026-10-17 19:38",
+   "lang": "en",
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
   },
   {
    "title": "卸任 Nike 執行長後，8 個月找不到方向：杜納霍如何走出人生下半場的迷惘？",
@@ -326,16 +376,6 @@
    "brand": "asics",
    "brand_name": "Asics",
    "region": "apac"
-  },
-  {
-   "title": "投資人撤出科技股轉向消費類股Nike等獲買盤挹注- 股市爆料同學會",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tS1d2Q0VJLXlWMjNmMlRheTVtR3dmY0lXTTdqZ0VZaUFNcV82XzRHWExUb19HSVhHQTlmZXFfY0NBUHBCUG5jYThXQmE1MUluWGRtanAxdVg?oc=5",
-   "date": "2026-10-16 11:30",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "投資人撤出科技股轉向消費類股 Nike等獲買盤挹注",
@@ -378,26 +418,6 @@
    "region": "apac"
   },
   {
-   "title": "Shein outsells British rival Asos as UK revenue hits £2.58bn",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUm50UF9uSVdoZjBKa2lIcUUzbThNdG9fRzJmMVg3MUpoRTdoX19JT0VaRkdWeG9UVXF4Ync0eU1OYXdLT01OZkl4Wks5M1FMSU9nY2JYSUpHWUtMTGZhM09zT1oxaVZfeENuMjI2M2dka0Vvb1B3LTVnR3d6NDFIbWJuMHNhb1BNQmpURFA3U215ZWdYaDNlS1dnOER2U1U0QnplLUd4ZlFTY0U?oc=5",
-   "date": "2026-10-09 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Fast Retailing (TSE:9983) Stock May Be Overvalued Following Raised FY2027 Forecast",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVFpOG9iWWxwSlVyZG4wWkkwS3NsZHU1VVV3azB6MFhKN3Y5ZFNucFNNWGV6eEpnTWZTY1VNNkM0X3hyRFBXUVNGVzd6V0JZLXAtSzNjTVRWd1I1c1lOR0tteGVBb042Z29YeHVkclMxVXQwQXZWbEIwLXJMVk0xdjFBUHQ4anNZek9ueWJ6OWpqbTBmV3h4MThR?oc=5",
-   "date": "2026-10-09 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
    "title": "安踏集團又出手了！繼始祖鳥、FILA後再收購Puma近三成股權成最大股東- 兩岸",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGV2tlYlg4bElseFZmZEJxWnMwZFgxX3ZTUldXbWdXTlpmcHcyb3lhSEJobmNnMWppNThUTjJZUG1oR0tqWlZlUTZzSHdfUktlVUc4V1BTc2xON1dTZ3ZJ?oc=5",
@@ -418,20 +438,10 @@
    "region": "apac"
   },
   {
-   "title": "Uniqlo Owner Posts Record Annual Profit, Expects Further Growth",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclNaYTlIeUF6b212QnNxcDZudE5aRTVHNnVMM0RlMERWV3JMUk5QcUFJVTk2SmRQaXdPdERtQTNiNXVKMERUdmtKRmpQWDRld2tVazE5YzR5c19jVFFUeF9EUDNRbENBbDZld3EzQW5sdDJhTC03d3BhR2FSLWY3VVlkTkg3eDl6NGJNTWE2QTlQakZMdDZBR3JSb01kZUhvVThPNE9CVDhZRzB2S2c?oc=5",
-   "date": "2026-10-08 15:00",
-   "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
    "title": "Nike仍是儒鴻大客戶！董座王樹文：訂單沒衰退很多 第四季營收續拚新高",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNNHNTT2dtS2p6SEp4ZlBRLWRFTHhYSHVic0ZZbU5GMGFkRXg0R1RFOHJCT1U3N0txYUwyYmZvek1zRW16dkdBR1FMczVqc0c2NUE0N1BzS0hER3NyRmRqWVNUcE1ORnN6LXVDc0ROMlBFbHhjeHBRRU9oUW1UVE5vaE13cHQxSTl3WXBNdUQ4ZHlSMVhudDJCUm5nY1FrXzNRQWZJcnlCZWZyYmhIakE1Y0FlcTZ2Z2E1bVpMMVN6Q2NTbmJ5VXpNZ1ZsUjBaVVVzWHM0dnEwUVNuSHJkNVViSk43amJjU0xDWGtnQVdhVHN2MGo4djRnelg0VUpFdTVfZU5KVnMyZGQwNDlzenY2STFzaTE0SWxSMDFpWnQwVFpnWGxQRl9fWmREVGhBOExGVFdRRVhWb1dmTWVFaC1OSVdIZFQ1anE0VXJtR3NjREUxNmNMU21yUUZJQ2hrRlVhZThSMTV0allYeHNYb0gyZGVzV2ZaRUVSVEg5TFpNQ3h1ekoxalE2dzlEa2ZZVVZTQlUtMWVkLVozc1E4d090MTZvSjh0azZFRUY2TnhWemVhYjRNNXNPbXU2WVZ4UVUzSmRNbWl3QzR0dw?oc=5",
-   "date": "2026-10-06 15:00",
+   "date": "2026-10-05 15:00",
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
@@ -498,6 +508,16 @@
    "region": "americas"
   },
   {
+   "title": "【Style Story】成功創造慾望、帶動銷售，Zara是如何成為全球市值最高的時尚品牌？",
+   "source": "GQ Taiwan",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNHNjZTRoOTRVSENlRDF6RzVjQ1QzQzlPMC13Nlp3U1dUUlFqOHJoeHowTXQ1UkdEbG9oQnpxMVNib2xTSUJPR1RleFB0enBXY28zejF0UW1uQQ?oc=5",
+   "date": "2026-10-03 15:00",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
    "title": "曾經的鞋王 Nike 市值重挫 8 成、3 度裁員！過去的成功卻是今日的致命陷阱，它輸在哪？",
    "source": "經理人",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Y1UtQjNzbkxqdjZPUTg3R0ZqRG1xYmpHcmdUeHNjcTRxbWc3ZDlRZktXZW1NWE10cjN6eXBqbDV4alAweDJGLWp0MDhDam14cTFqS3hxYUJOTmZ2dzA0eA?oc=5",
@@ -526,16 +546,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "Shein quarterly profit falls 67% as costs jump, Europe sales slump",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlF3Y00zX25UdUVycHZwTHFMMFd3VnVpeVk5dUZfRXVDbmh3MkV6QlRtTERFdlhmODI3ZmJKYVpqcTRmWG4yS3A0ZVZoVkNsRDhSR0VRejVDNTBaTEtfdkxWZVV2dU9hMnB6dURic01Oem1SeGxHaGtlUERjaVJleTFjWFE0R1RrWDFSSFUtVTJlamdUZHVyQWw3eHM?oc=5",
-   "date": "2026-09-29 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "Uniqlo秋冬肩背包推薦Top5：「這2款」愛馬仕前設計師操刀，庫存告急！",
