@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-20T23:23:13+08:00",
+ "fetched_at": "2026-10-21T14:06:51+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,19 +32,10 @@
  ],
  "items": [
   {
-   "title": "泰國低價進口取消免稅仍估增18%，成衣鞋類家具製造先受壓",
-   "source": "索引新聞",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSW8xdndQcU9ycERxMkcwYTRUeDF3bFYtLTFKRXc0NngxS1ljek5vbV9JVFM4RkxuRUQ5VVlfTEU5Um5zNEVuZ2Fldk00akpRaUl1dWpLZFlIU3kyemstcGt3bGdHVG5TeVVVOVdZbFJJSV9FZEVZ?oc=5",
-   "date": "2026-10-19 17:52",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
    "title": "成衣供應鏈的人力壓力：緬甸缺工、印尼裁員通報、柬埔寨加薪2美元",
-   "source": "索引新聞",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NzZUQktKV0FuR0ZTZjVMRFdXcUNFNldZZW55VGxocUF4TGpwY1k2azFOUGFZR0NSRXBfYjBhMXNTY2doMXUtUzNYeDhwWHNjWVltemFmM1NCZ092NGZFTThyN21wN2FYRDdMY3RuRQ?oc=5",
-   "date": "2026-10-19 03:36",
+   "source": "墨新聞-MORE News",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZN3NmSzdyc0RFdXRlX1pXei0yMWZORXZIZUxZT21UaHVOV1hRMC00d1F0V3dCcnBUSHhIZHdjN2YxUQ?oc=5",
+   "date": "2026-10-19 03:58",
    "cats": [
     "trade"
    ]
@@ -74,16 +65,6 @@
    "date": "2026-10-16 11:43",
    "cats": [
     "trade"
-   ]
-  },
-  {
-   "title": "《新創動態》光觸發自癒纖維導入機能紡織 推進高階材料永續應用",
-   "source": "國家新創獎",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnRJYWFvUkZCVG9QU1FxeGRxUEx5UWhER09SQ09tSEdMQUExVkxfZ0VLQmE4OVcwV3RFZTR2YlJ0V2RpVFVyVkN0UEpOcnJyNkUtdDVabXN2R0NCY3JMcWh4b1IxZ19XSWJlaERVU1ZMRlU5dUFTbzJpRFRyRnl5ZHhhTF95bHhpNkM3TmlORGJ2ZGd3MUtOVg?oc=5",
-   "date": "2026-10-16 08:56",
-   "cats": [
-    "tech",
-    "green"
    ]
   },
   {
@@ -117,24 +98,6 @@
    ]
   },
   {
-   "title": "「循環織路・永續新生活」 通路驅動之紡織循環生態系商業驗證成果",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N0Y2ekp2QW1lSnRvQl9LanJFNFNwRjRVNFJHcWVCVDBlRTdyN2RHRUYyWDVEdWZCY1h4UmJ5dXloMmY5OHVJSU1GckRMS0cyX1BaZGRhbDFWeFZrNEg0?oc=5",
-   "date": "2026-10-12 10:19",
-   "cats": [
-    "green"
-   ]
-  },
-  {
-   "title": "2026年台北紡織展圓滿閉幕 未來商機預估約6千萬美元 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMU1QTmdwVVViYjl6b3FiQmVVenhSU25mQnBWVGlaTzBBYXJ6Z1Y3d2xmanRCOHotWkpORXMxY2ZZR2dXQnlDeDFhZDZ1WEhFMkFuMHJRYm13T1U?oc=5",
-   "date": "2026-10-12 10:02",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "2029告別「最不發達國家」！孟加拉告別關稅紅利積極轉型 力拚工業化擺脫成衣依賴",
    "source": "鉅亨網",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTNHdSZUgxdTZyN2lJYy1lUUVyWnFIaUdBNHRaUUgwU2VLeHgzWThVZ1NvZnZ3Z0FkRW0xck4wajV2bjU3MERFSUVLTUdCT0E?oc=5",
@@ -155,123 +118,13 @@
    ]
   },
   {
-   "title": "〈台北紡織展〉台塑集團總裁吳嘉昭：石化景氣明年迎復甦 紡織業要靠「創新」賺錢",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybURQR0ZSZUJFeldOY2VoeW5rNFc0dlRSeWVURWc5TnlIODVIVVVkeDBuUkF1RnhReFhvM3lGQzc3YTVYTXhSVV95Ulh0X1k?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡織所亮相 TITAS 2026 27項研發成果引領產業升級競爭力 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcXNCYzFzR2RPN0lwandlVHRuNFJISmM3YnViZF8xQ3R6a2h4bzhjZjVwUFpIQ0xhWjFDZ0hZdTZ4cWNrSzc4c0NfTDlCellmcE9QeG9aQzVpcnM?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "tech"
-   ]
-  },
-  {
-   "title": "紡織展大戲 前景展望兩樣情",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jMnl0QV9CTkNfWnNkVkt4bE96bGZjSW5ERnlIQW5pMm1jT1RCVlRybmNWVHdXT3RLbnhzT2cycVk4Q0NHZ2l5ak1SWTNvcUl00gFWQVVfeXFMUFVCaVhMWTR5UEVNOTh5ZmJaWU5jb3FBZFNLODV5ajNLUmF6N0d3RnpMd1Fwdk9mLVhFV1NiR0RiU3hZVnlVMktES3lqemVsdVowd3lGeGc?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "2026台灣紡織品新趨勢發表會促進紡織產業策略聯盟拓商機",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jazMxT3dGVDI0ald3YVZKeEFfNXZmTWtzZTh3NzBLSTNDeVVGRDRVTUxGdDhRRFFEQk1GUWFEZEtOQTVSaEV5b2hxYVBhUm1TLTFnRHBtajV1cE1LQ2Nn?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "不只做世界盃球衣！遠東三大新技術亮相紡織展徐國安新拚高毛利轉型| 雜誌",
-   "source": "UDN",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16dDAtYUo0YW9KQWU4VzlyeGtwOVpELVoyaEszU0psMWtzV3kyYU1iVlcwVXNxak5UNGhxU2Zsb1hzQmFwSmtXX3N4S0ZpMV9Y?oc=5",
-   "date": "2026-10-07 15:00",
+   "title": "紡織供應鏈迎雙軸轉型！官方砸千億預算助攻，這4檔概念股拚高值化與新產能-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUxFaVZWVW5YWi1jZnJxU0lnVWwta1JEZHIxeGxxNGljYU5qN21kbUwzYmlWbEFIbTllS1NrdTc5VGQ4dmM5eXl5Qy1ZcU9tRmxkVHlpcjdwLUxLelZHS1hHeFZLdVpxMVMtVmhqZjA5VDdtck9mYmtGWEc1MDRZRjNn?oc=5",
+   "date": "2026-10-06 15:00",
    "cats": [
     "market",
-    "stock"
-   ]
-  },
-  {
-   "title": "紡織展時尚大秀！6大設計師攜手31家業者 秀出台灣新實力",
-   "source": "TVBS新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFR1lXUlNxNnI1bTd3dTNId1RaODBSVlN0SGZtczgwa1JnR0lmWTdYTFpnMW9pdmJmSHgzSVlIb1ROTnh0eHd1eFJ6ay15dw?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "臺灣機能布料變身伸展台主角31家紡織業者攜六大設計師品牌重製未來48套時裝演繹永續新風貌| 楊艾喬 | 地方新聞",
-   "source": "風傳媒",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uUk9tWnV0VkZ2MjQyS0dxVDM0Q1VZZ3k2ZV9kUFBEVnhrTGxLSHBlMVFNUVc2NTQwaTVETVRMdmFfZTdKM2lEWEQ1b1gwUQ?oc=5",
-   "date": "2026-10-07 15:00",
-   "cats": [
-    "market",
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "【北美智權報】台北紡織展迎30週年！AI智慧報價、自動充氣睡墊展現台灣紡織國際競爭力| 2026 年 10 月 7 日",
-   "source": "北美智權",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93d3NGTjVacUdNNTdmWWRLd0VJRHhvdFNkUDlfYUVmTUwxZWdaSnlMSmRtS21mOVloeG9zY2xER1VpSHJxVHBDaw?oc=5",
-   "date": "2026-10-07 11:55",
-   "cats": [
-    "material"
-   ]
-  },
-  {
-   "title": "重製未來RECODE 2050時尚秀31家紡織業者攜手6大設計師品牌",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hOVN0ZUo2dHdzbmRwcS1HQWpaakhPcVI0X3hJNnhvdWRaME9hdEo5UGdJaVBSYmxGcy1JcXlFVHpsaFdLUFA0ek9hbFJlczh3OURjWC1fMC1QcWRzUEdv?oc=5",
-   "date": "2026-10-07 00:54",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "經濟部技術司六法人跨域齊聚2026台北紡織展(TITAS) 六項亮點技術 預估帶動逾13億元產值",
-   "source": "經濟部",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWJQZzZxYUxZRUk0dENSOVR6MUh0dEhsdEZrbnZnT2F5a3BnWmhGalJUVWVYYlFNR1hTTkZzUzNueGVyUlNEZnFvdFVCX3RWaUM2ZDQ3eGZSLWJGa1RFLXR6WTJhcFFHTUpJV05zZWFhZnpQZXpDQnFPMGNQLVEwVEFQcGNkZWlGYVY2eA?oc=5",
-   "date": "2026-10-06 16:15",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
-   "title": "福懋總經理李敏章示警 紡織景氣：明年不會更差、但好轉也難",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fNEs0STNjR1JySkY0WWlyakpSUzhjSGJaemVGQ3JmZkRVMFpFYVJRX3h6cV9pV19nLUlOaVRueXJNUHAwSjk3M0J3T0ZiazVNc1BGZGlvaGZlUdIBX0FVX3lxTE04X0M3WlJEb2l6YmhWWDd0MW9XSExYUkE3V250NFJDVnVwVENBTHpfY0czRzdUdVcxT0RuQkFVcEhQUU9LbFN3SldPVjJtaERaMDd2RWJNMjhNd0VBODRB?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "〈台北紡織展〉紡拓會郭紹儀：持續強化國際買主鏈結 410家廠商參展聚焦三大主題",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sRF8yWktTRWFncnc1WExlSUM3elA0Q1p1SE1TcHdHczN3QkdyWmZIal84aEFRMFFqbFhRT0ZqQ0xDSGl6N25uZll4UXA1WHM?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "〈台北紡織展〉新纖NEOLAST新產線正式量產 首階段年產能600噸",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93ck03YkhmUHB3V1JMbk0wZGg5SDctY1l2V3ZTSGFJTXNUY19hNldrbXdJWm9fekhkLV9OVUxxbEdNcGt0TmlhLWVlTlR5c28?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market"
+    "trade"
    ]
   },
   {
@@ -284,211 +137,12 @@
    ]
   },
   {
-   "title": "〈台北紡織展〉儒鴻董座：Q4營運向上全年可望創高 明年首季展望樂觀",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hcXh6TkxKcHZyR2VsdDNNcmZ6SFBySkJlX1c3Y3JFclNCTVA2Y3VGVXBDZWYtU2tvT2pnUHFpRFNaLU1wTnkzMklRbUVwa3c?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "印研中心AI智慧辨識 跨域助攻紡織製造 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QV0FFY2ZhVWJBUlBYeHI5TmY1am8zOUxpWkM0ZjVMOU1qVU9WcTdvbnVQTDRibi1Eem82Zk1xOTdIMHdTR0tja3NqOS1VWGJ1Ujk3VGFZRVVhdFk?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡織股聯發攻漲停再摔跌停　9月獲利提前開獎「小衰退」",
-   "source": "ETtoday財經雲",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQjBRS2szNXk3UHU0ZXNxUjBsS1RHVm9FN2FkZkZEMFBkdU1xRnZUUnZudkk4S0hvd2trTkYwT3dNV2Y2VUtQUWNBVnVmQkxPOGfSAVBBVV95cUxQVWlUbTkzam5ac3NpWjJWTWlCd2h4azdFQjZLSE9wb3B0WHJ6SEdYV1NWVmtkRG9RZF8tNkFITXphbGp0UHRzTkxvbnpLVWxuaw?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
-   "title": "東和紡織四大主題亮相機能、永續兼具",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00WHlibzR4YXc0OUdfSGRBWTRCRVZiUnlTaG9KRHpnRzJxWV91ZWtxT25CaFpQYklrb1A5SG5UbEZlcTUxenB4eDB5SERKVXNxY3pEdzVmWlFGd0c2NzlF?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "南寶參展台北紡織展 環保水性樹脂助攻綠色轉型",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTVaVi03czFxNk9jWERfMmRRVXFLU2NRb0lqd2ZGREZES0g5SXkwYUpHVTF5TkwyVnkxZnphdkRiQkh4TGduOHkzOGZRaEo3ZnctdzBZcWoyOEY1ODMtTHFYMzhqTTJqeGtjbFR0dWNxMUZwamxWdWI0b3JBcTF6OFhqNmtLY2tUczVaT2hzV0ZPZw?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market",
-    "green"
-   ]
-  },
-  {
-   "title": "台北紡織展經部秀研發成果6亮點技術估帶動逾13億產值| 產經",
-   "source": "中央社 CNA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zVDRqWkgzaExmbVdURDBqWjRqMHk4aGZ0TjZkY2ZNSE9BcXU4REpUNUJnY18tODZhOFNxWkxKb1RQRmJQRWJkM1RGclUwSjRPTUc3SG1xX3ZPNkJvWnc?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "tech"
-   ]
-  },
-  {
-   "title": "紡織供應鏈迎雙軸轉型！官方砸千億預算助攻，這4檔概念股拚高值化與新產能-財經焦點情報站",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUxFaVZWVW5YWi1jZnJxU0lnVWwta1JEZHIxeGxxNGljYU5qN21kbUwzYmlWbEFIbTllS1NrdTc5VGQ4dmM5eXl5Qy1ZcU9tRmxkVHlpcjdwLUxLelZHS1hHeFZLdVpxMVMtVmhqZjA5VDdtck9mYmtGWEc1MDRZRjNn?oc=5",
-   "date": "2026-10-06 15:00",
-   "cats": [
-    "market",
-    "trade"
-   ]
-  },
-  {
-   "title": "2026台北紡織展開展聚焦永續環保",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDeVFuUk94U1RncnRuR3ZtakpIRnVNUDBJTTlWc3plbXppeXFUN1FxQXhOejhCS1Z6M1lzbVlSTXZNRzR5WEY0aWNENy1HeWc4SFpGTzhKZGN5Wm4tc0RJ?oc=5",
-   "date": "2026-10-06 13:48",
-   "cats": [
-    "green"
-   ]
-  },
-  {
-   "title": "福懋看紡織景氣有望觸底；明年復甦力道仍有限",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGpZdG53ZVFkTHNKZzBkMEZRZng3LTFKcDBwb3RLWV9qRVdUZ3d2RWt0MXZxRWxFNHdnb24zd3I2QWw1SU5rU0VrMzB4U2tzdm5iY3UxcVByby11c2FrY1JoM1RBVGtobWVwUEhCc3ZQTjl5WV95ZFlBNmhpelQ0bTdZWmw4dVF6bjR5cDVzeHIwZw?oc=5",
-   "date": "2026-10-06 13:39",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡織展30週年聚焦永續環保/機能應用",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGhqWGR6bWswOHVYal9hNlNUSWNOWVpzYW1kV3JRbUh4dmp5ZlJ1NHA5WnBYZy0yT0pvb3BiTFNQOU9FWVBKV3pxdGV3Rk1WbldlcHYzak1iTi1ucmowdEwtTzlhSUl4NkJ0UkJFNHAxTlY5OFIzanhQMEo2cTl3S2lxYlgzSkJMLWNvREdzSnlNQQ?oc=5",
-   "date": "2026-10-06 12:27",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "《塑膠股》台化董座談紡織困局：今年景氣續往下、明年「很難講」",
-   "source": "旺得富理財網",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSzR2cWxuNndLNktKTUFqOXpEOWU5MkIwXzZtVUwybEpwMXIyWHNQUTBQQ1pMRkFSemxTN0JKUjBfeDdJdGQxOWtFV0VPbVZJX0thU0E5bGZNQ3hBbkRpMFhXOENfZTFwZEE?oc=5",
-   "date": "2026-10-06 12:21",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "台北紡織展今登場 AI、淨零重塑全球供應鏈 郭紹儀：台灣迎新機會",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XbHpxaVdXbGNPYS1fUllBQ2h5VlJidnVjaUZVdkdJd1FzQWZZVWNYY2FhMEw2N0RScnNlVExaalBjSktBWEtkN19DTHlacEFYTmtvcmNaYnZyV1gtYUQ40gFfQVVfeXFMT1dsenFpV1dsY09hLV9SWUFDaHlWUmJ2dWNpRlV2R0l3UXNBZllVY1hjYWEwTDY3RFJyc2VUTFpqUGNKS0FYS2Q3X0NMeVpwQVhOa29yY1pidnJXWC1hRDg?oc=5",
-   "date": "2026-10-06 10:41",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "和友紡織前瞻中心強攻產業新藍海",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CdEVqbEFLSlB6WXEwYmNSS1JIMnlkSVo4MVA2dGtCNjNWbGpiMVFOQjE3N1hZbk96dUM4QzRSNXBDZld6dERKbk5BUTlNVWVCSmxodV96ZS1DcTE1YnJv?oc=5",
-   "date": "2026-10-06 03:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "紡織大廠齊聚 展現最新技術與應用 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uc1BPZzVvXzdBN2RsTjFmQ3dzRXBtSDFZSURSTXpCNEFtWEVSX1dncnk5ZzdLR3NLR3BoazFvV1F3WG9JREV5VVJsVm54Wjl3Q19iZVo3aTlIR0k?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "Rudolf 重新定義 紡織從機能舒適到永續價值 | ESG",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5VHktNE9yWkFXdkVjNUJ6SXNKeUQtOTFPNElGN05wamw3Z1ZGOGNXRGtvcFRab0p2ak1DLTZRblZMUFJNRFNlN25kcnN6XzhLbVJmLTY5ZWlPZw?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "東和紡織因應機能永續趨勢 展現產製優化完整實力 | 產業動態",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kbmVsNkkxdHJqUkVtbVdtUUdzNUIxUEotWndmbEN2aWJOREllR0Q1WWhUX2JadG16X1M5MnNzZEpFMEtHMUxxNEdmRy1JdTItek1YZTVpMW9tcGs?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "台北紡織展秀綠色創新能量 全球產業鏈匯聚TITAS",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FbmxrQTRoZTVzMXZRQWdkNXgxbTJtajg3RmwxN3Mwc0tGQW1Uc1d5b3Q1UTZScEFJSjU3c185OHNNRUZSLVdTTTZEaklSZGlkZ0pfX0N6Vnl0dw?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "OGD泰鋒染化攜德國Rudolf 打造紡織業可衡量價值綠色永續硬實力",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mZlgwUkNrbjVtRVhCdURiSVVLdWJSc3ZSWUtPd0hpQmRWbEtYcWdZWmppVVprQXhpbXl2OXN3WmVXVmF5akxDRUtyRG1ZTklXX2FMaVdiUy03QQ?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "market",
-    "green"
-   ]
-  },
-  {
-   "title": "〈台北紡織展〉南亞三大特色產品亮相 聚焦高機能、舒適及創新永續纖維",
-   "source": "鉅亨網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3NnVyT0J2MlQya0pDTGtIUk5fY2RVM19zS25LWDRoS2FxV2hyQ3VJX1BTamhtU3NRdE1ZU3MwRGtVN0dVa3RWSEdfeFRyWDg?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "tech",
-    "green"
-   ]
-  },
-  {
-   "title": "南亞紡織展聚焦機能纖維今股價漲停寫新高- 財經新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVlqSUlEMDdyR2xDaHk2NThpVTRCSjI4SjlMVHl5WXJuQ0c1X2E0Q3gzbnBRMUVWUlBxSnlIUkFtbm5MMFJqSWNVa2F1SWdya3UxTGJNeTl6eVFBbWF2cm1TNGFKeVA5WC1BY2sxeUxtYl9JY0p0UXVKTVNXZXQ2R2FDMHg5Zi05WmlZ?oc=5",
-   "date": "2026-10-05 15:00",
-   "cats": [
-    "stock",
-    "tech"
-   ]
-  },
-  {
    "title": "湛珈新廠一站式服務 成衣2小時定稿 | 產業動態",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ROTBQY3ZqZWNPRndISkQtSWQ3enRGbWNxeXRCNGFzbUFOZnN5NWNrSE0tN2lDRExPRUJEZEg0c1o4dGxlRzdBeWVaLWVmSTNEZHF1VVlhZnFEUk0?oc=5",
    "date": "2026-10-05 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "美日客戶拉貨強！「老牌紡織廠」Q3營收94億元創6季新高 訂單看到年底、全年營運拼超越去年",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNWmQ3cFZ1TDZMZUdtR25ROWY0RmhSRkRVcVAxWjZXeG1NQkRKbW9sU3gyZjhVdzhCOXFfdnRfSEZCRFlfMjBOME45WVhTMW5tdGdnTnBidUhfTVZ6NlU0VXBUbnRTT1Y0TlRyNERnYW9PMjdMNC1YR2NQcE0tTUVsek9yTHMtQWd4RVAtU3hsZi12ajdEQXFXV3JYZTRmUVJmQ3hqYnliQ250RUpzMFFzT2dXVkJIQmNqRkNUSEs0YWE4Z3gtUHk5LU4wdzlsQ05nZEY4UVdnd044Wm1tZnF3eFBDX1Y2ZUJCd3NOTUNwa3hhbURvbGZwLVRxMWRuWDdyOG42MThWa1pJYldoZmxRSXUzMm1sWlhpLUtTbTlIYmg0cnVmODVxVDllRUtJcE02dmljbmdpcnFBaXZOcUc0LUlWWVZyMmhyR2w3UEhtX285SDU2TmNaNURwdmN2NVVPWGkwMTRqc19JRGE3T2pMTDhocEtWWFRVSEE5QkxNUVJmWm41VmtvbzE0d2Rha05pOTZWUGZ3Q1BCQ20wbk5MM2ZWSURsUXJEWGlEZ3U1ejVEOXlwRGd3Q1lqUlhHaVB5YWgxT2tKV0plZHhPUkRfaEJBUmdwUTdzY1lQQXR1bWJua1BnMGw0RUlPV1ZPMlRUWXNUeGpsRDJLN0xMenpsNXRQbk91M1FtN0ZV?oc=5",
-   "date": "2026-10-03 15:00",
-   "cats": [
-    "market",
-    "stock"
    ]
   },
   {
@@ -499,15 +153,6 @@
    "cats": [
     "stock",
     "trade"
-   ]
-  },
-  {
-   "title": "複合再生韌帶 推動材料與紡織技術跨入高階醫材",
-   "source": "Industrial Technology Research Institute",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzFWblVXMHd0ck5TSXRkQUVLOEM2Q2N3aC1OVGVFWXlPekhNZ245Wlo2SmtFTFM4bUlYZ0t2YnQxbS1FQzZYbER5MnpaUHY5aWdodFVOcmo3MHJpWGFDSUlMejlZbDhPOGMwVW1BS2NHN01LTko2LUN4VzJyOWc0MkJZMEtwR1E1V1ROWjdwenFZT3VVMml6TXdUVUZYaVFSem1fRWNpREV2ZS11Z2hZY3FnUDFFN21yME1LdHNSUQ?oc=5",
-   "date": "2026-09-29 07:45",
-   "cats": [
-    "green"
    ]
   },
   {
@@ -527,16 +172,6 @@
    "cats": [
     "market",
     "trade"
-   ]
-  },
-  {
-   "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
-   "date": "2026-09-24 15:00",
-   "cats": [
-    "tech",
-    "green"
    ]
   },
   {
