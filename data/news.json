@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-22T17:23:24+08:00",
+ "fetched_at": "2026-10-22T17:59:44+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -142,6 +142,15 @@
    "cats": [
     "market",
     "trade"
+   ]
+  },
+  {
+   "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角",
+   "source": "自由時報",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo?oc=5",
+   "date": "2026-10-09 23:58",
+   "cats": [
+    "stock"
    ]
   },
   {
@@ -513,7 +522,7 @@
   },
   {
    "title": "台北紡織展三十週年聚焦永續環保/機能應用/智慧製造",
-   "source": "MoneyDJ",
+   "source": "MoneyDJ理財網",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnVJRFlSVHhMdkt6NjNaVDlkTmYzU0VYeFhkeHI1VzVodVIwa0JNQVp5aUJwcG11SVQ0cFREN0JWSDFmUmxJOElVYXpGazlwRTZTVmJDalFBSlowTDRBWnU3TGM5ZDJnRVdLaG9rMndvenNfMkprREozQWRaWkJRbnJveG5ZZDdXclVpSXYwVEc5Zw?oc=5",
    "date": "2026-09-24 15:00",
    "cats": [

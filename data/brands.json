@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-22T17:23:26+08:00",
+ "fetched_at": "2026-10-22T17:59:46+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -222,16 +222,6 @@
    "source": "The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ3RobmFNdzhXaUtPN0I1OE9nWjBtVEJCc0NpMnkyU1RKbzkzWkhYR25YM0tYU1R2ZWlwZXgyaGtDMk5YTEJkX0Y1QmEtaGZMVTdjNDY2VnQ3YlhUX2ZnRV9IYXJTNFU0Y19uM0htTHVDMGhTaGhjUmJzeUdaTE5jSnhSSTRJOXBLdF9qQkVqQmxjbG1DdlE?oc=5",
    "date": "2026-10-22 02:15",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "lululemon's Americas Sales Slump Deepens Turnaround Concerns",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEc3eHdzd0piWE1QWGFjaGgwTVRRYWREU0dGT2lzc2V0bEhpeV9KZTk2cVl2Yy0tX0ZVMVBQZmMyTXRzclJrVFh6d2YxREVyUjZCVGYwY0NuUGVDRE52M3ZqcUdTOHhQZkJJZDc0VFFteU5VUTBFaEdFZFFTZm9CdnNUSlFscFlIbFdYMThSNk13UHhqZnY4OFZIMldzY3dGLUV1cnVBaw?oc=5",
-   "date": "2026-10-21 22:00",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -536,6 +526,16 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
+  },
+  {
+   "title": "【Style Story】成功創造慾望、帶動銷售，Zara是如何成為全球市值最高的時尚品牌？",
+   "source": "GQ Taiwan",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNHNjZTRoOTRVSENlRDF6RzVjQ1QzQzlPMC13Nlp3U1dUUlFqOHJoeHowTXQ1UkdEbG9oQnpxMVNib2xTSUJPR1RleFB0enBXY28zejF0UW1uQQ?oc=5",
+   "date": "2026-10-03 15:00",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
   },
   {
    "title": "曾經的鞋王 Nike 市值重挫 8 成、3 度裁員！過去的成功卻是今日的致命陷阱，它輸在哪？",
