@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-22T14:10:08+08:00",
+ "fetched_at": "2026-10-22T17:23:26+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,16 @@
  ],
  "items": [
   {
+   "title": "Swooshing into China: Nike CEO discusses the global power of local creation",
+   "source": "China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5SzVWOWdNOU1BekNSZUtCWGQzbnFPMmdGWnhVWTYxVEM3QkpvYmREcnpfTjYwMnVYbnl6QUJsdUhTMFlFOU5SeXFRU1J1T3UwSDg0dm5mV0F3UGMyR1lQQnlkY3h4XzVCa24yR0ZrMjk5S1ZlajFaR2JGNDM2UQ?oc=5",
+   "date": "2026-10-22 14:35",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "赴日買UNIQLO划算嗎？日本宣布下月「最高漲價34.5%」達人揭2大省錢關鍵",
    "source": "民視新聞網",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaSjJUOEh6M1VyQjFmR2owREJsVU9sOUVtTThRR3ZkSTFKTWlRellScEVwaUhlYmhocUFnUHhaWklMLUY0T2MydVY3aTE2YTB6c2x6VWNUTGpVNXRGa3NmbQ?oc=5",
@@ -298,10 +308,10 @@
    "region": "apac"
   },
   {
-   "title": "Adidas Lifts Outlook on Robust Demand for Apparel, Sports Gear",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZJeTU1MUxtNVdhMlRrZklvdV9UNmJrd2tTdFFyVHl1Nm5QQ0lReEg0S2NOZ2FISndDYXBmLUVGY1ZBekRoZmtYZ3prYmI0QkVuSDFmTUVpZzRaVVp5VVozQmNHd203LVowUmt0azUyeDBWeHI5RmpxY2E1VTg2TEFhTWVLWmtpQkduX1NvaVptRjh3WmhXVTZ3c1llTURDTF9EZ1J4alk0N0FyUkpKRXhB?oc=5",
-   "date": "2026-10-21 15:04",
+   "title": "Adidas raises profit forecast after record quarter",
+   "source": "FashionNetwork USA",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWtvb2RaNV9Md18tVUV2a1R1cjlYTGZRbXRJVWJicS1zd3dpNUk3Rm10Y3FuVG1sN2xLVm1yUGlMYXRKZHFlSS0yOUsxVHNaVUptcXlZUWdKSk1Hdk1PZlRDakFILTRsSGliMzkzTzRpTWgxd1hXRG45d2pmejl5d0V5ZXY5WjR0VURMcFh4UjdPNkYyb1ZWejR5elJ0VTg?oc=5",
+   "date": "2026-10-21 14:58",
    "lang": "en",
    "brand": "adidas",
    "brand_name": "Adidas",
@@ -488,16 +498,6 @@
    "region": "apac"
   },
   {
-   "title": "Nike財測不妙！全年營收慘摔、盤後重挫近9% 1台廠恐掉單",
-   "source": "TVBS新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYUoxaUNJUENyODBUaEk1bGF5X2NpSVYxcHRtYnNJSFRhVUpYbUl3RFlORzA5dWg1UUtlWlFjcmNfbUNBOXVGQ01mTndWMEk?oc=5",
-   "date": "2026-10-04 15:00",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE9JeTIxdm1kT2d4MVlWZGZZT0h3ZU1XV2FYVUF3SDZ2OFVISU9xVjVfdHBfYUJ1Z2l4LUdYVVlxeWdteEtFMTRGdGxUMkpfUUk2dVU3d01uV0NSLUtLUmYtWnhTSjgxZmhDRDZ6TFBSUkFwZ29GTUpaQkxBR3NsRlZEY2ZIUFBCU1pPTlVTb1VaU0xiUktueVp1b19BMjRRUkptZUk2RVkwNDBILXFic3gxVXFqRy1HTWZyNFR3?oc=5",
@@ -536,16 +536,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "【Style Story】成功創造慾望、帶動銷售，Zara是如何成為全球市值最高的時尚品牌？",
-   "source": "GQ Taiwan",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNHNjZTRoOTRVSENlRDF6RzVjQ1QzQzlPMC13Nlp3U1dUUlFqOHJoeHowTXQ1UkdEbG9oQnpxMVNib2xTSUJPR1RleFB0enBXY28zejF0UW1uQQ?oc=5",
-   "date": "2026-10-03 15:00",
-   "lang": "zh",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
   },
   {
    "title": "曾經的鞋王 Nike 市值重挫 8 成、3 度裁員！過去的成功卻是今日的致命陷阱，它輸在哪？",
