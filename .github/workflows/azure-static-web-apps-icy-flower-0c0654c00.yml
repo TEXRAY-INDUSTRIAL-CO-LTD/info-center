@@ -8,10 +8,20 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+  workflow_run:
+    workflows: ["更新資料"]
+    types: [completed]
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   build_and_deploy_job:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    if: >-
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
+      (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     permissions:
@@ -20,6 +30,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || '' }}
           submodules: true
           lfs: false
       - name: Install OIDC Client from Core Package
@@ -44,6 +55,7 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: "" # Built app content directory - optional
           skip_app_build: true
+          production_branch: "main"
           github_id_token: ${{ steps.idtoken.outputs.result }}
           ###### End of Repository/Build Configurations ######
 
