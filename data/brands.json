@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-22T17:59:46+08:00",
+ "fetched_at": "2026-10-22T18:04:26+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -168,6 +168,16 @@
    "region": "americas"
   },
   {
+   "title": "《熱門族群》愛迪達營運衝高調升財測！「5台廠供應鏈」獲利大進補",
+   "source": "富聯網",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUltaUNQX1djVFZaVHczVjVjU1dudFJLYnVzdFRPbUIyMzRsSDlOakRKdkF3b1FPWG45Q1pDQ0Y0ZUk5WkpKd2QzU3RWN3l2ZkxHcGdQc0RHZ0hwZkJTWkpuYUYwWXdXN2VBUno2Xzk5Rkd4a1d3bXRJMENuUmhUaV9TdWhudE40?oc=5",
+   "date": "2026-10-22 13:43",
+   "lang": "zh",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "赴日買UNIQLO划算嗎？日本宣布下月「最高漲價34.5%」達人揭2大省錢關鍵",
    "source": "民視新聞網",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaSjJUOEh6M1VyQjFmR2owREJsVU9sOUVtTThRR3ZkSTFKTWlRellScEVwaUhlYmhocUFnUHhaWklMLUY0T2MydVY3aTE2YTB6c2x6VWNUTGpVNXRGa3NmbQ?oc=5",
@@ -228,6 +238,16 @@
    "region": "americas"
   },
   {
+   "title": "阿迪達斯發布意外財報後上調業績指引，股價上漲",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KLUhzYy1ibExtLW1DY3FPSEw0aWlFSWQ2NjUxVk5Rb3owZkI0cTZ3WmNlMTFsTmxzX2xEbjJEVzZBY2RlMHJRTGdLemUzLVZ5alVfQUJkWlR1LXpUaEx6dVFFUE1GaGRxQ0lpQV9CSjVoTEo0bmc0?oc=5",
+   "date": "2026-10-21 20:16",
+   "lang": "zh",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "愛迪達搶先公布Q3財報！初估營收年增9％衝2652億創高 全年獲利再上看915億",
    "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qQ2dHYXlaU1pVRnNmdk9VU0JUT0hMU3dmQnU5eUFuZVpLeWRGT0NfSkk5cktDMHAwZ21TeU9CU0NlX1E4cEVzVS1qRQ?oc=5",
@@ -246,16 +266,6 @@
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
-  },
-  {
-   "title": "Adidas shares rise as strong third quarter drives 2026 guidance hike",
-   "source": "The Mighty 790 KFGO",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UY0t3WkRyODhvQ3ZqMWRsWnoxcWZOcjYwY1ZjZXg2cnZuLWxqNE1PaWlpVFdoNU9mT0otSk1hbHc4NDBkdkppNjRCQmd6MTlIbDc1SU45SU5YMWVJRTk0ekpMLVV5VFM4XzVHMDZ4cjlfa082NzRUNm14TXM?oc=5",
-   "date": "2026-10-21 18:21",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
   },
   {
    "title": "Anta Sports Products Logs Q3 2026 Anta Brand Retail Sales Mid-Single Digit Negative Growth",
@@ -385,16 +395,6 @@
    "lang": "zh",
    "brand": "muji",
    "brand_name": "MUJI",
-   "region": "apac"
-  },
-  {
-   "title": "UNIQLO歐美營收首超大中華區！從基本款到年輕人搶買，為何「不追潮流」反而贏？",
-   "source": "數位時代",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHFNYXplR21uQ3pobzU1QmhxVnJDY3Q4ZWpUYXV4Ny1oUTJMTkFKdDdYeU54ZkxHT2Q4XzhJTTE5QmxuQUY2dlh6cUtkTmJjQ1Jhb3BpalRzcjg0Wkk3V1BpVklBRE1WWVBBWlVlMGc2NTlGbXEySzZZMUxyU2pWLTE3OA?oc=5",
-   "date": "2026-10-13 15:00",
-   "lang": "zh",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
   },
   {
