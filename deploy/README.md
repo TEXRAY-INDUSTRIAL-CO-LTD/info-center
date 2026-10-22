@@ -3,7 +3,7 @@
 網址:`https://trcom.texray.com/info/`
 
 ```
-GitHub Actions(每天產生資料)
+GitHub Actions(每天產生資料;由伺服器準時觸發,見第四節)
         ↓  伺服器工作排程每小時一次
 update-info.ps1:下載 repo 壓縮檔 → 檢查 → 同步到網站資料夾
         ↓
@@ -71,6 +71,60 @@ trcom.texray.com 上的 UOF 本身就是用 IIS Windows 驗證(AD 網域帳號)�
 記錄檔:`D:\WebSites\_deploy\update-info.log`。任何一步失敗都不會動到網站資料夾,網站維持上一次的正常版本。
 
 同步使用 `robocopy /MIR`,`D:\WebSites\info` 內不屬於 repo 的檔案每小時會被刪除,**不要在裡面放其他檔案**。
+
+## 四、準時觸發資料更新
+
+GitHub 的 cron 排程不保證準時,2026-09 起 09:23 那輪常拖到 14:00 以後才執行
+(8/31~9/11 只晚幾分鐘,同一份設定之後變成晚 4.5~6.5 小時,也曾整天跳過)。
+手動觸發(workflow_dispatch)不受排程器影響,所以改由這台主機準時呼叫 GitHub API:
+
+```
+工作排程 TEXRAY-InfoCenter-Trigger(週一至週五 09:23、16:47、18:43)
+   └─ trigger-update.ps1:觸發「更新資料」→ 等它跑完 → 呼叫 update-info.ps1 立刻同步網站
+```
+
+workflow 裡的 cron 保留當備援:這台主機沒開或權杖過期時,仍會有遲到的那一輪,
+網站也仍由每小時一次的 update-info.ps1 補上。
+
+### 1. 產生權杖(fine-grained personal access token)
+
+用**對 info-center 有 Write 權限**的 GitHub 帳號登入 → 右上頭像 → Settings →
+Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token:
+
+| 欄位 | 設定 |
+|---|---|
+| Token name | `trcom-trigger-update` |
+| Resource owner | **TEXRAY-INDUSTRIAL-CO-LTD**(不是個人帳號) |
+| Expiration | 依組織政策,建議 1 年;到期日記在行事曆 |
+| Repository access | **Only select repositories** → `info-center` |
+| Permissions → Repository | **Actions:Read and write**(Metadata: Read 會自動加上),其餘一律不開 |
+
+產生後只會顯示一次,直接貼到下一步,**不要存成檔案、不要貼到聊天或郵件**。
+若組織設定要求核准,權杖會顯示 *pending*,需組織 Owner 到
+組織 Settings → Personal access tokens → Pending requests 核准後才能用。
+
+### 2. 安裝
+
+以系統管理員身分開 PowerShell:
+```powershell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+$base = 'https://raw.githubusercontent.com/TEXRAY-INDUSTRIAL-CO-LTD/info-center/main/deploy'
+Invoke-WebRequest -UseBasicParsing -OutFile D:\WebSites\_scripts\trigger-update.ps1 -Uri "$base/trigger-update.ps1"
+Invoke-WebRequest -UseBasicParsing -OutFile D:\WebSites\_scripts\install-trigger-task.ps1 -Uri "$base/install-trigger-task.ps1"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File D:\WebSites\_scripts\install-trigger-task.ps1
+```
+安裝腳本會:詢問權杖(不顯示)→ 先向 GitHub 驗證 → 存到 `C:\ProgramData\TEXRAY\github-token.txt`
+(只有 SYSTEM 與系統管理員可讀;刻意不放在 `D:\WebSites` 底下)→ 建立工作排程 → 詢問是否試跑。
+
+試跑後看 `D:\WebSites\_deploy\trigger-update.log`,出現「已同步到內網網站」即成功;
+GitHub Actions 頁面也會多一筆 `workflow_dispatch` 的「更新資料」。
+
+### 3. 日後維護
+
+- **換權杖**(到期或外洩):在 GitHub 刪掉舊的、產生新的,重跑 `install-trigger-task.ps1` 即可。
+- 改觸發時間:`install-trigger-task.ps1 -Times '09:23','16:47'`(會覆蓋舊排程)。
+- 記錄檔結果:`已同步到內網網站` = 正常;`注意:有來源抓取失敗` = 部分來源失敗(其餘資料已更新,GitHub 會自動開 issue);
+  `觸發失敗(401)` = 權杖過期;`(403)` = 權限不足或組織未核准;`(404)` = 權杖沒授權 info-center。
 
 ## 常見問題
 
