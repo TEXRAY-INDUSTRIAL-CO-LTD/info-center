@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-10-22T18:04:26+08:00",
+ "fetched_at": "2026-10-22T18:43:27+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -268,6 +268,16 @@
    "region": "apac"
   },
   {
+   "title": "Adidas shares rise as strong third quarter drives 2026 guidance hike",
+   "source": "The Mighty 790 KFGO",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UY0t3WkRyODhvQ3ZqMWRsWnoxcWZOcjYwY1ZjZXg2cnZuLWxqNE1PaWlpVFdoNU9mT0otSk1hbHc4NDBkdkppNjRCQmd6MTlIbDc1SU45SU5YMWVJRTk0ekpMLVV5VFM4XzVHMDZ4cjlfa082NzRUNm14TXM?oc=5",
+   "date": "2026-10-21 18:21",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "Anta Sports Products Logs Q3 2026 Anta Brand Retail Sales Mid-Single Digit Negative Growth",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbktYN1JyaUhteXBPYlF2SUtvOTAtNDZ1djRZUnQ4cHh0SGZPUlJudVViaFdhWkVVenlwSnZpdThERFQwUkNsMzI2THIzMkFJcEpoWmNBaVdjc1Ewemk1NlZfRTY5ZWhNOXhwbzJLY1l3WFlXV01SV1plRFBQNEhJLWZOODd3VFZzUG14M296Wks1RjJYVWdTTS1ZRWhrQkh3WUg3RllwTGdvb2tFdERBUFNNcEp6em9zUktrajlWejJLelJlLVlsV1dGdmZFbGw0MG9rN042WXV6ZGc2d1FZR0F0c0RvNUZ2MS1wVnJpSUl6QQ?oc=5",
@@ -306,16 +316,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "Adidas raises profit forecast after record quarter",
-   "source": "FashionNetwork USA",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWtvb2RaNV9Md18tVUV2a1R1cjlYTGZRbXRJVWJicS1zd3dpNUk3Rm10Y3FuVG1sN2xLVm1yUGlMYXRKZHFlSS0yOUsxVHNaVUptcXlZUWdKSk1Hdk1PZlRDakFILTRsSGliMzkzTzRpTWgxd1hXRG45d2pmejl5d0V5ZXY5WjR0VURMcFh4UjdPNkYyb1ZWejR5elJ0VTg?oc=5",
-   "date": "2026-10-21 14:58",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
   },
   {
    "title": "日本UNIQLO下月漲價！熱門款漲25%　台灣跟不跟官方回應了 | 財經 | CTWANT",
@@ -395,6 +395,16 @@
    "lang": "zh",
    "brand": "muji",
    "brand_name": "MUJI",
+   "region": "apac"
+  },
+  {
+   "title": "UNIQLO歐美營收首超大中華區！從基本款到年輕人搶買，為何「不追潮流」反而贏？",
+   "source": "數位時代",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHFNYXplR21uQ3pobzU1QmhxVnJDY3Q4ZWpUYXV4Ny1oUTJMTkFKdDdYeU54ZkxHT2Q4XzhJTTE5QmxuQUY2dlh6cUtkTmJjQ1Jhb3BpalRzcjg0Wkk3V1BpVklBRE1WWVBBWlVlMGc2NTlGbXEySzZZMUxyU2pWLTE3OA?oc=5",
+   "date": "2026-10-13 15:00",
+   "lang": "zh",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
   },
   {
@@ -486,6 +496,16 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
+  },
+  {
+   "title": "Nike財測不妙！全年營收慘摔、盤後重挫近9% 1台廠恐掉單",
+   "source": "TVBS新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYUoxaUNJUENyODBUaEk1bGF5X2NpSVYxcHRtYnNJSFRhVUpYbUl3RFlORzA5dWg1UUtlWlFjcmNfbUNBOXVGQ01mTndWMEk?oc=5",
+   "date": "2026-10-04 15:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
