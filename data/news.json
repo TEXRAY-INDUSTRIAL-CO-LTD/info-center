@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-10-23T21:49:42+08:00",
+ "fetched_at": "2026-10-23T23:29:04+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,15 @@
  ],
  "items": [
   {
+   "title": "大學研發紡織觸屏 全球首個",
+   "source": "on.cc東網",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXh3ZnF4eFBJVEhuU2M1NzZMT3hZYzBibVZUM1FKSTRrSVFRdENmd1NvTjRRaVNWWDZhV0R1MGxoS3EwQU03YWpRMENvcmlHTjZvUENDM0tLR193VXM3VUg5bUkwQXRqb0xKdVBWZlRKMGJMRE5IR1U3S1lJVXZwRUVUSERFYUJPUTlyOTZ0MA?oc=5",
+   "date": "2026-10-23 19:34",
+   "cats": [
+    "tech"
+   ]
+  },
+  {
    "title": "中國低價競爭夾擊 台灣紡織業靠研發創新突圍",
    "source": "大紀元",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUXRXWmhUdlQxMFgxNlBKNjNyZmxIR3NrREFqdE5HM1psY2J4dF9EV3JzTk9PekZtLV9tZUVpdERhcUlxTm9DeFhkb29INDdhYmYtUW9LZjlQenJJN2M5cGpn0gFnQVVfeXFMTUp1UXA4Q0xXOVdqTngzYmI1RlQxSGp2NklXNjlBYnJnekIzRHJ5Y0tmTEJyRGZTZ0JLeWdhTmNMV0lzSzFLTHNPREtQX3M1VEtsa0tlclhwd1BpaWR5TmZOMFlYRlVKdw?oc=5",
@@ -51,12 +60,30 @@
    ]
   },
   {
+   "title": "成衣供應鏈的人力壓力：緬甸缺工、印尼裁員通報、柬埔寨加薪2美元",
+   "source": "墨新聞-MORE News",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZN3NmSzdyc0RFdXRlX1pXei0yMWZORXZIZUxZT21UaHVOV1hRMC00d1F0V3dCcnBUSHhIZHdjN2YxUQ?oc=5",
+   "date": "2026-10-19 03:58",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
    "title": "紡織業不只拚低成本！遠東新、新纖、聚陽新產能到位 第4季誰有看頭？",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1taWVvYWd6UXpVMXFWaENkQkJ2QTdyZmlzS2NpTmpPZkxSeUhMcExqZzhUeVdPTjhmTVZyc3RvRXBxajRleHloXy16Uk5KZTJMZ09iclJMbG0yOGNTMmcw?oc=5",
    "date": "2026-10-17 03:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "聚陽實業供應Gap、Zara等國際名牌揭秘成衣供應鏈實力- 生活新聞",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGdLNzYtQWpaeGZieVhqZXFHVHhUb2xMcm9HZDFCNERYeWlEOHhpWW5MNkNQMTFaay1JQ1ItZXRGaWJDNGpDZXBRTDdHYTJ3Y2d1cjBMQ3AzN194Tk1FemxCdFBvRUxjOXRvaDhfRlpjeWZNaFhXVmlyeDFyZ3R5ZG1nR241c0o1Vjcw?oc=5",
+   "date": "2026-10-16 11:43",
+   "cats": [
+    "trade"
    ]
   },
   {
@@ -67,6 +94,16 @@
    "cats": [
     "tech",
     "green"
+   ]
+  },
+  {
+   "title": "【11:07 即時新聞】儒鴻(1476)盤中走強，市場聚焦成衣訂單與獲利成長",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYy0wRnJwcm9QNk9CQ09ZNVNWY3JXUVE0eFE5bHlDTWZNLUNhMHIzSzh0U0Z0dzJHbkw5VkwydWNSMllMekFCN1pxblZ1cmllMm83QnN5WFFkSGt3a1JENENScDVYSDY4WDh4VnlFUlR5VXprN2YwVkNFMVF1QklGZTV6RzZKZUpsSFNyRmpn?oc=5",
+   "date": "2026-10-15 11:08",
+   "cats": [
+    "market",
+    "stock"
    ]
   },
   {
@@ -89,6 +126,16 @@
    ]
   },
   {
+   "title": "孟加拉成衣業悲鳴- 產業特刊- 工商時報",
+   "source": "中時新聞網",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BV01sNXY0WnlROS1BQ1pQLV9mOWxyTkNLcUFCMWFlSEliZEFhdjB0NTdnV0FxNm80OW9pa0duOG1OT2REVVBpUnpsSjB4cG1tdnE2Wm1YdjRnd2pxOEhNcTliZ0FVa1NGeTdB?oc=5",
+   "date": "2026-10-12 15:00",
+   "cats": [
+    "market",
+    "trade"
+   ]
+  },
+  {
    "title": "「循環織路・永續新生活」 通路驅動之紡織循環生態系商業驗證成果",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N0Y2ekp2QW1lSnRvQl9LanJFNFNwRjRVNFJHcWVCVDBlRTdyN2RHRUYyWDVEdWZCY1h4UmJ5dXloMmY5OHVJSU1GckRMS0cyX1BaZGRhbDFWeFZrNEg0?oc=5",
@@ -98,11 +145,31 @@
    ]
   },
   {
+   "title": "2029告別「最不發達國家」！孟加拉告別關稅紅利積極轉型 力拚工業化擺脫成衣依賴",
+   "source": "鉅亨網",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTNHdSZUgxdTZyN2lJYy1lUUVyWnFIaUdBNHRaUUgwU2VLeHgzWThVZ1NvZnZ3Z0FkRW0xck4wajV2bjU3MERFSUVLTUdCT0E?oc=5",
+   "date": "2026-10-11 15:00",
+   "cats": [
+    "market",
+    "trade"
+   ]
+  },
+  {
    "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角",
    "source": "自由時報",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo?oc=5",
    "date": "2026-10-09 23:58",
    "cats": [
+    "stock"
+   ]
+  },
+  {
+   "title": "成衣廠迎旺季Q3營收剽悍",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zRzFhdFQ1RWdxODJTSG5sVFVBODc5bHdBRFVHUC1XRV8tRGN3ZWZqZE9ZRWJtdVlFX2tfSllWLUJCQ2ZHeVFsMTlYdWprVG5IU2hVczI5Y2hsYnM1MWNJ?oc=5",
+   "date": "2026-10-09 03:00",
+   "cats": [
+    "market",
     "stock"
    ]
   },
@@ -426,6 +493,16 @@
    ]
   },
   {
+   "title": "急單效應助攻成衣供應鏈！品牌廠短交期需求推升單價，聚陽前三季營收翻正-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODN3eXQtc1A0SEFVSkRYM09kb0c3WndEZTg1NnM1OWhwdzlXLUplckFBMnB4NnJUZFpscUhvOF9rODR1Wi1nRXZiRW9WX0dvaWpOZWNVUWtoZVZVRFcxODlFX2VVcC1scVVMV1BFNm5uZHpEVER5NVMtU21aanF1aVBn?oc=5",
+   "date": "2026-10-02 15:00",
+   "cats": [
+    "stock",
+    "trade"
+   ]
+  },
+  {
    "title": "《商情》利好因素增 09/28美棉微彈",
    "source": "富聯網",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2JRbVpFNGJhamRqVmlvS0FfMWZnQVNoOHBwRzlybjhUc3RnQlJMZmlveFFueC1Hb2w5TDE3U1Ffd0hwTWRMQXBqMUxoa2hpc3hINzdDa3Rxd0x1aVdUVU1XTFJBc0NOZUQ1OThXSFBQVkxsLVhJTjhZWWdfRG1jbWpyUHpyMmxj?oc=5",
@@ -441,6 +518,15 @@
    "date": "2026-09-29 07:45",
    "cats": [
     "green"
+   ]
+  },
+  {
+   "title": "瑞銀：自行車與成衣產業2027年需求可望復甦 看好兩檔台股",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80WjdnNFBFaEF0S0pudTRnMjE5b0lIcmNCV0g4VzVfR2F3dlZRdVZQV0F2NmpKOTNIUW9kdlB6UDJRTV9meFNES1BlQmN1NEE5Q0UtWUF0WHBMZ9IBX0FVX3lxTE9ZX0Z0LUkyeFlGUENiRmpqRElVbjJlczBzLUZBOWRBcjhXbThibkdOVWx6emFYT1lESlNuVTVLb0ZQLW1LXzh5T2lYV0haQ2Z6dmJGRjhjVkJCcnBEQ3Zn?oc=5",
+   "date": "2026-09-27 22:05",
+   "cats": [
+    "market"
    ]
   },
   {
